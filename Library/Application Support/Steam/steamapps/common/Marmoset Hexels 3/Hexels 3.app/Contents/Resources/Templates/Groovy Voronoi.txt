@@ -1,4 +1,0 @@
-Shape Mode:  Voronoi
-Canvas Size:  48 x 48
-
-Textured Voronoi tiles make a groovy pattern!

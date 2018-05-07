@@ -1,4 +1,0 @@
-"AcknowledgedViolators"
-{
-	"profile_hero_stats_violator"		"1"
-}

@@ -1,8 +1,0 @@
-people:yuna,lop,weina
-emotion:angry,happy,curious,sleepy
-class:math,english,gamedesign
-game:mario,stardewvalley,lastofus,godofwar,ff15,dontstarve
-character:#class# the #adjective# #people
-music:blues,jazz,rock,Burning Man
-adjective:#emotion#
-origin:once #character# and #character# play #game# and listening to #music#

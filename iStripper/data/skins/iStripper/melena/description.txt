@@ -1,1 +1,0 @@
-img_left_width=270 ; Width of the left column of the main window.

@@ -1,9 +1,0 @@
-flora_gum_bushes_01.pssg
-flora_gum_bushes_02.pssg
-flora_gum_bushes_03.pssg
-flora_gum_bushes_04.pssg
-flora_gum_bushes_05.pssg
-flora_gum_bushes_06.pssg
-flora_gum_bushes_07.pssg
-flora_gum_bushes_08.pssg
-flora_gum_bushes_09.pssg

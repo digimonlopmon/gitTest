@@ -1,1 +1,0 @@
-img_left_width=275

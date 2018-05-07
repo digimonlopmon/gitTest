@@ -1,9 +1,0 @@
-chunks/w3_1_01000_start.tmx
-chunks/w3_1_02000_intro.tmx
-chunks/w3_1_03000_puzzle.tmx
-chunks/w3_1_04000_action.tmx
-chunks/w3_1_05000_puzzle.tmx
-chunks/w3_1_06000_action.tmx
-chunks/w3_1_07000_deco.tmx
-chunks/w3_1_08000_up.tmx
-chunks/w3_1_09000_end.tmx

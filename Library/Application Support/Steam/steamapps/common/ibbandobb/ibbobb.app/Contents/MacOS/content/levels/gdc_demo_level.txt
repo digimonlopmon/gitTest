@@ -1,5 +1,0 @@
-Chunks/chunk_demo_gdc_01.tmx
-Chunks/chunk_demo_gdc_02.tmx
-Chunks/chunk_demo_gdc_03.tmx
-Chunks/chunk_demo_gdc_04.tmx
-Chunks/chunk_demo_gdc_05.tmx

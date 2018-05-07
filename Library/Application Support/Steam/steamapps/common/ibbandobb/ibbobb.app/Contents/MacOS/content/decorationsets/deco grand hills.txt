@@ -1,9 +1,0 @@
-background_grand_hills_01.pssg
-background_grand_hills_02.pssg
-background_grand_hills_03.pssg
-background_grand_hills_04.pssg
-background_grand_hills_05.pssg
-background_grand_hills_06.pssg
-background_grand_hills_07.pssg
-background_grand_hills_08.pssg
-background_grand_hills_09.pssg

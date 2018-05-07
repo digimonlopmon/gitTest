@@ -1,3 +1,0 @@
-<b>Xmas!</b><br>
-xmas!<br>
-<font size=1>Happy Holidays</font>

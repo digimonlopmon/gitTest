@@ -1,6 +1,0 @@
-res/Levels/Chunks/chunk_k_117_diode_tictac_b.tmx
-res/Levels/Chunks/chunk_k_117_diode_tictac_c.tmx
-res/Levels/Chunks/chunk_k_118_small_well_tictac_a.tmx
-res/Levels/Chunks/chunk_k_119_push_under_stepsl_tictac_a.tmx
-res/Levels/Chunks/chunk_k_119_push_under_stepsl_tictac_b.tmx
-

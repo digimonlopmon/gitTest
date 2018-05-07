@@ -1,2 +1,0 @@
-Chunks/fincity0102.tmx
-Chunks/fincity0103.tmx

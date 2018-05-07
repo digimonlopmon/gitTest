@@ -1,2 +1,0 @@
-chunks/ws_fins_01000_start.tmx
-chunks/ws_fins_02000_end.tmx

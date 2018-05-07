@@ -1,6 +1,0 @@
-chunks/w1_3_09000_action.tmx
-chunks/w1_3_10000_fincity.tmx
-chunks/w1_3_10100_fincity.tmx
-chunks/w1_3_10200_fincity.tmx
-chunks/w1_3_11000_end.tmx
-chunks/w2_1_01000_start.tmx

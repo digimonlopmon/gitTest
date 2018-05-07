@@ -1,5 +1,0 @@
-Shape Mode:  Trixels (Pixel Mode)
-Pixel Size: 1920 x 1080
-Canvas Size: 80 x 45
-
-A large triangular grid for drawing all sorts of pointy and isometric shapes. Perfectly pixelated for a 1080p export.

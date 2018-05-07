@@ -1,5 +1,0 @@
-Shape Mode:  Trixels (Pixel Mode)
-Pixel Size: 256 x 256
-Canvas Size: 32 x 32
-
-A small triangular grid for drawing all sorts of pointy and isometric shapes. Perfectly pixelated for tiny sprites and pixel art.

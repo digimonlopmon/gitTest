@@ -1,4 +1,0 @@
-Shape Mode:  Custom Shape (Circles)
-Canvas Size:  48 x 48
-
-Overlapping circles with size based on color opacity (halftone mode).

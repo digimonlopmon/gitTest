@@ -1,9 +1,0 @@
-12/12 16:44:22.000  GameMain Started
-12/12 16:44:22.000  Command Line: "/Applications/Warcraft III/Warcraft III.app/Contents/MacOS/Warcraft III" --game=w3 --gamepath=/private/var/folders/2p/tdct4ztn2m31bmgf7vs9nm8c0000gn/T/AppTranslocation/B6F06DBC-5140-4CF9-9D80-84EAC76DA8E6/d/ --setlanguage=zhCN -uid w3
-12/12 16:44:22.297  Telemetry Launch Info:
-process_name: "Warcraft III"
-current_expansion_version: "WAR3"
-highest_expansion_version: "W3XP"
-
-
-12/12 16:54:54.975  GameMain Ended

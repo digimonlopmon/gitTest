@@ -1,3 +1,0 @@
-<b>Happy Halloween!</b><br>
-Trick or treat!<br>
-<font size=1>Happy Halloween!</font>

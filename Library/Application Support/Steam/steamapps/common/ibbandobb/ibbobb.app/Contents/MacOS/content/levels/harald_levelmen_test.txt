@@ -1,2 +1,0 @@
-Chunks/w1_1_01000_start.tmx
-Chunks/w1_1_05000_lmen.tmx

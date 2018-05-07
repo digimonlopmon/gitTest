@@ -1,2 +1,0 @@
-chunks/w1_3_10100_fincity.tmx
-chunks/w1_3_11000_end.tmx

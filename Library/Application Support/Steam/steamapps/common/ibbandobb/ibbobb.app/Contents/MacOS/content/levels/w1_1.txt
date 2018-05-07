@@ -1,6 +1,0 @@
-chunks/w1_1_01000_start.tmx
-chunks/w1_1_02000_rain.tmx
-chunks/w1_1_03000_action.tmx
-chunks/w1_1_04000_deco.tmx
-chunks/w1_1_05000_lmen.tmx
-chunks/w1_1_06000_end.tmx

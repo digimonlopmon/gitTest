@@ -1,1 +1,0 @@
-ARPHICPL.TXT is the license for the Chinese font used in Braid.

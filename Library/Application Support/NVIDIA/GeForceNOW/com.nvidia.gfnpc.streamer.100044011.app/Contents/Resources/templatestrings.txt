@@ -1,1 +1,0 @@
-CFBundleDisplayName = "The Witcher 3 Wild Hunt - Game of the Year Edition on GeForce NOW";

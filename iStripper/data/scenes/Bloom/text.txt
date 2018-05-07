@@ -1,3 +1,0 @@
-<b>Bloom</b><br>
-Blobs background with<br>
-bloom effect on the model.

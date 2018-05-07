@@ -1,1 +1,0 @@
-An endlessly evolving maze, featuring wrapping layers and animated transforms.<p>Art by <a href="https://www.artstation.com/artist/monkeyscience">Andres Reinot</a>

@@ -1,6 +1,0 @@
-[00:16:11]: [Death Announcement] shadow was killed by Frog. She became a spooky ghost!
-[00:29:35]: [Resurrect Announcement] shadow was resurrected by Touch Stone.
-[00:42:38]: [Death Announcement] lopmon was killed by Crawling Horror. He became a spooky ghost!
-[00:46:06]: [Join Announcement] shadow
-[01:30:48]: [Skin Announcement] shadow body_sweatervest_brown_beaver
-[02:14:55]: [Leave Announcement] shadow

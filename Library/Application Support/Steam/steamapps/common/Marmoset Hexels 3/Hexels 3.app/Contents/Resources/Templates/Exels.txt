@@ -1,4 +1,0 @@
-Shape Mode:  Trixels (1:2 Aspect)
-Canvas Size:  48 x 24
-
-A trixel grid set up for drawing square &quot;exels&quot;, rectangles sliced twice diagonally into 4 triangles.

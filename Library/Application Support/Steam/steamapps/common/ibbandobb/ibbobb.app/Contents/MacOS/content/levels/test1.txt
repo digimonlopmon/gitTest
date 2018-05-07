@@ -1,2 +1,0 @@
-chunks/w1_1_04000_deco.tmx
-chunks/w1_1_06000_end.tmx

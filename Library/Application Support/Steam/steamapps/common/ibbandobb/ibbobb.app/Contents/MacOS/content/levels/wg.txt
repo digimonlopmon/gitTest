@@ -1,1 +1,0 @@
-chunks/ws_islands_01000_start.tmx

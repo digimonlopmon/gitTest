@@ -1,1 +1,0 @@
-Levels get saved in this directory. Levels only save when you manually save them. That is all. Have fun.

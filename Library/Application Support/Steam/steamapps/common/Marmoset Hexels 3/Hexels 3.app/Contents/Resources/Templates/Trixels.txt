@@ -1,4 +1,0 @@
-Shape Mode:  Trixels (Vector Mode)
-Canvas Size:  48 x 48
-
-A triangular grid and vector art canvas for drawing crisp, isometric shapes at any resolution.

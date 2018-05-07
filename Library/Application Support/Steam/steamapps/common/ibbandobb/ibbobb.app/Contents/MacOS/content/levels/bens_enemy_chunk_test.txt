@@ -1,2 +1,0 @@
-Chunks/glue_test_ben_3.tmx
-Chunks/glue_test_ben_4.tmx

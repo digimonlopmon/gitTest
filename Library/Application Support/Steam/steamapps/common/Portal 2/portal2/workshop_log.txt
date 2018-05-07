@@ -1,7 +1,0 @@
-
-Workshop Log Initiated: (10/23/2016 - 11:57:49)
------------------------------------------------------
-[BaseModPanel] Querying for subscribed files
-[BaseModPanel] Querying for published files
-[BaseModPanel] Queue complete.
-[BaseModPanel] Queue history complete.
