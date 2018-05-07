@@ -1,0 +1,55 @@
+Entry Way
+
+a room with many shelves
+gold
+lead
+poison
+dart
+
+a room with a table
+diamonds
+sword
+
+what looks like a cellar
+emeralds
+knife
+
+a room with a bed
+cat
+
+*****
+Entry Way
+a room with many shelves
+a room with a table
+a room with no window
+what looks like a cellar
+a room with a bed
+
+a room with many shelves
+Entry Way
+a room with a table
+a room with no window
+what looks like a cellar
+a room with a bed
+
+a room with a table
+a room with many shelves
+Entry Way
+a room with no window
+what looks like a cellar
+a room with a bed
+
+a room with no window
+a room with many shelves
+a room with a table
+blocked
+what looks like a cellar
+a room with a bed
+
+what looks like a cellar
+a room with many shelves
+a room with a table
+a room with no window
+a room with a bed
+blocked
+blocked

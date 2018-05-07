@@ -1,0 +1,3 @@
+chunks/test/machinetest1.tmx
+chunks/test/machinetest2.tmx
+chunks/test/test_w3_2_07000_bad.tmx

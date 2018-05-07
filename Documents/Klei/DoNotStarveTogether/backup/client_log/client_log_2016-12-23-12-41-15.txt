@@ -1,0 +1,864 @@
+[00:00:00]: PersistRootStorage is now /Users/lop/Documents/Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 201210
+[00:00:00]: Current time: Thu Dec 22 21:08:47 2016
+
+[00:00:00]: Don't Starve Together: 201210 OSX_STEAM
+[00:00:00]: Build Date: 1434
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Steam AppBuildID: 1534760
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (2956554240)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: ProfileIndex:8.25
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: could not load ping_cache
+[00:00:01]: THREAD - started 'ConsoleInput' (2960789504)
+[00:00:01]: Offline user ID: OU_76561198099348291
+[00:00:01]: SteamID: 76561198099348291
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: Creating window with size 1280x800 at 0x0
+[00:00:01]: THREAD - started 'SDLInputManager' (2962894848)
+[00:00:01]: OSX version 10.11.6
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Intel Inc.
+[00:00:01]: GL_RENDERER: Intel(R) HD Graphics 515
+[00:00:01]: GL_VERSION: 2.1 INTEL-10.14.73
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: 1.20
+[00:00:01]: OpenGL 3.0 not present, detecting extensions the old way
+[00:00:01]: OpenGL extensions (129, 129):
+[00:00:01]: 
+[00:00:01]: GL_APPLE_aux_depth_stencil
+[00:00:01]: GL_APPLE_client_storage
+[00:00:01]: GL_APPLE_element_array
+[00:00:01]: GL_APPLE_fence
+[00:00:01]: GL_APPLE_float_pixels
+[00:00:01]: GL_APPLE_flush_buffer_range
+[00:00:01]: GL_APPLE_flush_render
+[00:00:01]: GL_APPLE_object_purgeable
+[00:00:01]: GL_APPLE_packed_pixels
+[00:00:01]: GL_APPLE_pixel_buffer
+[00:00:01]: GL_APPLE_rgb_422
+[00:00:01]: GL_APPLE_row_bytes
+[00:00:01]: GL_APPLE_specular_vector
+[00:00:01]: GL_APPLE_texture_range
+[00:00:01]: GL_APPLE_transform_hint
+[00:00:01]: GL_APPLE_vertex_array_object
+[00:00:01]: GL_APPLE_vertex_array_range
+[00:00:01]: GL_APPLE_vertex_point_size
+[00:00:01]: GL_APPLE_vertex_program_evaluators
+[00:00:01]: GL_APPLE_ycbcr_422
+[00:00:01]: GL_ARB_color_buffer_float
+[00:00:01]: GL_ARB_depth_buffer_float
+[00:00:01]: GL_ARB_depth_clamp
+[00:00:01]: GL_ARB_depth_texture
+[00:00:01]: GL_ARB_draw_buffers
+[00:00:01]: GL_ARB_draw_elements_base_vertex
+[00:00:01]: GL_ARB_draw_instanced
+[00:00:01]: GL_ARB_fragment_program
+[00:00:01]: GL_ARB_fragment_program_shadow
+[00:00:01]: GL_ARB_fragment_shader
+[00:00:01]: GL_ARB_framebuffer_object
+[00:00:01]: GL_ARB_framebuffer_sRGB
+[00:00:01]: GL_ARB_half_float_pixel
+[00:00:01]: GL_ARB_half_float_vertex
+[00:00:01]: GL_ARB_instanced_arrays
+[00:00:01]: GL_ARB_multisample
+[00:00:01]: GL_ARB_multitexture
+[00:00:01]: GL_ARB_occlusion_query
+[00:00:01]: GL_ARB_pixel_buffer_object
+[00:00:01]: GL_ARB_point_parameters
+[00:00:01]: GL_ARB_point_sprite
+[00:00:01]: GL_ARB_provoking_vertex
+[00:00:01]: GL_ARB_seamless_cube_map
+[00:00:01]: GL_ARB_shader_objects
+[00:00:01]: GL_ARB_shader_texture_lod
+[00:00:01]: GL_ARB_shading_language_100
+[00:00:01]: GL_ARB_shadow
+[00:00:01]: GL_ARB_sync
+[00:00:01]: GL_ARB_texture_border_clamp
+[00:00:01]: GL_ARB_texture_compression
+[00:00:01]: GL_ARB_texture_compression_rgtc
+[00:00:01]: GL_ARB_texture_cube_map
+[00:00:01]: GL_ARB_texture_env_add
+[00:00:01]: GL_ARB_texture_env_combine
+[00:00:01]: GL_ARB_texture_env_crossbar
+[00:00:01]: GL_ARB_texture_env_dot3
+[00:00:01]: GL_ARB_texture_float
+[00:00:01]: GL_ARB_texture_mirrored_repeat
+[00:00:01]: GL_ARB_texture_non_power_of_two
+[00:00:01]: GL_ARB_texture_rectangle
+[00:00:01]: GL_ARB_texture_rg
+[00:00:01]: GL_ARB_transpose_matrix
+[00:00:01]: GL_ARB_vertex_array_bgra
+[00:00:01]: GL_ARB_vertex_blend
+[00:00:01]: GL_ARB_vertex_buffer_object
+[00:00:01]: GL_ARB_vertex_program
+[00:00:01]: GL_ARB_vertex_shader
+[00:00:01]: GL_ARB_window_pos
+[00:00:01]: GL_ATI_separate_stencil
+[00:00:01]: GL_ATI_texture_env_combine3
+[00:00:01]: GL_ATI_texture_float
+[00:00:01]: GL_ATI_texture_mirror_once
+[00:00:01]: GL_EXT_abgr
+[00:00:01]: GL_EXT_bgra
+[00:00:01]: GL_EXT_blend_color
+[00:00:01]: GL_EXT_blend_equation_separate
+[00:00:01]: GL_EXT_blend_func_separate
+[00:00:01]: GL_EXT_blend_minmax
+[00:00:01]: GL_EXT_blend_subtract
+[00:00:01]: GL_EXT_clip_volume_hint
+[00:00:01]: GL_EXT_debug_label
+[00:00:01]: GL_EXT_debug_marker
+[00:00:01]: GL_EXT_draw_buffers2
+[00:00:01]: GL_EXT_draw_range_elements
+[00:00:01]: GL_EXT_fog_coord
+[00:00:01]: GL_EXT_framebuffer_blit
+[00:00:01]: GL_EXT_framebuffer_multisample
+[00:00:01]: GL_EXT_framebuffer_multisample_blit_scaled
+[00:00:01]: GL_EXT_framebuffer_object
+[00:00:01]: GL_EXT_framebuffer_sRGB
+[00:00:01]: GL_EXT_geometry_shader4
+[00:00:01]: GL_EXT_gpu_program_parameters
+[00:00:01]: GL_EXT_gpu_shader4
+[00:00:01]: GL_EXT_multi_draw_arrays
+[00:00:01]: GL_EXT_packed_depth_stencil
+[00:00:01]: GL_EXT_packed_float
+[00:00:01]: GL_EXT_provoking_vertex
+[00:00:01]: GL_EXT_rescale_normal
+[00:00:01]: GL_EXT_secondary_color
+[00:00:01]: GL_EXT_separate_specular_color
+[00:00:01]: GL_EXT_shadow_funcs
+[00:00:01]: GL_EXT_stencil_two_side
+[00:00:01]: GL_EXT_stencil_wrap
+[00:00:01]: GL_EXT_texture_array
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_compression_s3tc
+[00:00:01]: GL_EXT_texture_env_add
+[00:00:01]: GL_EXT_texture_filter_anisotropic
+[00:00:01]: GL_EXT_texture_integer
+[00:00:01]: GL_EXT_texture_lod_bias
+[00:00:01]: GL_EXT_texture_rectangle
+[00:00:01]: GL_EXT_texture_sRGB
+[00:00:01]: GL_EXT_texture_sRGB_decode
+[00:00:01]: GL_EXT_texture_shared_exponent
+[00:00:01]: GL_EXT_timer_query
+[00:00:01]: GL_EXT_transform_feedback
+[00:00:01]: GL_EXT_vertex_array_bgra
+[00:00:01]: GL_IBM_rasterpos_clip
+[00:00:01]: GL_NV_blend_square
+[00:00:01]: GL_NV_conditional_render
+[00:00:01]: GL_NV_depth_clamp
+[00:00:01]: GL_NV_fog_distance
+[00:00:01]: GL_NV_light_max_exponent
+[00:00:01]: GL_NV_texgen_reflection
+[00:00:01]: GL_NV_texture_barrier
+[00:00:01]: GL_SGIS_generate_mipmap
+[00:00:01]: GL_SGIS_texture_edge_clamp
+[00:00:01]: GL_SGIS_texture_lod
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:01]: GL_MAX_VARYING_VECTORS not supported
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS not supported
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS not supported
+[00:00:01]: 3 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:02]: Renderer initialize: Okay
+[00:00:02]: AnimManager initialize: Okay
+[00:00:02]: Buffers initialize: Okay
+[00:00:02]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:02]: GameSpecific initialize: Okay
+[00:00:02]: cGame::StartPlaying
+[00:00:02]: LOADING LUA
+[00:00:02]: DoLuaFile scripts/main.lua
+[00:00:02]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]: running main.lua
+	
+[00:00:02]: loaded modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: LOADING LUA SUCCESS
+[00:00:04]: PlayerDeaths loaded morgue	833	
+[00:00:04]: PlayerHistory loaded player_history	473	
+[00:00:04]: bloom_enabled	true	
+[00:00:04]: loaded saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: OnLoadPermissionList: /Users/lop/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:05]: OnLoadPermissionList: /Users/lop/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:05]: OnLoadUserIdList: /Users/lop/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:05]: SimLuaProxy::QueryServer()
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:05]: focus gained
+[00:00:08]: [Steam] Auth Session Ticket requested...
+[00:00:09]: [Steam] Got Auth Session Ticket
+[00:00:11]: CURL ERROR: (s3.amazonaws.com) Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[00:00:16]: [200] Account Communication Success (3)
+[00:00:16]: loaded inventory_cache
+[00:00:16]: Logging in as KU_9J9C_2E3
+[00:00:28]: loaded inventory_cache
+[00:00:29]: SimLuaProxy::QueryServer()
+[00:00:34]: CURL ERROR: (d21wmy1ql1e52r.cloudfront.net) Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[00:01:00]: SetDisplayMode
+[00:01:00]: fullscreen==true
+[00:01:00]: WindowManager::SetFullscreen(2048, 1280, 0)
+[00:01:07]: [Connect] OnDirectJoinRequested( '', '-', '76561198328338111' )
+[00:01:07]: [Connect] PendingConnection::Reset(true)
+[00:01:07]: [Connect] PendingConnection::Reset(true)
+[00:01:07]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:07]: [Connect] InternalInitClient <6252898674066488400>
+[00:01:07]: [Shard] Starting shard mode as player
+[00:01:07]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:01:07]: [Connect] Sending ping(s)...
+[00:01:07]: [P2P] Create session: 252.66.13.200|1 '76561198328338111'
+[00:01:07]: [Connect] Punchthrough address is 252.66.13.200|1.
+[00:01:07]: [Connect] Ping 252.66.13.200|1
+[00:01:07]: [P2P] Sent to 252.66.13.200|1 '76561198328338111'
+[00:01:07]: [Connect] Ping 252.66.13.200|1
+[00:01:07]: [Connect] Ping 252.66.13.200|1
+[00:01:08]: [Connect] Ping 252.66.13.200|1
+[00:01:08]: [Connect] Ping 252.66.13.200|1
+[00:01:08]: [Connect] Ping 252.66.13.200|1
+[00:01:08]: [Connect] Ping 252.66.13.200|1
+[00:01:08]: [Connect] Ping 252.66.13.200|1
+[00:01:09]: [Connect] Ping 252.66.13.200|1
+[00:01:11]: [P2P] Received from 252.66.13.200|1 '76561198328338111'
+[00:01:11]: [Connect] Ping response from 252.66.13.200|1
+[00:01:11]: [Connect] Joining server from ping response...
+[00:01:12]: Friends are currently playing in 1 games(s)!
+[00:01:12]: You belong to 84 clan(s)!
+[00:01:48]: [Connect] Got join server response from lua
+[00:01:54]: [200] Account Communication Success (13)
+[00:01:54]: [Connect] PendingConnectionDoConnect to 252.66.13.200|1
+[00:01:54]: [Connect] DirectConnect to 252.66.13.200|1
+[00:01:54]: [P2P] Sent to 252.66.13.200|1 '76561198328338111'
+[00:01:54]: [P2P] Received from 252.66.13.200|1 '76561198328338111'
+[00:01:54]: Connection accepted to 252.66.13.200|1 <48925604256056308>
+[00:01:54]: Network external address discovered: 238.29.193.188|1
+[00:01:54]: SendClientHandShakePacket "pgs-sing^KU_9J9C_2E3^DontStarveTogether^/GdLPK/A8DP6dXeqGeOZhAjfUOg6QC8prAthuEEszvw=" to <48925604256056308>
+[00:02:01]: DeserializeHandShakeServerListing
+[00:02:01]: Network tick rate: U=10(3), D=15
+[00:02:01]: Version: 201210
+[00:02:01]: SendClientInventoryHandShakePacket to <48925604256056308>
+[00:03:01]: Begin Session: 1FA34376EE6F19C7
+[00:03:01]: Done Downloading Client Object Data
+[00:03:01]: DownloadMods and temp disable	
+[00:03:01]: Downloading [0] From: server_temp
+[00:03:01]: 0 (35%) 1/1 server_temp/server_save 114000b / 319055b
+[00:03:02]: 0 (71%) 1/1 server_temp/server_save 228000b / 319055b
+[00:03:02]: 0 (100%) 1/1 server_temp/server_save 319055b / 319055b
+[00:03:02]: Download complete[0] Files: 1 Size: 319055
+[00:03:04]: Collecting garbage...
+[00:03:04]: lua_gc took 0.02 seconds
+[00:03:04]: ~ShardLuaProxy()
+[00:03:04]: ~ItemServerLuaProxy()
+[00:03:04]: ~InventoryLuaProxy()
+[00:03:04]: ~NetworkLuaProxy()
+[00:03:04]: ~SimLuaProxy()
+[00:03:04]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:03:04]: lua_close took 0.06 seconds
+[00:03:04]: ReleaseAll
+[00:03:04]: ReleaseAll Finished
+[00:03:04]: cGame::StartPlaying
+[00:03:04]: LOADING LUA
+[00:03:04]: DoLuaFile scripts/main.lua
+[00:03:04]: DoLuaFile loading buffer scripts/main.lua
+[00:03:04]: running main.lua
+	
+[00:03:04]: loaded modindex	
+[00:03:04]: ModIndex: Beginning normal load sequence.
+	
+[00:03:04]: LOADING LUA SUCCESS
+[00:03:04]: PlayerDeaths loaded morgue	833	
+[00:03:04]: PlayerHistory loaded player_history	473	
+[00:03:04]: bloom_enabled	true	
+[00:03:04]: loaded saveindex	
+[00:03:04]: OnFilesLoaded()	
+[00:03:04]: OnUpdatePurchaseStateComplete	
+[00:03:04]: 	Unload FE	
+[00:03:04]: 	Unload FE done	
+[00:03:05]: 	LOAD BE	
+[00:03:08]: 	LOAD BE: done	
+[00:03:09]: Loading world: client_temp/server_save	
+[00:03:09]: Save file is at version 4.5	
+[00:03:09]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:03:10]: Loading Nav Grid	
+[00:03:10]: Reconstructing topology	
+[00:03:10]: 	...Sorting points	
+[00:03:10]: 	...Sorting edges	
+[00:03:10]: 	...Connecting nodes	
+[00:03:10]: 	...Validating connections	
+[00:03:10]: 	...Housekeeping	
+[00:03:10]: 	...Done!	
+[00:03:10]: ModIndex: Load sequence finished successfully.	
+[00:03:10]: Reset() returning
+[00:03:12]: Attempting to send resume request
+[00:03:12]: ReceiveResumeNotification
+[00:03:12]: Deleting user: session/1FA34376EE6F19C7/KU_9J9C_2E3_/0000000001
+[00:03:20]: Could not find anim [emoteXL_waving2] in bank [FROMNUM]
+[00:03:38]: Movement prediction enabled	
+[00:03:38]: Deserializing tile data (468 x 468)
+[00:04:28]: Locomotor: Waiting for server...
+[00:04:28]: Locomotor: Buffering...
+[00:04:29]: Locomotor: Resumed
+[00:05:20]: Locomotor: Waiting for server...
+[00:05:20]: Locomotor: Buffering...
+[00:05:21]: Locomotor: Resumed
+[00:05:24]: Serializing user: session/1FA34376EE6F19C7/KU_9J9C_2E3_/0000000001
+[00:10:46]: Locomotor: Waiting for server...
+[00:10:47]: Locomotor: Buffering...
+[00:10:48]: Locomotor: Resumed
+[00:13:24]: Serializing user: session/1FA34376EE6F19C7/KU_9J9C_2E3_/0000000001
+[00:14:04]: Locomotor: Waiting for server...
+[00:14:05]: Locomotor: Buffering...
+[00:14:06]: Locomotor: Reset
+[00:14:12]: Locomotor: Waiting for server...
+[00:14:12]: Locomotor: Buffering...
+[00:14:13]: Locomotor: Resumed
+[00:14:17]: Locomotor: Waiting for server...
+[00:14:18]: Locomotor: Buffering...
+[00:14:20]: Locomotor: Reset
+[00:19:19]: Locomotor: Waiting for server...
+[00:19:19]: Locomotor: Buffering...
+[00:19:20]: Locomotor: Resumed
+[00:19:31]: Locomotor: Waiting for server...
+[00:19:32]: Locomotor: Buffering...
+[00:19:33]: Locomotor: Resumed
+[00:21:24]: Serializing user: session/1FA34376EE6F19C7/KU_9J9C_2E3_/0000000001
+[00:22:12]: Locomotor: Waiting for server...
+[00:22:12]: Locomotor: Buffering...
+[00:22:16]: Locomotor: Resumed
+[00:22:18]: Locomotor: Waiting for server...
+[00:22:19]: Locomotor: Buffering...
+[00:22:20]: Locomotor: Resumed
+[00:29:25]: Serializing user: session/1FA34376EE6F19C7/KU_9J9C_2E3_/0000000001
+[00:30:12]: [200] Account Communication Success (6)
+[00:30:12]: Received (KU_9J9C_2E3) from TokenPurpose
+[00:30:17]: CURL ERROR: (metric.kleientertainment.com) Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[00:30:51]: Locomotor: Waiting for server...
+[00:30:52]: Locomotor: Buffering...
+[00:30:53]: Locomotor: Resumed
+[00:33:21]: Locomotor: Waiting for server...
+[00:33:22]: Locomotor: Buffering...
+[00:33:22]: Locomotor: Reset
+[00:34:09]: Locomotor: Waiting for server...
+[00:34:10]: Locomotor: Buffering...
+[00:34:11]: Locomotor: Resumed
+[00:34:34]: Locomotor: Waiting for server...
+[00:34:34]: Locomotor: Buffering...
+[00:34:35]: Locomotor: Reset
+[00:37:25]: Serializing user: session/1FA34376EE6F19C7/KU_9J9C_2E3_/0000000001
+[00:41:07]: SAVING Morgue	7	
+[00:44:40]: SAVING Morgue	8	
+[00:45:25]: Serializing user: session/1FA34376EE6F19C7/KU_9J9C_2E3_/0000000001
+[00:50:11]: Locomotor: Waiting for server...
+[00:50:11]: Locomotor: Buffering...
+[00:50:13]: Locomotor: Resumed
+[00:52:38]: Locomotor: Waiting for server...
+[00:52:38]: Locomotor: Buffering...
+[00:52:39]: Locomotor: Reset
+[00:53:25]: Serializing user: session/1FA34376EE6F19C7/KU_9J9C_2E3_/0000000001
+[00:54:58]: Start world reset countdown... 120 seconds...	
+[00:55:16]: LOADING_STATE_LOADING
+[00:55:17]: LOADING_STATE_GENERATING
+[00:55:17]: Serializing user: session/1FA34376EE6F19C7/KU_9J9C_2E3_/0000000001
+[00:55:44]: LOADING_STATE_DONE_LOADING
+[00:55:44]: Client received new session identifier: EE5AEDEDBF4025D9
+[00:55:44]: Begin Session: EE5AEDEDBF4025D9
+[00:55:44]: Stomping previously assigned session identifier, two loads issued.
+[00:55:44]: DownloadMods and temp disable	
+[00:55:44]: Downloading [1] From: server_temp
+[00:55:45]: 1 (39%) 1/1 server_temp/server_save 114000b / 285015b
+[00:55:45]: 1 (79%) 1/1 server_temp/server_save 228000b / 285015b
+[00:55:45]: 1 (100%) 1/1 server_temp/server_save 285015b / 285015b
+[00:55:45]: Download complete[1] Files: 1 Size: 285015
+[00:55:45]: Collecting garbage...
+[00:55:45]: lua_gc took 0.02 seconds
+[00:55:45]: ~ShardLuaProxy()
+[00:55:45]: ~ItemServerLuaProxy()
+[00:55:45]: ~InventoryLuaProxy()
+[00:55:45]: ~NetworkLuaProxy()
+[00:55:45]: ~SimLuaProxy()
+[00:55:45]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:55:45]: lua_close took 0.08 seconds
+[00:55:45]: ReleaseAll
+[00:55:45]: ReleaseAll Finished
+[00:55:45]: cGame::StartPlaying
+[00:55:45]: LOADING LUA
+[00:55:45]: DoLuaFile scripts/main.lua
+[00:55:45]: DoLuaFile loading buffer scripts/main.lua
+[00:55:46]: running main.lua
+	
+[00:55:46]: loaded modindex	
+[00:55:46]: ModIndex: Beginning normal load sequence.
+	
+[00:55:46]: LOADING LUA SUCCESS
+[00:55:46]: PlayerDeaths loaded morgue	1106	
+[00:55:46]: PlayerHistory loaded player_history	471	
+[00:55:46]: bloom_enabled	true	
+[00:55:46]: loaded saveindex	
+[00:55:46]: OnFilesLoaded()	
+[00:55:46]: OnUpdatePurchaseStateComplete	
+[00:55:46]: 	BE assets already loaded	
+[00:55:47]: Loading world: client_temp/server_save	
+[00:55:47]: Save file is at version 4.5	
+[00:55:47]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:55:49]: Loading Nav Grid	
+[00:55:49]: Reconstructing topology	
+[00:55:49]: 	...Sorting points	
+[00:55:49]: 	...Sorting edges	
+[00:55:49]: 	...Connecting nodes	
+[00:55:49]: 	...Validating connections	
+[00:55:49]: 	...Housekeeping	
+[00:55:49]: 	...Done!	
+[00:55:49]: ModIndex: Load sequence finished successfully.	
+[00:55:49]: Reset() returning
+[00:55:50]: Attempting to send resume request
+[00:55:50]: ReceiveResumeNotification
+[00:55:50]: Deleting user: session/EE5AEDEDBF4025D9/KU_9J9C_2E3_/0000000001
+[00:56:00]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:56:09]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:56:17]: Could not find anim [emoteXL_waving2] in bank [FROMNUM]
+[00:56:30]: Could not find anim [emoteXL_waving2] in bank [FROMNUM]
+[00:56:42]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:56:51]: Could not find anim [emoteXL_waving1] in bank [FROMNUM]
+[00:57:01]: Could not find anim [emoteXL_waving3] in bank [FROMNUM]
+[00:57:15]: Movement prediction enabled	
+[00:57:15]: Deserializing tile data (425 x 425)
+[01:00:11]: [200] Account Communication Success (6)
+[01:00:11]: Received (KU_9J9C_2E3) from TokenPurpose
+[01:00:16]: CURL ERROR: (metric.kleientertainment.com) Operation timed out after 0 milliseconds with 0 out of 0 bytes received
+[01:03:08]: SAVING Morgue	9	
+[01:03:32]: DoRestart:	true	
+[01:03:33]: Serializing user: session/EE5AEDEDBF4025D9/KU_9J9C_2E3_/0000000001
+[01:03:33]: [Shard] Stopping shard mode
+[01:03:33]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:03:33]: Collecting garbage...
+[01:03:33]: lua_gc took 0.03 seconds
+[01:03:33]: ~ShardLuaProxy()
+[01:03:33]: ~ItemServerLuaProxy()
+[01:03:33]: ~InventoryLuaProxy()
+[01:03:33]: ~NetworkLuaProxy()
+[01:03:33]: ~SimLuaProxy()
+[01:03:33]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:03:33]: lua_close took 0.09 seconds
+[01:03:33]: ReleaseAll
+[01:03:33]: ReleaseAll Finished
+[01:03:33]: cGame::StartPlaying
+[01:03:33]: LOADING LUA
+[01:03:33]: DoLuaFile scripts/main.lua
+[01:03:33]: DoLuaFile loading buffer scripts/main.lua
+[01:03:34]: running main.lua
+	
+[01:03:34]: loaded modindex	
+[01:03:34]: ModIndex: Beginning normal load sequence.
+	
+[01:03:34]: LOADING LUA SUCCESS
+[01:03:34]: PlayerDeaths loaded morgue	1243	
+[01:03:34]: PlayerHistory loaded player_history	475	
+[01:03:34]: bloom_enabled	true	
+[01:03:34]: loaded saveindex	
+[01:03:34]: OnFilesLoaded()	
+[01:03:34]: OnUpdatePurchaseStateComplete	
+[01:03:34]: 	Unload BE	
+[01:03:34]: 	Unload BE done	
+[01:03:34]: Could not unload undefined prefab 0x399804b (hat_chester_costume)
+[01:03:34]: Could not unload undefined prefab 0xc01796b (corn_seeds)
+[01:03:34]: Could not unload undefined prefab 0xb1e7b61 (dragonfruit)
+[01:03:34]: Could not unload undefined prefab 0x71127e3 (carrot_cooked)
+[01:03:34]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[01:03:34]: Could not unload undefined prefab 0x162c669d (marble)
+[01:03:34]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:03:34]: Could not unload undefined prefab 0x359da624 (log)
+[01:03:34]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[01:03:34]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[01:03:34]: Could not unload undefined prefab 0x2d1c40c (deciduous_root)
+[01:03:34]: Could not unload undefined prefab 0x41ba89b5 (nightmarefuel)
+[01:03:34]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:03:34]: Could not unload undefined prefab 0x235a9a90 (birchnutdrake)
+[01:03:34]: Could not unload undefined prefab 0x184178b (meat)
+[01:03:34]: Could not unload undefined prefab 0x4790f393 (deciduoustree)
+[01:03:34]: Could not unload undefined prefab 0x39d1762b (cookedsmallmeat)
+[01:03:34]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:03:34]: Could not unload undefined prefab 0x107f3fc2 (seeds)
+[01:03:34]: Could not unload undefined prefab 0x6d529a32 (smallmeat)
+[01:03:34]: Could not unload undefined prefab 0x39d1762b (cookedsmallmeat)
+[01:03:34]: Could not unload undefined prefab 0x39ecf974 (cutgrass)
+[01:03:34]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:03:34]: Could not unload undefined prefab 0x359da624 (log)
+[01:03:34]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[01:03:34]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[01:03:34]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[01:03:34]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:03:34]: Could not unload undefined prefab 0x1a35332f (spore_medium)
+[01:03:34]: Could not unload undefined prefab 0x8119781a (cookedmandrake)
+[01:03:34]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[01:03:34]: Could not unload undefined prefab 0x8c6be253 (mandrake)
+[01:03:34]: Could not unload undefined prefab 0xa694a25e (mandrake_planted)
+[01:03:34]: Could not unload undefined prefab 0x359da624 (log)
+[01:03:34]: Could not unload undefined prefab 0x184178b (meat)
+[01:03:34]: Could not unload undefined prefab 0x359da624 (log)
+[01:03:34]: Could not unload undefined prefab 0x1078732c (character_fire)
+[01:03:34]: Could not unload undefined prefab 0x184178b (meat)
+[01:03:34]: Could not unload undefined prefab 0x359da624 (log)
+[01:03:34]: Could not unload undefined prefab 0x1078732c (character_fire)
+[01:03:34]: Could not unload undefined prefab 0x78d69cdc (rock_petrified_tree_short)
+[01:03:34]: Could not unload undefined prefab 0x4f122f8c (rock_petrified_tree_med)
+[01:03:34]: Could not unload undefined prefab 0x9ce1eaee (rocks)
+[01:03:34]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[01:03:34]: Could not unload undefined prefab 0x50155047 (rock_petrified_tree_old)
+[01:03:34]: Could not unload undefined prefab 0x57d6a669 (petrified_tree_fx_short)
+[01:03:34]: Could not unload undefined prefab 0x39dfc71a (petrified_tree_fx_normal)
+[01:03:34]: Could not unload undefined prefab 0x15e8f040 (petrified_tree_fx_tall)
+[01:03:34]: Could not unload undefined prefab 0xb14e9054 (petrified_tree_fx_old)
+[01:03:34]: Could not unload undefined prefab 0x47f35864 (petrified_trunk_break_fx)
+[01:03:34]: Could not unload undefined prefab 0xb50c4e4c (pinecone_sapling)
+[01:03:34]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:03:34]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[01:03:34]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[01:03:34]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[01:03:34]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[01:03:34]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[01:03:34]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[01:03:34]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[01:03:34]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[01:03:34]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[01:03:34]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[01:03:34]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[01:03:34]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[01:03:34]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[01:03:34]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[01:03:34]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[01:03:34]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[01:03:34]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[01:03:34]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[01:03:34]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[01:03:34]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[01:03:34]: Could not unload undefined prefab 0x2e54b535 (cane)
+[01:03:34]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[01:03:34]: Could not unload undefined prefab 0x303eb17b (strawhat_floppy)
+[01:03:34]: Could not unload undefined prefab 0x359da624 (log)
+[01:03:34]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[01:03:34]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[01:03:34]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[01:03:34]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:03:34]: Could not unload undefined prefab 0xed18eed (spore_small)
+[01:03:34]: Could not unload undefined prefab 0x8539b55b (mushtree_small_burntfx)
+[01:03:34]: Could not unload undefined prefab 0x994e32df (mushtree_small_bloom_burntfx)
+[01:03:34]: Could not unload undefined prefab 0x3532833e (minisign_item)
+[01:03:34]: Could not unload undefined prefab 0x359da624 (log)
+[01:03:34]: Could not unload undefined prefab 0x2a9524cd (blue_cap)
+[01:03:34]: Could not unload undefined prefab 0x706870b6 (green_cap)
+[01:03:34]: Could not unload undefined prefab 0x1c1e3dc4 (red_cap)
+[01:03:34]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:03:34]: Could not unload undefined prefab 0x5286daa7 (spore_tall)
+[01:03:34]: Could not unload undefined prefab 0x9db421e9 (mushtree_tall_burntfx)
+[01:03:34]: Could not unload undefined prefab 0x4336ea6d (mushtree_tall_bloom_burntfx)
+[01:03:34]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[01:03:34]: Could not unload undefined prefab 0x76807d6d (moonpig)
+[01:03:34]: Could not unload undefined prefab 0xc5912515 (gargoyle_werepighowl_fx)
+[01:03:34]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:03:34]: Could not unload undefined prefab 0xd0ee1bd5 (collapse_small)
+[01:03:34]: Could not unload undefined prefab 0x674707c2 (acorn_sapling)
+[01:03:34]: Could not unload undefined prefab 0x7e58aebd (acorn_cooked)
+[01:03:34]: Could not unload undefined prefab 0x29ad5029 (spoiled_food)
+[01:03:34]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[01:03:34]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[01:03:34]: Could not unload undefined prefab 0xbd7ba41a (winter_ornament_boss_deerclops)
+[01:03:34]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[01:03:34]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[01:03:34]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[01:03:34]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[01:03:34]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[01:03:34]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[01:03:34]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[01:03:34]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[01:03:34]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[01:03:34]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[01:03:34]: Could not unload undefined prefab 0xc49ee298 (green_leaves)
+[01:03:34]: Could not unload undefined prefab 0x7132400a (red_leaves)
+[01:03:34]: Could not unload undefined prefab 0x29d8efdb (red_leaves_chop)
+[01:03:34]: Could not unload undefined prefab 0x5a4e2f2d (orange_leaves)
+[01:03:34]: Could not unload undefined prefab 0x39590c78 (orange_leaves_chop)
+[01:03:34]: Could not unload undefined prefab 0xc3289d07 (yellow_leaves)
+[01:03:34]: Could not unload undefined prefab 0x6831af1e (yellow_leaves_chop)
+[01:03:34]: Could not unload undefined prefab 0xb80b9acc (greengem)
+[01:03:34]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[01:03:34]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[01:03:34]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[01:03:34]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[01:03:34]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[01:03:34]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[01:03:34]: Could not unload undefined prefab 0xcda99af6 (winterhat)
+[01:03:34]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[01:03:34]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[01:03:34]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[01:03:34]: Could not unload undefined prefab 0x2e54b535 (cane)
+[01:03:34]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[01:03:34]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[01:03:34]: Could not unload undefined prefab 0x97bd555d (gargoyle_hounddeath)
+[01:03:34]: Could not unload undefined prefab 0x956d0cc5 (monstermeat)
+[01:03:34]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[01:03:34]: Could not unload undefined prefab 0x2c345110 (gargoyle_houndatk_fx)
+[01:03:34]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[01:03:34]: Could not unload undefined prefab 0x76807d6d (moonpig)
+[01:03:34]: Could not unload undefined prefab 0xb0a48afd (gargoyle_werepigdeath_fx)
+[01:03:34]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:03:34]: Could not unload undefined prefab 0xa94d6852 (gift_unwrap)
+[01:03:34]: Could not unload undefined prefab 0xec8853ad (charcoal)
+[01:03:34]: Could not unload undefined prefab 0x3036fc96 (ash)
+[01:03:34]: Could not unload undefined prefab 0xd0ee1bd5 (collapse_small)
+[01:03:34]: Could not unload undefined prefab 0xec587250 (gift)
+[01:03:34]: Could not unload undefined prefab 0xb0a79a1 (twiggy_nut)
+[01:03:34]: Could not unload undefined prefab 0x995bc6df (winter_ornament_boss_bearger)
+[01:03:34]: Could not unload undefined prefab 0x248c7e89 (winter_ornament_boss_beequeen)
+[01:03:34]: Could not unload undefined prefab 0xbd7ba41a (winter_ornament_boss_deerclops)
+[01:03:34]: Could not unload undefined prefab 0x407d4c1f (winter_ornament_boss_dragonfly)
+[01:03:34]: Could not unload undefined prefab 0x16eec5e (winter_ornament_boss_moose)
+[01:03:34]: Could not unload undefined prefab 0x71aadfec (winter_ornament_boss_toadstool)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef58 (winter_ornament_plain1)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef59 (winter_ornament_plain2)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5a (winter_ornament_plain3)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5b (winter_ornament_plain4)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5c (winter_ornament_plain5)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5d (winter_ornament_plain6)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5e (winter_ornament_plain7)
+[01:03:34]: Could not unload undefined prefab 0x22a5ef5f (winter_ornament_plain8)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d39 (winter_ornament_fancy1)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d3a (winter_ornament_fancy2)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d3b (winter_ornament_fancy3)
+[01:03:34]: Could not unload undefined prefab 0xb3b14d3c (winter_ornament_fancy4)
+[01:03:34]: Could not unload undefined prefab 0x14e023cc (winter_ornament_light1)
+[01:03:34]: Could not unload undefined prefab 0x14e023cd (winter_ornament_light2)
+[01:03:34]: Could not unload undefined prefab 0x14e023ce (winter_ornament_light3)
+[01:03:34]: Could not unload undefined prefab 0x14e023cf (winter_ornament_light4)
+[01:03:34]: Could not unload undefined prefab 0x6aafab59 (winter_food1)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5a (winter_food2)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5b (winter_food3)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5c (winter_food4)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5d (winter_food5)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5e (winter_food6)
+[01:03:34]: Could not unload undefined prefab 0x6aafab5f (winter_food7)
+[01:03:34]: Could not unload undefined prefab 0x6aafab60 (winter_food8)
+[01:03:34]: Could not unload undefined prefab 0x6aafab61 (winter_food9)
+[01:03:34]: Could not unload undefined prefab 0xb80b9acc (greengem)
+[01:03:34]: Could not unload undefined prefab 0xf07d70f5 (bluegem)
+[01:03:34]: Could not unload undefined prefab 0x46094f1b (beefalohat)
+[01:03:34]: Could not unload undefined prefab 0xe5306269 (flint)
+[01:03:34]: Could not unload undefined prefab 0x1ab03cb5 (silk)
+[01:03:34]: Could not unload undefined prefab 0xb5c89c61 (orangegem)
+[01:03:34]: Could not unload undefined prefab 0xdf809124 (gears)
+[01:03:34]: Could not unload undefined prefab 0x7e6d93ac (nitre)
+[01:03:34]: Could not unload undefined prefab 0x4058bc0 (molehat)
+[01:03:34]: Could not unload undefined prefab 0xbcbaa3e (redgem)
+[01:03:34]: Could not unload undefined prefab 0xcda99af6 (winterhat)
+[01:03:34]: Could not unload undefined prefab 0x8a2d55ba (catcoonhat)
+[01:03:34]: Could not unload undefined prefab 0xc63a5a5c (moonrocknugget)
+[01:03:34]: Could not unload undefined prefab 0x1941243b (yellowgem)
+[01:03:34]: Could not unload undefined prefab 0xe6af29d2 (compass)
+[01:03:34]: Could not unload undefined prefab 0xec43b9f4 (sewing_kit)
+[01:03:34]: Could not unload undefined prefab 0xf0330963 (panflute)
+[01:03:34]: Could not unload undefined prefab 0x2e54b535 (cane)
+[01:03:34]: Could not unload undefined prefab 0x49ba2e4d (walrushat)
+[01:03:35]: 	Load FE	
+[01:03:36]: 	Load FE: done	
+[01:03:36]: OnLoadPermissionList: /Users/lop/Documents/Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[01:03:36]: OnLoadPermissionList: /Users/lop/Documents/Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[01:03:36]: OnLoadUserIdList: /Users/lop/Documents/Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[01:03:36]: SimLuaProxy::QueryServer()
+[01:03:36]: ModIndex: Load sequence finished successfully.	
+[01:03:36]: Reset() returning
+[01:03:41]: CURL ERROR: (s3.amazonaws.com) Operation timed out after 1 milliseconds with 0 out of 0 bytes received
+[01:03:45]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:03:45]: Collecting garbage...
+[01:03:45]: lua_gc took 0.03 seconds
+[01:03:45]: ~ShardLuaProxy()
+[01:03:45]: ~ItemServerLuaProxy()
+[01:03:45]: ~InventoryLuaProxy()
+[01:03:45]: ~NetworkLuaProxy()
+[01:03:45]: ~SimLuaProxy()
+[01:03:45]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:03:45]: lua_close took 0.08 seconds
+[01:03:45]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:03:45]: [Steam] Auth ticket cancelled
+[01:03:45]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:03:45]: anim/batwing.zip - 3
+[01:03:45]: anim/structure_collapse_fx.zip - 1
+[01:03:45]: anim/gems.zip - 4
+[01:03:45]: anim/pig_build.zip - 1
+[01:03:45]: anim/tree_leaf_fx_orange.zip - 1
+[01:03:45]: anim/meat.zip - 3
+[01:03:45]: anim/hat_mole.zip - 1
+[01:03:45]: anim/ds_pig_actions.zip - 1
+[01:03:45]: anim/meat_human.zip - 3
+[01:03:45]: anim/pig_guard_build.zip - 1
+[01:03:45]: anim/spoiled_food.zip - 1
+[01:03:45]: anim/swap_cane.zip - 1
+[01:03:45]: anim/pigspotted_build.zip - 1
+[01:03:45]: anim/moonrock_nugget.zip - 1
+[01:03:45]: anim/log.zip - 1
+[01:03:45]: anim/smoke_puff_small.zip - 1
+[01:03:45]: anim/ds_pig_basic.zip - 1
+[01:03:45]: anim/werepig_build.zip - 1
+[01:03:45]: anim/fire_large_character.zip - 1
+[01:03:45]: anim/cane.zip - 1
+[01:03:45]: anim/ds_pig_attacks.zip - 1
+[01:03:45]: anim/werepig_basic.zip - 1
+[01:03:45]: anim/meat_small.zip - 3
+[01:03:45]: anim/hat_winter.zip - 1
+[01:03:45]: anim/twiggy_nut.zip - 1
+[01:03:45]: anim/meat_rack_food.zip - 3
+[01:03:45]: anim/hat_catcoon.zip - 1
+[01:03:45]: anim/werepig_actions.zip - 1
+[01:03:45]: anim/plant_meat.zip - 3
+[01:03:45]: anim/tree_leaf_fx_red.zip - 1
+[01:03:45]: anim/winter_ornaments.zip - 31
+[01:03:45]: anim/drumstick.zip - 3
+[01:03:45]: anim/hat_walrus.zip - 1
+[01:03:45]: anim/nitre.zip - 1
+[01:03:45]: anim/mushrooms.zip - 3
+[01:03:45]: anim/mandrake.zip - 1
+[01:03:45]: anim/ash.zip - 1
+[01:03:45]: anim/silk.zip - 1
+[01:03:45]: anim/hat_beefalo.zip - 1
+[01:03:45]: anim/meat_monster.zip - 3
+[01:03:45]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:03:45]: shaders/ui_yuv.ksh - 1
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:03:45]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:03:45]: anim/fire_large_character.zip:fire_large_character--atlas-0.tex - 1
+[01:03:45]: anim/hat_winter.zip:hat_winter--atlas-0.tex - 1
+[01:03:45]: anim/nitre.zip:nitre--atlas-0.tex - 1
+[01:03:45]: anim/tree_leaf_fx_red.zip:tree_leaf_fx_red--atlas-0.tex - 1
+[01:03:45]: anim/werepig_build.zip:werepig_build--atlas-0.tex - 1
+[01:03:45]: anim/gems.zip:gems--atlas-0.tex - 1
+[01:03:45]: anim/hat_catcoon.zip:hat_catcoon--atlas-0.tex - 1
+[01:03:45]: anim/meat_rack_food.zip:meat_rack_food--atlas-0.tex - 1
+[01:03:45]: anim/moonrock_nugget.zip:moonrock_nugget--atlas-0.tex - 1
+[01:03:45]: anim/pig_guard_build.zip:pig_guard_build--atlas-0.tex - 1
+[01:03:45]: anim/swap_cane.zip:swap_cane--atlas-0.tex - 1
+[01:03:45]: anim/ash.zip:ash--atlas-0.tex - 1
+[01:03:45]: anim/cane.zip:cane--atlas-0.tex - 1
+[01:03:45]: anim/fire_large_character.zip:fire_large_character--atlas-1.tex - 1
+[01:03:45]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[01:03:45]: anim/pig_build.zip:pig_build--atlas-0.tex - 1
+[01:03:45]: anim/hat_beefalo.zip:hat_beefalo--atlas-0.tex - 1
+[01:03:45]: anim/meat_human.zip:meat_human--atlas-0.tex - 1
+[01:03:45]: anim/meat_small.zip:meat_small--atlas-0.tex - 1
+[01:03:45]: anim/tree_leaf_fx_orange.zip:tree_leaf_fx_orange--atlas-0.tex - 1
+[01:03:45]: anim/hat_mole.zip:hat_mole--atlas-0.tex - 1
+[01:03:45]: anim/drumstick.zip:drumstick--atlas-0.tex - 1
+[01:03:45]: anim/meat.zip:meat--atlas-0.tex - 1
+[01:03:45]: anim/pigspotted_build.zip:pigspotted_build--atlas-0.tex - 1
+[01:03:45]: anim/batwing.zip:batwing--atlas-0.tex - 1
+[01:03:45]: anim/mushrooms.zip:mushrooms--atlas-0.tex - 1
+[01:03:45]: anim/log.zip:log--atlas-0.tex - 1
+[01:03:45]: anim/smoke_puff_small.zip:smoke_puff_small--atlas-0.tex - 1
+[01:03:45]: anim/plant_meat.zip:plant_meat--atlas-0.tex - 1
+[01:03:45]: anim/spoiled_food.zip:spoiled_food--atlas-0.tex - 1
+[01:03:45]: anim/silk.zip:silk--atlas-0.tex - 1
+[01:03:45]: anim/hat_walrus.zip:hat_walrus--atlas-0.tex - 1
+[01:03:45]: anim/mandrake.zip:mandrake--atlas-0.tex - 1
+[01:03:45]: anim/winter_ornaments.zip:winter_ornaments--atlas-0.tex - 1
+[01:03:45]: anim/batwing.zip:batwing--atlas-1.tex - 1
+[01:03:45]: anim/meat_monster.zip:meat_monster--atlas-0.tex - 1
+[01:03:45]: anim/twiggy_nut.zip:twiggy_nut--atlas-0.tex - 1
+[01:03:46]: CurlRequestManager::ClientThread::Main() complete
+[01:03:46]: HttpClient2 discarded 0 callbacks.
+[01:03:46]: Shutting down

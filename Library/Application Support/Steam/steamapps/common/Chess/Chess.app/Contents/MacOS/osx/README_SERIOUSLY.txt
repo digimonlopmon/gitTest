@@ -1,0 +1,2 @@
+libopenal.1.dylib is what SLD2-CS uses as the filename & we aren't going to modify that project just to have a more informative filename... the version we're using is 1.15.1, so
+the actual file we got was originally libopenal.1.15.1.dylib, I think (at least that's what we had as the filename).

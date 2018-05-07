@@ -1,0 +1,903 @@
+
+
+[2018-04-30 00:31:39] [AppID 70] Eval complete
+[2018-04-30 00:31:39] [AppID 220] File is in sync cfg/config.cfg
+[2018-04-30 00:31:39] [AppID 220] File is in sync hl2/save/autosave.sav
+[2018-04-30 00:31:39] [AppID 220] File is in sync hl2/save/half-life-000.sav
+[2018-04-30 00:31:39] [AppID 220] File is in sync hl2/save/half-life-000.tga
+[2018-04-30 00:31:39] [AppID 220] Eval complete
+[2018-04-30 00:31:39] [AppID 620] File is in sync cfg/config.cfg
+[2018-04-30 00:31:39] [AppID 620] Eval complete
+[2018-04-30 00:31:39] [AppID 8930] Eval complete
+[2018-04-30 00:31:39] [AppID 20900] Eval complete
+[2018-04-30 00:31:39] [AppID 26800] File is in sync slot_0.braid_campaign
+[2018-04-30 00:31:39] [AppID 26800] Eval complete
+[2018-04-30 00:31:39] [AppID 40800] File is in sync UserData/Reg0.dat
+[2018-04-30 00:31:39] [AppID 40800] File is in sync UserData/savegame.dat
+[2018-04-30 00:31:39] [AppID 40800] Eval complete
+[2018-04-30 00:31:39] [AppID 63710] File is in sync 42454154.dat
+[2018-04-30 00:31:39] [AppID 63710] Eval complete
+[2018-04-30 00:31:39] [AppID 95400] File is in sync leaderboard.dat
+[2018-04-30 00:31:39] [AppID 95400] File is in sync Player.sav
+[2018-04-30 00:31:39] [AppID 95400] Eval complete
+[2018-04-30 00:31:39] [AppID 105600] File is in sync achievements-steam.dat
+[2018-04-30 00:31:39] [AppID 105600] File is in sync favorites.json
+[2018-04-30 00:31:39] [AppID 105600] File is in sync players/Lopmon.plr
+[2018-04-30 00:31:39] [AppID 105600] File is in sync players/Lopmon/243048318.map
+[2018-04-30 00:31:39] [AppID 105600] Eval complete
+[2018-04-30 00:31:39] [AppID 107100] File is in sync Profile1.sav
+[2018-04-30 00:31:39] [AppID 107100] Eval complete
+[2018-04-30 00:31:39] [AppID 203160] File is in sync profile.dat
+[2018-04-30 00:31:39] [AppID 203160] File is in sync save1.dat
+[2018-04-30 00:31:39] [AppID 203160] Eval complete
+[2018-04-30 00:31:39] [AppID 204060] Eval complete
+[2018-04-30 00:31:39] [AppID 206440] Eval complete
+[2018-04-30 00:31:39] [AppID 207140] File is in sync Session.dat
+[2018-04-30 00:31:39] [AppID 207140] File is in sync SpeedRunnerHDProgressionStore
+[2018-04-30 00:31:39] [AppID 207140] Eval complete
+[2018-04-30 00:31:39] [AppID 208610] Eval complete
+[2018-04-30 00:31:39] [AppID 209830] Eval complete
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy11.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy10.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy09.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy08.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy07.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy06.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy05.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy04.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy03.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy02.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpointeasy01.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint11.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint10.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint09.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint08.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint07.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint06.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint05.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint04.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint03.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint02.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/checkpoint01.bin
+[2018-04-30 00:31:39] [AppID 211260] File is in sync 76561198099348291/scores.bin
+[2018-04-30 00:31:39] [AppID 211260] Eval complete
+[2018-04-30 00:31:39] [AppID 219740] Eval complete
+[2018-04-30 00:31:39] [AppID 238460] File is in sync BattleBlockTheaterConfig
+[2018-04-30 00:31:39] [AppID 238460] File is in sync BattleBlockTheaterSave
+[2018-04-30 00:31:39] [AppID 238460] Eval complete
+[2018-04-30 00:31:39] [AppID 239030] Eval complete
+[2018-04-30 00:31:39] [AppID 239820] File is in sync slot_errorLogs
+[2018-04-30 00:31:39] [AppID 239820] File is in sync slot_knowledge
+[2018-04-30 00:31:39] [AppID 239820] File is in sync slot_1
+[2018-04-30 00:31:39] [AppID 239820] File is in sync slot_1L1
+[2018-04-30 00:31:39] [AppID 239820] File is in sync general
+[2018-04-30 00:31:39] [AppID 239820] File is in sync slot_auto
+[2018-04-30 00:31:39] [AppID 239820] Eval complete
+[2018-04-30 00:31:39] [AppID 244870] File is in sync esj.sav
+[2018-04-30 00:31:39] [AppID 244870] Eval complete
+[2018-04-30 00:31:39] [AppID 245170] File is in sync savedata.bin
+[2018-04-30 00:31:39] [AppID 245170] Eval complete
+[2018-04-30 00:31:39] [AppID 246620] File is in sync scores.dat
+[2018-04-30 00:31:39] [AppID 246620] Eval complete
+[2018-04-30 00:31:39] [AppID 247080] Eval complete
+[2018-04-30 00:31:39] [AppID 248310] File is in sync records.dat
+[2018-04-30 00:31:39] [AppID 248310] File is in sync file1.sav
+[2018-04-30 00:31:39] [AppID 248310] File is in sync control_gamepad.cfg
+[2018-04-30 00:31:39] [AppID 248310] File is in sync control_keyboard.cfg
+[2018-04-30 00:31:39] [AppID 248310] Eval complete
+[2018-04-30 00:31:39] [AppID 248820] Eval complete
+[2018-04-30 00:31:39] [AppID 250320] Eval complete
+[2018-04-30 00:31:39] [AppID 250900] Need to upload file persistentgamedata1.dat
+[2018-04-30 00:31:39] [AppID 250900] File is in sync gamestate1.dat
+[2018-04-30 00:31:39] [AppID 250900] Eval complete
+[2018-04-30 00:31:39] [AppID 252330] File is in sync SteamCloud
+[2018-04-30 00:31:39] [AppID 252330] Eval complete
+[2018-04-30 00:31:39] [AppID 260790] Eval complete
+[2018-04-30 00:31:39] [AppID 262060] File is in sync steam_init.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.estate.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.game.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.town_event.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.town.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.roster.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.upgrades.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.tutorial.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.narration.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.progression.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.game_knowledge.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.journal.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.quest.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/persist.campaign_log.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.campaign_log.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.estate.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.game.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.game_knowledge.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.journal.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.narration.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.progression.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.quest.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.roster.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.town.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.town_event.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.tutorial.json
+[2018-04-30 00:31:39] [AppID 262060] File is in sync profile_0/backup/persist.upgrades.json
+[2018-04-30 00:31:39] [AppID 262060] Eval complete
+[2018-04-30 00:31:39] [AppID 274190] File is in sync Saves/Options.xml
+[2018-04-30 00:31:39] [AppID 274190] File is in sync Saves/76561198099348291.sav
+[2018-04-30 00:31:39] [AppID 274190] Eval complete
+[2018-04-30 00:31:39] [AppID 282070] File is in sync savedgames
+[2018-04-30 00:31:39] [AppID 282070] File is in sync achievements
+[2018-04-30 00:31:39] [AppID 282070] File is in sync gamehistory
+[2018-04-30 00:31:39] [AppID 282070] File is in sync gamelog
+[2018-04-30 00:31:39] [AppID 282070] File is in sync savedgames.alt
+[2018-04-30 00:31:39] [AppID 282070] File is in sync achievements.alt
+[2018-04-30 00:31:39] [AppID 282070] File is in sync gamehistory.alt
+[2018-04-30 00:31:39] [AppID 282070] File is in sync gamelog.alt
+[2018-04-30 00:31:39] [AppID 282070] Eval complete
+[2018-04-30 00:31:39] [AppID 286100] File is in sync Minor Key Games/You Have to Win the Game/Saves/Autosave.vsg
+[2018-04-30 00:31:39] [AppID 286100] Eval complete
+[2018-04-30 00:31:39] [AppID 286160] File is in sync My Games/Tabletop Simulator/Saves/SaveFileInfos.json
+[2018-04-30 00:31:39] [AppID 286160] File is in sync My Games/Tabletop Simulator/Saves/TS_AutoSave.json
+[2018-04-30 00:31:39] [AppID 286160] File is in sync My Games/Tabletop Simulator/Saves/TS_AutoSave.png
+[2018-04-30 00:31:39] [AppID 286160] Eval complete
+[2018-04-30 00:31:39] [AppID 293780] File is in sync Crawl.sav
+[2018-04-30 00:31:39] [AppID 293780] Eval complete
+[2018-04-30 00:31:39] [AppID 297130] File is in sync Titan Souls.app/Contents/Resources/data/SAVE/0.txt
+[2018-04-30 00:31:39] [AppID 297130] File is in sync Titan Souls.app/Contents/Resources/data/SAVE/1.txt
+[2018-04-30 00:31:39] [AppID 297130] Skipping download of file data/SAVE/0.txt to our platform
+[2018-04-30 00:31:39] [AppID 297130] Eval complete
+[2018-04-30 00:31:39] [AppID 312280] Eval complete
+[2018-04-30 00:31:39] [AppID 327410] File is in sync freebirdgames/abirdstory/window.txt
+[2018-04-30 00:31:39] [AppID 327410] File is in sync freebirdgames/abirdstory/ssiggy0.rxdata
+[2018-04-30 00:31:39] [AppID 327410] File is in sync freebirdgames/abirdstory/music.txt
+[2018-04-30 00:31:39] [AppID 327410] File is in sync freebirdgames/abirdstory/language.txt
+[2018-04-30 00:31:39] [AppID 327410] File is in sync freebirdgames/abirdstory/swatts1.rxdata
+[2018-04-30 00:31:39] [AppID 327410] File is in sync freebirdgames/abirdstory/srosalene2.rxdata
+[2018-04-30 00:31:39] [AppID 327410] File is in sync freebirdgames/abirdstory/keybindings.mkxp1
+[2018-04-30 00:31:39] [AppID 327410] Eval complete
+[2018-04-30 00:31:39] [AppID 332200] File is in sync Settings.xml
+[2018-04-30 00:31:39] [AppID 332200] File is in sync Save0.sav
+[2018-04-30 00:31:39] [AppID 332200] Eval complete
+[2018-04-30 00:31:39] [AppID 335670] File is in sync LISA.app/Contents/Resources/Save01.rvdata2
+[2018-04-30 00:31:39] [AppID 335670] File is in sync LISA.app/Contents/Resources/Save02.rvdata2
+[2018-04-30 00:31:39] [AppID 335670] Eval complete
+[2018-04-30 00:31:39] [AppID 337340] Skipping download of file Finding Paradise - Freebird Games/music.txt to our platform
+[2018-04-30 00:31:39] [AppID 337340] Skipping download of file Finding Paradise - Freebird Games/window.txt to our platform
+[2018-04-30 00:31:39] [AppID 337340] Skipping download of file Finding Paradise - Freebird Games/Save1.rxdata to our platform
+[2018-04-30 00:31:39] [AppID 337340] Skipping download of file Finding Paradise - Freebird Games/Save4.rxdata to our platform
+[2018-04-30 00:31:39] [AppID 337340] Eval complete
+[2018-04-30 00:31:39] [AppID 368230] Eval complete
+[2018-04-30 00:31:39] [AppID 390610] File is in sync com.sun.circainfinity/game.sav
+[2018-04-30 00:31:39] [AppID 390610] Skipping download of file CircaInfinity/game.sav to our platform
+[2018-04-30 00:31:39] [AppID 390610] Eval complete
+[2018-04-30 00:31:39] [AppID 391540] Eval complete
+[2018-04-30 00:31:39] [AppID 391720] Skipping download of file Bloober Team/Layers of Fear/76561198099348291/save0.dat to our platform
+[2018-04-30 00:31:39] [AppID 391720] Skipping download of file Bloober Team/Layers of Fear/76561198099348291/save1.dat to our platform
+[2018-04-30 00:31:39] [AppID 391720] Eval complete
+[2018-04-30 00:31:39] [AppID 413150] File is in sync StardewValley/Saves/Lop_158608076/SaveGameInfo
+[2018-04-30 00:31:39] [AppID 413150] File is in sync StardewValley/Saves/Lop_158608076/Lop_158608076
+[2018-04-30 00:31:39] [AppID 413150] File is in sync StardewValley/Saves/Lop_158608076/SaveGameInfo_old
+[2018-04-30 00:31:39] [AppID 413150] File is in sync StardewValley/Saves/Lop_158608076/Lop_158608076_old
+[2018-04-30 00:31:39] [AppID 413150] Eval complete
+[2018-04-30 00:31:39] [AppID 418150] Eval complete
+[2018-04-30 00:31:39] [AppID 447530] Skipping download of file VA_11_Hall_A/saves/Record of Waifu Wars[1].txt to our platform
+[2018-04-30 00:31:39] [AppID 447530] Skipping download of file VA_11_Hall_A/saves/Waifu Preferences.txt to our platform
+[2018-04-30 00:31:39] [AppID 447530] Skipping download of file VA_11_Hall_A/saves/Record of Waifu Wars[2].txt to our platform
+[2018-04-30 00:31:39] [AppID 447530] Skipping download of file VA_11_Hall_A/saves/Record of Waifu Wars[4].txt to our platform
+[2018-04-30 00:31:39] [AppID 447530] Eval complete
+[2018-04-30 00:31:39] [AppID 481510] Skipping download of file Infinite Fall/Night in the Woods/persist.dat to our platform
+[2018-04-30 00:31:39] [AppID 481510] Skipping download of file Infinite Fall/Night in the Woods/player.bak to our platform
+[2018-04-30 00:31:39] [AppID 481510] Skipping download of file Infinite Fall/Night in the Woods/player.dat to our platform
+[2018-04-30 00:31:39] [AppID 481510] Eval complete
+[2018-04-30 00:31:39] [AppID 555220] Eval complete
+[2018-04-30 00:31:39] [AppID 575050] File is in sync unity.CottonGame.LittleTriangle/savedatas/savedata_76561198099348291.sav
+[2018-04-30 00:31:39] [AppID 575050] Eval complete
+[2018-04-30 00:31:39] [AppID 584980] File is in sync gamedata
+[2018-04-30 00:31:39] [AppID 584980] File is in sync OptionsData
+[2018-04-30 00:31:39] [AppID 584980] Eval complete
+[2018-04-30 00:31:39] [AppID 664180] Eval complete
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag_system.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag_ext.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag_camera.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag_audio.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.rider.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.parser.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.menu.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.layer.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.key_mouse.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.event.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/assets/style.css
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/assets/jquery.lettering.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/assets/jquery.fittext.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/assets/animate.css
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/jquery.textillate.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/.gitattributes
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/alertify/alertify.min.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/alertify/alertify.default.css
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/alertify/alertify.core.css
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/lz-string.min.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jsrender.min.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery.touchSwipe.min.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery.a3d.min.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery.a3d.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery-ui.min.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery-ui.css
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery-2.0.3.min.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery-1.10.2.min.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs/html2canvas.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/thumbnail_save.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/saveslot2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/saveslot1.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/noimage.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/nextpage.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_message_close2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_message_close.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_title2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_title.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_skip2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_skip.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_save2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_save.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_load2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_load.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_close2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_close.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_save.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_recollection.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_menu.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_load.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_config.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_cg.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_backlog.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/button_menu.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/bg_config.jpg
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/bg_base.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/arrow_up.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/arrow_prev.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/arrow_next.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/arrow_down.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_message_close.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_button_title.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_button_skip.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_button_save.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_button_load.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/html/save.html
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/html/menu.html
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/html/load.html
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/html/backlog.html
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/tyrano.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/tyrano.css
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/tyrano.base.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/libs.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/lang.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/font.css
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/tyrano/animate.css
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/system/KeyConfig.js
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/system/Config.tjs
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/system/tyrano.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/system/plugin.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/system/message_window.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/system/live2d_define.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/system/live2d.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/.DS_Store
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/system/builder.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/builder_config.json
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/title_screen.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/credits.html
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/replay.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/make.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/index.html
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/config.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/cg.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/.DS_Store
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/others/.DS_Store
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/title/button_start.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/title/button_replay.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/title/button_load.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/title/button_config.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/title/button_cg.gif
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/message_box.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/menu_button_close2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/menu_button_close.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/label_recollection.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/label_config.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/label_cg.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/c_uts_on.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/c_uts_off.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/c_set.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/c_btn_back2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/c_btn_back.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/c_btn.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/button_unread_on.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/button_unread_off.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/bg_config.jpg
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/arrow_prev.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/config/arrow_next.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/window2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/window.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/title2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/title.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/skip2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/skip.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/save2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/save.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/quicksave2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/quicksave.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/quickload2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/quickload.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/menu2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/menu.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/load2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/load.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/fullscreen2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/fullscreen.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/config2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/config.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/backlog2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/backlog.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/auto2.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/auto.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/button/Thumbs.db
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/frame.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/ExQuestion.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/image/.DS_Store
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/fgimage/.DS_Store
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/bgm/music.ogg
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/bgm/music.m4a
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/bgimage/title.jpg
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/bgimage/rouka.jpg
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/bgimage/room.jpg
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/bgimage/noimage.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/bgimage/bg_config.jpg
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/bgimage/bg_base.png
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/bgimage/.DS_Store
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/.DS_Store
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/readme.txt
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/package.json
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/first.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/scene1.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/system/_scene1.ks
+[2018-04-30 00:31:39] [AppID 345370] File is in sync myproject/stick/data/scenario/system/chara_define.ks
+[2018-04-30 00:31:39] [AppID 345370] Eval complete
+[2018-04-30 00:32:04] Starting sync job
+[2018-04-30 00:32:04] [AppID 7] Starting sync (upload)
+[2018-04-30 00:32:04] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2018-04-30 00:32:04] [AppID 7] File is in sync sharedconfig.vdf
+[2018-04-30 00:32:04] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2018-04-30 00:32:06] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=1123) to host 'steamcloudsg.blob.core.windows.net', path /cloud/43/3B/4A/08/7/020_6_1462F592_842A2_314.dat - success.
+[2018-04-30 00:32:06] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2018-04-30 00:32:06] [AppID 7] Upload complete, result OK
+[2018-04-30 00:33:36] [U:1:139082563] [AppID 433950] Init cache request complete
+[2018-04-30 00:33:36] Starting sync job
+[2018-04-30 00:33:36] [AppID 433950] Starting sync (eval)
+[2018-04-30 00:33:36] [AppID 433950] Eval complete
+[2018-04-30 00:33:50] [U:1:139082563] [AppID 512900] Init cache request complete
+[2018-04-30 00:33:50] Starting sync job
+[2018-04-30 00:33:50] [AppID 512900] Starting sync (eval)
+[2018-04-30 00:33:50] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/BackupGameUnlocks.dat
+[2018-04-30 00:33:50] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/BackupGameSettings.dat
+[2018-04-30 00:33:50] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/GameSettings.dat
+[2018-04-30 00:33:50] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/SavedGame.dat
+[2018-04-30 00:33:50] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/GameUnlocks.dat
+[2018-04-30 00:33:50] [AppID 512900] Eval complete
+[2018-04-30 00:35:18] [U:1:139082563] [AppID 760] Init cache request complete
+[2018-04-30 00:35:18] Starting sync job
+[2018-04-30 00:35:18] [AppID 760] Starting sync (eval)
+[2018-04-30 00:35:18] [AppID 20900] Starting sync (eval)
+[2018-04-30 00:35:18] [AppID 760] Eval complete
+[2018-04-30 00:35:18] [AppID 20900] Eval complete
+[2018-04-30 00:35:18] [AppID 20900] Running AutoCloud on launch. Looking for existing files to watch:
+[2018-04-30 00:35:18] [AppID 20900] AutoCloud done. Watching 0 files
+[2018-04-30 00:35:25] [AppID 20900] Running AutoCloud on exit. Looking for new and updated files
+[2018-04-30 00:35:25] [AppID 20900]     Skipping rule 0 because it does not run on our platform
+[2018-04-30 00:35:25] [AppID 20900]     Evaluating rule 1 with root="MacAppSupport" path="com.cdprojektred.TheWitcher/GameDocuments/The Witcher/saves/" pattern="*"
+[2018-04-30 00:35:25] [AppID 20900]         Found 0 files that match /Users/lop/Library/Application Support/com.cdprojektred.TheWitcher/GameDocuments/The Witcher/saves/*
+[2018-04-30 00:35:25] [AppID 20900] AutoCloud complete
+[2018-04-30 00:35:25] Starting sync job
+[2018-04-30 00:35:25] [AppID 20900] Starting sync (upload)
+[2018-04-30 00:35:25] [AppID 20900] Upload complete in build list
+
+
+[2018-05-02 09:30:35] [U:1:139082563] [AppID 7] Init cache request complete
+[2018-05-02 09:30:35] Starting sync job
+[2018-05-02 09:30:35] [AppID 7] Starting sync (init)
+[2018-05-02 09:30:40] [U:1:139082563] [AppID 7] Init cache request complete
+[2018-05-02 09:30:40] Starting sync job
+[2018-05-02 09:30:40] [AppID 7] Starting sync (init)
+[2018-05-02 09:30:41] Starting sync job
+[2018-05-02 09:30:41] [AppID 7] Starting sync (download)
+[2018-05-02 09:30:42] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2018-05-02 09:30:42] [AppID 7] File is in sync sharedconfig.vdf
+[2018-05-02 09:30:42] [AppID 7] Eval complete
+[2018-05-02 09:30:42] [AppID 7] Download complete in build list
+[2018-05-02 09:30:44] [U:1:139082563] [AppID 70] Init cache request complete
+[2018-05-02 09:30:44] [U:1:139082563] [AppID 220] Init cache request complete
+[2018-05-02 09:30:44] [U:1:139082563] [AppID 620] Init cache request complete
+[2018-05-02 09:30:44] [U:1:139082563] [AppID 26800] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 40800] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 63710] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 95400] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 105600] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 203160] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 204060] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 206440] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 209830] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 211260] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 219740] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 239030] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 239820] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 244870] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 245170] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 246620] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 247080] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 248310] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 248820] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 250900] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 260790] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 262060] Init cache request complete
+[2018-05-02 09:30:45] [U:1:139082563] [AppID 282070] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 286100] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 293780] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 297130] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 312280] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 327410] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 332200] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 335670] Init cache request complete
+[2018-05-02 09:30:46] [AppID 337340] Unable to resolve path with root WinAppDataRoaming (4)
+[2018-05-02 09:30:46] [AppID 337340] Unable to resolve path with root WinAppDataRoaming (4)
+[2018-05-02 09:30:46] [AppID 337340] Unable to resolve path with root WinAppDataRoaming (4)
+[2018-05-02 09:30:46] [AppID 337340] Unable to resolve path with root WinAppDataRoaming (4)
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 337340] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 368230] Init cache request complete
+[2018-05-02 09:30:46] [AppID 390610] Unable to resolve path with root WinAppDataLocal (3)
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 390610] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 391540] Init cache request complete
+[2018-05-02 09:30:46] [AppID 391720] Unable to resolve path with root WinAppDataLocalLow (12)
+[2018-05-02 09:30:46] [AppID 391720] Unable to resolve path with root WinAppDataLocalLow (12)
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 391720] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 413150] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 418150] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 433950] Init cache request complete
+[2018-05-02 09:30:46] [AppID 447530] Unable to resolve path with root WinAppDataLocal (3)
+[2018-05-02 09:30:46] [AppID 447530] Unable to resolve path with root WinAppDataLocal (3)
+[2018-05-02 09:30:46] [AppID 447530] Unable to resolve path with root WinAppDataLocal (3)
+[2018-05-02 09:30:46] [AppID 447530] Unable to resolve path with root WinAppDataLocal (3)
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 447530] Init cache request complete
+[2018-05-02 09:30:46] [AppID 481510] Unable to resolve path with root WinAppDataLocalLow (12)
+[2018-05-02 09:30:46] [AppID 481510] Unable to resolve path with root WinAppDataLocalLow (12)
+[2018-05-02 09:30:46] [AppID 481510] Unable to resolve path with root WinAppDataLocalLow (12)
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 481510] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 512900] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 555220] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 575050] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 584980] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 664180] Init cache request complete
+[2018-05-02 09:30:46] [U:1:139082563] [AppID 345370] Init cache request complete
+[2018-05-02 09:30:46] Starting sync job
+[2018-05-02 09:30:46] [AppID 70] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 220] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 620] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 26800] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 40800] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 63710] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 95400] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 105600] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 203160] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 204060] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 206440] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 209830] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 211260] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 219740] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 239030] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 239820] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 244870] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 245170] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 246620] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 247080] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 248310] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 248820] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 250900] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 260790] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 262060] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 282070] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 286100] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 293780] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 297130] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 312280] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 327410] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 332200] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 335670] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 337340] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 368230] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 390610] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 391540] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 391720] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 413150] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 418150] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 433950] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 447530] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 481510] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 512900] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 555220] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 575050] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 584980] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 664180] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 345370] Starting sync (eval)
+[2018-05-02 09:30:46] [AppID 70] Eval complete
+[2018-05-02 09:30:46] [AppID 220] File is in sync cfg/config.cfg
+[2018-05-02 09:30:46] [AppID 220] File is in sync hl2/save/autosave.sav
+[2018-05-02 09:30:46] [AppID 220] File is in sync hl2/save/half-life-000.sav
+[2018-05-02 09:30:46] [AppID 220] File is in sync hl2/save/half-life-000.tga
+[2018-05-02 09:30:46] [AppID 220] Eval complete
+[2018-05-02 09:30:46] [AppID 620] File is in sync cfg/config.cfg
+[2018-05-02 09:30:46] [AppID 620] Eval complete
+[2018-05-02 09:30:46] [AppID 26800] File is in sync slot_0.braid_campaign
+[2018-05-02 09:30:46] [AppID 26800] Eval complete
+[2018-05-02 09:30:46] [AppID 40800] File is in sync UserData/Reg0.dat
+[2018-05-02 09:30:46] [AppID 40800] File is in sync UserData/savegame.dat
+[2018-05-02 09:30:46] [AppID 40800] Eval complete
+[2018-05-02 09:30:46] [AppID 63710] File is in sync 42454154.dat
+[2018-05-02 09:30:46] [AppID 63710] Eval complete
+[2018-05-02 09:30:46] [AppID 95400] File is in sync leaderboard.dat
+[2018-05-02 09:30:46] [AppID 95400] File is in sync Player.sav
+[2018-05-02 09:30:46] [AppID 95400] Eval complete
+[2018-05-02 09:30:46] [AppID 105600] File is in sync achievements-steam.dat
+[2018-05-02 09:30:46] [AppID 105600] File is in sync favorites.json
+[2018-05-02 09:30:46] [AppID 105600] File is in sync players/Lopmon.plr
+[2018-05-02 09:30:46] [AppID 105600] File is in sync players/Lopmon/243048318.map
+[2018-05-02 09:30:46] [AppID 105600] Eval complete
+[2018-05-02 09:30:46] [AppID 203160] File is in sync profile.dat
+[2018-05-02 09:30:46] [AppID 203160] File is in sync save1.dat
+[2018-05-02 09:30:46] [AppID 203160] Eval complete
+[2018-05-02 09:30:46] [AppID 204060] Eval complete
+[2018-05-02 09:30:46] [AppID 206440] Eval complete
+[2018-05-02 09:30:46] [AppID 209830] Eval complete
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy11.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy10.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy09.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy08.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy07.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy06.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy05.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy04.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy03.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy02.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpointeasy01.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint11.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint10.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint09.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint08.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint07.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint06.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint05.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint04.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint03.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint02.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/checkpoint01.bin
+[2018-05-02 09:30:46] [AppID 211260] File is in sync 76561198099348291/scores.bin
+[2018-05-02 09:30:46] [AppID 211260] Eval complete
+[2018-05-02 09:30:46] [AppID 219740] Eval complete
+[2018-05-02 09:30:46] [AppID 239030] Eval complete
+[2018-05-02 09:30:46] [AppID 239820] File is in sync slot_errorLogs
+[2018-05-02 09:30:46] [AppID 239820] File is in sync slot_knowledge
+[2018-05-02 09:30:46] [AppID 239820] File is in sync slot_1
+[2018-05-02 09:30:46] [AppID 239820] File is in sync slot_1L1
+[2018-05-02 09:30:46] [AppID 239820] File is in sync general
+[2018-05-02 09:30:46] [AppID 239820] File is in sync slot_auto
+[2018-05-02 09:30:46] [AppID 239820] Eval complete
+[2018-05-02 09:30:46] [AppID 244870] File is in sync esj.sav
+[2018-05-02 09:30:46] [AppID 244870] Eval complete
+[2018-05-02 09:30:46] [AppID 245170] File is in sync savedata.bin
+[2018-05-02 09:30:46] [AppID 245170] Eval complete
+[2018-05-02 09:30:46] [AppID 246620] File is in sync scores.dat
+[2018-05-02 09:30:46] [AppID 246620] Eval complete
+[2018-05-02 09:30:46] [AppID 247080] Eval complete
+[2018-05-02 09:30:46] [AppID 248310] File is in sync records.dat
+[2018-05-02 09:30:46] [AppID 248310] File is in sync file1.sav
+[2018-05-02 09:30:46] [AppID 248310] File is in sync control_gamepad.cfg
+[2018-05-02 09:30:46] [AppID 248310] File is in sync control_keyboard.cfg
+[2018-05-02 09:30:46] [AppID 248310] Eval complete
+[2018-05-02 09:30:46] [AppID 248820] Eval complete
+[2018-05-02 09:30:46] [AppID 250900] Need to upload file persistentgamedata1.dat
+[2018-05-02 09:30:46] [AppID 250900] File is in sync gamestate1.dat
+[2018-05-02 09:30:46] [AppID 250900] Eval complete
+[2018-05-02 09:30:46] [AppID 260790] Eval complete
+[2018-05-02 09:30:46] [AppID 262060] File is in sync steam_init.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.estate.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.game.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.town_event.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.town.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.roster.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.upgrades.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.tutorial.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.narration.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.progression.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.game_knowledge.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.journal.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.quest.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/persist.campaign_log.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.campaign_log.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.estate.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.game.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.game_knowledge.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.journal.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.narration.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.progression.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.quest.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.roster.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.town.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.town_event.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.tutorial.json
+[2018-05-02 09:30:46] [AppID 262060] File is in sync profile_0/backup/persist.upgrades.json
+[2018-05-02 09:30:46] [AppID 262060] Eval complete
+[2018-05-02 09:30:46] [AppID 282070] File is in sync savedgames
+[2018-05-02 09:30:46] [AppID 282070] File is in sync achievements
+[2018-05-02 09:30:46] [AppID 282070] File is in sync gamehistory
+[2018-05-02 09:30:46] [AppID 282070] File is in sync gamelog
+[2018-05-02 09:30:46] [AppID 282070] File is in sync savedgames.alt
+[2018-05-02 09:30:46] [AppID 282070] File is in sync achievements.alt
+[2018-05-02 09:30:46] [AppID 282070] File is in sync gamehistory.alt
+[2018-05-02 09:30:46] [AppID 282070] File is in sync gamelog.alt
+[2018-05-02 09:30:46] [AppID 282070] Eval complete
+[2018-05-02 09:30:46] [AppID 286100] File is in sync Minor Key Games/You Have to Win the Game/Saves/Autosave.vsg
+[2018-05-02 09:30:46] [AppID 286100] Eval complete
+[2018-05-02 09:30:46] [AppID 293780] File is in sync Crawl.sav
+[2018-05-02 09:30:46] [AppID 293780] Eval complete
+[2018-05-02 09:30:46] [AppID 297130] File is in sync Titan Souls.app/Contents/Resources/data/SAVE/0.txt
+[2018-05-02 09:30:46] [AppID 297130] File is in sync Titan Souls.app/Contents/Resources/data/SAVE/1.txt
+[2018-05-02 09:30:46] [AppID 297130] Skipping download of file data/SAVE/0.txt to our platform
+[2018-05-02 09:30:46] [AppID 297130] Eval complete
+[2018-05-02 09:30:46] [AppID 312280] Eval complete
+[2018-05-02 09:30:46] [AppID 327410] File is in sync freebirdgames/abirdstory/window.txt
+[2018-05-02 09:30:46] [AppID 327410] File is in sync freebirdgames/abirdstory/ssiggy0.rxdata
+[2018-05-02 09:30:46] [AppID 327410] File is in sync freebirdgames/abirdstory/music.txt
+[2018-05-02 09:30:46] [AppID 327410] File is in sync freebirdgames/abirdstory/language.txt
+[2018-05-02 09:30:46] [AppID 327410] File is in sync freebirdgames/abirdstory/swatts1.rxdata
+[2018-05-02 09:30:46] [AppID 327410] File is in sync freebirdgames/abirdstory/srosalene2.rxdata
+[2018-05-02 09:30:46] [AppID 327410] File is in sync freebirdgames/abirdstory/keybindings.mkxp1
+[2018-05-02 09:30:46] [AppID 327410] Eval complete
+[2018-05-02 09:30:46] [AppID 332200] File is in sync Settings.xml
+[2018-05-02 09:30:46] [AppID 332200] File is in sync Save0.sav
+[2018-05-02 09:30:46] [AppID 332200] Eval complete
+[2018-05-02 09:30:46] [AppID 335670] File is in sync LISA.app/Contents/Resources/Save01.rvdata2
+[2018-05-02 09:30:46] [AppID 335670] File is in sync LISA.app/Contents/Resources/Save02.rvdata2
+[2018-05-02 09:30:46] [AppID 335670] Eval complete
+[2018-05-02 09:30:46] [AppID 337340] Skipping download of file Finding Paradise - Freebird Games/music.txt to our platform
+[2018-05-02 09:30:46] [AppID 337340] Skipping download of file Finding Paradise - Freebird Games/window.txt to our platform
+[2018-05-02 09:30:46] [AppID 337340] Skipping download of file Finding Paradise - Freebird Games/Save1.rxdata to our platform
+[2018-05-02 09:30:46] [AppID 337340] Skipping download of file Finding Paradise - Freebird Games/Save4.rxdata to our platform
+[2018-05-02 09:30:46] [AppID 337340] Eval complete
+[2018-05-02 09:30:46] [AppID 368230] Eval complete
+[2018-05-02 09:30:46] [AppID 390610] File is in sync com.sun.circainfinity/game.sav
+[2018-05-02 09:30:46] [AppID 390610] Skipping download of file CircaInfinity/game.sav to our platform
+[2018-05-02 09:30:46] [AppID 390610] Eval complete
+[2018-05-02 09:30:46] [AppID 391540] Eval complete
+[2018-05-02 09:30:46] [AppID 391720] Skipping download of file Bloober Team/Layers of Fear/76561198099348291/save0.dat to our platform
+[2018-05-02 09:30:46] [AppID 391720] Skipping download of file Bloober Team/Layers of Fear/76561198099348291/save1.dat to our platform
+[2018-05-02 09:30:46] [AppID 391720] Eval complete
+[2018-05-02 09:30:46] [AppID 413150] File is in sync StardewValley/Saves/Lop_158608076/SaveGameInfo
+[2018-05-02 09:30:46] [AppID 413150] File is in sync StardewValley/Saves/Lop_158608076/Lop_158608076
+[2018-05-02 09:30:46] [AppID 413150] File is in sync StardewValley/Saves/Lop_158608076/SaveGameInfo_old
+[2018-05-02 09:30:46] [AppID 413150] File is in sync StardewValley/Saves/Lop_158608076/Lop_158608076_old
+[2018-05-02 09:30:46] [AppID 413150] Eval complete
+[2018-05-02 09:30:46] [AppID 418150] Eval complete
+[2018-05-02 09:30:46] [AppID 433950] Eval complete
+[2018-05-02 09:30:46] [AppID 447530] Skipping download of file VA_11_Hall_A/saves/Record of Waifu Wars[1].txt to our platform
+[2018-05-02 09:30:46] [AppID 447530] Skipping download of file VA_11_Hall_A/saves/Waifu Preferences.txt to our platform
+[2018-05-02 09:30:46] [AppID 447530] Skipping download of file VA_11_Hall_A/saves/Record of Waifu Wars[2].txt to our platform
+[2018-05-02 09:30:46] [AppID 447530] Skipping download of file VA_11_Hall_A/saves/Record of Waifu Wars[4].txt to our platform
+[2018-05-02 09:30:46] [AppID 447530] Eval complete
+[2018-05-02 09:30:46] [AppID 481510] Skipping download of file Infinite Fall/Night in the Woods/persist.dat to our platform
+[2018-05-02 09:30:46] [AppID 481510] Skipping download of file Infinite Fall/Night in the Woods/player.bak to our platform
+[2018-05-02 09:30:46] [AppID 481510] Skipping download of file Infinite Fall/Night in the Woods/player.dat to our platform
+[2018-05-02 09:30:46] [AppID 481510] Eval complete
+[2018-05-02 09:30:46] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/BackupGameUnlocks.dat
+[2018-05-02 09:30:46] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/BackupGameSettings.dat
+[2018-05-02 09:30:46] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/GameSettings.dat
+[2018-05-02 09:30:46] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/SavedGame.dat
+[2018-05-02 09:30:46] [AppID 512900] File is in sync Streets of Rogue/Streets of Rogue/CloudData/GameUnlocks.dat
+[2018-05-02 09:30:46] [AppID 512900] Eval complete
+[2018-05-02 09:30:46] [AppID 555220] Eval complete
+[2018-05-02 09:30:46] [AppID 575050] File is in sync unity.CottonGame.LittleTriangle/savedatas/savedata_76561198099348291.sav
+[2018-05-02 09:30:46] [AppID 575050] Eval complete
+[2018-05-02 09:30:46] [AppID 584980] File is in sync gamedata
+[2018-05-02 09:30:46] [AppID 584980] File is in sync OptionsData
+[2018-05-02 09:30:46] [AppID 584980] Eval complete
+[2018-05-02 09:30:46] [AppID 664180] Eval complete
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag_system.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag_ext.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag_camera.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag_audio.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.tag.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.rider.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.parser.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.menu.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.layer.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.key_mouse.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/plugins/kag/kag.event.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/assets/style.css
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/assets/jquery.lettering.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/assets/jquery.fittext.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/assets/animate.css
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/jquery.textillate.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/textillate/.gitattributes
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/alertify/alertify.min.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/alertify/alertify.default.css
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/alertify/alertify.core.css
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/lz-string.min.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jsrender.min.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery.touchSwipe.min.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery.a3d.min.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery.a3d.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery-ui.min.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery-ui.css
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery-2.0.3.min.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/jquery-1.10.2.min.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs/html2canvas.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/thumbnail_save.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/saveslot2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/saveslot1.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/noimage.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/nextpage.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_message_close2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_message_close.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_title2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_title.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_skip2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_skip.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_save2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_save.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_load2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_load.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_close2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/menu_button_close.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_save.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_recollection.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_menu.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_load.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_config.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_cg.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/label_backlog.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/button_menu.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/bg_config.jpg
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/bg_base.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/arrow_up.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/arrow_prev.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/arrow_next.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/system/arrow_down.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_message_close.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_button_title.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_button_skip.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_button_save.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/images/kag/menu_button_load.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/html/save.html
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/html/menu.html
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/html/load.html
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/html/backlog.html
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/tyrano.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/tyrano.css
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/tyrano.base.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/libs.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/lang.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/font.css
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/tyrano/animate.css
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/system/KeyConfig.js
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/system/Config.tjs
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/system/tyrano.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/system/plugin.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/system/message_window.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/system/live2d_define.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/system/live2d.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/.DS_Store
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/system/builder.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/builder_config.json
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/title_screen.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/credits.html
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/replay.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/make.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/index.html
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/config.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/cg.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/.DS_Store
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/others/.DS_Store
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/title/button_start.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/title/button_replay.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/title/button_load.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/title/button_config.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/title/button_cg.gif
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/message_box.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/menu_button_close2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/menu_button_close.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/label_recollection.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/label_config.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/label_cg.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/c_uts_on.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/c_uts_off.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/c_set.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/c_btn_back2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/c_btn_back.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/c_btn.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/button_unread_on.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/button_unread_off.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/bg_config.jpg
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/arrow_prev.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/config/arrow_next.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/window2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/window.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/title2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/title.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/skip2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/skip.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/save2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/save.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/quicksave2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/quicksave.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/quickload2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/quickload.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/menu2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/menu.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/load2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/load.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/fullscreen2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/fullscreen.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/config2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/config.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/backlog2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/backlog.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/auto2.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/auto.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/button/Thumbs.db
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/frame.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/ExQuestion.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/image/.DS_Store
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/fgimage/.DS_Store
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/bgm/music.ogg
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/bgm/music.m4a
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/bgimage/title.jpg
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/bgimage/rouka.jpg
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/bgimage/room.jpg
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/bgimage/noimage.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/bgimage/bg_config.jpg
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/bgimage/bg_base.png
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/bgimage/.DS_Store
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/.DS_Store
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/readme.txt
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/package.json
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/first.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/scene1.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/system/_scene1.ks
+[2018-05-02 09:30:46] [AppID 345370] File is in sync myproject/stick/data/scenario/system/chara_define.ks
+[2018-05-02 09:30:46] [AppID 345370] Eval complete
+[2018-05-02 09:30:54] [U:1:139082563] [AppID 760] Init cache request complete
+[2018-05-02 09:30:54] [U:1:139082563] [AppID 431730] Init cache request complete
+[2018-05-02 09:30:54] Starting sync job
+[2018-05-02 09:30:54] [AppID 760] Starting sync (eval)
+[2018-05-02 09:30:54] [AppID 431730] Starting sync (init)
+[2018-05-02 09:30:57] [AppID 760] Eval complete
+[2018-05-02 09:31:12] Starting sync job
+[2018-05-02 09:31:12] [AppID 7] Starting sync (upload)
+[2018-05-02 09:31:12] [AppID 7] Need to upload file serverbrowser_hist.vdf
+[2018-05-02 09:31:12] [AppID 7] File is in sync sharedconfig.vdf
+[2018-05-02 09:31:12] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' beginning . . .
+[2018-05-02 09:31:16] [AppID 7] HTTP upload for file 'serverbrowser_hist.vdf' (offset=0, length=1123) to host 'steamcloudsg.blob.core.windows.net', path /cloud/43/3B/4A/08/7/020_6_1462F592_842A2_315.dat - success.
+[2018-05-02 09:31:19] [AppID 7] Upload OK for file serverbrowser_hist.vdf
+[2018-05-02 09:31:19] [AppID 7] Upload complete, result OK
+[2018-05-02 10:43:38] Starting sync job
+[2018-05-02 10:43:38] [AppID 7] Starting sync (download)
+[2018-05-02 10:43:38] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2018-05-02 10:43:38] [AppID 7] File is in sync sharedconfig.vdf
+[2018-05-02 10:43:38] [AppID 7] Eval complete
+[2018-05-02 10:43:38] [AppID 7] Download complete in build list
+[2018-05-02 11:04:46] Starting sync job
+[2018-05-02 11:04:46] [AppID 7] Starting sync (download)
+[2018-05-02 11:04:46] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2018-05-02 11:04:46] [AppID 7] File is in sync sharedconfig.vdf
+[2018-05-02 11:04:46] [AppID 7] Download complete in build list
+[2018-05-02 11:19:45] Starting sync job
+[2018-05-02 11:19:45] [AppID 7] Starting sync (download)
+[2018-05-02 11:19:45] [AppID 7] File is in sync serverbrowser_hist.vdf
+[2018-05-02 11:19:45] [AppID 7] File is in sync sharedconfig.vdf
+[2018-05-02 11:19:45] [AppID 7] Eval complete
+[2018-05-02 11:19:45] [AppID 7] Download complete in build list

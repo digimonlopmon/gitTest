@@ -1,0 +1,21 @@
+[00:05:25]: [Join Announcement] 782823406
+[00:10:36]: [Death Announcement] 782823406 was killed by Killer Bee. He became a spooky ghost!
+[00:11:32]: [Resurrect Announcement] 782823406 was resurrected by Touch Stone.
+[00:19:25]: [Leave Announcement] 782823406
+[00:21:37]: [Death Announcement] lopmon was killed by Merm. He became a spooky ghost!
+[00:22:24]: [Resurrect Announcement] lopmon was resurrected by Touch Stone.
+[00:23:35]: [Death Announcement] lopmon was killed by Merm. He became a spooky ghost!
+[00:26:37]: [Join Announcement] 782823406
+[00:31:17]: [Join Announcement] yuna.yueyu
+[00:36:44]: [Leave Announcement] yuna.yueyu
+[00:36:46]: [Death Announcement] lopmon was killed by Spider. He became a spooky ghost!
+[00:39:25]: [Resurrect Announcement] lopmon was resurrected by 782823406.
+[00:41:23]: [Join Announcement] yuna.yueyu
+[00:55:31]: [Leave Announcement] 782823406
+[00:56:26]: [Join Announcement] 782823406
+[01:03:00]: [Leave Announcement] yuna.yueyu
+[01:05:18]: [Join Announcement] yuna.yueyu
+[01:21:38]: [Death Announcement] lopmon was killed by Frog. He became a spooky ghost!
+[01:22:01]: [Resurrect Announcement] lopmon was resurrected by Touch Stone.
+[01:22:33]: [Leave Announcement] yuna.yueyu
+[01:31:44]: [Leave Announcement] 782823406

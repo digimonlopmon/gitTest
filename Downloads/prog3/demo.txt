@@ -1,0 +1,81 @@
+Welcome to Genji's Adventure.
+You can move around by typing north, south, east, or west.
+You can see what is in the room your are in by typing look.
+You can pick things up by typing 'pickup thing' where thing is what you see in the room.
+You can drop things you are carrying by typing 'drop thing' where thing names someting you have.
+You can see your status by typing status and quit by typing quit.
+To defeat the final boss, you have to collect all of Genji's gear!.
+There should have dart, sword and knife to use the ULTIMATE ATTACK : RYUJIN NO KEN WO KURAE!!.
+BTW, there is a cute cat called kitty, Genji definitely wants to pet her! For no reason! .
+Type'pet' to pet kitty
+north
+You just entered what looks like a cellar
+look
+You see:
+emeralds
+knife
+
+pickup knife
+You now have knife
+west
+You just entered a room with many shelves
+look
+You see:
+gold
+lead
+poison
+dart
+
+pickup dart
+You now have dart
+
+
+
+
+
+
+
+status
+
+knife
+dart
+Available capacity = 1
+west
+You just entered a room with a bed
+look
+You see:
+cat
+
+pet
+You have pet the cat.
+Meow~Meow~Meow~Meow~Meow~.
+It seems she like Genji a lot
+  Genji now have the Meow Meow Power 
+east
+You just entered a room with a table
+look
+You see:
+diamonds
+sword
+
+pickup sword
+You now have sword
+You have successfully collect Genji's gear
+                  
+You have to Beat the Boss
+You Enterd the room
+                  
+Right before Gennji, is someone he seems to know
+                  
+His brother Hanzo are looking at Genji    
+ Genji said: Now, you see me.                
+                  
+  Hanzo:Brother...forgive me..                
+                  
+                  
+ Genji:  RYUJIN NO KEN WO KURAE!             
+                  
+                  
+  You won the game, but Genji will always remember his brother's death 
+> 
+03/03/2017

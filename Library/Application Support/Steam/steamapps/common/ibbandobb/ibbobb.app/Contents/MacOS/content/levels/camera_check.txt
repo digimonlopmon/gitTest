@@ -1,0 +1,2 @@
+chunks/w1_1_06000_end.tmx
+chunks/w1_2_01000_start.tmx

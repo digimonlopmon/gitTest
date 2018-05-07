@@ -1,0 +1,40 @@
+Yo Raiju team,
+For those of you who could not make it or just don't remember what happened during the meeting, here is a rundown.
+We agreed that the puzzles should mostly be on the ground and that Raiju is blue and genderless. Most of you probably got a invite from dagm8 which is something we're trying to use as our primary form of communication, moving from discord. If you did not get an invite, leave your ucsc email and we'll invite you. 
+Each team had their own discussion, except for programming.
+
+Here are the notes:
+Programming: 
+Make a github and do the Unity tutorials. There might be a Unity tutorial during club time but try to get a grasp of the engine.
+
+Art: 
+
+Environment style direction:
+Cyberpunk with futuristic takes on traditional Japanese architecture
+Leaning towards 2D sprite art/animation
+Tile based environments
+
+Color Ideas:
+Using cool color palette for “non-lit” areas
+Warmer color palette for lit areas
+
+Raiju:
+Fox-like spirit.
+Blue color palette
+
+Current Assignments:
+Draw mock-up/concepts of environment and other assets that can help
+Visualize what the setting, feeling, and puzzles could look like.
+Try not to just draw concepts on the spirit, but include other concepts such as tile sets,
+Buildings, npcs, backgrounds ect.
+Primarily, give an idea of what the puzzles that are implemented into the environment will look like and how players could interact with it. 
+(Remember those rules of game design things?)
+
+Music:
+atmosphere music, minor use of Koto and Japanese scale, but still sounds electronic
+
+Design:
+Currently deciding on the story. There will be a vote on the story later so have multiple ideas that the team is willing to write. There were 3 ideas generated in this meeting, correct me if I'm wrong:
+1) Spirits left after the humans replaced them with machines and the humans disappeared after they ran out of resources/power.
+2) Humans did something (genetic mutation?) that made them infertile so they died out and Raiju just visits ever so often and notices the humans are gone.
+3)The world became too polluted so the human left the planet. (Why is Raiju there?)

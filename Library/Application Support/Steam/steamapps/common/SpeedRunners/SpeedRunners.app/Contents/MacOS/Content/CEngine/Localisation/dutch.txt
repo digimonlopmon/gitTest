@@ -1,0 +1,37 @@
+[controller]
+DPad=D-pad
+Thumbstick=Stick
+Trigger=Trekker
+LeftStick=Linkerstick
+RightStick=Rechterstick
+DPadUp=D-pad omhoog
+DPadDown=D-pad omlaag
+DPadLeft=D-pad links
+DPadRight=D-pad rechts
+Start=Start
+Back=Terug
+LeftShoulder=Linkerschouderknop
+RightShoulder=Rechterschouderknop
+BigButton=Grote knop
+RightTrigger=Rechtertrekker
+LeftTrigger=Linkertrekker
+RightThumbstickUp=Rechterstick omhoog
+RightThumbstickDown=Rechterstick omlaag
+RightThumbstickRight=Rechterstick rechts
+RightThumbstickLeft=Rechterstick links
+LeftThumbstickLeft=Linkerstick links
+LeftThumbstickUp=Linkerstick omhoog
+LeftThumbstickDown=Linkerstick omlaag
+LeftThumbstickRight=Linkerstick rechts
+
+[keyboard]
+DirectionKeys=Pijltjestoetsen
+
+[mouse]
+Mouse=Muis
+MouseButton=Muisknop
+LeftMouseButton=Linkermuisknop
+MiddleMouseButton=Middelste muisknop
+RightMouseButton=Rechtermuisknop
+MouseButtonX1=X1-muisknop
+MouseButtonX2=X2-muisknop

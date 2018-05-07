@@ -1,0 +1,130 @@
+20170525_22:03:39.638 WARNING: The PersistentKeyValueStore singleton had to be created with a NULL game. This should not need to happen because the main Game should create a PersistentKeyValueStore before anything else calls GetSingleton().
+20170525_22:03:39.846 INFO   : OS INFO: Unix 15.6.0.0
+20170525_22:03:39.846 INFO   : Using Mono instead of .NET Runtime.
+20170525_22:03:39.847 INFO   : Mono version: 2.10.9 (tarball)
+20170525_22:03:39.847 INFO   : In Run() on Release build, about to create the Game object.
+20170525_22:03:41.242 INFO   : GameBase::Game() entered.
+GameBase::Game()
+20170525_22:03:41.249 INFO   : Game constructor - Creating PersistentKeyValueStore
+20170525_22:03:41.251 INFO   : Game constructor - Making TGameData()
+20170525_22:03:41.251 INFO   : Game constructor - about to load settings
+20170525_22:03:41.252 INFO   : Game constructor - setting up content manager
+20170525_22:03:41.252 INFO   : Game constructor - creating GraphicsDeviceManager
+20170525_22:03:41.252 INFO   : Game constructor - Creating main InputHelper
+20170525_22:03:41.263 INFO   : Game constructor - adding singletons
+20170525_22:03:41.265 INFO   : Game constructor - Adding ThreadPoolComponent
+20170525_22:03:41.268 INFO   : Game constructor - done with Game Constructor.
+20170525_22:03:41.274 INFO   : Game created. About to call Game.Run()
+OpenGL Device: Intel(R) HD Graphics 515
+OpenGL Driver: 2.1 INTEL-10.14.73
+OpenGL Vendor: Intel Inc.
+MojoShader Profile: glsl120
+20170525_22:03:41.452 INFO   : Started Game Initialize.
+20170525_22:03:41.725 INFO   : Initing Render Targets.
+20170525_22:03:41.727 INFO   : Render Targets successfully inited.
+20170525_22:03:42.332 INFO   : Attempting to initialize Steam.
+SUCCESS: SteamAPI_Init()
+20170525_22:03:42.397 INFO   : Steam initialized properly.
+20170525_22:03:42.398 INFO   : Build ID (from Steam): 1649083
+20170525_22:03:42.400 INFO   : Game will run in language (culture): en-US
+20170525_22:03:42.405 INFO   : Starting setting initial game window size
+20170525_22:03:42.417 INFO   : Initing Render Targets.
+20170525_22:03:42.419 INFO   : Render Targets successfully inited.
+20170525_22:03:42.420 INFO   : Finished setting initial game window size: 1156x650
+20170525_22:03:42.420 INFO   : Game Initialized Successfully.
+20170525_22:03:44.766 INFO   : Starting first update call
+20170525_22:03:44.861 INFO   : STARTING ALLOCATIONS AT: 5/25/2017 10:03:44 PM
+20170525_22:03:44.996 INFO   : Finished first update call
+20170525_22:03:45.037 INFO   : Beginning first draw call
+20170525_22:03:45.149 INFO   : Finished first draw call
+20170525_22:03:47.065 INFO   : ALLOCATIONS FINISHED AT: 5/25/2017 10:03:47 PM
+20170525_22:03:47.094 INFO   : Switching to screen: ScreenIdentifier{'blueline splash screen'}
+20170525_22:03:50.108 INFO   : Switching to screen: ScreenIdentifier{'main menu'}
+20170525_22:03:50.118 INFO   : isPremium: no
+20170525_22:03:54.271 INFO   : Switching to screen: ScreenIdentifier{'online multiplayer main menu'}
+20170525_22:04:38.002 INFO   : Switching to screen: ScreenIdentifier{'online multiplayer lobby'}
+20170525_22:05:12.692 INFO   : Switching to screen: ScreenIdentifier{'online multiplayer main menu'}
+20170525_22:05:24.301 INFO   : Switching to screen: ScreenIdentifier{'online multiplayer lobby'}
+20170525_22:05:30.392 INFO   : Switching to screen: ScreenIdentifier{'online multiplayer main menu'}
+20170525_22:05:30.710 DEBUG  : Ignoring response because it did not match expected 'list_activegamessorted' function name. Another handler MIGHT process this response which was for 'steamlogin'.
+20170525_22:05:40.144 INFO   : Switching to screen: ScreenIdentifier{'online multiplayer lobby'}
+20170525_22:06:38.077 INFO   : Loading game from local file "./ChessTestBoards/00_ClassicBoard.fen"
+20170525_22:06:38.516 ERROR  : Tried to use SendMessageToGameServer which isn't implemented in BLC yet. MessageType: k_EMsgClientInitiateConnection - message ServerId: Steamworks.CSteamID
+20170525_22:06:38.526 INFO   : Switching to screen: ScreenIdentifier{'playing main game'}
+20170525_22:06:49.531 INFO   : Exiting.
+20170525_22:06:49.568 FEATURE: Disposing of GraphicsResource v2: Fonts/GillSansBold_SDF_0
+20170525_22:06:49.568 FEATURE: Disposing of GraphicsResource v2: Shaders/FXAA
+20170525_22:06:49.569 FEATURE: Disposing of GraphicsResource v2: Fonts/Linux Biolinum Capitals_SDF_0
+20170525_22:06:49.569 FEATURE: Disposing of GraphicsResource v2: Fonts/BankGothicMedium_SDF_0
+20170525_22:06:49.569 FEATURE: Disposing of GraphicsResource v2: Fonts/ArialBold_SDF_0
+20170525_22:06:49.569 FEATURE: Disposing of GraphicsResource v2: Textures/menu_cursor_overlay
+20170525_22:06:49.569 FEATURE: Disposing of GraphicsResource v2: Textures/Game Settings/checkon
+20170525_22:06:49.569 FEATURE: Disposing of GraphicsResource v2: Textures/menu
+20170525_22:06:49.569 FEATURE: Disposing of GraphicsResource v2: Textures/radial_glow
+20170525_22:06:49.570 FEATURE: Disposing of GraphicsResource v2: Models/Wand/Difuse_0
+20170525_22:06:49.571 FEATURE: Disposing of GraphicsResource v2: Shaders/DeferredRendering/ClearGBuffer
+20170525_22:06:49.571 FEATURE: Disposing of GraphicsResource v2: Shaders/DeferredRendering/DirectionalLightAccumulatorPostProcess
+20170525_22:06:49.571 FEATURE: Disposing of GraphicsResource v2: Shaders/DeferredRendering/PointLightAccumulatorPostProcess
+20170525_22:06:49.571 FEATURE: Disposing of GraphicsResource v2: Shaders/DeferredRendering/DeferredLightingPostProcess
+20170525_22:06:49.571 FEATURE: Disposing of GraphicsResource v2: Shaders/DeferredRendering/FogPostProcess
+20170525_22:06:49.572 FEATURE: Disposing of GraphicsResource v2: Shaders/DeferredRendering/DeferredPhong
+20170525_22:06:49.572 FEATURE: Disposing of GraphicsResource v2: Textures/rules/bigIntroPic
+20170525_22:06:49.572 FEATURE: Disposing of GraphicsResource v2: Textures/rules/InitialSetup
+20170525_22:06:49.572 FEATURE: Disposing of GraphicsResource v2: Textures/rules/PawnMovement_Opening
+20170525_22:06:49.572 FEATURE: Disposing of GraphicsResource v2: Textures/rules/PawnMovementAndCapturing
+20170525_22:06:49.573 FEATURE: Disposing of GraphicsResource v2: Textures/rules/EnPassant
+20170525_22:06:49.573 FEATURE: Disposing of GraphicsResource v2: Textures/rules/KnightMovement
+20170525_22:06:49.573 FEATURE: Disposing of GraphicsResource v2: Textures/rules/BishopMovement
+20170525_22:06:49.574 FEATURE: Disposing of GraphicsResource v2: Textures/rules/RookMovement
+20170525_22:06:49.574 FEATURE: Disposing of GraphicsResource v2: Textures/rules/QueenMovement
+20170525_22:06:49.574 FEATURE: Disposing of GraphicsResource v2: Textures/rules/KingMovement
+20170525_22:06:49.575 FEATURE: Disposing of GraphicsResource v2: Textures/rules/Castling
+20170525_22:06:49.575 FEATURE: Disposing of GraphicsResource v2: Textures/blueline_logo
+20170525_22:06:49.575 FEATURE: Disposing of GraphicsResource v2: Textures/chess_logo_fancy
+20170525_22:06:49.576 FEATURE: Disposing of GraphicsResource v2: Textures/chess_logo_clearbg
+20170525_22:06:49.576 FEATURE: Disposing of GraphicsResource v2: Textures/CrossPromotions/othello_big_feature
+20170525_22:06:49.576 FEATURE: Disposing of GraphicsResource v2: Textures/loading_screen
+20170525_22:06:49.576 FEATURE: Disposing of GraphicsResource v2: Shaders/SDF
+20170525_22:06:49.579 FEATURE: Disposing of GraphicsResource v2: ChessSets/3D/Bauhaus/Knight/WhiteKnightTex_0
+20170525_22:06:49.580 FEATURE: Disposing of GraphicsResource v2: Textures/blueline_logo_black_bg_870x370
+20170525_22:06:49.581 FEATURE: Disposing of GraphicsResource v2: Textures/Main Menu/background
+20170525_22:06:49.583 FEATURE: Disposing of GraphicsResource v2: Textures/Main Menu/logo
+20170525_22:06:49.583 FEATURE: Disposing of GraphicsResource v2: Textures/xboxControllerButtonX_40
+20170525_22:06:49.583 FEATURE: Disposing of GraphicsResource v2: Textures/emptywhite
+20170525_22:06:49.583 FEATURE: Disposing of GraphicsResource v2: Textures/Main Menu/bullet
+20170525_22:06:49.583 FEATURE: Disposing of GraphicsResource v2: Textures/secret_dark_400px
+20170525_22:06:49.583 FEATURE: Disposing of GraphicsResource v2: Textures/keyboardkeys40
+20170525_22:06:49.583 FEATURE: Disposing of GraphicsResource v2: Textures/pointer
+20170525_22:06:49.583 FEATURE: Disposing of GraphicsResource v2: Textures/OnlineScreen/background
+20170525_22:06:49.584 FEATURE: Disposing of GraphicsResource v2: Textures/Lobby/background
+20170525_22:06:49.585 FEATURE: Disposing of GraphicsResource v2: Textures/64px-Nuvola_person_icon
+20170525_22:06:49.585 FEATURE: Disposing of GraphicsResource v2: Textures/64px-default_waiting_picture
+20170525_22:06:49.585 FEATURE: Disposing of GraphicsResource v2: Textures/xboxControllerStart_64
+20170525_22:06:49.585 FEATURE: Disposing of GraphicsResource v2: Fonts/Myriad Pro/Condensed Italic_SDF_0
+20170525_22:06:49.585 FEATURE: Disposing of GraphicsResource v2: Textures/scrollbuttons
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/HUD/largeslideout
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/HUD/largeslideoutborder
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/HUD/smallslideout
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/HUD/smallslideoutborder
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/HUD/namepill
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/HUD/ratingpill
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/HUD/avataroverlay
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/wopr
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Rook\WhiteRookTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Pawn\WhitePawnTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Knight\WhiteKnightTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Bishop\WhiteBishopTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\King\WhiteKingTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Queen\WhiteQueenTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Pawn\BlackPawnTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Rook\BlackRookTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Knight\BlackKnightTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Bishop\BlackBishopTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets/3D/Classic/Board/BoardTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\King\BlackKingTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets\3D\Classic\Queen\BlackQueenTex
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/Tabletops/Marble/Marble
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: ChessSets/2D/Monochrome/pieces
+20170525_22:06:49.586 FEATURE: Disposing of GraphicsResource v2: Textures/Tabletops/Marble/Marble2D
+20170525_22:06:49.587 FEATURE: Disposing of GraphicsResource v2: ChessSets/2D/SilverAndGold/boardSquares
+20170525_22:06:49.587 FEATURE: Disposing of GraphicsResource v2: ChessSets/2D/SilverAndGold/pieces

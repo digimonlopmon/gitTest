@@ -1,0 +1,10 @@
+This plugin is Copyright (C) 2016 Daniel "Liquidize" Deptula & Archeia.
+
+This plugin is licensed to you, the user under the terms that you credit
+Liquidize and Archeia in your game (commercial or free). The terms also include you leaving all
+copyrights intact, you are however free to modify this plugin to add additional
+functionality or fix bugs.
+
+This plugin uses a modified Greenworks source, internally referred to as "Steamworks" (to keep shit simple and stuff).
+Greenworks is licensed under the MIT License, that license is included in its own file, and must be included with your (BE SURE TO SPECIFIY ITS JUST FOR GREENWORKS OR YOU JUST LICENSED YOUR GAME UNDER MIT).
+

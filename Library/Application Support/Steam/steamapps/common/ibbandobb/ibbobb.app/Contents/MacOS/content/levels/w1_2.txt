@@ -1,0 +1,9 @@
+chunks/w1_2_01000_start.tmx
+chunks/w1_2_02000_puzzle.tmx
+chunks/w1_2_03000_action.tmx
+chunks/w1_2_04000_deco.tmx
+chunks/w1_2_05000_puzzle.tmx
+chunks/w1_2_06000_action.tmx
+chunks/w1_2_07000_deco.tmx
+chunks/w1_2_08000_puzzle.tmx
+chunks/w1_2_09000_end.tmx

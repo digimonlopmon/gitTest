@@ -1,0 +1,1 @@
+CFBundleDisplayName = "Overwatch on GeForce NOW";

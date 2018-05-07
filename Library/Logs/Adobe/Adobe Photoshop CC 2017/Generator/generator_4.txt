@@ -1,0 +1,80 @@
+Logging Generator in directory: /Users/lop/Library/Logs/Adobe/Adobe Photoshop CC 2017/Generator
+Use '-v' option to print logs to stdout
+Log file created on Sat Mar 03 2018 18:00:17 GMT-0800 (PST)
+
+[debug:core 18:00:17.252 generator.js:103:17] Launching with config:
+{}
+[debug:core 18:00:17.253 generator.js:105:21] provided PS information:
+ version 18.1.0
+ path/Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/
+
+[info:core 18:00:17.266 generator.js:227:25] Detected Photoshop version: 18.1.0
+[1;31mNo viable plugins were found in '/Applications/Adobe Photoshop CC 2017/Plug-Ins/Generator/'
+[0m[debug:core 18:00:17.291 generator.js:1804:21] Loading plugin: generator-assets (v2.7.3) from directory: /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/Required/Plug-ins/Generator/assets.generate
+[debug:core 18:00:17.400 generator.js:1820:21] Plugin loaded: generator-assets
+[debug:core 18:00:17.400 generator.js:1804:21] Loading plugin: crema (v3.0.8) from directory: /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/Required/Plug-ins/Generator/crema.generate
+[debug:core 18:00:17.676 generator.js:1820:21] Plugin loaded: crema
+[debug:core 18:00:17.677 generator.js:1804:21] Loading plugin: generator-spaces (v0.4.3) from directory: /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/Required/Plug-ins/Generator/spaces.generate
+[debug:core 18:00:18.075 generator.js:1820:21] Plugin loaded: generator-spaces
+[debug:core 18:00:18.076 generator.js:1804:21] Loading plugin: adobe-preview-generator-plugin (v1.3.1-8ae3a69) from directory: /Library/Application Support/Adobe/Plug-Ins/CC/Generator/previewHD.generate
+[debug:core 18:00:18.588 generator.js:1820:21] Plugin loaded: adobe-preview-generator-plugin
+[info:generator-spaces 18:00:18.592 main.js:36:20] Starting websocket server...
+[1;31muser settings file could not be created
+[0m[info:generator-spaces 18:00:21.032 main.js:39:28] Started websocket server on port 59596
+[info:generator-spaces 18:00:21.382 main.js:44:28] For kicks, fetched stored port from generator:  59596
+[info:crema 18:01:00.541 main.js:343:17] Accepted websocket connection with ID 0
+[info:crema 18:01:00.555 main.js:301:17] initial message recieved
+[0mGET /handshake [32m200 [0m6.837 ms - -[0m
+[info:crema 18:01:00.586 main.js:165:21] received command: docinfo
+[info:crema 18:01:01.345 main.js:165:21] received command: generatePreview
+[info:core 18:01:01.503 photoshop.js:475:26] 16ms to receive 1783.6 kB (111476.8 kB/s)
+[info:core 18:01:01.602 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/1.png?t=1520128861340 [32m200 [0m12.575 ms - -[0m
+[info:crema 18:01:21.967 main.js:165:21] received command: generatePreview
+[info:core 18:01:22.097 photoshop.js:475:26] 22ms to receive 1783.7 kB (81075.7 kB/s)
+[info:core 18:01:22.121 convert.js:229:20] Using Flite for image encoding
+[info:crema 18:01:23.098 main.js:165:21] received command: generatePreview
+[info:core 18:01:23.236 photoshop.js:475:26] 11ms to receive 1783.6 kB (162148.1 kB/s)
+[info:core 18:01:23.248 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/2.png?t=1520128883097 [32m200 [0m12.066 ms - -[0m
+[info:crema 18:01:52.196 main.js:165:21] received command: exportComponents
+[info:core 18:01:52.420 convert.js:229:20] Using Flite for image encoding
+[info:crema 18:01:53.178 main.js:165:21] received command: setDefaultSettings
+[1;31muser settings file could not be created
+[0m[info:crema 18:01:53.608 main.js:356:21] WebSocket connection with ID 0 closed
+[info:crema 18:02:05.789 main.js:343:17] Accepted websocket connection with ID 1
+[info:crema 18:02:05.793 main.js:301:17] initial message recieved
+[0mGET /handshake [32m200 [0m0.460 ms - -[0m
+[info:crema 18:02:05.804 main.js:165:21] received command: docinfo
+[info:crema 18:02:06.851 main.js:165:21] received command: generatePreview
+[info:core 18:02:06.987 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/4.png?t=1520128926844 [32m200 [0m8.584 ms - -[0m
+[info:crema 18:02:12.903 main.js:165:21] received command: exportComponents
+[info:crema 18:02:13.501 main.js:165:21] received command: setDefaultSettings
+[1;31muser settings file could not be created
+[0m[info:crema 18:02:13.618 main.js:356:21] WebSocket connection with ID 1 closed
+[info:crema 18:02:33.292 main.js:343:17] Accepted websocket connection with ID 2
+[info:crema 18:02:33.302 main.js:301:17] initial message recieved
+[0mGET /handshake [32m200 [0m0.857 ms - -[0m
+[info:crema 18:02:33.318 main.js:165:21] received command: docinfo
+[info:crema 18:02:34.306 main.js:165:21] received command: generatePreview
+[info:core 18:02:34.421 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/5.png?t=1520128954303 [32m200 [0m11.734 ms - -[0m
+[info:crema 18:02:45.095 main.js:165:21] received command: exportComponents
+[info:crema 18:02:45.587 main.js:165:21] received command: setDefaultSettings
+[1;31muser settings file could not be created
+[0m[info:crema 18:02:45.733 main.js:356:21] WebSocket connection with ID 2 closed
+[info:crema 18:02:56.742 main.js:343:17] Accepted websocket connection with ID 3
+[info:crema 18:02:56.757 main.js:301:17] initial message recieved
+[0mGET /handshake [32m200 [0m0.520 ms - -[0m
+[info:crema 18:02:56.777 main.js:165:21] received command: docinfo
+[info:crema 18:02:57.767 main.js:165:21] received command: generatePreview
+[info:core 18:02:57.919 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/6.png?t=1520128977764 [32m200 [0m11.725 ms - -[0m
+[info:crema 18:03:17.787 main.js:165:21] received command: exportComponents
+[info:crema 18:03:18.200 main.js:165:21] received command: setDefaultSettings
+[1;31muser settings file could not be created
+[0m[info:crema 18:03:18.316 main.js:356:21] WebSocket connection with ID 3 closed
+[info:core 10:31:11.576 generator.js:117:25] Photoshop connection closed
+[1;31mExiting with code 0: Generator close event
+[0m

@@ -1,0 +1,16 @@
+bounce_basic
+crawl_basic
+levelman_walk
+levelman_jump
+levelman_freeze
+crawl_freeze
+bounce_l_r
+bounce_clock
+bounce_double
+levelman_count
+fly_basic
+bounce_high_low
+bounce_a_b_c
+bounce_final_low
+bounce_final_high
+endboss2

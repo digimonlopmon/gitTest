@@ -1,0 +1,132 @@
+April 3, 2014 Update:
+ - RC3
+
+April 1, 2014 Update 3:
+ - RC2
+
+April 1, 2014 Update 2:
+ - RC1
+
+April 1, 2014 Update:
+ - RC0 Win32 code and universal content build
+
+March 7, 2014 Update:
+ - Fixed an input bug. Stubbed out Steamworks integration in case the game gets Greenlit any time soon.
+
+February 17, 2014 Update:
+ - Removed NERD engine features for parity with NFML builds. Added Playable Cat DLC.
+
+October 24, 2013 Update 2:
+ - Fixed a bug in where jumping into a moving platform could cause the player to vanish from the world.
+
+October 24, 2013 Update:
+ - Modified a number of shaders to include explicit casts so that GLSL doesn't choke on them.
+ - Use previous velocity for testing effects threshold on landing. This is a better fix for landing effects that doesn't break ceiling collision. >_<
+ - Fixed Xbox 360 gamepad buttons not showing up in the bindings screen.
+
+October 16, 2013 Update:
+ - Updated Bramble Patcher to version 1.2. This may fix the partially downloaded file bug.
+
+October 10, 2013 Update 2:
+ - Fixed audio and particle effects not playing on landing after walking off or falling through a platform.
+
+October 10, 2013 Update:
+ - Replaced a couple of SwitchToThread() calls with Sleep() calls in the streaming audio and stat logging threads. This should alleviate some CPU thrashing caused by allowing these threads to spin idly.
+
+October 8, 2013 Update:
+ - Added Accept-Encoding and TE headers to HTTP requests to indicate acceptable response formats. May address failed checksums when patching, although I have not been able to reproduce that behavior locally, so it's really a shot in the dark.
+
+October 6, 2013 Update 5:
+ - Fixed a bug where patch notes were being duplicated across multiple patches. (Echo echo echo...)
+
+October 6, 2013 Update 4:
+ - Fixed a one-frame bug where the player character would appear before the title screen.
+ - Fixed a crash in YHtWtG introduced by the last patch.
+
+October 6, 2013 Update 3:
+ - Fixed a one-frame bug where the player character would appear before the title screen.
+ - Fixed a bug that could cause a crash, hang, or flickering/resetting device due to the game window losing focus at startup.
+
+October 6, 2013 Update 2:
+ - Default to FXAA off for now, since shader model requirements are apparently not being tested/reported correctly.
+ - Fixed a bug that could cause a crash, hang, or flickering/resetting device due to the game window losing focus at startup.
+
+October 6, 2013 Update:
+ - Not quite ready to support the Rift yet in YHtWtG.
+ - Removed some console commands that don't do anything yet and/or are only needed for debugging.
+ - Default to FXAA off for now, since shader model requirements are apparently not being tested/reported correctly.
+
+October 1, 2013 Update 2:
+ - Not quite ready to support the Rift yet in YHtWtG.
+
+October 1, 2013 Update:
+ - Fixed a bug where the campaign selection menu would show the wrong number of pages in some cases.
+ - More generalizations for future projects. Collision components can now contain an arbitrary set of primitives. Will likely require more work to resolve collision properly when sweeping multi-primitive entities, but since all the entities in YHtWtG have only one primitive, this hasn't been an issue yet.
+ - More updates to play nice with recent engine changes.
+ - Fixed a bug with screenshot format being ignored.
+ - Fixed a few bugs related to recent engine changes.
+ - Added a brightness calibration image.
+
+July 30, 2013 Update:
+ - Fixed a bug in which streaming audio would not reset properly after playing to completion.
+ - Lots of work under the hood to facilitate easier development of future titles. Probably won't break YHtWtG. ^_^;
+ - Fixed a bug where the campaign selection menu would show the wrong number of pages in some cases.
+
+July 24, 2013 Update:
+ - Added support for automatically generating patch notes from checkin comments.
+
+July 23, 2013 Update 2:
+ - Made changes to build process.
+
+July 23, 2013 Update:
+ - Added UI polish, fixed Twitter link, and added support for different screenshot formats.
+
+July 22, 2013 Update:
+ - Fixed the bug where the player becomes ungrounded when the game is paused.
+
+July 16, 2013 Update:
+ - Porting recent engine improvements back to YHtWtG.
+
+July 5, 2013 Update 2:
+ - Engine tweaks.
+
+July 5, 2013 Update:
+ - Uninstaller will no longer delete adjacent files. It is still recommended to install the game into a fresh folder, however.
+
+June 13, 2013 Update:
+ - Added YOLO mode.
+
+April 27, 2013 Update 2:
+ - Fixed another rendering bug.
+
+April 27, 2013 Update:
+ - Fixed a rendering bug.
+
+December 20, 2012 Update:
+ - Enabled editor support. (!!)
+
+November 23, 2012 Update:
+ - Fixed a handful of input bugs.
+
+November 9, 2012 Update:
+ - Fixed crash bug when outputting strings for localization.
+
+July 2, 2012 Update:
+ - Fixed an off-by-one-frame gravity bug. (Thanks Kabuto!)
+
+June 7, 2012 Update:
+ - Made Kanji a default key for opening the console.
+
+June 4, 2012 Update:
+ - Allowing pause to be unbound is disastrous. Don't do that!
+
+June 3, 2012 Update:
+ - Made engine controls bindable
+
+May 20, 2012 Update:
+ - Added game options menu
+ - Added CRT toggle
+ - Added alternate down jump control mode
+ - Finished localization support
+ - Added autosave icon
+ - Minor bug fixes and tweaks

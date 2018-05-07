@@ -1,0 +1,2091 @@
+
+
+[2017-12-22 14:28:05] 	Account ID: 139082563
+[2017-12-22 14:28:05] 	Enabled: false
+[2017-12-22 14:28:05] 	Base list: 0 ()
+[2017-12-22 14:28:05] 	No custom list
+[2017-12-22 14:28:05] 	No enabled features
+[2017-12-22 14:58:12] Validating parental settings
+[2017-12-22 14:58:12] Settings dump:
+[2017-12-22 14:58:12] 	Account ID: 139082563
+[2017-12-22 14:58:12] 	Enabled: false
+[2017-12-22 14:58:12] 	Base list: 0 ()
+[2017-12-22 14:58:12] 	No custom list
+[2017-12-22 14:58:12] 	No enabled features
+[2017-12-22 15:17:44] Validating parental settings
+[2017-12-22 15:17:44] Settings dump:
+[2017-12-22 15:17:44] 	Account ID: 139082563
+[2017-12-22 15:17:44] 	Enabled: false
+[2017-12-22 15:17:44] 	Base list: 0 ()
+[2017-12-22 15:17:44] 	No custom list
+[2017-12-22 15:17:44] 	No enabled features
+[2017-12-22 15:37:45] Validating parental settings
+[2017-12-22 15:37:45] Settings dump:
+[2017-12-22 15:37:45] 	Account ID: 139082563
+[2017-12-22 15:37:45] 	Enabled: false
+[2017-12-22 15:37:45] 	Base list: 0 ()
+[2017-12-22 15:37:45] 	No custom list
+[2017-12-22 15:37:45] 	No enabled features
+[2017-12-22 15:57:43] Validating parental settings
+[2017-12-22 15:57:43] Settings dump:
+[2017-12-22 15:57:43] 	Account ID: 139082563
+[2017-12-22 15:57:43] 	Enabled: false
+[2017-12-22 15:57:43] 	Base list: 0 ()
+[2017-12-22 15:57:43] 	No custom list
+[2017-12-22 15:57:43] 	No enabled features
+[2017-12-22 17:08:05] Validating parental settings
+[2017-12-22 17:08:05] Settings dump:
+[2017-12-22 17:08:05] 	Account ID: 139082563
+[2017-12-22 17:08:05] 	Enabled: false
+[2017-12-22 17:08:05] 	Base list: 0 ()
+[2017-12-22 17:08:05] 	No custom list
+[2017-12-22 17:08:05] 	No enabled features
+[2017-12-22 17:28:11] Validating parental settings
+[2017-12-22 17:28:11] Settings dump:
+[2017-12-22 17:28:11] 	Account ID: 139082563
+[2017-12-22 17:28:11] 	Enabled: false
+[2017-12-22 17:28:11] 	Base list: 0 ()
+[2017-12-22 17:28:11] 	No custom list
+[2017-12-22 17:28:11] 	No enabled features
+[2017-12-22 17:58:02] Validating parental settings
+[2017-12-22 17:58:02] Settings dump:
+[2017-12-22 17:58:02] 	Account ID: 139082563
+[2017-12-22 17:58:02] 	Enabled: false
+[2017-12-22 17:58:02] 	Base list: 0 ()
+[2017-12-22 17:58:02] 	No custom list
+[2017-12-22 17:58:02] 	No enabled features
+[2017-12-22 18:37:43] Validating parental settings
+[2017-12-22 18:37:43] Settings dump:
+[2017-12-22 18:37:43] 	Account ID: 139082563
+[2017-12-22 18:37:43] 	Enabled: false
+[2017-12-22 18:37:43] 	Base list: 0 ()
+[2017-12-22 18:37:43] 	No custom list
+[2017-12-22 18:37:43] 	No enabled features
+[2017-12-23 01:19:47] Validating parental settings
+[2017-12-23 01:19:47] Settings dump:
+[2017-12-23 01:19:47] 	Account ID: 139082563
+[2017-12-23 01:19:47] 	Enabled: false
+[2017-12-23 01:19:47] 	Base list: 0 ()
+[2017-12-23 01:19:47] 	No custom list
+[2017-12-23 01:19:47] 	No enabled features
+[2017-12-23 01:48:45] Validating parental settings
+[2017-12-23 01:48:45] Settings dump:
+[2017-12-23 01:48:45] 	Account ID: 139082563
+[2017-12-23 01:48:45] 	Enabled: false
+[2017-12-23 01:48:45] 	Base list: 0 ()
+[2017-12-23 01:48:45] 	No custom list
+[2017-12-23 01:48:45] 	No enabled features
+[2017-12-23 23:40:40] Validating parental settings
+[2017-12-23 23:40:40] Settings dump:
+[2017-12-23 23:40:40] 	Account ID: 139082563
+[2017-12-23 23:40:40] 	Enabled: false
+[2017-12-23 23:40:40] 	Base list: 0 ()
+[2017-12-23 23:40:40] 	No custom list
+[2017-12-23 23:40:40] 	No enabled features
+[2017-12-27 01:07:08] Validating parental settings
+[2017-12-27 01:07:08] Settings dump:
+[2017-12-27 01:07:08] 	Account ID: 139082563
+[2017-12-27 01:07:08] 	Enabled: false
+[2017-12-27 01:07:08] 	Base list: 0 ()
+[2017-12-27 01:07:08] 	No custom list
+[2017-12-27 01:07:08] 	No enabled features
+[2017-12-28 00:56:11] Validating parental settings
+[2017-12-28 00:56:11] Settings dump:
+[2017-12-28 00:56:11] 	Account ID: 139082563
+[2017-12-28 00:56:11] 	Enabled: false
+[2017-12-28 00:56:11] 	Base list: 0 ()
+[2017-12-28 00:56:11] 	No custom list
+[2017-12-28 00:56:11] 	No enabled features
+[2017-12-28 22:51:10] Validating parental settings
+[2017-12-28 22:51:10] Settings dump:
+[2017-12-28 22:51:10] 	Account ID: 139082563
+[2017-12-28 22:51:10] 	Enabled: false
+[2017-12-28 22:51:10] 	Base list: 0 ()
+[2017-12-28 22:51:10] 	No custom list
+[2017-12-28 22:51:10] 	No enabled features
+[2017-12-28 23:20:38] Validating parental settings
+[2017-12-28 23:20:38] Settings dump:
+[2017-12-28 23:20:38] 	Account ID: 139082563
+[2017-12-28 23:20:38] 	Enabled: false
+[2017-12-28 23:20:38] 	Base list: 0 ()
+[2017-12-28 23:20:38] 	No custom list
+[2017-12-28 23:20:38] 	No enabled features
+[2017-12-28 23:25:09] Validating parental settings
+[2017-12-28 23:25:09] Settings dump:
+[2017-12-28 23:25:09] 	Account ID: 139082563
+[2017-12-28 23:25:09] 	Enabled: false
+[2017-12-28 23:25:09] 	Base list: 0 ()
+[2017-12-28 23:25:09] 	No custom list
+[2017-12-28 23:25:09] 	No enabled features
+[2017-12-29 00:28:44] Validating parental settings
+[2017-12-29 00:28:44] Settings dump:
+[2017-12-29 00:28:44] 	Account ID: 139082563
+[2017-12-29 00:28:44] 	Enabled: false
+[2017-12-29 00:28:44] 	Base list: 0 ()
+[2017-12-29 00:28:44] 	No custom list
+[2017-12-29 00:28:44] 	No enabled features
+[2017-12-29 00:48:19] Validating parental settings
+[2017-12-29 00:48:19] Settings dump:
+[2017-12-29 00:48:19] 	Account ID: 139082563
+[2017-12-29 00:48:19] 	Enabled: false
+[2017-12-29 00:48:19] 	Base list: 0 ()
+[2017-12-29 00:48:19] 	No custom list
+[2017-12-29 00:48:19] 	No enabled features
+[2017-12-29 01:57:07] Validating parental settings
+[2017-12-29 01:57:07] Settings dump:
+[2017-12-29 01:57:07] 	Account ID: 139082563
+[2017-12-29 01:57:07] 	Enabled: false
+[2017-12-29 01:57:07] 	Base list: 0 ()
+[2017-12-29 01:57:07] 	No custom list
+[2017-12-29 01:57:07] 	No enabled features
+[2017-12-29 02:16:53] Validating parental settings
+[2017-12-29 02:16:53] Settings dump:
+[2017-12-29 02:16:53] 	Account ID: 139082563
+[2017-12-29 02:16:53] 	Enabled: false
+[2017-12-29 02:16:53] 	Base list: 0 ()
+[2017-12-29 02:16:53] 	No custom list
+[2017-12-29 02:16:53] 	No enabled features
+[2017-12-29 02:36:40] Validating parental settings
+[2017-12-29 02:36:40] Settings dump:
+[2017-12-29 02:36:40] 	Account ID: 139082563
+[2017-12-29 02:36:40] 	Enabled: false
+[2017-12-29 02:36:40] 	Base list: 0 ()
+[2017-12-29 02:36:40] 	No custom list
+[2017-12-29 02:36:40] 	No enabled features
+[2017-12-29 02:46:42] Validating parental settings
+[2017-12-29 02:46:42] Settings dump:
+[2017-12-29 02:46:42] 	Account ID: 139082563
+[2017-12-29 02:46:42] 	Enabled: false
+[2017-12-29 02:46:42] 	Base list: 0 ()
+[2017-12-29 02:46:42] 	No custom list
+[2017-12-29 02:46:42] 	No enabled features
+[2017-12-29 03:06:17] Validating parental settings
+[2017-12-29 03:06:17] Settings dump:
+[2017-12-29 03:06:17] 	Account ID: 139082563
+[2017-12-29 03:06:17] 	Enabled: false
+[2017-12-29 03:06:17] 	Base list: 0 ()
+[2017-12-29 03:06:17] 	No custom list
+[2017-12-29 03:06:17] 	No enabled features
+[2017-12-29 03:28:53] Validating parental settings
+[2017-12-29 03:28:53] Settings dump:
+[2017-12-29 03:28:53] 	Account ID: 139082563
+[2017-12-29 03:28:53] 	Enabled: false
+[2017-12-29 03:28:53] 	Base list: 0 ()
+[2017-12-29 03:28:53] 	No custom list
+[2017-12-29 03:28:53] 	No enabled features
+[2017-12-29 04:09:11] Validating parental settings
+[2017-12-29 04:09:11] Settings dump:
+[2017-12-29 04:09:11] 	Account ID: 139082563
+[2017-12-29 04:09:11] 	Enabled: false
+[2017-12-29 04:09:11] 	Base list: 0 ()
+[2017-12-29 04:09:11] 	No custom list
+[2017-12-29 04:09:11] 	No enabled features
+[2017-12-29 04:58:48] Validating parental settings
+[2017-12-29 04:58:48] Settings dump:
+[2017-12-29 04:58:48] 	Account ID: 139082563
+[2017-12-29 04:58:48] 	Enabled: false
+[2017-12-29 04:58:48] 	Base list: 0 ()
+[2017-12-29 04:58:48] 	No custom list
+[2017-12-29 04:58:48] 	No enabled features
+[2017-12-29 05:48:44] Validating parental settings
+[2017-12-29 05:48:44] Settings dump:
+[2017-12-29 05:48:44] 	Account ID: 139082563
+[2017-12-29 05:48:44] 	Enabled: false
+[2017-12-29 05:48:44] 	Base list: 0 ()
+[2017-12-29 05:48:44] 	No custom list
+[2017-12-29 05:48:44] 	No enabled features
+[2017-12-29 06:18:44] Validating parental settings
+[2017-12-29 06:18:44] Settings dump:
+[2017-12-29 06:18:44] 	Account ID: 139082563
+[2017-12-29 06:18:44] 	Enabled: false
+[2017-12-29 06:18:44] 	Base list: 0 ()
+[2017-12-29 06:18:44] 	No custom list
+[2017-12-29 06:18:44] 	No enabled features
+[2017-12-29 06:57:07] Validating parental settings
+[2017-12-29 06:57:07] Settings dump:
+[2017-12-29 06:57:07] 	Account ID: 139082563
+[2017-12-29 06:57:07] 	Enabled: false
+[2017-12-29 06:57:07] 	Base list: 0 ()
+[2017-12-29 06:57:07] 	No custom list
+[2017-12-29 06:57:07] 	No enabled features
+[2017-12-29 07:57:14] Validating parental settings
+[2017-12-29 07:57:14] Settings dump:
+[2017-12-29 07:57:14] 	Account ID: 139082563
+[2017-12-29 07:57:14] 	Enabled: false
+[2017-12-29 07:57:14] 	Base list: 0 ()
+[2017-12-29 07:57:14] 	No custom list
+[2017-12-29 07:57:14] 	No enabled features
+[2017-12-29 08:17:17] Validating parental settings
+[2017-12-29 08:17:17] Settings dump:
+[2017-12-29 08:17:17] 	Account ID: 139082563
+[2017-12-29 08:17:17] 	Enabled: false
+[2017-12-29 08:17:17] 	Base list: 0 ()
+[2017-12-29 08:17:17] 	No custom list
+[2017-12-29 08:17:17] 	No enabled features
+[2017-12-29 08:46:52] Validating parental settings
+[2017-12-29 08:46:52] Settings dump:
+[2017-12-29 08:46:52] 	Account ID: 139082563
+[2017-12-29 08:46:52] 	Enabled: false
+[2017-12-29 08:46:52] 	Base list: 0 ()
+[2017-12-29 08:46:52] 	No custom list
+[2017-12-29 08:46:52] 	No enabled features
+[2017-12-29 09:46:41] Validating parental settings
+[2017-12-29 09:46:41] Settings dump:
+[2017-12-29 09:46:41] 	Account ID: 139082563
+[2017-12-29 09:46:41] 	Enabled: false
+[2017-12-29 09:46:41] 	Base list: 0 ()
+[2017-12-29 09:46:41] 	No custom list
+[2017-12-29 09:46:41] 	No enabled features
+[2017-12-29 10:26:55] Validating parental settings
+[2017-12-29 10:26:55] Settings dump:
+[2017-12-29 10:26:55] 	Account ID: 139082563
+[2017-12-29 10:26:55] 	Enabled: false
+[2017-12-29 10:26:55] 	Base list: 0 ()
+[2017-12-29 10:26:55] 	No custom list
+[2017-12-29 10:26:55] 	No enabled features
+[2017-12-29 10:35:36] Validating parental settings
+[2017-12-29 10:35:36] Settings dump:
+[2017-12-29 10:35:36] 	Account ID: 139082563
+[2017-12-29 10:35:36] 	Enabled: false
+[2017-12-29 10:35:36] 	Base list: 0 ()
+[2017-12-29 10:35:36] 	No custom list
+[2017-12-29 10:35:36] 	No enabled features
+[2017-12-29 11:37:02] Validating parental settings
+[2017-12-29 11:37:02] Settings dump:
+[2017-12-29 11:37:02] 	Account ID: 139082563
+[2017-12-29 11:37:02] 	Enabled: false
+[2017-12-29 11:37:02] 	Base list: 0 ()
+[2017-12-29 11:37:02] 	No custom list
+[2017-12-29 11:37:02] 	No enabled features
+[2017-12-29 13:15:39] Validating parental settings
+[2017-12-29 13:15:39] Settings dump:
+[2017-12-29 13:15:39] 	Account ID: 139082563
+[2017-12-29 13:15:39] 	Enabled: false
+[2017-12-29 13:15:39] 	Base list: 0 ()
+[2017-12-29 13:15:39] 	No custom list
+[2017-12-29 13:15:39] 	No enabled features
+[2017-12-29 13:44:48] Validating parental settings
+[2017-12-29 13:44:48] Settings dump:
+[2017-12-29 13:44:48] 	Account ID: 139082563
+[2017-12-29 13:44:48] 	Enabled: false
+[2017-12-29 13:44:48] 	Base list: 0 ()
+[2017-12-29 13:44:48] 	No custom list
+[2017-12-29 13:44:48] 	No enabled features
+[2017-12-29 14:14:16] Validating parental settings
+[2017-12-29 14:14:16] Settings dump:
+[2017-12-29 14:14:16] 	Account ID: 139082563
+[2017-12-29 14:14:16] 	Enabled: false
+[2017-12-29 14:14:16] 	Base list: 0 ()
+[2017-12-29 14:14:16] 	No custom list
+[2017-12-29 14:14:16] 	No enabled features
+[2018-01-04 11:46:48] Validating parental settings
+[2018-01-04 11:46:48] Settings dump:
+[2018-01-04 11:46:48] 	Account ID: 139082563
+[2018-01-04 11:46:48] 	Enabled: false
+[2018-01-04 11:46:48] 	Base list: 0 ()
+[2018-01-04 11:46:48] 	No custom list
+[2018-01-04 11:46:48] 	No enabled features
+
+
+[2018-01-04 11:52:00] Validating parental settings
+[2018-01-04 11:52:00] Settings dump:
+[2018-01-04 11:52:00] 	Account ID: 139082563
+[2018-01-04 11:52:00] 	Enabled: false
+[2018-01-04 11:52:00] 	Base list: 0 ()
+[2018-01-04 11:52:00] 	No custom list
+[2018-01-04 11:52:00] 	No enabled features
+[2018-01-04 12:13:39] Validating parental settings
+[2018-01-04 12:13:39] Settings dump:
+[2018-01-04 12:13:39] 	Account ID: 139082563
+[2018-01-04 12:13:39] 	Enabled: false
+[2018-01-04 12:13:39] 	Base list: 0 ()
+[2018-01-04 12:13:39] 	No custom list
+[2018-01-04 12:13:39] 	No enabled features
+[2018-01-04 12:17:46] Validating parental settings
+[2018-01-04 12:17:46] Settings dump:
+[2018-01-04 12:17:46] 	Account ID: 139082563
+[2018-01-04 12:17:46] 	Enabled: false
+[2018-01-04 12:17:46] 	Base list: 0 ()
+[2018-01-04 12:17:46] 	No custom list
+[2018-01-04 12:17:46] 	No enabled features
+[2018-01-04 12:22:11] Validating parental settings
+[2018-01-04 12:22:11] Settings dump:
+[2018-01-04 12:22:11] 	Account ID: 139082563
+[2018-01-04 12:22:11] 	Enabled: false
+[2018-01-04 12:22:11] 	Base list: 0 ()
+[2018-01-04 12:22:11] 	No custom list
+[2018-01-04 12:22:11] 	No enabled features
+[2018-01-04 12:26:19] Validating parental settings
+[2018-01-04 12:26:19] Settings dump:
+[2018-01-04 12:26:19] 	Account ID: 139082563
+[2018-01-04 12:26:19] 	Enabled: false
+[2018-01-04 12:26:19] 	Base list: 0 ()
+[2018-01-04 12:26:19] 	No custom list
+[2018-01-04 12:26:19] 	No enabled features
+[2018-01-04 12:42:39] Validating parental settings
+[2018-01-04 12:42:39] Settings dump:
+[2018-01-04 12:42:39] 	Account ID: 139082563
+[2018-01-04 12:42:39] 	Enabled: false
+[2018-01-04 12:42:39] 	Base list: 0 ()
+[2018-01-04 12:42:39] 	No custom list
+[2018-01-04 12:42:39] 	No enabled features
+[2018-01-04 12:56:22] Validating parental settings
+[2018-01-04 12:56:22] Settings dump:
+[2018-01-04 12:56:22] 	Account ID: 139082563
+[2018-01-04 12:56:22] 	Enabled: false
+[2018-01-04 12:56:22] 	Base list: 0 ()
+[2018-01-04 12:56:22] 	No custom list
+[2018-01-04 12:56:22] 	No enabled features
+[2018-01-04 13:00:29] Validating parental settings
+[2018-01-04 13:00:29] Settings dump:
+[2018-01-04 13:00:29] 	Account ID: 139082563
+[2018-01-04 13:00:29] 	Enabled: false
+[2018-01-04 13:00:29] 	Base list: 0 ()
+[2018-01-04 13:00:29] 	No custom list
+[2018-01-04 13:00:29] 	No enabled features
+[2018-01-04 13:06:12] Validating parental settings
+[2018-01-04 13:06:12] Settings dump:
+[2018-01-04 13:06:12] 	Account ID: 139082563
+[2018-01-04 13:06:12] 	Enabled: false
+[2018-01-04 13:06:12] 	Base list: 0 ()
+[2018-01-04 13:06:12] 	No custom list
+[2018-01-04 13:06:12] 	No enabled features
+[2018-01-04 13:14:41] Validating parental settings
+[2018-01-04 13:14:41] Settings dump:
+[2018-01-04 13:14:41] 	Account ID: 139082563
+[2018-01-04 13:14:41] 	Enabled: false
+[2018-01-04 13:14:41] 	Base list: 0 ()
+[2018-01-04 13:14:41] 	No custom list
+[2018-01-04 13:14:41] 	No enabled features
+[2018-01-04 13:23:01] Validating parental settings
+[2018-01-04 13:23:01] Settings dump:
+[2018-01-04 13:23:01] 	Account ID: 139082563
+[2018-01-04 13:23:01] 	Enabled: false
+[2018-01-04 13:23:01] 	Base list: 0 ()
+[2018-01-04 13:23:01] 	No custom list
+[2018-01-04 13:23:01] 	No enabled features
+[2018-01-04 13:31:37] Validating parental settings
+[2018-01-04 13:31:37] Settings dump:
+[2018-01-04 13:31:37] 	Account ID: 139082563
+[2018-01-04 13:31:37] 	Enabled: false
+[2018-01-04 13:31:37] 	Base list: 0 ()
+[2018-01-04 13:31:37] 	No custom list
+[2018-01-04 13:31:37] 	No enabled features
+[2018-01-04 13:44:16] Validating parental settings
+[2018-01-04 13:44:16] Settings dump:
+[2018-01-04 13:44:16] 	Account ID: 139082563
+[2018-01-04 13:44:16] 	Enabled: false
+[2018-01-04 13:44:16] 	Base list: 0 ()
+[2018-01-04 13:44:16] 	No custom list
+[2018-01-04 13:44:16] 	No enabled features
+[2018-01-04 13:49:14] Validating parental settings
+[2018-01-04 13:49:14] Settings dump:
+[2018-01-04 13:49:14] 	Account ID: 139082563
+[2018-01-04 13:49:14] 	Enabled: false
+[2018-01-04 13:49:14] 	Base list: 0 ()
+[2018-01-04 13:49:14] 	No custom list
+[2018-01-04 13:49:14] 	No enabled features
+[2018-01-04 14:01:15] Validating parental settings
+[2018-01-04 14:01:15] Settings dump:
+[2018-01-04 14:01:15] 	Account ID: 139082563
+[2018-01-04 14:01:15] 	Enabled: false
+[2018-01-04 14:01:15] 	Base list: 0 ()
+[2018-01-04 14:01:15] 	No custom list
+[2018-01-04 14:01:15] 	No enabled features
+[2018-01-04 14:09:04] Validating parental settings
+[2018-01-04 14:09:04] Settings dump:
+[2018-01-04 14:09:04] 	Account ID: 139082563
+[2018-01-04 14:09:04] 	Enabled: false
+[2018-01-04 14:09:04] 	Base list: 0 ()
+[2018-01-04 14:09:04] 	No custom list
+[2018-01-04 14:09:04] 	No enabled features
+[2018-01-04 14:27:23] Validating parental settings
+[2018-01-04 14:27:23] Settings dump:
+[2018-01-04 14:27:23] 	Account ID: 139082563
+[2018-01-04 14:27:23] 	Enabled: false
+[2018-01-04 14:27:23] 	Base list: 0 ()
+[2018-01-04 14:27:23] 	No custom list
+[2018-01-04 14:27:23] 	No enabled features
+[2018-01-04 14:39:47] Validating parental settings
+[2018-01-04 14:39:47] Settings dump:
+[2018-01-04 14:39:47] 	Account ID: 139082563
+[2018-01-04 14:39:47] 	Enabled: false
+[2018-01-04 14:39:47] 	Base list: 0 ()
+[2018-01-04 14:39:47] 	No custom list
+[2018-01-04 14:39:47] 	No enabled features
+[2018-01-04 14:54:03] Validating parental settings
+[2018-01-04 14:54:03] Settings dump:
+[2018-01-04 14:54:03] 	Account ID: 139082563
+[2018-01-04 14:54:03] 	Enabled: false
+[2018-01-04 14:54:03] 	Base list: 0 ()
+[2018-01-04 14:54:03] 	No custom list
+[2018-01-04 14:54:03] 	No enabled features
+[2018-01-04 14:59:47] Validating parental settings
+[2018-01-04 14:59:47] Settings dump:
+[2018-01-04 14:59:47] 	Account ID: 139082563
+[2018-01-04 14:59:47] 	Enabled: false
+[2018-01-04 14:59:47] 	Base list: 0 ()
+[2018-01-04 14:59:47] 	No custom list
+[2018-01-04 14:59:47] 	No enabled features
+[2018-01-04 15:26:15] Validating parental settings
+[2018-01-04 15:26:15] Settings dump:
+[2018-01-04 15:26:15] 	Account ID: 139082563
+[2018-01-04 15:26:15] 	Enabled: false
+[2018-01-04 15:26:15] 	Base list: 0 ()
+[2018-01-04 15:26:15] 	No custom list
+[2018-01-04 15:26:15] 	No enabled features
+[2018-01-04 15:40:02] Validating parental settings
+[2018-01-04 15:40:02] Settings dump:
+[2018-01-04 15:40:02] 	Account ID: 139082563
+[2018-01-04 15:40:02] 	Enabled: false
+[2018-01-04 15:40:02] 	Base list: 0 ()
+[2018-01-04 15:40:02] 	No custom list
+[2018-01-04 15:40:02] 	No enabled features
+[2018-01-04 16:10:51] Validating parental settings
+[2018-01-04 16:10:51] Settings dump:
+[2018-01-04 16:10:51] 	Account ID: 139082563
+[2018-01-04 16:10:51] 	Enabled: false
+[2018-01-04 16:10:51] 	Base list: 0 ()
+[2018-01-04 16:10:51] 	No custom list
+[2018-01-04 16:10:51] 	No enabled features
+[2018-01-04 16:30:52] Validating parental settings
+[2018-01-04 16:30:52] Settings dump:
+[2018-01-04 16:30:52] 	Account ID: 139082563
+[2018-01-04 16:30:52] 	Enabled: false
+[2018-01-04 16:30:52] 	Base list: 0 ()
+[2018-01-04 16:30:52] 	No custom list
+[2018-01-04 16:30:52] 	No enabled features
+[2018-01-04 16:51:11] Validating parental settings
+[2018-01-04 16:51:11] Settings dump:
+[2018-01-04 16:51:11] 	Account ID: 139082563
+[2018-01-04 16:51:11] 	Enabled: false
+[2018-01-04 16:51:11] 	Base list: 0 ()
+[2018-01-04 16:51:11] 	No custom list
+[2018-01-04 16:51:11] 	No enabled features
+[2018-01-04 17:02:53] Validating parental settings
+[2018-01-04 17:02:53] Settings dump:
+[2018-01-04 17:02:53] 	Account ID: 139082563
+[2018-01-04 17:02:53] 	Enabled: false
+[2018-01-04 17:02:53] 	Base list: 0 ()
+[2018-01-04 17:02:53] 	No custom list
+[2018-01-04 17:02:53] 	No enabled features
+[2018-01-04 17:11:30] Validating parental settings
+[2018-01-04 17:11:30] Settings dump:
+[2018-01-04 17:11:30] 	Account ID: 139082563
+[2018-01-04 17:11:30] 	Enabled: false
+[2018-01-04 17:11:30] 	Base list: 0 ()
+[2018-01-04 17:11:30] 	No custom list
+[2018-01-04 17:11:30] 	No enabled features
+[2018-01-04 17:19:43] Validating parental settings
+[2018-01-04 17:19:43] Settings dump:
+[2018-01-04 17:19:43] 	Account ID: 139082563
+[2018-01-04 17:19:43] 	Enabled: false
+[2018-01-04 17:19:43] 	Base list: 0 ()
+[2018-01-04 17:19:43] 	No custom list
+[2018-01-04 17:19:43] 	No enabled features
+[2018-01-04 17:28:30] Validating parental settings
+[2018-01-04 17:28:30] Settings dump:
+[2018-01-04 17:28:30] 	Account ID: 139082563
+[2018-01-04 17:28:30] 	Enabled: false
+[2018-01-04 17:28:30] 	Base list: 0 ()
+[2018-01-04 17:28:30] 	No custom list
+[2018-01-04 17:28:30] 	No enabled features
+[2018-01-04 17:37:03] Validating parental settings
+[2018-01-04 17:37:03] Settings dump:
+[2018-01-04 17:37:03] 	Account ID: 139082563
+[2018-01-04 17:37:03] 	Enabled: false
+[2018-01-04 17:37:03] 	Base list: 0 ()
+[2018-01-04 17:37:03] 	No custom list
+[2018-01-04 17:37:03] 	No enabled features
+[2018-01-04 17:46:51] Validating parental settings
+[2018-01-04 17:46:51] Settings dump:
+[2018-01-04 17:46:51] 	Account ID: 139082563
+[2018-01-04 17:46:51] 	Enabled: false
+[2018-01-04 17:46:51] 	Base list: 0 ()
+[2018-01-04 17:46:51] 	No custom list
+[2018-01-04 17:46:51] 	No enabled features
+[2018-01-04 18:15:34] Validating parental settings
+[2018-01-04 18:15:34] Settings dump:
+[2018-01-04 18:15:34] 	Account ID: 139082563
+[2018-01-04 18:15:34] 	Enabled: false
+[2018-01-04 18:15:34] 	Base list: 0 ()
+[2018-01-04 18:15:34] 	No custom list
+[2018-01-04 18:15:34] 	No enabled features
+[2018-01-04 18:35:35] Validating parental settings
+[2018-01-04 18:35:35] Settings dump:
+[2018-01-04 18:35:35] 	Account ID: 139082563
+[2018-01-04 18:35:35] 	Enabled: false
+[2018-01-04 18:35:35] 	Base list: 0 ()
+[2018-01-04 18:35:35] 	No custom list
+[2018-01-04 18:35:35] 	No enabled features
+[2018-01-04 19:05:11] Validating parental settings
+[2018-01-04 19:05:11] Settings dump:
+[2018-01-04 19:05:11] 	Account ID: 139082563
+[2018-01-04 19:05:11] 	Enabled: false
+[2018-01-04 19:05:11] 	Base list: 0 ()
+[2018-01-04 19:05:11] 	No custom list
+[2018-01-04 19:05:11] 	No enabled features
+[2018-01-04 19:24:41] Validating parental settings
+[2018-01-04 19:24:41] Settings dump:
+[2018-01-04 19:24:41] 	Account ID: 139082563
+[2018-01-04 19:24:41] 	Enabled: false
+[2018-01-04 19:24:41] 	Base list: 0 ()
+[2018-01-04 19:24:41] 	No custom list
+[2018-01-04 19:24:41] 	No enabled features
+[2018-01-04 19:44:27] Validating parental settings
+[2018-01-04 19:44:27] Settings dump:
+[2018-01-04 19:44:27] 	Account ID: 139082563
+[2018-01-04 19:44:27] 	Enabled: false
+[2018-01-04 19:44:27] 	Base list: 0 ()
+[2018-01-04 19:44:27] 	No custom list
+[2018-01-04 19:44:27] 	No enabled features
+[2018-01-04 20:04:14] Validating parental settings
+[2018-01-04 20:04:14] Settings dump:
+[2018-01-04 20:04:14] 	Account ID: 139082563
+[2018-01-04 20:04:14] 	Enabled: false
+[2018-01-04 20:04:14] 	Base list: 0 ()
+[2018-01-04 20:04:14] 	No custom list
+[2018-01-04 20:04:14] 	No enabled features
+[2018-01-04 20:23:42] Validating parental settings
+[2018-01-04 20:23:42] Settings dump:
+[2018-01-04 20:23:42] 	Account ID: 139082563
+[2018-01-04 20:23:42] 	Enabled: false
+[2018-01-04 20:23:42] 	Base list: 0 ()
+[2018-01-04 20:23:42] 	No custom list
+[2018-01-04 20:23:42] 	No enabled features
+[2018-01-04 20:45:03] Validating parental settings
+[2018-01-04 20:45:03] Settings dump:
+[2018-01-04 20:45:03] 	Account ID: 139082563
+[2018-01-04 20:45:03] 	Enabled: false
+[2018-01-04 20:45:03] 	Base list: 0 ()
+[2018-01-04 20:45:03] 	No custom list
+[2018-01-04 20:45:03] 	No enabled features
+
+
+[2018-01-04 20:45:40] Validating parental settings
+[2018-01-04 20:45:40] Settings dump:
+[2018-01-04 20:45:40] 	Account ID: 139082563
+[2018-01-04 20:45:40] 	Enabled: false
+[2018-01-04 20:45:40] 	Base list: 0 ()
+[2018-01-04 20:45:40] 	No custom list
+[2018-01-04 20:45:40] 	No enabled features
+[2018-01-04 22:30:57] Validating parental settings
+[2018-01-04 22:30:57] Settings dump:
+[2018-01-04 22:30:57] 	Account ID: 139082563
+[2018-01-04 22:30:57] 	Enabled: false
+[2018-01-04 22:30:57] 	Base list: 0 ()
+[2018-01-04 22:30:57] 	No custom list
+[2018-01-04 22:30:57] 	No enabled features
+[2018-01-04 22:46:32] Validating parental settings
+[2018-01-04 22:46:32] Settings dump:
+[2018-01-04 22:46:32] 	Account ID: 139082563
+[2018-01-04 22:46:32] 	Enabled: false
+[2018-01-04 22:46:32] 	Base list: 0 ()
+[2018-01-04 22:46:32] 	No custom list
+[2018-01-04 22:46:32] 	No enabled features
+[2018-01-04 22:59:08] Validating parental settings
+[2018-01-04 22:59:08] Settings dump:
+[2018-01-04 22:59:08] 	Account ID: 139082563
+[2018-01-04 22:59:08] 	Enabled: false
+[2018-01-04 22:59:08] 	Base list: 0 ()
+[2018-01-04 22:59:08] 	No custom list
+[2018-01-04 22:59:08] 	No enabled features
+
+
+[2018-01-16 12:48:41] Validating parental settings
+[2018-01-16 12:48:41] Settings dump:
+[2018-01-16 12:48:41] 	Account ID: 139082563
+[2018-01-16 12:48:41] 	Enabled: false
+[2018-01-16 12:48:41] 	Base list: 0 ()
+[2018-01-16 12:48:41] 	No custom list
+[2018-01-16 12:48:41] 	No enabled features
+
+
+[2018-01-23 12:29:54] Validating parental settings
+[2018-01-23 12:29:54] Settings dump:
+[2018-01-23 12:29:54] 	Account ID: 139082563
+[2018-01-23 12:29:54] 	Enabled: false
+[2018-01-23 12:29:54] 	Base list: 0 ()
+[2018-01-23 12:29:54] 	No custom list
+[2018-01-23 12:29:54] 	No enabled features
+
+
+[2018-01-24 21:34:37] Validating parental settings
+[2018-01-24 21:34:37] Settings dump:
+[2018-01-24 21:34:37] 	Account ID: 139082563
+[2018-01-24 21:34:37] 	Enabled: false
+[2018-01-24 21:34:37] 	Base list: 0 ()
+[2018-01-24 21:34:37] 	No custom list
+[2018-01-24 21:34:37] 	No enabled features
+
+
+[2018-01-24 21:37:19] Validating parental settings
+[2018-01-24 21:37:19] Settings dump:
+[2018-01-24 21:37:19] 	Account ID: 139082563
+[2018-01-24 21:37:19] 	Enabled: false
+[2018-01-24 21:37:19] 	Base list: 0 ()
+[2018-01-24 21:37:19] 	No custom list
+[2018-01-24 21:37:19] 	No enabled features
+
+
+[2018-02-03 18:26:44] Validating parental settings
+[2018-02-03 18:26:44] Settings dump:
+[2018-02-03 18:26:44] 	Account ID: 139082563
+[2018-02-03 18:26:44] 	Enabled: false
+[2018-02-03 18:26:44] 	Base list: 0 ()
+[2018-02-03 18:26:44] 	No custom list
+[2018-02-03 18:26:44] 	No enabled features
+
+
+[2018-02-03 20:02:17] Validating parental settings
+[2018-02-03 20:02:17] Settings dump:
+[2018-02-03 20:02:17] 	Account ID: 139082563
+[2018-02-03 20:02:17] 	Enabled: false
+[2018-02-03 20:02:17] 	Base list: 0 ()
+[2018-02-03 20:02:17] 	No custom list
+[2018-02-03 20:02:17] 	No enabled features
+
+
+[2018-02-14 10:41:43] Validating parental settings
+[2018-02-14 10:41:43] Settings dump:
+[2018-02-14 10:41:43] 	Account ID: 139082563
+[2018-02-14 10:41:43] 	Enabled: false
+[2018-02-14 10:41:43] 	Base list: 0 ()
+[2018-02-14 10:41:43] 	No custom list
+[2018-02-14 10:41:43] 	No enabled features
+[2018-02-14 11:01:48] Validating parental settings
+[2018-02-14 11:01:48] Settings dump:
+[2018-02-14 11:01:48] 	Account ID: 139082563
+[2018-02-14 11:01:48] 	Enabled: false
+[2018-02-14 11:01:48] 	Base list: 0 ()
+[2018-02-14 11:01:48] 	No custom list
+[2018-02-14 11:01:48] 	No enabled features
+[2018-02-14 11:07:40] Validating parental settings
+[2018-02-14 11:07:40] Settings dump:
+[2018-02-14 11:07:40] 	Account ID: 139082563
+[2018-02-14 11:07:40] 	Enabled: false
+[2018-02-14 11:07:40] 	Base list: 0 ()
+[2018-02-14 11:07:40] 	No custom list
+[2018-02-14 11:07:40] 	No enabled features
+[2018-02-14 11:13:53] Validating parental settings
+[2018-02-14 11:13:53] Settings dump:
+[2018-02-14 11:13:53] 	Account ID: 139082563
+[2018-02-14 11:13:53] 	Enabled: false
+[2018-02-14 11:13:53] 	Base list: 0 ()
+[2018-02-14 11:13:53] 	No custom list
+[2018-02-14 11:13:53] 	No enabled features
+[2018-02-14 11:18:15] Validating parental settings
+[2018-02-14 11:18:15] Settings dump:
+[2018-02-14 11:18:15] 	Account ID: 139082563
+[2018-02-14 11:18:15] 	Enabled: false
+[2018-02-14 11:18:15] 	Base list: 0 ()
+[2018-02-14 11:18:15] 	No custom list
+[2018-02-14 11:18:15] 	No enabled features
+[2018-02-14 12:03:58] Validating parental settings
+[2018-02-14 12:03:58] Settings dump:
+[2018-02-14 12:03:58] 	Account ID: 139082563
+[2018-02-14 12:03:58] 	Enabled: false
+[2018-02-14 12:03:58] 	Base list: 0 ()
+[2018-02-14 12:03:58] 	No custom list
+[2018-02-14 12:03:58] 	No enabled features
+[2018-02-14 12:06:48] Validating parental settings
+[2018-02-14 12:06:48] Settings dump:
+[2018-02-14 12:06:48] 	Account ID: 139082563
+[2018-02-14 12:06:48] 	Enabled: false
+[2018-02-14 12:06:48] 	Base list: 0 ()
+[2018-02-14 12:06:48] 	No custom list
+[2018-02-14 12:06:48] 	No enabled features
+[2018-02-14 12:15:20] Validating parental settings
+[2018-02-14 12:15:20] Settings dump:
+[2018-02-14 12:15:20] 	Account ID: 139082563
+[2018-02-14 12:15:20] 	Enabled: false
+[2018-02-14 12:15:20] 	Base list: 0 ()
+[2018-02-14 12:15:20] 	No custom list
+[2018-02-14 12:15:20] 	No enabled features
+[2018-02-14 12:22:14] Validating parental settings
+[2018-02-14 12:22:14] Settings dump:
+[2018-02-14 12:22:14] 	Account ID: 139082563
+[2018-02-14 12:22:14] 	Enabled: false
+[2018-02-14 12:22:14] 	Base list: 0 ()
+[2018-02-14 12:22:14] 	No custom list
+[2018-02-14 12:22:14] 	No enabled features
+[2018-02-14 13:10:49] Validating parental settings
+[2018-02-14 13:10:49] Settings dump:
+[2018-02-14 13:10:49] 	Account ID: 139082563
+[2018-02-14 13:10:49] 	Enabled: false
+[2018-02-14 13:10:49] 	Base list: 0 ()
+[2018-02-14 13:10:49] 	No custom list
+[2018-02-14 13:10:49] 	No enabled features
+[2018-02-14 14:49:29] Validating parental settings
+[2018-02-14 14:49:29] Settings dump:
+[2018-02-14 14:49:29] 	Account ID: 139082563
+[2018-02-14 14:49:29] 	Enabled: false
+[2018-02-14 14:49:29] 	Base list: 0 ()
+[2018-02-14 14:49:29] 	No custom list
+[2018-02-14 14:49:29] 	No enabled features
+[2018-02-14 14:59:21] Validating parental settings
+[2018-02-14 14:59:21] Settings dump:
+[2018-02-14 14:59:21] 	Account ID: 139082563
+[2018-02-14 14:59:21] 	Enabled: false
+[2018-02-14 14:59:21] 	Base list: 0 ()
+[2018-02-14 14:59:21] 	No custom list
+[2018-02-14 14:59:21] 	No enabled features
+[2018-02-14 15:05:13] Validating parental settings
+[2018-02-14 15:05:13] Settings dump:
+[2018-02-14 15:05:13] 	Account ID: 139082563
+[2018-02-14 15:05:13] 	Enabled: false
+[2018-02-14 15:05:13] 	Base list: 0 ()
+[2018-02-14 15:05:13] 	No custom list
+[2018-02-14 15:05:13] 	No enabled features
+[2018-02-14 15:11:15] Validating parental settings
+[2018-02-14 15:11:15] Settings dump:
+[2018-02-14 15:11:15] 	Account ID: 139082563
+[2018-02-14 15:11:15] 	Enabled: false
+[2018-02-14 15:11:15] 	Base list: 0 ()
+[2018-02-14 15:11:15] 	No custom list
+[2018-02-14 15:11:15] 	No enabled features
+[2018-02-14 15:19:32] Validating parental settings
+[2018-02-14 15:19:32] Settings dump:
+[2018-02-14 15:19:32] 	Account ID: 139082563
+[2018-02-14 15:19:32] 	Enabled: false
+[2018-02-14 15:19:32] 	Base list: 0 ()
+[2018-02-14 15:19:32] 	No custom list
+[2018-02-14 15:19:32] 	No enabled features
+[2018-02-14 15:31:18] Validating parental settings
+[2018-02-14 15:31:18] Settings dump:
+[2018-02-14 15:31:18] 	Account ID: 139082563
+[2018-02-14 15:31:18] 	Enabled: false
+[2018-02-14 15:31:18] 	Base list: 0 ()
+[2018-02-14 15:31:18] 	No custom list
+[2018-02-14 15:31:18] 	No enabled features
+[2018-02-14 15:37:13] Validating parental settings
+[2018-02-14 15:37:13] Settings dump:
+[2018-02-14 15:37:13] 	Account ID: 139082563
+[2018-02-14 15:37:13] 	Enabled: false
+[2018-02-14 15:37:13] 	Base list: 0 ()
+[2018-02-14 15:37:13] 	No custom list
+[2018-02-14 15:37:13] 	No enabled features
+[2018-02-14 15:43:08] Validating parental settings
+[2018-02-14 15:43:08] Settings dump:
+[2018-02-14 15:43:08] 	Account ID: 139082563
+[2018-02-14 15:43:08] 	Enabled: false
+[2018-02-14 15:43:08] 	Base list: 0 ()
+[2018-02-14 15:43:08] 	No custom list
+[2018-02-14 15:43:08] 	No enabled features
+[2018-02-14 16:03:08] Validating parental settings
+[2018-02-14 16:03:08] Settings dump:
+[2018-02-14 16:03:08] 	Account ID: 139082563
+[2018-02-14 16:03:08] 	Enabled: false
+[2018-02-14 16:03:08] 	Base list: 0 ()
+[2018-02-14 16:03:08] 	No custom list
+[2018-02-14 16:03:08] 	No enabled features
+[2018-02-14 16:14:10] Validating parental settings
+[2018-02-14 16:14:10] Settings dump:
+[2018-02-14 16:14:10] 	Account ID: 139082563
+[2018-02-14 16:14:10] 	Enabled: false
+[2018-02-14 16:14:10] 	Base list: 0 ()
+[2018-02-14 16:14:10] 	No custom list
+[2018-02-14 16:14:10] 	No enabled features
+[2018-02-14 16:20:04] Validating parental settings
+[2018-02-14 16:20:04] Settings dump:
+[2018-02-14 16:20:04] 	Account ID: 139082563
+[2018-02-14 16:20:04] 	Enabled: false
+[2018-02-14 16:20:04] 	Base list: 0 ()
+[2018-02-14 16:20:04] 	No custom list
+[2018-02-14 16:20:04] 	No enabled features
+[2018-02-14 16:21:01] Validating parental settings
+[2018-02-14 16:21:01] Settings dump:
+[2018-02-14 16:21:01] 	Account ID: 139082563
+[2018-02-14 16:21:01] 	Enabled: false
+[2018-02-14 16:21:01] 	Base list: 0 ()
+[2018-02-14 16:21:01] 	No custom list
+[2018-02-14 16:21:01] 	No enabled features
+[2018-02-14 18:50:01] Validating parental settings
+[2018-02-14 18:50:01] Settings dump:
+[2018-02-14 18:50:01] 	Account ID: 139082563
+[2018-02-14 18:50:01] 	Enabled: false
+[2018-02-14 18:50:01] 	Base list: 0 ()
+[2018-02-14 18:50:01] 	No custom list
+[2018-02-14 18:50:01] 	No enabled features
+[2018-02-14 18:55:36] Validating parental settings
+[2018-02-14 18:55:36] Settings dump:
+[2018-02-14 18:55:36] 	Account ID: 139082563
+[2018-02-14 18:55:36] 	Enabled: false
+[2018-02-14 18:55:36] 	Base list: 0 ()
+[2018-02-14 18:55:36] 	No custom list
+[2018-02-14 18:55:36] 	No enabled features
+[2018-02-14 20:16:33] Validating parental settings
+[2018-02-14 20:16:33] Settings dump:
+[2018-02-14 20:16:33] 	Account ID: 139082563
+[2018-02-14 20:16:33] 	Enabled: false
+[2018-02-14 20:16:33] 	Base list: 0 ()
+[2018-02-14 20:16:33] 	No custom list
+[2018-02-14 20:16:33] 	No enabled features
+[2018-02-15 02:35:16] Validating parental settings
+[2018-02-15 02:35:16] Settings dump:
+[2018-02-15 02:35:16] 	Account ID: 139082563
+[2018-02-15 02:35:16] 	Enabled: false
+[2018-02-15 02:35:16] 	Base list: 0 ()
+[2018-02-15 02:35:16] 	No custom list
+[2018-02-15 02:35:16] 	No enabled features
+[2018-02-15 09:30:04] Validating parental settings
+[2018-02-15 09:30:04] Settings dump:
+[2018-02-15 09:30:04] 	Account ID: 139082563
+[2018-02-15 09:30:04] 	Enabled: false
+[2018-02-15 09:30:04] 	Base list: 0 ()
+[2018-02-15 09:30:04] 	No custom list
+[2018-02-15 09:30:04] 	No enabled features
+[2018-02-15 11:35:18] Validating parental settings
+[2018-02-15 11:35:18] Settings dump:
+[2018-02-15 11:35:18] 	Account ID: 139082563
+[2018-02-15 11:35:18] 	Enabled: false
+[2018-02-15 11:35:18] 	Base list: 0 ()
+[2018-02-15 11:35:18] 	No custom list
+[2018-02-15 11:35:18] 	No enabled features
+[2018-02-15 13:12:35] Validating parental settings
+[2018-02-15 13:12:35] Settings dump:
+[2018-02-15 13:12:35] 	Account ID: 139082563
+[2018-02-15 13:12:35] 	Enabled: false
+[2018-02-15 13:12:35] 	Base list: 0 ()
+[2018-02-15 13:12:35] 	No custom list
+[2018-02-15 13:12:35] 	No enabled features
+[2018-02-15 13:25:14] Validating parental settings
+[2018-02-15 13:25:14] Settings dump:
+[2018-02-15 13:25:14] 	Account ID: 139082563
+[2018-02-15 13:25:14] 	Enabled: false
+[2018-02-15 13:25:14] 	Base list: 0 ()
+[2018-02-15 13:25:14] 	No custom list
+[2018-02-15 13:25:14] 	No enabled features
+[2018-02-15 13:31:43] Validating parental settings
+[2018-02-15 13:31:43] Settings dump:
+[2018-02-15 13:31:43] 	Account ID: 139082563
+[2018-02-15 13:31:43] 	Enabled: false
+[2018-02-15 13:31:43] 	Base list: 0 ()
+[2018-02-15 13:31:43] 	No custom list
+[2018-02-15 13:31:43] 	No enabled features
+[2018-02-15 13:37:53] Validating parental settings
+[2018-02-15 13:37:53] Settings dump:
+[2018-02-15 13:37:53] 	Account ID: 139082563
+[2018-02-15 13:37:53] 	Enabled: false
+[2018-02-15 13:37:53] 	Base list: 0 ()
+[2018-02-15 13:37:53] 	No custom list
+[2018-02-15 13:37:53] 	No enabled features
+[2018-02-15 15:04:39] Validating parental settings
+[2018-02-15 15:04:39] Settings dump:
+[2018-02-15 15:04:39] 	Account ID: 139082563
+[2018-02-15 15:04:39] 	Enabled: false
+[2018-02-15 15:04:39] 	Base list: 0 ()
+[2018-02-15 15:04:39] 	No custom list
+[2018-02-15 15:04:39] 	No enabled features
+[2018-02-15 15:46:12] Validating parental settings
+[2018-02-15 15:46:12] Settings dump:
+[2018-02-15 15:46:12] 	Account ID: 139082563
+[2018-02-15 15:46:12] 	Enabled: false
+[2018-02-15 15:46:12] 	Base list: 0 ()
+[2018-02-15 15:46:12] 	No custom list
+[2018-02-15 15:46:12] 	No enabled features
+[2018-02-15 16:33:20] Validating parental settings
+[2018-02-15 16:33:20] Settings dump:
+[2018-02-15 16:33:20] 	Account ID: 139082563
+[2018-02-15 16:33:20] 	Enabled: false
+[2018-02-15 16:33:20] 	Base list: 0 ()
+[2018-02-15 16:33:20] 	No custom list
+[2018-02-15 16:33:20] 	No enabled features
+[2018-02-15 16:34:58] Validating parental settings
+[2018-02-15 16:34:58] Settings dump:
+[2018-02-15 16:34:58] 	Account ID: 139082563
+[2018-02-15 16:34:58] 	Enabled: false
+[2018-02-15 16:34:58] 	Base list: 0 ()
+[2018-02-15 16:34:58] 	No custom list
+[2018-02-15 16:34:58] 	No enabled features
+[2018-02-15 19:14:20] Validating parental settings
+[2018-02-15 19:14:20] Settings dump:
+[2018-02-15 19:14:20] 	Account ID: 139082563
+[2018-02-15 19:14:20] 	Enabled: false
+[2018-02-15 19:14:20] 	Base list: 0 ()
+[2018-02-15 19:14:20] 	No custom list
+[2018-02-15 19:14:20] 	No enabled features
+[2018-02-15 19:21:42] Validating parental settings
+[2018-02-15 19:21:42] Settings dump:
+[2018-02-15 19:21:42] 	Account ID: 139082563
+[2018-02-15 19:21:42] 	Enabled: false
+[2018-02-15 19:21:42] 	Base list: 0 ()
+[2018-02-15 19:21:42] 	No custom list
+[2018-02-15 19:21:42] 	No enabled features
+[2018-02-15 19:24:28] Validating parental settings
+[2018-02-15 19:24:28] Settings dump:
+[2018-02-15 19:24:28] 	Account ID: 139082563
+[2018-02-15 19:24:28] 	Enabled: false
+[2018-02-15 19:24:28] 	Base list: 0 ()
+[2018-02-15 19:24:28] 	No custom list
+[2018-02-15 19:24:28] 	No enabled features
+
+
+[2018-02-26 17:13:16] Validating parental settings
+[2018-02-26 17:13:16] Settings dump:
+[2018-02-26 17:13:16] 	Account ID: 139082563
+[2018-02-26 17:13:16] 	Enabled: false
+[2018-02-26 17:13:16] 	Base list: 0 ()
+[2018-02-26 17:13:16] 	No custom list
+[2018-02-26 17:13:16] 	No enabled features
+[2018-02-26 18:08:04] Validating parental settings
+[2018-02-26 18:08:04] Settings dump:
+[2018-02-26 18:08:04] 	Account ID: 139082563
+[2018-02-26 18:08:04] 	Enabled: false
+[2018-02-26 18:08:04] 	Base list: 0 ()
+[2018-02-26 18:08:04] 	No custom list
+[2018-02-26 18:08:04] 	No enabled features
+[2018-02-26 18:37:17] Validating parental settings
+[2018-02-26 18:37:17] Settings dump:
+[2018-02-26 18:37:17] 	Account ID: 139082563
+[2018-02-26 18:37:17] 	Enabled: false
+[2018-02-26 18:37:17] 	Base list: 0 ()
+[2018-02-26 18:37:17] 	No custom list
+[2018-02-26 18:37:17] 	No enabled features
+[2018-02-26 18:50:06] Validating parental settings
+[2018-02-26 18:50:06] Settings dump:
+[2018-02-26 18:50:06] 	Account ID: 139082563
+[2018-02-26 18:50:06] 	Enabled: false
+[2018-02-26 18:50:06] 	Base list: 0 ()
+[2018-02-26 18:50:06] 	No custom list
+[2018-02-26 18:50:06] 	No enabled features
+[2018-02-26 18:54:38] Validating parental settings
+[2018-02-26 18:54:38] Settings dump:
+[2018-02-26 18:54:38] 	Account ID: 139082563
+[2018-02-26 18:54:38] 	Enabled: false
+[2018-02-26 18:54:38] 	Base list: 0 ()
+[2018-02-26 18:54:38] 	No custom list
+[2018-02-26 18:54:38] 	No enabled features
+
+
+[2018-02-27 12:00:28] Validating parental settings
+[2018-02-27 12:00:28] Settings dump:
+[2018-02-27 12:00:28] 	Account ID: 139082563
+[2018-02-27 12:00:28] 	Enabled: false
+[2018-02-27 12:00:28] 	Base list: 0 ()
+[2018-02-27 12:00:28] 	No custom list
+[2018-02-27 12:00:28] 	No enabled features
+
+
+[2018-02-27 20:44:54] Validating parental settings
+[2018-02-27 20:44:54] Settings dump:
+[2018-02-27 20:44:54] 	Account ID: 139082563
+[2018-02-27 20:44:54] 	Enabled: false
+[2018-02-27 20:44:54] 	Base list: 0 ()
+[2018-02-27 20:44:54] 	No custom list
+[2018-02-27 20:44:54] 	No enabled features
+[2018-02-27 20:56:34] Validating parental settings
+[2018-02-27 20:56:34] Settings dump:
+[2018-02-27 20:56:34] 	Account ID: 139082563
+[2018-02-27 20:56:34] 	Enabled: false
+[2018-02-27 20:56:34] 	Base list: 0 ()
+[2018-02-27 20:56:34] 	No custom list
+[2018-02-27 20:56:34] 	No enabled features
+[2018-02-27 21:09:22] Validating parental settings
+[2018-02-27 21:09:22] Settings dump:
+[2018-02-27 21:09:22] 	Account ID: 139082563
+[2018-02-27 21:09:22] 	Enabled: false
+[2018-02-27 21:09:22] 	Base list: 0 ()
+[2018-02-27 21:09:22] 	No custom list
+[2018-02-27 21:09:22] 	No enabled features
+[2018-02-27 21:14:16] Validating parental settings
+[2018-02-27 21:14:16] Settings dump:
+[2018-02-27 21:14:16] 	Account ID: 139082563
+[2018-02-27 21:14:16] 	Enabled: false
+[2018-02-27 21:14:16] 	Base list: 0 ()
+[2018-02-27 21:14:16] 	No custom list
+[2018-02-27 21:14:16] 	No enabled features
+[2018-02-27 21:45:38] Validating parental settings
+[2018-02-27 21:45:38] Settings dump:
+[2018-02-27 21:45:38] 	Account ID: 139082563
+[2018-02-27 21:45:38] 	Enabled: false
+[2018-02-27 21:45:38] 	Base list: 0 ()
+[2018-02-27 21:45:38] 	No custom list
+[2018-02-27 21:45:38] 	No enabled features
+[2018-02-27 22:15:08] Validating parental settings
+[2018-02-27 22:15:08] Settings dump:
+[2018-02-27 22:15:08] 	Account ID: 139082563
+[2018-02-27 22:15:08] 	Enabled: false
+[2018-02-27 22:15:08] 	Base list: 0 ()
+[2018-02-27 22:15:08] 	No custom list
+[2018-02-27 22:15:08] 	No enabled features
+[2018-02-27 22:20:48] Validating parental settings
+[2018-02-27 22:20:48] Settings dump:
+[2018-02-27 22:20:48] 	Account ID: 139082563
+[2018-02-27 22:20:48] 	Enabled: false
+[2018-02-27 22:20:48] 	Base list: 0 ()
+[2018-02-27 22:20:48] 	No custom list
+[2018-02-27 22:20:48] 	No enabled features
+[2018-02-28 02:23:59] Validating parental settings
+[2018-02-28 02:23:59] Settings dump:
+[2018-02-28 02:23:59] 	Account ID: 139082563
+[2018-02-28 02:23:59] 	Enabled: false
+[2018-02-28 02:23:59] 	Base list: 0 ()
+[2018-02-28 02:23:59] 	No custom list
+[2018-02-28 02:23:59] 	No enabled features
+[2018-02-28 02:41:58] Validating parental settings
+[2018-02-28 02:41:58] Settings dump:
+[2018-02-28 02:41:58] 	Account ID: 139082563
+[2018-02-28 02:41:58] 	Enabled: false
+[2018-02-28 02:41:58] 	Base list: 0 ()
+[2018-02-28 02:41:58] 	No custom list
+[2018-02-28 02:41:58] 	No enabled features
+[2018-02-28 02:58:30] Validating parental settings
+[2018-02-28 02:58:30] Settings dump:
+[2018-02-28 02:58:30] 	Account ID: 139082563
+[2018-02-28 02:58:30] 	Enabled: false
+[2018-02-28 02:58:30] 	Base list: 0 ()
+[2018-02-28 02:58:30] 	No custom list
+[2018-02-28 02:58:30] 	No enabled features
+[2018-02-28 03:30:37] Validating parental settings
+[2018-02-28 03:30:37] Settings dump:
+[2018-02-28 03:30:37] 	Account ID: 139082563
+[2018-02-28 03:30:37] 	Enabled: false
+[2018-02-28 03:30:37] 	Base list: 0 ()
+[2018-02-28 03:30:37] 	No custom list
+[2018-02-28 03:30:37] 	No enabled features
+[2018-02-28 03:52:43] Validating parental settings
+[2018-02-28 03:52:43] Settings dump:
+[2018-02-28 03:52:43] 	Account ID: 139082563
+[2018-02-28 03:52:43] 	Enabled: false
+[2018-02-28 03:52:43] 	Base list: 0 ()
+[2018-02-28 03:52:43] 	No custom list
+[2018-02-28 03:52:43] 	No enabled features
+[2018-02-28 04:10:36] Validating parental settings
+[2018-02-28 04:10:36] Settings dump:
+[2018-02-28 04:10:36] 	Account ID: 139082563
+[2018-02-28 04:10:36] 	Enabled: false
+[2018-02-28 04:10:36] 	Base list: 0 ()
+[2018-02-28 04:10:36] 	No custom list
+[2018-02-28 04:10:36] 	No enabled features
+[2018-02-28 06:18:58] Validating parental settings
+[2018-02-28 06:18:58] Settings dump:
+[2018-02-28 06:18:58] 	Account ID: 139082563
+[2018-02-28 06:18:58] 	Enabled: false
+[2018-02-28 06:18:58] 	Base list: 0 ()
+[2018-02-28 06:18:58] 	No custom list
+[2018-02-28 06:18:58] 	No enabled features
+[2018-02-28 08:14:24] Validating parental settings
+[2018-02-28 08:14:24] Settings dump:
+[2018-02-28 08:14:24] 	Account ID: 139082563
+[2018-02-28 08:14:24] 	Enabled: false
+[2018-02-28 08:14:24] 	Base list: 0 ()
+[2018-02-28 08:14:24] 	No custom list
+[2018-02-28 08:14:24] 	No enabled features
+[2018-02-28 08:49:52] Validating parental settings
+[2018-02-28 08:49:52] Settings dump:
+[2018-02-28 08:49:52] 	Account ID: 139082563
+[2018-02-28 08:49:52] 	Enabled: false
+[2018-02-28 08:49:52] 	Base list: 0 ()
+[2018-02-28 08:49:52] 	No custom list
+[2018-02-28 08:49:52] 	No enabled features
+
+
+[2018-03-06 10:24:12] Validating parental settings
+[2018-03-06 10:24:12] Settings dump:
+[2018-03-06 10:24:12] 	Account ID: 139082563
+[2018-03-06 10:24:12] 	Enabled: false
+[2018-03-06 10:24:12] 	Base list: 0 ()
+[2018-03-06 10:24:12] 	No custom list
+[2018-03-06 10:24:12] 	No enabled features
+[2018-03-06 11:01:02] Validating parental settings
+[2018-03-06 11:01:02] Settings dump:
+[2018-03-06 11:01:02] 	Account ID: 139082563
+[2018-03-06 11:01:02] 	Enabled: false
+[2018-03-06 11:01:02] 	Base list: 0 ()
+[2018-03-06 11:01:02] 	No custom list
+[2018-03-06 11:01:02] 	No enabled features
+[2018-03-06 13:32:53] Validating parental settings
+[2018-03-06 13:32:53] Settings dump:
+[2018-03-06 13:32:53] 	Account ID: 139082563
+[2018-03-06 13:32:53] 	Enabled: false
+[2018-03-06 13:32:53] 	Base list: 0 ()
+[2018-03-06 13:32:53] 	No custom list
+[2018-03-06 13:32:53] 	No enabled features
+[2018-03-06 13:48:25] Validating parental settings
+[2018-03-06 13:48:25] Settings dump:
+[2018-03-06 13:48:25] 	Account ID: 139082563
+[2018-03-06 13:48:25] 	Enabled: false
+[2018-03-06 13:48:25] 	Base list: 0 ()
+[2018-03-06 13:48:25] 	No custom list
+[2018-03-06 13:48:25] 	No enabled features
+[2018-03-06 14:15:45] Validating parental settings
+[2018-03-06 14:15:45] Settings dump:
+[2018-03-06 14:15:45] 	Account ID: 139082563
+[2018-03-06 14:15:45] 	Enabled: false
+[2018-03-06 14:15:45] 	Base list: 0 ()
+[2018-03-06 14:15:45] 	No custom list
+[2018-03-06 14:15:45] 	No enabled features
+[2018-03-06 15:32:46] Validating parental settings
+[2018-03-06 15:32:46] Settings dump:
+[2018-03-06 15:32:46] 	Account ID: 139082563
+[2018-03-06 15:32:46] 	Enabled: false
+[2018-03-06 15:32:46] 	Base list: 0 ()
+[2018-03-06 15:32:46] 	No custom list
+[2018-03-06 15:32:46] 	No enabled features
+[2018-03-06 15:34:17] Validating parental settings
+[2018-03-06 15:34:17] Settings dump:
+[2018-03-06 15:34:17] 	Account ID: 139082563
+[2018-03-06 15:34:17] 	Enabled: false
+[2018-03-06 15:34:17] 	Base list: 0 ()
+[2018-03-06 15:34:17] 	No custom list
+[2018-03-06 15:34:17] 	No enabled features
+[2018-03-06 16:34:01] Validating parental settings
+[2018-03-06 16:34:01] Settings dump:
+[2018-03-06 16:34:01] 	Account ID: 139082563
+[2018-03-06 16:34:01] 	Enabled: false
+[2018-03-06 16:34:01] 	Base list: 0 ()
+[2018-03-06 16:34:01] 	No custom list
+[2018-03-06 16:34:01] 	No enabled features
+[2018-03-06 19:30:02] Validating parental settings
+[2018-03-06 19:30:02] Settings dump:
+[2018-03-06 19:30:02] 	Account ID: 139082563
+[2018-03-06 19:30:02] 	Enabled: false
+[2018-03-06 19:30:02] 	Base list: 0 ()
+[2018-03-06 19:30:02] 	No custom list
+[2018-03-06 19:30:02] 	No enabled features
+[2018-03-06 19:39:04] Validating parental settings
+[2018-03-06 19:39:04] Settings dump:
+[2018-03-06 19:39:04] 	Account ID: 139082563
+[2018-03-06 19:39:04] 	Enabled: false
+[2018-03-06 19:39:04] 	Base list: 0 ()
+[2018-03-06 19:39:04] 	No custom list
+[2018-03-06 19:39:04] 	No enabled features
+[2018-03-06 21:34:31] Validating parental settings
+[2018-03-06 21:34:31] Settings dump:
+[2018-03-06 21:34:31] 	Account ID: 139082563
+[2018-03-06 21:34:31] 	Enabled: false
+[2018-03-06 21:34:31] 	Base list: 0 ()
+[2018-03-06 21:34:31] 	No custom list
+[2018-03-06 21:34:31] 	No enabled features
+[2018-03-06 23:05:13] Validating parental settings
+[2018-03-06 23:05:13] Settings dump:
+[2018-03-06 23:05:13] 	Account ID: 139082563
+[2018-03-06 23:05:13] 	Enabled: false
+[2018-03-06 23:05:13] 	Base list: 0 ()
+[2018-03-06 23:05:13] 	No custom list
+[2018-03-06 23:05:13] 	No enabled features
+[2018-03-07 00:41:06] Validating parental settings
+[2018-03-07 00:41:06] Settings dump:
+[2018-03-07 00:41:06] 	Account ID: 139082563
+[2018-03-07 00:41:06] 	Enabled: false
+[2018-03-07 00:41:06] 	Base list: 0 ()
+[2018-03-07 00:41:06] 	No custom list
+[2018-03-07 00:41:06] 	No enabled features
+[2018-03-07 03:00:19] Validating parental settings
+[2018-03-07 03:00:19] Settings dump:
+[2018-03-07 03:00:19] 	Account ID: 139082563
+[2018-03-07 03:00:19] 	Enabled: false
+[2018-03-07 03:00:19] 	Base list: 0 ()
+[2018-03-07 03:00:19] 	No custom list
+[2018-03-07 03:00:19] 	No enabled features
+[2018-03-07 04:57:09] Validating parental settings
+[2018-03-07 04:57:09] Settings dump:
+[2018-03-07 04:57:09] 	Account ID: 139082563
+[2018-03-07 04:57:09] 	Enabled: false
+[2018-03-07 04:57:09] 	Base list: 0 ()
+[2018-03-07 04:57:09] 	No custom list
+[2018-03-07 04:57:09] 	No enabled features
+[2018-03-07 06:45:34] Validating parental settings
+[2018-03-07 06:45:34] Settings dump:
+[2018-03-07 06:45:34] 	Account ID: 139082563
+[2018-03-07 06:45:34] 	Enabled: false
+[2018-03-07 06:45:34] 	Base list: 0 ()
+[2018-03-07 06:45:34] 	No custom list
+[2018-03-07 06:45:34] 	No enabled features
+[2018-03-07 09:01:28] Validating parental settings
+[2018-03-07 09:01:28] Settings dump:
+[2018-03-07 09:01:28] 	Account ID: 139082563
+[2018-03-07 09:01:28] 	Enabled: false
+[2018-03-07 09:01:28] 	Base list: 0 ()
+[2018-03-07 09:01:28] 	No custom list
+[2018-03-07 09:01:28] 	No enabled features
+[2018-03-07 10:17:01] Validating parental settings
+[2018-03-07 10:17:01] Settings dump:
+[2018-03-07 10:17:01] 	Account ID: 139082563
+[2018-03-07 10:17:01] 	Enabled: false
+[2018-03-07 10:17:01] 	Base list: 0 ()
+[2018-03-07 10:17:01] 	No custom list
+[2018-03-07 10:17:01] 	No enabled features
+[2018-03-07 10:38:12] Validating parental settings
+[2018-03-07 10:38:12] Settings dump:
+[2018-03-07 10:38:12] 	Account ID: 139082563
+[2018-03-07 10:38:12] 	Enabled: false
+[2018-03-07 10:38:12] 	Base list: 0 ()
+[2018-03-07 10:38:12] 	No custom list
+[2018-03-07 10:38:12] 	No enabled features
+[2018-03-07 11:31:18] Validating parental settings
+[2018-03-07 11:31:18] Settings dump:
+[2018-03-07 11:31:18] 	Account ID: 139082563
+[2018-03-07 11:31:18] 	Enabled: false
+[2018-03-07 11:31:18] 	Base list: 0 ()
+[2018-03-07 11:31:18] 	No custom list
+[2018-03-07 11:31:18] 	No enabled features
+[2018-03-07 12:04:55] Validating parental settings
+[2018-03-07 12:04:55] Settings dump:
+[2018-03-07 12:04:55] 	Account ID: 139082563
+[2018-03-07 12:04:55] 	Enabled: false
+[2018-03-07 12:04:55] 	Base list: 0 ()
+[2018-03-07 12:04:55] 	No custom list
+[2018-03-07 12:04:55] 	No enabled features
+[2018-03-07 12:10:52] Validating parental settings
+[2018-03-07 12:10:52] Settings dump:
+[2018-03-07 12:10:52] 	Account ID: 139082563
+[2018-03-07 12:10:52] 	Enabled: false
+[2018-03-07 12:10:52] 	Base list: 0 ()
+[2018-03-07 12:10:52] 	No custom list
+[2018-03-07 12:10:52] 	No enabled features
+[2018-03-07 12:16:46] Validating parental settings
+[2018-03-07 12:16:46] Settings dump:
+[2018-03-07 12:16:46] 	Account ID: 139082563
+[2018-03-07 12:16:46] 	Enabled: false
+[2018-03-07 12:16:46] 	Base list: 0 ()
+[2018-03-07 12:16:46] 	No custom list
+[2018-03-07 12:16:46] 	No enabled features
+[2018-03-07 12:22:57] Validating parental settings
+[2018-03-07 12:22:57] Settings dump:
+[2018-03-07 12:22:57] 	Account ID: 139082563
+[2018-03-07 12:22:57] 	Enabled: false
+[2018-03-07 12:22:57] 	Base list: 0 ()
+[2018-03-07 12:22:57] 	No custom list
+[2018-03-07 12:22:57] 	No enabled features
+[2018-03-07 12:28:45] Validating parental settings
+[2018-03-07 12:28:45] Settings dump:
+[2018-03-07 12:28:45] 	Account ID: 139082563
+[2018-03-07 12:28:45] 	Enabled: false
+[2018-03-07 12:28:45] 	Base list: 0 ()
+[2018-03-07 12:28:45] 	No custom list
+[2018-03-07 12:28:45] 	No enabled features
+[2018-03-07 12:34:44] Validating parental settings
+[2018-03-07 12:34:44] Settings dump:
+[2018-03-07 12:34:44] 	Account ID: 139082563
+[2018-03-07 12:34:44] 	Enabled: false
+[2018-03-07 12:34:44] 	Base list: 0 ()
+[2018-03-07 12:34:44] 	No custom list
+[2018-03-07 12:34:44] 	No enabled features
+[2018-03-07 12:40:40] Validating parental settings
+[2018-03-07 12:40:40] Settings dump:
+[2018-03-07 12:40:40] 	Account ID: 139082563
+[2018-03-07 12:40:40] 	Enabled: false
+[2018-03-07 12:40:40] 	Base list: 0 ()
+[2018-03-07 12:40:40] 	No custom list
+[2018-03-07 12:40:40] 	No enabled features
+[2018-03-07 12:49:23] Validating parental settings
+[2018-03-07 12:49:23] Settings dump:
+[2018-03-07 12:49:23] 	Account ID: 139082563
+[2018-03-07 12:49:23] 	Enabled: false
+[2018-03-07 12:49:23] 	Base list: 0 ()
+[2018-03-07 12:49:23] 	No custom list
+[2018-03-07 12:49:23] 	No enabled features
+[2018-03-07 13:31:46] Validating parental settings
+[2018-03-07 13:31:46] Settings dump:
+[2018-03-07 13:31:46] 	Account ID: 139082563
+[2018-03-07 13:31:46] 	Enabled: false
+[2018-03-07 13:31:46] 	Base list: 0 ()
+[2018-03-07 13:31:46] 	No custom list
+[2018-03-07 13:31:46] 	No enabled features
+[2018-03-07 14:02:55] Validating parental settings
+[2018-03-07 14:02:55] Settings dump:
+[2018-03-07 14:02:55] 	Account ID: 139082563
+[2018-03-07 14:02:55] 	Enabled: false
+[2018-03-07 14:02:55] 	Base list: 0 ()
+[2018-03-07 14:02:55] 	No custom list
+[2018-03-07 14:02:55] 	No enabled features
+[2018-03-07 14:05:12] Validating parental settings
+[2018-03-07 14:05:12] Settings dump:
+[2018-03-07 14:05:12] 	Account ID: 139082563
+[2018-03-07 14:05:12] 	Enabled: false
+[2018-03-07 14:05:12] 	Base list: 0 ()
+[2018-03-07 14:05:12] 	No custom list
+[2018-03-07 14:05:12] 	No enabled features
+[2018-03-07 14:47:26] Validating parental settings
+[2018-03-07 14:47:26] Settings dump:
+[2018-03-07 14:47:26] 	Account ID: 139082563
+[2018-03-07 14:47:26] 	Enabled: false
+[2018-03-07 14:47:26] 	Base list: 0 ()
+[2018-03-07 14:47:26] 	No custom list
+[2018-03-07 14:47:26] 	No enabled features
+[2018-03-07 14:50:52] Validating parental settings
+[2018-03-07 14:50:52] Settings dump:
+[2018-03-07 14:50:52] 	Account ID: 139082563
+[2018-03-07 14:50:52] 	Enabled: false
+[2018-03-07 14:50:52] 	Base list: 0 ()
+[2018-03-07 14:50:52] 	No custom list
+[2018-03-07 14:50:52] 	No enabled features
+[2018-03-07 16:10:08] Validating parental settings
+[2018-03-07 16:10:08] Settings dump:
+[2018-03-07 16:10:08] 	Account ID: 139082563
+[2018-03-07 16:10:08] 	Enabled: false
+[2018-03-07 16:10:08] 	Base list: 0 ()
+[2018-03-07 16:10:08] 	No custom list
+[2018-03-07 16:10:08] 	No enabled features
+[2018-03-07 16:17:21] Validating parental settings
+[2018-03-07 16:17:21] Settings dump:
+[2018-03-07 16:17:21] 	Account ID: 139082563
+[2018-03-07 16:17:21] 	Enabled: false
+[2018-03-07 16:17:21] 	Base list: 0 ()
+[2018-03-07 16:17:21] 	No custom list
+[2018-03-07 16:17:21] 	No enabled features
+[2018-03-07 16:19:06] Validating parental settings
+[2018-03-07 16:19:06] Settings dump:
+[2018-03-07 16:19:06] 	Account ID: 139082563
+[2018-03-07 16:19:06] 	Enabled: false
+[2018-03-07 16:19:06] 	Base list: 0 ()
+[2018-03-07 16:19:06] 	No custom list
+[2018-03-07 16:19:06] 	No enabled features
+[2018-03-07 16:29:44] Validating parental settings
+[2018-03-07 16:29:44] Settings dump:
+[2018-03-07 16:29:44] 	Account ID: 139082563
+[2018-03-07 16:29:44] 	Enabled: false
+[2018-03-07 16:29:44] 	Base list: 0 ()
+[2018-03-07 16:29:44] 	No custom list
+[2018-03-07 16:29:44] 	No enabled features
+[2018-03-07 17:15:55] Validating parental settings
+[2018-03-07 17:15:55] Settings dump:
+[2018-03-07 17:15:55] 	Account ID: 139082563
+[2018-03-07 17:15:55] 	Enabled: false
+[2018-03-07 17:15:55] 	Base list: 0 ()
+[2018-03-07 17:15:55] 	No custom list
+[2018-03-07 17:15:55] 	No enabled features
+[2018-03-07 17:43:00] Validating parental settings
+[2018-03-07 17:43:00] Settings dump:
+[2018-03-07 17:43:00] 	Account ID: 139082563
+[2018-03-07 17:43:00] 	Enabled: false
+[2018-03-07 17:43:00] 	Base list: 0 ()
+[2018-03-07 17:43:00] 	No custom list
+[2018-03-07 17:43:00] 	No enabled features
+[2018-03-07 19:59:37] Validating parental settings
+[2018-03-07 19:59:37] Settings dump:
+[2018-03-07 19:59:37] 	Account ID: 139082563
+[2018-03-07 19:59:37] 	Enabled: false
+[2018-03-07 19:59:37] 	Base list: 0 ()
+[2018-03-07 19:59:37] 	No custom list
+[2018-03-07 19:59:37] 	No enabled features
+[2018-03-07 23:51:23] Validating parental settings
+[2018-03-07 23:51:23] Settings dump:
+[2018-03-07 23:51:23] 	Account ID: 139082563
+[2018-03-07 23:51:23] 	Enabled: false
+[2018-03-07 23:51:23] 	Base list: 0 ()
+[2018-03-07 23:51:23] 	No custom list
+[2018-03-07 23:51:23] 	No enabled features
+[2018-03-08 01:44:27] Validating parental settings
+[2018-03-08 01:44:27] Settings dump:
+[2018-03-08 01:44:27] 	Account ID: 139082563
+[2018-03-08 01:44:27] 	Enabled: false
+[2018-03-08 01:44:27] 	Base list: 0 ()
+[2018-03-08 01:44:27] 	No custom list
+[2018-03-08 01:44:27] 	No enabled features
+[2018-03-08 03:35:11] Validating parental settings
+[2018-03-08 03:35:11] Settings dump:
+[2018-03-08 03:35:11] 	Account ID: 139082563
+[2018-03-08 03:35:11] 	Enabled: false
+[2018-03-08 03:35:11] 	Base list: 0 ()
+[2018-03-08 03:35:11] 	No custom list
+[2018-03-08 03:35:11] 	No enabled features
+[2018-03-08 03:49:31] Validating parental settings
+[2018-03-08 03:49:31] Settings dump:
+[2018-03-08 03:49:31] 	Account ID: 139082563
+[2018-03-08 03:49:31] 	Enabled: false
+[2018-03-08 03:49:31] 	Base list: 0 ()
+[2018-03-08 03:49:31] 	No custom list
+[2018-03-08 03:49:31] 	No enabled features
+[2018-03-08 11:55:29] Validating parental settings
+[2018-03-08 11:55:29] Settings dump:
+[2018-03-08 11:55:29] 	Account ID: 139082563
+[2018-03-08 11:55:29] 	Enabled: false
+[2018-03-08 11:55:29] 	Base list: 0 ()
+[2018-03-08 11:55:29] 	No custom list
+[2018-03-08 11:55:29] 	No enabled features
+[2018-03-08 12:18:53] Validating parental settings
+[2018-03-08 12:18:53] Settings dump:
+[2018-03-08 12:18:53] 	Account ID: 139082563
+[2018-03-08 12:18:53] 	Enabled: false
+[2018-03-08 12:18:53] 	Base list: 0 ()
+[2018-03-08 12:18:53] 	No custom list
+[2018-03-08 12:18:53] 	No enabled features
+[2018-03-08 12:53:52] Validating parental settings
+[2018-03-08 12:53:52] Settings dump:
+[2018-03-08 12:53:52] 	Account ID: 139082563
+[2018-03-08 12:53:52] 	Enabled: false
+[2018-03-08 12:53:52] 	Base list: 0 ()
+[2018-03-08 12:53:52] 	No custom list
+[2018-03-08 12:53:52] 	No enabled features
+[2018-03-08 13:00:10] Validating parental settings
+[2018-03-08 13:00:10] Settings dump:
+[2018-03-08 13:00:10] 	Account ID: 139082563
+[2018-03-08 13:00:10] 	Enabled: false
+[2018-03-08 13:00:10] 	Base list: 0 ()
+[2018-03-08 13:00:10] 	No custom list
+[2018-03-08 13:00:10] 	No enabled features
+[2018-03-08 13:04:14] Validating parental settings
+[2018-03-08 13:04:14] Settings dump:
+[2018-03-08 13:04:14] 	Account ID: 139082563
+[2018-03-08 13:04:14] 	Enabled: false
+[2018-03-08 13:04:14] 	Base list: 0 ()
+[2018-03-08 13:04:14] 	No custom list
+[2018-03-08 13:04:14] 	No enabled features
+[2018-03-08 13:22:27] Validating parental settings
+[2018-03-08 13:22:27] Settings dump:
+[2018-03-08 13:22:27] 	Account ID: 139082563
+[2018-03-08 13:22:27] 	Enabled: false
+[2018-03-08 13:22:27] 	Base list: 0 ()
+[2018-03-08 13:22:27] 	No custom list
+[2018-03-08 13:22:27] 	No enabled features
+[2018-03-08 13:35:17] Validating parental settings
+[2018-03-08 13:35:17] Settings dump:
+[2018-03-08 13:35:17] 	Account ID: 139082563
+[2018-03-08 13:35:17] 	Enabled: false
+[2018-03-08 13:35:17] 	Base list: 0 ()
+[2018-03-08 13:35:17] 	No custom list
+[2018-03-08 13:35:17] 	No enabled features
+[2018-03-08 14:52:58] Validating parental settings
+[2018-03-08 14:52:58] Settings dump:
+[2018-03-08 14:52:58] 	Account ID: 139082563
+[2018-03-08 14:52:58] 	Enabled: false
+[2018-03-08 14:52:58] 	Base list: 0 ()
+[2018-03-08 14:52:58] 	No custom list
+[2018-03-08 14:52:58] 	No enabled features
+[2018-03-08 14:59:59] Validating parental settings
+[2018-03-08 14:59:59] Settings dump:
+[2018-03-08 14:59:59] 	Account ID: 139082563
+[2018-03-08 14:59:59] 	Enabled: false
+[2018-03-08 14:59:59] 	Base list: 0 ()
+[2018-03-08 14:59:59] 	No custom list
+[2018-03-08 14:59:59] 	No enabled features
+[2018-03-08 16:49:00] Validating parental settings
+[2018-03-08 16:49:00] Settings dump:
+[2018-03-08 16:49:00] 	Account ID: 139082563
+[2018-03-08 16:49:00] 	Enabled: false
+[2018-03-08 16:49:00] 	Base list: 0 ()
+[2018-03-08 16:49:00] 	No custom list
+[2018-03-08 16:49:00] 	No enabled features
+[2018-03-08 16:53:17] Validating parental settings
+[2018-03-08 16:53:17] Settings dump:
+[2018-03-08 16:53:17] 	Account ID: 139082563
+[2018-03-08 16:53:17] 	Enabled: false
+[2018-03-08 16:53:17] 	Base list: 0 ()
+[2018-03-08 16:53:17] 	No custom list
+[2018-03-08 16:53:17] 	No enabled features
+[2018-03-08 17:10:22] Validating parental settings
+[2018-03-08 17:10:22] Settings dump:
+[2018-03-08 17:10:22] 	Account ID: 139082563
+[2018-03-08 17:10:22] 	Enabled: false
+[2018-03-08 17:10:22] 	Base list: 0 ()
+[2018-03-08 17:10:22] 	No custom list
+[2018-03-08 17:10:22] 	No enabled features
+[2018-03-08 17:15:00] Validating parental settings
+[2018-03-08 17:15:00] Settings dump:
+[2018-03-08 17:15:00] 	Account ID: 139082563
+[2018-03-08 17:15:00] 	Enabled: false
+[2018-03-08 17:15:00] 	Base list: 0 ()
+[2018-03-08 17:15:00] 	No custom list
+[2018-03-08 17:15:00] 	No enabled features
+[2018-03-08 17:19:28] Validating parental settings
+[2018-03-08 17:19:28] Settings dump:
+[2018-03-08 17:19:28] 	Account ID: 139082563
+[2018-03-08 17:19:28] 	Enabled: false
+[2018-03-08 17:19:28] 	Base list: 0 ()
+[2018-03-08 17:19:28] 	No custom list
+[2018-03-08 17:19:28] 	No enabled features
+[2018-03-08 17:27:41] Validating parental settings
+[2018-03-08 17:27:41] Settings dump:
+[2018-03-08 17:27:41] 	Account ID: 139082563
+[2018-03-08 17:27:41] 	Enabled: false
+[2018-03-08 17:27:41] 	Base list: 0 ()
+[2018-03-08 17:27:41] 	No custom list
+[2018-03-08 17:27:41] 	No enabled features
+[2018-03-08 17:41:08] Validating parental settings
+[2018-03-08 17:41:08] Settings dump:
+[2018-03-08 17:41:08] 	Account ID: 139082563
+[2018-03-08 17:41:08] 	Enabled: false
+[2018-03-08 17:41:08] 	Base list: 0 ()
+[2018-03-08 17:41:08] 	No custom list
+[2018-03-08 17:41:08] 	No enabled features
+[2018-03-08 17:49:21] Validating parental settings
+[2018-03-08 17:49:21] Settings dump:
+[2018-03-08 17:49:21] 	Account ID: 139082563
+[2018-03-08 17:49:21] 	Enabled: false
+[2018-03-08 17:49:21] 	Base list: 0 ()
+[2018-03-08 17:49:21] 	No custom list
+[2018-03-08 17:49:21] 	No enabled features
+[2018-03-08 17:57:06] Validating parental settings
+[2018-03-08 17:57:06] Settings dump:
+[2018-03-08 17:57:06] 	Account ID: 139082563
+[2018-03-08 17:57:06] 	Enabled: false
+[2018-03-08 17:57:06] 	Base list: 0 ()
+[2018-03-08 17:57:06] 	No custom list
+[2018-03-08 17:57:06] 	No enabled features
+[2018-03-08 18:20:05] Validating parental settings
+[2018-03-08 18:20:05] Settings dump:
+[2018-03-08 18:20:05] 	Account ID: 139082563
+[2018-03-08 18:20:05] 	Enabled: false
+[2018-03-08 18:20:05] 	Base list: 0 ()
+[2018-03-08 18:20:05] 	No custom list
+[2018-03-08 18:20:05] 	No enabled features
+[2018-03-08 18:43:08] Validating parental settings
+[2018-03-08 18:43:08] Settings dump:
+[2018-03-08 18:43:08] 	Account ID: 139082563
+[2018-03-08 18:43:08] 	Enabled: false
+[2018-03-08 18:43:08] 	Base list: 0 ()
+[2018-03-08 18:43:08] 	No custom list
+[2018-03-08 18:43:08] 	No enabled features
+[2018-03-08 19:09:50] Validating parental settings
+[2018-03-08 19:09:50] Settings dump:
+[2018-03-08 19:09:50] 	Account ID: 139082563
+[2018-03-08 19:09:50] 	Enabled: false
+[2018-03-08 19:09:50] 	Base list: 0 ()
+[2018-03-08 19:09:50] 	No custom list
+[2018-03-08 19:09:50] 	No enabled features
+[2018-03-08 19:13:42] Validating parental settings
+[2018-03-08 19:13:42] Settings dump:
+[2018-03-08 19:13:42] 	Account ID: 139082563
+[2018-03-08 19:13:42] 	Enabled: false
+[2018-03-08 19:13:42] 	Base list: 0 ()
+[2018-03-08 19:13:42] 	No custom list
+[2018-03-08 19:13:42] 	No enabled features
+[2018-03-08 19:27:13] Validating parental settings
+[2018-03-08 19:27:13] Settings dump:
+[2018-03-08 19:27:13] 	Account ID: 139082563
+[2018-03-08 19:27:13] 	Enabled: false
+[2018-03-08 19:27:13] 	Base list: 0 ()
+[2018-03-08 19:27:13] 	No custom list
+[2018-03-08 19:27:13] 	No enabled features
+[2018-03-08 19:31:30] Validating parental settings
+[2018-03-08 19:31:30] Settings dump:
+[2018-03-08 19:31:30] 	Account ID: 139082563
+[2018-03-08 19:31:30] 	Enabled: false
+[2018-03-08 19:31:30] 	Base list: 0 ()
+[2018-03-08 19:31:30] 	No custom list
+[2018-03-08 19:31:30] 	No enabled features
+[2018-03-08 19:35:40] Validating parental settings
+[2018-03-08 19:35:40] Settings dump:
+[2018-03-08 19:35:40] 	Account ID: 139082563
+[2018-03-08 19:35:40] 	Enabled: false
+[2018-03-08 19:35:40] 	Base list: 0 ()
+[2018-03-08 19:35:40] 	No custom list
+[2018-03-08 19:35:40] 	No enabled features
+[2018-03-08 19:44:02] Validating parental settings
+[2018-03-08 19:44:02] Settings dump:
+[2018-03-08 19:44:02] 	Account ID: 139082563
+[2018-03-08 19:44:02] 	Enabled: false
+[2018-03-08 19:44:02] 	Base list: 0 ()
+[2018-03-08 19:44:02] 	No custom list
+[2018-03-08 19:44:02] 	No enabled features
+[2018-03-08 19:53:00] Validating parental settings
+[2018-03-08 19:53:00] Settings dump:
+[2018-03-08 19:53:00] 	Account ID: 139082563
+[2018-03-08 19:53:00] 	Enabled: false
+[2018-03-08 19:53:00] 	Base list: 0 ()
+[2018-03-08 19:53:00] 	No custom list
+[2018-03-08 19:53:00] 	No enabled features
+[2018-03-08 20:01:09] Validating parental settings
+[2018-03-08 20:01:09] Settings dump:
+[2018-03-08 20:01:09] 	Account ID: 139082563
+[2018-03-08 20:01:09] 	Enabled: false
+[2018-03-08 20:01:09] 	Base list: 0 ()
+[2018-03-08 20:01:09] 	No custom list
+[2018-03-08 20:01:09] 	No enabled features
+[2018-03-08 20:23:07] Validating parental settings
+[2018-03-08 20:23:07] Settings dump:
+[2018-03-08 20:23:07] 	Account ID: 139082563
+[2018-03-08 20:23:07] 	Enabled: false
+[2018-03-08 20:23:07] 	Base list: 0 ()
+[2018-03-08 20:23:07] 	No custom list
+[2018-03-08 20:23:07] 	No enabled features
+[2018-03-08 20:31:51] Validating parental settings
+[2018-03-08 20:31:51] Settings dump:
+[2018-03-08 20:31:51] 	Account ID: 139082563
+[2018-03-08 20:31:51] 	Enabled: false
+[2018-03-08 20:31:51] 	Base list: 0 ()
+[2018-03-08 20:31:51] 	No custom list
+[2018-03-08 20:31:51] 	No enabled features
+[2018-03-08 20:44:37] Validating parental settings
+[2018-03-08 20:44:37] Settings dump:
+[2018-03-08 20:44:37] 	Account ID: 139082563
+[2018-03-08 20:44:37] 	Enabled: false
+[2018-03-08 20:44:37] 	Base list: 0 ()
+[2018-03-08 20:44:37] 	No custom list
+[2018-03-08 20:44:37] 	No enabled features
+[2018-03-08 20:53:17] Validating parental settings
+[2018-03-08 20:53:17] Settings dump:
+[2018-03-08 20:53:17] 	Account ID: 139082563
+[2018-03-08 20:53:17] 	Enabled: false
+[2018-03-08 20:53:17] 	Base list: 0 ()
+[2018-03-08 20:53:17] 	No custom list
+[2018-03-08 20:53:17] 	No enabled features
+[2018-03-08 20:56:38] Validating parental settings
+[2018-03-08 20:56:38] Settings dump:
+[2018-03-08 20:56:38] 	Account ID: 139082563
+[2018-03-08 20:56:38] 	Enabled: false
+[2018-03-08 20:56:38] 	Base list: 0 ()
+[2018-03-08 20:56:38] 	No custom list
+[2018-03-08 20:56:38] 	No enabled features
+[2018-03-08 21:22:45] Validating parental settings
+[2018-03-08 21:22:45] Settings dump:
+[2018-03-08 21:22:45] 	Account ID: 139082563
+[2018-03-08 21:22:45] 	Enabled: false
+[2018-03-08 21:22:45] 	Base list: 0 ()
+[2018-03-08 21:22:45] 	No custom list
+[2018-03-08 21:22:45] 	No enabled features
+[2018-03-08 23:01:17] Validating parental settings
+[2018-03-08 23:01:17] Settings dump:
+[2018-03-08 23:01:17] 	Account ID: 139082563
+[2018-03-08 23:01:17] 	Enabled: false
+[2018-03-08 23:01:17] 	Base list: 0 ()
+[2018-03-08 23:01:17] 	No custom list
+[2018-03-08 23:01:17] 	No enabled features
+[2018-03-09 01:54:47] Validating parental settings
+[2018-03-09 01:54:47] Settings dump:
+[2018-03-09 01:54:47] 	Account ID: 139082563
+[2018-03-09 01:54:47] 	Enabled: false
+[2018-03-09 01:54:47] 	Base list: 0 ()
+[2018-03-09 01:54:47] 	No custom list
+[2018-03-09 01:54:47] 	No enabled features
+[2018-03-09 02:26:47] Validating parental settings
+[2018-03-09 02:26:47] Settings dump:
+[2018-03-09 02:26:47] 	Account ID: 139082563
+[2018-03-09 02:26:47] 	Enabled: false
+[2018-03-09 02:26:47] 	Base list: 0 ()
+[2018-03-09 02:26:47] 	No custom list
+[2018-03-09 02:26:47] 	No enabled features
+[2018-03-09 03:46:02] Validating parental settings
+[2018-03-09 03:46:02] Settings dump:
+[2018-03-09 03:46:02] 	Account ID: 139082563
+[2018-03-09 03:46:02] 	Enabled: false
+[2018-03-09 03:46:02] 	Base list: 0 ()
+[2018-03-09 03:46:02] 	No custom list
+[2018-03-09 03:46:02] 	No enabled features
+[2018-03-09 04:00:09] Validating parental settings
+[2018-03-09 04:00:09] Settings dump:
+[2018-03-09 04:00:09] 	Account ID: 139082563
+[2018-03-09 04:00:09] 	Enabled: false
+[2018-03-09 04:00:09] 	Base list: 0 ()
+[2018-03-09 04:00:09] 	No custom list
+[2018-03-09 04:00:09] 	No enabled features
+[2018-03-09 04:07:06] Validating parental settings
+[2018-03-09 04:07:06] Settings dump:
+[2018-03-09 04:07:06] 	Account ID: 139082563
+[2018-03-09 04:07:06] 	Enabled: false
+[2018-03-09 04:07:06] 	Base list: 0 ()
+[2018-03-09 04:07:06] 	No custom list
+[2018-03-09 04:07:06] 	No enabled features
+[2018-03-09 04:11:05] Validating parental settings
+[2018-03-09 04:11:05] Settings dump:
+[2018-03-09 04:11:05] 	Account ID: 139082563
+[2018-03-09 04:11:05] 	Enabled: false
+[2018-03-09 04:11:05] 	Base list: 0 ()
+[2018-03-09 04:11:05] 	No custom list
+[2018-03-09 04:11:05] 	No enabled features
+[2018-03-09 04:15:46] Validating parental settings
+[2018-03-09 04:15:46] Settings dump:
+[2018-03-09 04:15:46] 	Account ID: 139082563
+[2018-03-09 04:15:46] 	Enabled: false
+[2018-03-09 04:15:46] 	Base list: 0 ()
+[2018-03-09 04:15:46] 	No custom list
+[2018-03-09 04:15:46] 	No enabled features
+[2018-03-09 04:21:41] Validating parental settings
+[2018-03-09 04:21:41] Settings dump:
+[2018-03-09 04:21:41] 	Account ID: 139082563
+[2018-03-09 04:21:41] 	Enabled: false
+[2018-03-09 04:21:41] 	Base list: 0 ()
+[2018-03-09 04:21:41] 	No custom list
+[2018-03-09 04:21:41] 	No enabled features
+[2018-03-09 04:55:58] Validating parental settings
+[2018-03-09 04:55:58] Settings dump:
+[2018-03-09 04:55:58] 	Account ID: 139082563
+[2018-03-09 04:55:58] 	Enabled: false
+[2018-03-09 04:55:58] 	Base list: 0 ()
+[2018-03-09 04:55:58] 	No custom list
+[2018-03-09 04:55:58] 	No enabled features
+[2018-03-09 06:47:36] Validating parental settings
+[2018-03-09 06:47:36] Settings dump:
+[2018-03-09 06:47:36] 	Account ID: 139082563
+[2018-03-09 06:47:36] 	Enabled: false
+[2018-03-09 06:47:36] 	Base list: 0 ()
+[2018-03-09 06:47:36] 	No custom list
+[2018-03-09 06:47:36] 	No enabled features
+[2018-03-09 08:39:36] Validating parental settings
+[2018-03-09 08:39:36] Settings dump:
+[2018-03-09 08:39:36] 	Account ID: 139082563
+[2018-03-09 08:39:36] 	Enabled: false
+[2018-03-09 08:39:36] 	Base list: 0 ()
+[2018-03-09 08:39:36] 	No custom list
+[2018-03-09 08:39:36] 	No enabled features
+[2018-03-09 10:21:36] Validating parental settings
+[2018-03-09 10:21:36] Settings dump:
+[2018-03-09 10:21:36] 	Account ID: 139082563
+[2018-03-09 10:21:36] 	Enabled: false
+[2018-03-09 10:21:36] 	Base list: 0 ()
+[2018-03-09 10:21:36] 	No custom list
+[2018-03-09 10:21:36] 	No enabled features
+[2018-03-09 10:46:11] Validating parental settings
+[2018-03-09 10:46:11] Settings dump:
+[2018-03-09 10:46:11] 	Account ID: 139082563
+[2018-03-09 10:46:11] 	Enabled: false
+[2018-03-09 10:46:11] 	Base list: 0 ()
+[2018-03-09 10:46:11] 	No custom list
+[2018-03-09 10:46:11] 	No enabled features
+[2018-03-09 10:48:41] Validating parental settings
+[2018-03-09 10:48:41] Settings dump:
+[2018-03-09 10:48:41] 	Account ID: 139082563
+[2018-03-09 10:48:41] 	Enabled: false
+[2018-03-09 10:48:41] 	Base list: 0 ()
+[2018-03-09 10:48:41] 	No custom list
+[2018-03-09 10:48:41] 	No enabled features
+[2018-03-09 11:58:10] Validating parental settings
+[2018-03-09 11:58:10] Settings dump:
+[2018-03-09 11:58:10] 	Account ID: 139082563
+[2018-03-09 11:58:10] 	Enabled: false
+[2018-03-09 11:58:10] 	Base list: 0 ()
+[2018-03-09 11:58:10] 	No custom list
+[2018-03-09 11:58:10] 	No enabled features
+[2018-03-09 13:02:17] Validating parental settings
+[2018-03-09 13:02:17] Settings dump:
+[2018-03-09 13:02:17] 	Account ID: 139082563
+[2018-03-09 13:02:17] 	Enabled: false
+[2018-03-09 13:02:17] 	Base list: 0 ()
+[2018-03-09 13:02:17] 	No custom list
+[2018-03-09 13:02:17] 	No enabled features
+[2018-03-09 13:23:04] Validating parental settings
+[2018-03-09 13:23:04] Settings dump:
+[2018-03-09 13:23:04] 	Account ID: 139082563
+[2018-03-09 13:23:04] 	Enabled: false
+[2018-03-09 13:23:04] 	Base list: 0 ()
+[2018-03-09 13:23:04] 	No custom list
+[2018-03-09 13:23:04] 	No enabled features
+[2018-03-09 13:32:25] Validating parental settings
+[2018-03-09 13:32:25] Settings dump:
+[2018-03-09 13:32:25] 	Account ID: 139082563
+[2018-03-09 13:32:25] 	Enabled: false
+[2018-03-09 13:32:25] 	Base list: 0 ()
+[2018-03-09 13:32:25] 	No custom list
+[2018-03-09 13:32:25] 	No enabled features
+[2018-03-09 14:41:36] Validating parental settings
+[2018-03-09 14:41:36] Settings dump:
+[2018-03-09 14:41:36] 	Account ID: 139082563
+[2018-03-09 14:41:36] 	Enabled: false
+[2018-03-09 14:41:36] 	Base list: 0 ()
+[2018-03-09 14:41:36] 	No custom list
+[2018-03-09 14:41:36] 	No enabled features
+[2018-03-09 16:50:44] Validating parental settings
+[2018-03-09 16:50:44] Settings dump:
+[2018-03-09 16:50:44] 	Account ID: 139082563
+[2018-03-09 16:50:44] 	Enabled: false
+[2018-03-09 16:50:44] 	Base list: 0 ()
+[2018-03-09 16:50:44] 	No custom list
+[2018-03-09 16:50:44] 	No enabled features
+[2018-03-09 17:09:56] Validating parental settings
+[2018-03-09 17:09:56] Settings dump:
+[2018-03-09 17:09:56] 	Account ID: 139082563
+[2018-03-09 17:09:56] 	Enabled: false
+[2018-03-09 17:09:56] 	Base list: 0 ()
+[2018-03-09 17:09:56] 	No custom list
+[2018-03-09 17:09:56] 	No enabled features
+[2018-03-09 23:09:51] Validating parental settings
+[2018-03-09 23:09:51] Settings dump:
+[2018-03-09 23:09:51] 	Account ID: 139082563
+[2018-03-09 23:09:51] 	Enabled: false
+[2018-03-09 23:09:51] 	Base list: 0 ()
+[2018-03-09 23:09:51] 	No custom list
+[2018-03-09 23:09:51] 	No enabled features
+[2018-03-09 23:10:07] Validating parental settings
+[2018-03-09 23:10:07] Settings dump:
+[2018-03-09 23:10:07] 	Account ID: 139082563
+[2018-03-09 23:10:07] 	Enabled: false
+[2018-03-09 23:10:07] 	Base list: 0 ()
+[2018-03-09 23:10:07] 	No custom list
+[2018-03-09 23:10:07] 	No enabled features
+[2018-03-10 00:58:24] Validating parental settings
+[2018-03-10 00:58:24] Settings dump:
+[2018-03-10 00:58:24] 	Account ID: 139082563
+[2018-03-10 00:58:24] 	Enabled: false
+[2018-03-10 00:58:24] 	Base list: 0 ()
+[2018-03-10 00:58:24] 	No custom list
+[2018-03-10 00:58:24] 	No enabled features
+[2018-03-10 01:29:03] Validating parental settings
+[2018-03-10 01:29:03] Settings dump:
+[2018-03-10 01:29:03] 	Account ID: 139082563
+[2018-03-10 01:29:03] 	Enabled: false
+[2018-03-10 01:29:03] 	Base list: 0 ()
+[2018-03-10 01:29:03] 	No custom list
+[2018-03-10 01:29:03] 	No enabled features
+[2018-03-10 02:50:58] Validating parental settings
+[2018-03-10 02:50:58] Settings dump:
+[2018-03-10 02:50:58] 	Account ID: 139082563
+[2018-03-10 02:50:58] 	Enabled: false
+[2018-03-10 02:50:58] 	Base list: 0 ()
+[2018-03-10 02:50:58] 	No custom list
+[2018-03-10 02:50:58] 	No enabled features
+[2018-03-10 02:51:26] Validating parental settings
+[2018-03-10 02:51:26] Settings dump:
+[2018-03-10 02:51:26] 	Account ID: 139082563
+[2018-03-10 02:51:26] 	Enabled: false
+[2018-03-10 02:51:26] 	Base list: 0 ()
+[2018-03-10 02:51:26] 	No custom list
+[2018-03-10 02:51:26] 	No enabled features
+[2018-03-10 09:32:45] Validating parental settings
+[2018-03-10 09:32:45] Settings dump:
+[2018-03-10 09:32:45] 	Account ID: 139082563
+[2018-03-10 09:32:45] 	Enabled: false
+[2018-03-10 09:32:45] 	Base list: 0 ()
+[2018-03-10 09:32:45] 	No custom list
+[2018-03-10 09:32:45] 	No enabled features
+[2018-03-10 12:25:26] Validating parental settings
+[2018-03-10 12:25:26] Settings dump:
+[2018-03-10 12:25:26] 	Account ID: 139082563
+[2018-03-10 12:25:26] 	Enabled: false
+[2018-03-10 12:25:26] 	Base list: 0 ()
+[2018-03-10 12:25:26] 	No custom list
+[2018-03-10 12:25:26] 	No enabled features
+[2018-03-10 12:48:34] Validating parental settings
+[2018-03-10 12:48:34] Settings dump:
+[2018-03-10 12:48:34] 	Account ID: 139082563
+[2018-03-10 12:48:34] 	Enabled: false
+[2018-03-10 12:48:34] 	Base list: 0 ()
+[2018-03-10 12:48:34] 	No custom list
+[2018-03-10 12:48:34] 	No enabled features
+[2018-03-10 13:33:59] Validating parental settings
+[2018-03-10 13:33:59] Settings dump:
+[2018-03-10 13:33:59] 	Account ID: 139082563
+[2018-03-10 13:33:59] 	Enabled: false
+[2018-03-10 13:33:59] 	Base list: 0 ()
+[2018-03-10 13:33:59] 	No custom list
+[2018-03-10 13:33:59] 	No enabled features
+[2018-03-10 14:35:07] Validating parental settings
+[2018-03-10 14:35:07] Settings dump:
+[2018-03-10 14:35:07] 	Account ID: 139082563
+[2018-03-10 14:35:07] 	Enabled: false
+[2018-03-10 14:35:07] 	Base list: 0 ()
+[2018-03-10 14:35:07] 	No custom list
+[2018-03-10 14:35:07] 	No enabled features
+[2018-03-10 15:07:04] Validating parental settings
+[2018-03-10 15:07:04] Settings dump:
+[2018-03-10 15:07:04] 	Account ID: 139082563
+[2018-03-10 15:07:04] 	Enabled: false
+[2018-03-10 15:07:04] 	Base list: 0 ()
+[2018-03-10 15:07:04] 	No custom list
+[2018-03-10 15:07:04] 	No enabled features
+[2018-03-10 15:32:25] Validating parental settings
+[2018-03-10 15:32:25] Settings dump:
+[2018-03-10 15:32:25] 	Account ID: 139082563
+[2018-03-10 15:32:25] 	Enabled: false
+[2018-03-10 15:32:25] 	Base list: 0 ()
+[2018-03-10 15:32:25] 	No custom list
+[2018-03-10 15:32:25] 	No enabled features
+[2018-03-10 16:15:23] Validating parental settings
+[2018-03-10 16:15:23] Settings dump:
+[2018-03-10 16:15:23] 	Account ID: 139082563
+[2018-03-10 16:15:23] 	Enabled: false
+[2018-03-10 16:15:23] 	Base list: 0 ()
+[2018-03-10 16:15:23] 	No custom list
+[2018-03-10 16:15:23] 	No enabled features
+[2018-03-10 17:07:09] Validating parental settings
+[2018-03-10 17:07:09] Settings dump:
+[2018-03-10 17:07:09] 	Account ID: 139082563
+[2018-03-10 17:07:09] 	Enabled: false
+[2018-03-10 17:07:09] 	Base list: 0 ()
+[2018-03-10 17:07:09] 	No custom list
+[2018-03-10 17:07:09] 	No enabled features
+[2018-03-10 17:57:32] Validating parental settings
+[2018-03-10 17:57:32] Settings dump:
+[2018-03-10 17:57:32] 	Account ID: 139082563
+[2018-03-10 17:57:32] 	Enabled: false
+[2018-03-10 17:57:32] 	Base list: 0 ()
+[2018-03-10 17:57:32] 	No custom list
+[2018-03-10 17:57:32] 	No enabled features
+[2018-03-10 19:00:15] Validating parental settings
+[2018-03-10 19:00:15] Settings dump:
+[2018-03-10 19:00:15] 	Account ID: 139082563
+[2018-03-10 19:00:15] 	Enabled: false
+[2018-03-10 19:00:15] 	Base list: 0 ()
+[2018-03-10 19:00:15] 	No custom list
+[2018-03-10 19:00:15] 	No enabled features
+[2018-03-10 19:33:31] Validating parental settings
+[2018-03-10 19:33:31] Settings dump:
+[2018-03-10 19:33:31] 	Account ID: 139082563
+[2018-03-10 19:33:31] 	Enabled: false
+[2018-03-10 19:33:31] 	Base list: 0 ()
+[2018-03-10 19:33:31] 	No custom list
+[2018-03-10 19:33:31] 	No enabled features
+[2018-03-10 20:20:52] Validating parental settings
+[2018-03-10 20:20:52] Settings dump:
+[2018-03-10 20:20:52] 	Account ID: 139082563
+[2018-03-10 20:20:52] 	Enabled: false
+[2018-03-10 20:20:52] 	Base list: 0 ()
+[2018-03-10 20:20:52] 	No custom list
+[2018-03-10 20:20:52] 	No enabled features
+[2018-03-10 21:35:03] Validating parental settings
+[2018-03-10 21:35:03] Settings dump:
+[2018-03-10 21:35:03] 	Account ID: 139082563
+[2018-03-10 21:35:03] 	Enabled: false
+[2018-03-10 21:35:03] 	Base list: 0 ()
+[2018-03-10 21:35:03] 	No custom list
+[2018-03-10 21:35:03] 	No enabled features
+[2018-03-10 22:07:21] Validating parental settings
+[2018-03-10 22:07:21] Settings dump:
+[2018-03-10 22:07:21] 	Account ID: 139082563
+[2018-03-10 22:07:21] 	Enabled: false
+[2018-03-10 22:07:21] 	Base list: 0 ()
+[2018-03-10 22:07:21] 	No custom list
+[2018-03-10 22:07:21] 	No enabled features
+[2018-03-10 22:37:24] Validating parental settings
+[2018-03-10 22:37:24] Settings dump:
+[2018-03-10 22:37:24] 	Account ID: 139082563
+[2018-03-10 22:37:24] 	Enabled: false
+[2018-03-10 22:37:24] 	Base list: 0 ()
+[2018-03-10 22:37:24] 	No custom list
+[2018-03-10 22:37:24] 	No enabled features
+[2018-03-10 23:40:01] Validating parental settings
+[2018-03-10 23:40:01] Settings dump:
+[2018-03-10 23:40:01] 	Account ID: 139082563
+[2018-03-10 23:40:01] 	Enabled: false
+[2018-03-10 23:40:01] 	Base list: 0 ()
+[2018-03-10 23:40:01] 	No custom list
+[2018-03-10 23:40:01] 	No enabled features
+[2018-03-11 00:10:50] Validating parental settings
+[2018-03-11 00:10:50] Settings dump:
+[2018-03-11 00:10:50] 	Account ID: 139082563
+[2018-03-11 00:10:50] 	Enabled: false
+[2018-03-11 00:10:50] 	Base list: 0 ()
+[2018-03-11 00:10:50] 	No custom list
+[2018-03-11 00:10:50] 	No enabled features
+[2018-03-11 03:22:37] Validating parental settings
+[2018-03-11 03:22:37] Settings dump:
+[2018-03-11 03:22:37] 	Account ID: 139082563
+[2018-03-11 03:22:37] 	Enabled: false
+[2018-03-11 03:22:37] 	Base list: 0 ()
+[2018-03-11 03:22:37] 	No custom list
+[2018-03-11 03:22:37] 	No enabled features
+
+
+[2018-03-19 11:32:19] Validating parental settings
+[2018-03-19 11:32:19] Settings dump:
+[2018-03-19 11:32:19] 	Account ID: 139082563
+[2018-03-19 11:32:19] 	Enabled: false
+[2018-03-19 11:32:19] 	Base list: 0 ()
+[2018-03-19 11:32:19] 	No custom list
+[2018-03-19 11:32:19] 	No enabled features
+
+
+[2018-04-08 13:27:19] Validating parental settings
+[2018-04-08 13:27:19] Settings dump:
+[2018-04-08 13:27:19] 	Account ID: 139082563
+[2018-04-08 13:27:19] 	Enabled: false
+[2018-04-08 13:27:19] 	Base list: 0 ()
+[2018-04-08 13:27:19] 	No custom list
+[2018-04-08 13:27:19] 	No enabled features
+[2018-04-08 13:43:04] Validating parental settings
+[2018-04-08 13:43:04] Settings dump:
+[2018-04-08 13:43:04] 	Account ID: 139082563
+[2018-04-08 13:43:04] 	Enabled: false
+[2018-04-08 13:43:04] 	Base list: 0 ()
+[2018-04-08 13:43:04] 	No custom list
+[2018-04-08 13:43:04] 	No enabled features
+
+
+[2018-04-08 17:16:45] Validating parental settings
+[2018-04-08 17:16:45] Settings dump:
+[2018-04-08 17:16:45] 	Account ID: 139082563
+[2018-04-08 17:16:45] 	Enabled: false
+[2018-04-08 17:16:45] 	Base list: 0 ()
+[2018-04-08 17:16:45] 	No custom list
+[2018-04-08 17:16:45] 	No enabled features
+[2018-04-08 23:54:07] Validating parental settings
+[2018-04-08 23:54:07] Settings dump:
+[2018-04-08 23:54:07] 	Account ID: 139082563
+[2018-04-08 23:54:07] 	Enabled: false
+[2018-04-08 23:54:07] 	Base list: 0 ()
+[2018-04-08 23:54:07] 	No custom list
+[2018-04-08 23:54:07] 	No enabled features
+
+
+[2018-04-09 00:19:46] Validating parental settings
+[2018-04-09 00:19:46] Settings dump:
+[2018-04-09 00:19:46] 	Account ID: 139082563
+[2018-04-09 00:19:46] 	Enabled: false
+[2018-04-09 00:19:46] 	Base list: 0 ()
+[2018-04-09 00:19:46] 	No custom list
+[2018-04-09 00:19:46] 	No enabled features
+
+
+[2018-04-13 01:23:54] Validating parental settings
+[2018-04-13 01:23:54] Settings dump:
+[2018-04-13 01:23:54] 	Account ID: 139082563
+[2018-04-13 01:23:54] 	Enabled: false
+[2018-04-13 01:23:54] 	Base list: 0 ()
+[2018-04-13 01:23:54] 	No custom list
+[2018-04-13 01:23:54] 	No enabled features
+[2018-04-13 03:13:51] Validating parental settings
+[2018-04-13 03:13:51] Settings dump:
+[2018-04-13 03:13:51] 	Account ID: 139082563
+[2018-04-13 03:13:51] 	Enabled: false
+[2018-04-13 03:13:51] 	Base list: 0 ()
+[2018-04-13 03:13:51] 	No custom list
+[2018-04-13 03:13:51] 	No enabled features
+[2018-04-13 04:40:16] Validating parental settings
+[2018-04-13 04:40:16] Settings dump:
+[2018-04-13 04:40:16] 	Account ID: 139082563
+[2018-04-13 04:40:16] 	Enabled: false
+[2018-04-13 04:40:16] 	Base list: 0 ()
+[2018-04-13 04:40:16] 	No custom list
+[2018-04-13 04:40:16] 	No enabled features
+[2018-04-13 09:53:02] Validating parental settings
+[2018-04-13 09:53:02] Settings dump:
+[2018-04-13 09:53:02] 	Account ID: 139082563
+[2018-04-13 09:53:02] 	Enabled: false
+[2018-04-13 09:53:02] 	Base list: 0 ()
+[2018-04-13 09:53:02] 	No custom list
+[2018-04-13 09:53:02] 	No enabled features
+[2018-04-13 10:25:15] Validating parental settings
+[2018-04-13 10:25:15] Settings dump:
+[2018-04-13 10:25:15] 	Account ID: 139082563
+[2018-04-13 10:25:15] 	Enabled: false
+[2018-04-13 10:25:15] 	Base list: 0 ()
+[2018-04-13 10:25:15] 	No custom list
+[2018-04-13 10:25:15] 	No enabled features
+[2018-04-13 10:57:16] Validating parental settings
+[2018-04-13 10:57:16] Settings dump:
+[2018-04-13 10:57:16] 	Account ID: 139082563
+[2018-04-13 10:57:16] 	Enabled: false
+[2018-04-13 10:57:16] 	Base list: 0 ()
+[2018-04-13 10:57:16] 	No custom list
+[2018-04-13 10:57:16] 	No enabled features
+
+
+[2018-04-30 00:31:33] Validating parental settings
+[2018-04-30 00:31:33] Settings dump:
+[2018-04-30 00:31:33] 	Account ID: 139082563
+[2018-04-30 00:31:33] 	Enabled: false
+[2018-04-30 00:31:33] 	Base list: 0 ()
+[2018-04-30 00:31:33] 	No custom list
+[2018-04-30 00:31:33] 	No enabled features
+
+
+[2018-05-02 09:30:41] Validating parental settings
+[2018-05-02 09:30:41] Settings dump:
+[2018-05-02 09:30:41] 	Account ID: 139082563
+[2018-05-02 09:30:41] 	Enabled: false
+[2018-05-02 09:30:41] 	Base list: 0 ()
+[2018-05-02 09:30:41] 	No custom list
+[2018-05-02 09:30:41] 	No enabled features
+[2018-05-02 10:43:38] Validating parental settings
+[2018-05-02 10:43:38] Settings dump:
+[2018-05-02 10:43:38] 	Account ID: 139082563
+[2018-05-02 10:43:38] 	Enabled: false
+[2018-05-02 10:43:38] 	Base list: 0 ()
+[2018-05-02 10:43:38] 	No custom list
+[2018-05-02 10:43:38] 	No enabled features
+[2018-05-02 11:04:46] Validating parental settings
+[2018-05-02 11:04:46] Settings dump:
+[2018-05-02 11:04:46] 	Account ID: 139082563
+[2018-05-02 11:04:46] 	Enabled: false
+[2018-05-02 11:04:46] 	Base list: 0 ()
+[2018-05-02 11:04:46] 	No custom list
+[2018-05-02 11:04:46] 	No enabled features
+[2018-05-02 11:19:45] Validating parental settings
+[2018-05-02 11:19:45] Settings dump:
+[2018-05-02 11:19:45] 	Account ID: 139082563
+[2018-05-02 11:19:45] 	Enabled: false
+[2018-05-02 11:19:45] 	Base list: 0 ()
+[2018-05-02 11:19:45] 	No custom list
+[2018-05-02 11:19:45] 	No enabled features

@@ -1,0 +1,263 @@
+
+
+[2018-04-08 17:16:56] [AppID 214850] Loading stats from disk...success
+[2018-04-08 17:16:56] [AppID 214850] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-08 17:16:56] [AppID 288040] Loaded schema from disk.
+[2018-04-08 17:16:56] [AppID 288040] Loading stats from disk...
+[2018-04-08 17:16:57] [AppID 288040] Loading stats from disk...success
+[2018-04-08 17:16:57] [AppID 288040] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-08 17:17:04] [AppID 391540] Loaded schema from disk.
+[2018-04-08 17:17:04] [AppID 391540] Loading stats from disk...
+[2018-04-08 17:17:04] [AppID 391540] Loading stats from disk...success
+[2018-04-08 17:17:04] [AppID 391540] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-08 17:17:09] [AppID 391540] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-08 17:29:56] [AppID 391540] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2018-04-09 00:19:49] [AppID 391540] Loaded schema from disk.
+[2018-04-09 00:19:49] [AppID 391540] Loading stats from disk...
+[2018-04-09 00:19:49] [AppID 391540] Loading stats from disk...success
+[2018-04-09 00:19:49] [AppID 391540] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2018-04-13 01:23:59] [AppID 391540] Loaded schema from disk.
+[2018-04-13 01:23:59] [AppID 391540] Loading stats from disk...
+[2018-04-13 01:23:59] [AppID 391540] Loading stats from disk...success
+[2018-04-13 01:23:59] [AppID 391540] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+
+
+[2018-04-30 00:31:36] [AppID 391540] Loaded schema from disk.
+[2018-04-30 00:31:36] [AppID 391540] Loading stats from disk...
+[2018-04-30 00:31:36] [AppID 391540] Loading stats from disk...success
+[2018-04-30 00:31:36] [AppID 391540] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:11] [AppID 365670] Schema not found on disk
+[2018-04-30 00:32:11] [AppID 365670] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:32:13] [AppID 428340] Schema not found on disk
+[2018-04-30 00:32:13] [AppID 428340] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:32:14] [AppID 404790] Schema not found on disk
+[2018-04-30 00:32:14] [AppID 404790] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:32:19] [AppID 431730] Schema not found on disk
+[2018-04-30 00:32:19] [AppID 431730] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:32:21] [AppID 428340] Schema not found on disk
+[2018-04-30 00:32:22] [AppID 363890] Schema not found on disk
+[2018-04-30 00:32:22] [AppID 363890] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:32:23] [AppID 375840] Loaded schema from disk.
+[2018-04-30 00:32:23] [AppID 375840] Loading stats from disk...
+[2018-04-30 00:32:23] [AppID 375840] Loading stats from disk...success
+[2018-04-30 00:32:23] [AppID 375840] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:24] [AppID 345370] Schema not found on disk
+[2018-04-30 00:32:25] [AppID 345370] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:32:25] [AppID 260790] Loaded schema from disk.
+[2018-04-30 00:32:25] [AppID 260790] Loading stats from disk...
+[2018-04-30 00:32:25] [AppID 260790] Loading stats from disk...success
+[2018-04-30 00:32:25] [AppID 260790] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:27] [AppID 410110] Loaded schema from disk.
+[2018-04-30 00:32:27] [AppID 410110] Loading stats from disk...
+[2018-04-30 00:32:27] [AppID 410110] Loading stats from disk...success
+[2018-04-30 00:32:28] [AppID 410110] CAPIJobRequestUserStats - updated schema from server
+[2018-04-30 00:32:28] [AppID 410110] CAPIJobRequestUserStats::YieldingMergeStats - beginning merge. . .
+[2018-04-30 00:32:28] [AppID 410110] CAPIJobRequestUserStats::YieldingMergeStats - server vs. local 'score' is 0, local changes = false
+[2018-04-30 00:32:28] [AppID 410110] CAPIJobRequestUserStats::YieldingMergeStats - using SERVER stats data
+[2018-04-30 00:32:28] [AppID 332200] Loaded schema from disk.
+[2018-04-30 00:32:28] [AppID 332200] Loading stats from disk...
+[2018-04-30 00:32:28] [AppID 332200] Loading stats from disk...success
+[2018-04-30 00:32:28] [AppID 332200] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:33] [AppID 431730] Schema not found on disk
+[2018-04-30 00:32:34] [AppID 107100] Loaded schema from disk.
+[2018-04-30 00:32:34] [AppID 107100] Loading stats from disk...
+[2018-04-30 00:32:34] [AppID 107100] Loading stats from disk...success
+[2018-04-30 00:32:35] [AppID 107100] CAPIJobRequestUserStats - updated schema from server
+[2018-04-30 00:32:35] [AppID 107100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:35] [AppID 238460] Loaded schema from disk.
+[2018-04-30 00:32:35] [AppID 238460] Loading stats from disk...
+[2018-04-30 00:32:35] [AppID 238460] Loading stats from disk...success
+[2018-04-30 00:32:35] [AppID 238460] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:38] [AppID 431730] Schema not found on disk
+[2018-04-30 00:32:40] [AppID 26800] Loaded schema from disk.
+[2018-04-30 00:32:40] [AppID 26800] Loading stats from disk...
+[2018-04-30 00:32:40] [AppID 26800] Loading stats from disk...success
+[2018-04-30 00:32:40] [AppID 26800] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:44] [AppID 250900] Loaded schema from disk.
+[2018-04-30 00:32:44] [AppID 250900] Loading stats from disk...
+[2018-04-30 00:32:44] [AppID 250900] Loading stats from disk...success
+[2018-04-30 00:32:44] [AppID 250900] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:45] [AppID 107100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:51] [AppID 431730] Schema not found on disk
+[2018-04-30 00:32:52] [AppID 433950] Loaded schema from disk.
+[2018-04-30 00:32:52] [AppID 433950] Loading stats from disk...
+[2018-04-30 00:32:52] [AppID 433950] Loading stats from disk...success
+[2018-04-30 00:32:52] [AppID 433950] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:54] [AppID 63710] Loaded schema from disk.
+[2018-04-30 00:32:54] [AppID 63710] Loading stats from disk...
+[2018-04-30 00:32:54] [AppID 63710] Loading stats from disk...success
+[2018-04-30 00:32:54] [AppID 63710] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:55] [AppID 26800] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:32:55] [AppID 274190] Loaded schema from disk.
+[2018-04-30 00:32:55] [AppID 274190] Loading stats from disk...
+[2018-04-30 00:32:55] [AppID 274190] Loading stats from disk...success
+[2018-04-30 00:32:55] [AppID 274190] CAPIJobRequestUserStats - updated schema from server
+[2018-04-30 00:32:55] [AppID 274190] CAPIJobRequestUserStats::YieldingMergeStats - beginning merge. . .
+[2018-04-30 00:32:55] [AppID 274190] CAPIJobRequestUserStats::YieldingMergeStats - server vs. local 'score' is 0, local changes = false
+[2018-04-30 00:32:55] [AppID 274190] CAPIJobRequestUserStats::YieldingMergeStats - using SERVER stats data
+[2018-04-30 00:32:59] [AppID 431730] Schema not found on disk
+[2018-04-30 00:33:00] [AppID 390610] Loaded schema from disk.
+[2018-04-30 00:33:00] [AppID 390610] Loading stats from disk...
+[2018-04-30 00:33:00] [AppID 390610] Loading stats from disk...success
+[2018-04-30 00:33:00] [AppID 390610] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:02] [AppID 293780] Loaded schema from disk.
+[2018-04-30 00:33:02] [AppID 293780] Loading stats from disk...
+[2018-04-30 00:33:02] [AppID 293780] Loading stats from disk...success
+[2018-04-30 00:33:02] [AppID 293780] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:03] [AppID 698780] Schema not found on disk
+[2018-04-30 00:33:03] [AppID 698780] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:33:04] [AppID 555220] Loaded schema from disk.
+[2018-04-30 00:33:04] [AppID 555220] Loading stats from disk...
+[2018-04-30 00:33:04] [AppID 555220] Loading stats from disk...success
+[2018-04-30 00:33:04] [AppID 555220] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:06] [AppID 262060] Loaded schema from disk.
+[2018-04-30 00:33:06] [AppID 262060] Loading stats from disk...
+[2018-04-30 00:33:06] [AppID 262060] Loading stats from disk...success
+[2018-04-30 00:33:06] [AppID 262060] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:07] [AppID 698780] Schema not found on disk
+[2018-04-30 00:33:08] [AppID 570] Loaded schema from disk.
+[2018-04-30 00:33:08] [AppID 570] Loading stats from disk...
+[2018-04-30 00:33:08] [AppID 570] Loading stats from disk...success
+[2018-04-30 00:33:08] [AppID 570] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:12] [AppID 664180] Loaded schema from disk.
+[2018-04-30 00:33:12] [AppID 664180] Loading stats from disk...
+[2018-04-30 00:33:13] [AppID 664180] Loading stats from disk...success
+[2018-04-30 00:33:13] [AppID 664180] CAPIJobRequestUserStats::YieldingMergeStats - beginning merge. . .
+[2018-04-30 00:33:13] [AppID 664180] CAPIJobRequestUserStats::YieldingMergeStats - server vs. local 'score' is 0, local changes = false
+[2018-04-30 00:33:13] [AppID 664180] CAPIJobRequestUserStats::YieldingMergeStats - using SERVER stats data
+[2018-04-30 00:33:16] [AppID 227300] Loaded schema from disk.
+[2018-04-30 00:33:16] [AppID 227300] Loading stats from disk...
+[2018-04-30 00:33:16] [AppID 227300] Loading stats from disk...success
+[2018-04-30 00:33:17] [AppID 227300] CAPIJobRequestUserStats - updated schema from server
+[2018-04-30 00:33:17] [AppID 227300] CAPIJobRequestUserStats::YieldingMergeStats - beginning merge. . .
+[2018-04-30 00:33:17] [AppID 227300] CAPIJobRequestUserStats::YieldingMergeStats - server vs. local 'score' is 0, local changes = false
+[2018-04-30 00:33:17] [AppID 227300] CAPIJobRequestUserStats::YieldingMergeStats - using SERVER stats data
+[2018-04-30 00:33:17] [AppID 337340] Loaded schema from disk.
+[2018-04-30 00:33:17] [AppID 337340] Loading stats from disk...
+[2018-04-30 00:33:17] [AppID 337340] Loading stats from disk...success
+[2018-04-30 00:33:17] [AppID 337340] CAPIJobRequestUserStats - updated schema from server
+[2018-04-30 00:33:17] [AppID 337340] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:23] [AppID 431730] Schema not found on disk
+[2018-04-30 00:33:24] [AppID 362680] Loaded schema from disk.
+[2018-04-30 00:33:24] [AppID 362680] Loading stats from disk...
+[2018-04-30 00:33:24] [AppID 362680] Loading stats from disk...success
+[2018-04-30 00:33:24] [AppID 362680] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:26] [AppID 248310] Loaded schema from disk.
+[2018-04-30 00:33:26] [AppID 248310] Loading stats from disk...
+[2018-04-30 00:33:26] [AppID 248310] Loading stats from disk...success
+[2018-04-30 00:33:27] [AppID 248310] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:27] [AppID 239820] Loaded schema from disk.
+[2018-04-30 00:33:27] [AppID 239820] Loading stats from disk...
+[2018-04-30 00:33:27] [AppID 239820] Loading stats from disk...success
+[2018-04-30 00:33:28] [AppID 239820] CAPIJobRequestUserStats - updated schema from server
+[2018-04-30 00:33:28] [AppID 239820] CAPIJobRequestUserStats::YieldingMergeStats - beginning merge. . .
+[2018-04-30 00:33:28] [AppID 239820] CAPIJobRequestUserStats::YieldingMergeStats - server vs. local 'score' is 0, local changes = false
+[2018-04-30 00:33:28] [AppID 239820] CAPIJobRequestUserStats::YieldingMergeStats - using SERVER stats data
+[2018-04-30 00:33:29] [AppID 330840] Loaded schema from disk.
+[2018-04-30 00:33:29] [AppID 330840] Loading stats from disk...
+[2018-04-30 00:33:29] [AppID 330840] Loading stats from disk...success
+[2018-04-30 00:33:29] [AppID 330840] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:34] [AppID 431730] Schema not found on disk
+[2018-04-30 00:33:38] [AppID 513560] Loaded schema from disk.
+[2018-04-30 00:33:38] [AppID 513560] Loading stats from disk...
+[2018-04-30 00:33:38] [AppID 513560] Loading stats from disk...success
+[2018-04-30 00:33:38] [AppID 513560] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:42] [AppID 368230] Loaded schema from disk.
+[2018-04-30 00:33:42] [AppID 368230] Loading stats from disk...
+[2018-04-30 00:33:42] [AppID 368230] Loading stats from disk...success
+[2018-04-30 00:33:42] [AppID 368230] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:44] [AppID 284390] Loaded schema from disk.
+[2018-04-30 00:33:44] [AppID 284390] Loading stats from disk...
+[2018-04-30 00:33:44] [AppID 284390] Loading stats from disk...success
+[2018-04-30 00:33:44] [AppID 284390] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:47] [AppID 575050] Loaded schema from disk.
+[2018-04-30 00:33:47] [AppID 575050] Loading stats from disk...
+[2018-04-30 00:33:47] [AppID 575050] Loading stats from disk...success
+[2018-04-30 00:33:47] [AppID 575050] CAPIJobRequestUserStats - updated schema from server
+[2018-04-30 00:33:47] [AppID 575050] CAPIJobRequestUserStats::YieldingMergeStats - beginning merge. . .
+[2018-04-30 00:33:47] [AppID 575050] CAPIJobRequestUserStats::YieldingMergeStats - server vs. local 'score' is 0, local changes = false
+[2018-04-30 00:33:47] [AppID 575050] CAPIJobRequestUserStats::YieldingMergeStats - using SERVER stats data
+[2018-04-30 00:33:48] [AppID 209830] Schema not found on disk
+[2018-04-30 00:33:48] [AppID 209830] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:33:50] [AppID 205020] Schema not found on disk
+[2018-04-30 00:33:50] [AppID 205020] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:33:51] [AppID 418150] Loaded schema from disk.
+[2018-04-30 00:33:51] [AppID 418150] Loading stats from disk...
+[2018-04-30 00:33:51] [AppID 418150] Loading stats from disk...success
+[2018-04-30 00:33:51] [AppID 418150] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:53] [AppID 496920] Loaded schema from disk.
+[2018-04-30 00:33:53] [AppID 496920] Loading stats from disk...
+[2018-04-30 00:33:53] [AppID 496920] Loading stats from disk...success
+[2018-04-30 00:33:53] [AppID 496920] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:54] [AppID 264380] Loaded schema from disk.
+[2018-04-30 00:33:54] [AppID 264380] Loading stats from disk...
+[2018-04-30 00:33:54] [AppID 264380] Loading stats from disk...success
+[2018-04-30 00:33:54] [AppID 264380] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:55] [AppID 481510] Loaded schema from disk.
+[2018-04-30 00:33:55] [AppID 481510] Loading stats from disk...
+[2018-04-30 00:33:55] [AppID 481510] Loading stats from disk...success
+[2018-04-30 00:33:55] [AppID 481510] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:33:59] [AppID 8930] Loaded schema from disk.
+[2018-04-30 00:33:59] [AppID 8930] Loading stats from disk...
+[2018-04-30 00:33:59] [AppID 8930] Loading stats from disk...success
+[2018-04-30 00:33:59] [AppID 8930] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:00] [AppID 289070] Loaded schema from disk.
+[2018-04-30 00:34:00] [AppID 289070] Loading stats from disk...
+[2018-04-30 00:34:00] [AppID 289070] Loading stats from disk...success
+[2018-04-30 00:34:01] [AppID 289070] CAPIJobRequestUserStats - updated schema from server
+[2018-04-30 00:34:01] [AppID 289070] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:14] [AppID 245170] Loaded schema from disk.
+[2018-04-30 00:34:14] [AppID 245170] Loading stats from disk...
+[2018-04-30 00:34:14] [AppID 245170] Loading stats from disk...success
+[2018-04-30 00:34:14] [AppID 245170] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:16] [AppID 208610] Loaded schema from disk.
+[2018-04-30 00:34:16] [AppID 208610] Loading stats from disk...
+[2018-04-30 00:34:17] [AppID 208610] Loading stats from disk...success
+[2018-04-30 00:34:17] [AppID 208610] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:22] [AppID 431730] Schema not found on disk
+[2018-04-30 00:34:27] [AppID 207140] Loaded schema from disk.
+[2018-04-30 00:34:27] [AppID 207140] Loading stats from disk...
+[2018-04-30 00:34:27] [AppID 207140] Loading stats from disk...success
+[2018-04-30 00:34:28] [AppID 207140] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:29] [AppID 252330] Loaded schema from disk.
+[2018-04-30 00:34:29] [AppID 252330] Loading stats from disk...
+[2018-04-30 00:34:29] [AppID 252330] Loading stats from disk...success
+[2018-04-30 00:34:29] [AppID 252330] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:33] [AppID 431730] Schema not found on disk
+[2018-04-30 00:34:36] [AppID 286160] Loaded schema from disk.
+[2018-04-30 00:34:36] [AppID 286160] Loading stats from disk...
+[2018-04-30 00:34:36] [AppID 286160] Loading stats from disk...success
+[2018-04-30 00:34:37] [AppID 286160] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:45] [AppID 431730] Schema not found on disk
+[2018-04-30 00:34:49] [AppID 220780] Loaded schema from disk.
+[2018-04-30 00:34:49] [AppID 220780] Loading stats from disk...
+[2018-04-30 00:34:49] [AppID 220780] Loading stats from disk...success
+[2018-04-30 00:34:49] [AppID 220780] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:50] [AppID 282070] Loaded schema from disk.
+[2018-04-30 00:34:50] [AppID 282070] Loading stats from disk...
+[2018-04-30 00:34:50] [AppID 282070] Loading stats from disk...success
+[2018-04-30 00:34:50] [AppID 282070] CAPIJobRequestUserStats - updated schema from server
+[2018-04-30 00:34:50] [AppID 282070] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:51] [AppID 211260] Loaded schema from disk.
+[2018-04-30 00:34:51] [AppID 211260] Loading stats from disk...
+[2018-04-30 00:34:51] [AppID 211260] Loading stats from disk...success
+[2018-04-30 00:34:52] [AppID 211260] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:34:56] [AppID 20900] Schema not found on disk
+[2018-04-30 00:34:56] [AppID 20900] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-04-30 00:34:57] [AppID 250320] Loaded schema from disk.
+[2018-04-30 00:34:57] [AppID 250320] Loading stats from disk...
+[2018-04-30 00:34:57] [AppID 250320] Loading stats from disk...success
+[2018-04-30 00:34:58] [AppID 250320] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
+[2018-04-30 00:35:02] [AppID 431730] Schema not found on disk
+[2018-04-30 00:35:10] [AppID 20900] Schema not found on disk
+[2018-04-30 00:35:25] [AppID 20900] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+[2018-04-30 00:35:29] [AppID 431730] Schema not found on disk
+
+
+[2018-05-02 09:30:44] [AppID 431730] Schema not found on disk
+[2018-05-02 09:30:44] [AppID 431730] CAPIJobRequestUserStats - received error 'Failure' (2) from server
+[2018-05-02 11:45:15] [AppID 431730] CAPIJobStoreUserStats::BInit() - no stats found, aborting

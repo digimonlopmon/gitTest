@@ -1,0 +1,54 @@
+script world.txt
+
+Welcome to DrJava.  Working directory is /Users/Luke/Desktop/prog3
+> run Adventure
+Welcome to Charlie's Adventure.
+You can move around by typing north, south, east, or west.
+You can see what is in the room your are in by typing look.
+You can pick things up by typing 'pickup thing' where thing is what you see in the room.
+You can drop things you are carrying by typing 'drop thing' where thing names someting you have.
+You can see your status by typing status and quit by typing quit.
+
+north
+You just entered Entry Way
+
+east
+You just entered a room with many shelves
+look
+You see:
+gold
+lead
+poison
+swords
+
+pickup swords
+You now have swords
+swingSword
+Slash sword with great force
+
+west
+You just entered a room with no windows
+look
+You see:
+emeralds
+shield
+
+pickup Shield
+You now have shield
+playShield
+Congratulations! You get a weapon to protect yourself.
+
+south
+You just entered a room with a table
+look
+You see:
+diamonds
+armor
+
+pickup armor
+You now have armor
+Congratulations you have defeated the dungeon master by swinging your swords. You blocked with your shield and armor and dealt final blow.
+
+quit
+Good bye.
+> 

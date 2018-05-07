@@ -1,0 +1,15 @@
+
+
+[2018-04-08 17:16:41] No local tool list detected at /Users/lop/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/compatibilitytools.vdf.
+
+
+[2018-04-09 00:19:42] No local tool list detected at /Users/lop/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/compatibilitytools.vdf.
+
+
+[2018-04-13 01:23:50] No local tool list detected at /Users/lop/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/compatibilitytools.vdf.
+
+
+[2018-04-30 00:31:30] No local tool list detected at /Users/lop/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/compatibilitytools.vdf.
+
+
+[2018-05-02 09:30:34] No local tool list detected at /Users/lop/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/compatibilitytools.vdf.

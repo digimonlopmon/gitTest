@@ -1,0 +1,1 @@
+Put custom story formats in this 'targets' folder to allow Twine to access them.

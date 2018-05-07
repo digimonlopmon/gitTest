@@ -1,0 +1,136 @@
+2017/12/04 15:53:25:034, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/04 15:53:27:300, [ERRO], applicationDidFinishLaunching locally, [AppDelegate.m(1188)]
+2017/12/04 15:53:27:362, [ERRO], Error in registration. Error: Error Domain=NSOSStatusErrorDomain Code=1 "kCFHostErrorHostNotFound / kCFStreamErrorSOCKSSubDomainVersionCode / kCFStreamErrorSOCKS5BadResponseAddr / kCFStreamErrorDomainPOSIX / evtNotEnb / siInitSDTblErr / kUSBPending / dsBusError / kStatusIsError / kOTSerialSwOverRunErr / cdevResErr / EPERM:  / Error code is the version of SOCKS which the server wishes to use /  / POSIX errno; interpret using <sys/errno.h>  / event not enabled at PostEvent / slot int dispatch table could not be initialized. /  / bus error /  /  / Couldn't get a needed resource; alert / Operation not permitted", [AppDelegate.m(510)]
+2017/12/04 15:53:27:369, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/04 15:53:27:370, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/04 15:53:27:370, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/04 15:53:27:370, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/04 15:53:27:370, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/04 15:53:27:370, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/04 15:53:27:370, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/04 15:53:27:371, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/04 15:53:27:371, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/04 15:53:27:371, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/04 15:53:27:371, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/04 15:53:30:194, [ERRO], Status code was 200, response: <NSHTTPURLResponse: 0x600000224ae0> { URL: https://stat.appletuner.trendmicro.com/2/user/event } { Status Code: 200, Headers {
+    Connection =     (
+        "keep-alive"
+    );
+    "Content-Length" =     (
+        15
+    );
+    "Content-Type" =     (
+        "application/json; charset=utf-8"
+    );
+    Date =     (
+        "Mon, 04 Dec 2017 23:53:30 GMT"
+    );
+    Etag =     (
+        "W/\"f-ayLlCL3PuzXSThdu78iReSEjl6Y\""
+    );
+    "X-Powered-By" =     (
+        Express
+    );
+} }, [DARequest.m(108)]
+2017/12/04 15:53:30:316, [ERRO], Status code was 200, response: <NSHTTPURLResponse: 0x6000002253c0> { URL: https://stat.appletuner.trendmicro.com/2/user/event } { Status Code: 200, Headers {
+    Connection =     (
+        "keep-alive"
+    );
+    "Content-Length" =     (
+        15
+    );
+    "Content-Type" =     (
+        "application/json; charset=utf-8"
+    );
+    Date =     (
+        "Mon, 04 Dec 2017 23:53:30 GMT"
+    );
+    Etag =     (
+        "W/\"f-ayLlCL3PuzXSThdu78iReSEjl6Y\""
+    );
+    "X-Powered-By" =     (
+        Express
+    );
+} }, [DARequest.m(108)]
+2017/12/04 15:53:30:514, [ERRO], Status code was 200, response: <NSHTTPURLResponse: 0x60400003a2c0> { URL: https://stat.appletuner.trendmicro.com/2/user/event } { Status Code: 200, Headers {
+    Connection =     (
+        "keep-alive"
+    );
+    "Content-Length" =     (
+        15
+    );
+    "Content-Type" =     (
+        "application/json; charset=utf-8"
+    );
+    Date =     (
+        "Mon, 04 Dec 2017 23:53:30 GMT"
+    );
+    Etag =     (
+        "W/\"f-ayLlCL3PuzXSThdu78iReSEjl6Y\""
+    );
+    "X-Powered-By" =     (
+        Express
+    );
+} }, [DARequest.m(108)]
+2017/12/05 19:06:22:379, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/06 09:22:30:378, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/06 09:32:02:842, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/06 09:32:02:883, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/06 09:32:02:883, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/06 09:32:02:883, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/06 09:32:02:883, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/06 09:32:02:883, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/06 09:32:02:883, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/06 09:32:02:883, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/06 09:32:02:883, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/06 09:32:02:883, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/06 09:32:02:883, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/07 10:32:35:709, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/07 12:44:44:652, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/07 12:44:44:707, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/07 12:44:44:707, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/07 12:44:44:708, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/07 12:44:44:708, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/07 12:44:44:708, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/07 12:44:44:708, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/07 12:44:44:708, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/07 12:44:44:708, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/07 12:44:44:708, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/07 12:44:44:708, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/08 00:06:31:671, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/08 13:20:46:212, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/08 13:20:46:290, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/08 13:20:46:291, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/08 13:20:46:291, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/08 13:20:46:291, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/08 13:20:46:291, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/08 13:20:46:291, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/08 13:20:46:291, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/08 13:20:46:291, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/08 13:20:46:291, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/08 13:20:46:291, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/09 00:19:30:519, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/10 10:23:04:494, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/10 10:23:07:112, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/10 10:23:07:768, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/10 10:23:07:768, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/10 10:23:07:768, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/10 10:23:07:768, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/10 10:23:07:768, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/10 10:23:07:768, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/10 10:23:07:768, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/10 10:23:07:768, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/10 10:23:07:768, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/10 10:23:07:768, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/11 03:13:20:439, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/11 11:39:58:534, [ERRO], server not found, [ScheduleConnectionController.m(1274)]
+2017/12/11 11:39:58:583, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/11 11:39:58:583, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/11 11:39:58:583, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/11 11:39:58:583, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/11 11:39:58:583, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/11 11:39:58:583, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/11 11:39:58:583, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/11 11:39:58:583, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]
+2017/12/11 11:39:58:583, [ERRO], Did fail with error unsupported URL, [ScheduleConnectionController.m(471)]
+2017/12/11 11:39:58:583, [ERRO], download promotion resource fail, [SchedulePromotionController.m(347)]

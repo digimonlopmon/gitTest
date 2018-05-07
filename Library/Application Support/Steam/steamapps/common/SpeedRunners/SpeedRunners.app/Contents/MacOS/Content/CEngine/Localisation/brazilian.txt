@@ -1,0 +1,37 @@
+[controller]
+DPad=Controle
+Thumbstick=Analógico
+Trigger=Botão
+LeftStick=Analógico Esquerdo
+RightStick=Analógico Direito
+DPadUp=Controle Cima
+DPadDown=Controle Baixo
+DPadLeft=Controle Esquerda
+DPadRight=Controle Direita
+Start=Iniciar
+Back=Voltar
+LeftShoulder=Ombro Esquerdo (L1)
+RightShoulder=Ombro Direito (R1)
+BigButton=Botão Grande
+RightTrigger=Ombro Direito (R2)
+LeftTrigger=Ombro Esquerdo (L2)
+RightThumbstickUp=Analógico Direito Cima
+RightThumbstickDown=Analógico Direito Baixo
+RightThumbstickRight=Analógico Direito Direita
+RightThumbstickLeft=Analógico Direito Esquerda
+LeftThumbstickLeft=Analógico Esquerdo Esquerda
+LeftThumbstickUp=Analógico Esquerdo Cima
+LeftThumbstickDown=Analógico Esquerdo Baixo
+LeftThumbstickRight=Analógico Esquerdo Direita
+
+[keyboard]
+DirectionKeys=Teclas Direcionais
+
+[mouse]
+Mouse=Mouse
+MouseButton=Botão do Mouse
+LeftMouseButton=Botão Esquerdo do Mouse
+MiddleMouseButton=Botão do Meio do Mouse
+RightMouseButton=Botão Direito do Mouse
+MouseButtonX1=X1 Botão do Mouse
+MouseButtonX2=X2 Botão do Mouse

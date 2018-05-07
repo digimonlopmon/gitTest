@@ -1,0 +1,681 @@
+1.013 misc: Time of day: 1525647537.576738 (tz=-25200)
+0.002 [I] xpc.tracker: Tracker gathering stats = 0 (logged=0, queriable=0)
+0.002 [I] xpc.tracker: Tracker gathering stats = 0 (logged=0, queriable=0)
+0.002 [I] xpc.tracker: Tracker gathering stats = 0 (logged=0, queriable=0)
+0.002 [N] main: CommCenter Init: initializing
+0.292 [I] misc: Communications Center passed sandbox_init_with_parameters. homeDirPath: '/Users/lop', usersBasePath: '/Users', realHomeDirPath: '/Users/lop', realUsersBasePath: '/Users', userCacheDir: '/private/var/folders/2p/tdct4ztn2m31bmgf7vs9nm8c0000gn/C'
+0.293 [I] misc: Communications Center quarantined successfully
+0.382 [N] main: CommCenter Init: creating basic services
+0.382 [N] dyld: No CommandDriver dylib was loaded! Returning null-factory.
+0.382 [N] dyld: 'NullFactory' instantiated!
+0.390 [I] em.data.9: init()
+0.879 [I] persist: KeychainObserver::create cache read failed (error = -25300)
+0.881 [N] main: CommCenter Init: Starting Rest Services
+0.881 [N] rm: Creating RadioModule
+0.881 [I] rm: ----------------- Initializing NoBBRadioModule ----------------
+1.013 [I] evt: Firing event 'csi_logging_enabled': with params= 1
+1.014 [I] trc: CSILog: Long history set to 32MB
+1.014 [I] rm: ----------------- Created traceModule ----------------
+1.016 [I] 5wi.sd: init: Constructor: id=1, fCountrySetFlag set to false
+1.019 [N] ps.ctl: PhoneServicesDefaultNoService created
+1.020 [N] ps.ctl: PhoneServicesSecondary created
+1.020 [E] atcs.client.NAS: [CallModule: NAS Service] Client connection invalid.
+1.021 [I] call: Setting CallCommandDriver to IMSCallCommandDriver
+1.052 [I] ps.mgr: init_sync: 
+1.053 [I] ps.ths: Local store has 1 records
+1.053 [I] ps.ths:   last.known.icloud.id
+1.053 [I] ps.ths: setThumperKeepAlive: Somebody wants us to stay alive
+1.053 [I] ps.ths: setThumperKeepAlive: ThumperKeepAlive Jetsam assertion taken.
+1.054 [I] ps.ths: Using iCloud-KVS for Thumper sync
+1.054 [I] ps.ids: [i] Created a sync for service com.apple.private.alloy.thumper.keys
+1.054 [I] ps.ctl: init_sync: 
+1.055 [I] DATA.ServiceController: initDataServiceController: DataServiceController initializing...
+1.056 [I] DATA.Collocation:0:: init: init
+1.056 [I] DATA.Collocation:1:: init: init
+1.058 [I] DATA.Connection.Internet: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.059 [I] DATA.Connection.Internet: initAgent: Registered NWAgent 4CD88EE6-30E6-4E69-921E-03EC1D0D3022
+1.060 [I] DATA.Connection.Internet: updateAgent: Updating NWAgent 4CD88EE6-30E6-4E69-921E-03EC1D0D3022
+1.060 [I] DATA.Connection.Internet: agent flags networkprovider:0 useractivated:0 kernelactivated:0 uuid:4CD88EE6-30E6-4E69-921E-03EC1D0D3022 desc:CommCenter: Internet active:0, voluntary:1, specificuse:0
+ Agent data type:0, dch:0, inhome:0, reg:0, utbf:0
+1.060 [I] DATA.Connection.VVM: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.060 [I] DATA.Connection.VVM: updateAgent: NWAgent 0B28B11C-13E9-470C-B52A-EDDA1D5099F4 is not ready to be updated
+1.061 [I] DATA.Connection.MMS: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.061 [I] DATA.Connection.MMS: updateAgent: NWAgent 64C6000B-C00A-4AF5-A2A7-B73728E50D8E is not ready to be updated
+1.062 [I] DATA.Connection.PushEmail: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.063 [I] DATA.Connection.PushEmail: updateAgent: NWAgent 8F19332B-3DD4-48B6-AB4D-228E214A8BBF is not ready to be updated
+1.063 [I] DATA.Connection.WirelessModemTraffic: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.063 [I] DATA.Connection.WirelessModemTraffic: updateAgent: NWAgent F5367A04-AC8C-448F-AA5D-0311DC052693 is not ready to be updated
+1.064 [I] DATA.Connection.WirelessModemAuthentication: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.064 [I] DATA.Connection.WirelessModemAuthentication: updateAgent: NWAgent 1C6D06A3-5600-458C-9F2C-D4EFFCD16F7E is not ready to be updated
+1.064 [I] DATA.agent.provisioning: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.064 [I] DATA.agent.provisioning: updateAgent: NWAgent 1D685C68-72DB-41EE-8DA6-E34518B3F4BB is not ready to be updated
+1.064 [I] DATA.Connection.AppleWirelessDiagnostics: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.065 [I] DATA.Connection.AppleWirelessDiagnostics: updateAgent: NWAgent AA836F22-41F2-40D1-9DE4-F66733E2BD03 is not ready to be updated
+1.065 [I] DATA.Connection.DataTest: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.065 [I] DATA.Connection.DataTest: updateAgent: NWAgent E641F54E-F256-4D57-8DC0-F6B73999DB5C is not ready to be updated
+1.065 [I] DATA.Connection.OTAActivation: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.066 [I] DATA.Connection.OTAActivation: updateAgent: NWAgent 7C9C4922-B8AD-409E-A35C-FBA521057C8A is not ready to be updated
+1.066 [I] DATA.Connection.3GFaceTimeTraffic: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.066 [I] DATA.Connection.3GFaceTimeTraffic: updateAgent: NWAgent 880BCA25-19B7-4490-B2A5-7BDBCC631E77 is not ready to be updated
+1.067 [I] DATA.Connection.3GFaceTimeAuthentication: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.067 [I] DATA.Connection.3GFaceTimeAuthentication: updateAgent: NWAgent CCE2E7CA-243C-493E-BFBA-AD041B0FEEBB is not ready to be updated
+1.067 [I] DATA.Connection.OMADM: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.067 [I] DATA.Connection.OMADM: updateAgent: NWAgent 57D9E69C-E815-4752-BCB0-F35AD7FC2695 is not ready to be updated
+1.068 [I] DATA.Connection.OTAInternet: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.068 [I] DATA.Connection.OTAInternet: updateAgent: NWAgent 6247BA69-C8F0-4705-AE9B-D68118410F24 is not ready to be updated
+1.068 [I] DATA.Connection.ZeroRated: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.068 [I] DATA.Connection.ZeroRated: updateAgent: NWAgent 53B6CFDC-95B4-45EF-A8A7-7F0760DC04B3 is not ready to be updated
+1.068 [I] DATA.Connection.EntitlementTraffic: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.068 [I] DATA.Connection.EntitlementTraffic: updateAgent: NWAgent 5865DF2E-676C-412D-8489-CC3364742A2A is not ready to be updated
+1.068 [I] DATA.Connection.InternalDataProbe: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.069 [I] DATA.Connection.InternalDataProbe: updateAgent: NWAgent 7792E1E2-74D2-4BC0-AD79-E5F55112C8EA is not ready to be updated
+1.069 [I] DATA.Connection.iw5: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.069 [I] DATA.Connection.iw5: updateAgent: NWAgent DE994E53-3DFB-42A6-9C0D-10AE271B35C7 is not ready to be updated
+1.069 [I] DATA.Connection.Em: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.069 [I] DATA.Connection.Em: updateAgent: NWAgent FE2E0C21-6130-4C86-8402-AC2B0429D1BB is not ready to be updated
+1.070 [I] DATA.agent.bootstrap: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.070 [I] DATA.agent.bootstrap: updateAgent: NWAgent 385C4163-C2D7-4924-A0EE-560F8FD03B95 is not ready to be updated
+1.070 [I] DATA.Connection.UT: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.070 [I] DATA.Connection.UT: updateAgent: NWAgent FCB9E6CE-932A-4BE2-9C2E-8912B0DE95FB is not ready to be updated
+1.070 [I] DATA.Connection.BootstrapRoamingInternetBypass: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.071 [I] DATA.Connection.BootstrapRoamingInternetBypass: updateAgent: NWAgent 16ECD2D8-C590-4183-9BA6-1D5352DD7F52 is not ready to be updated
+1.071 [I] DATA.Connection.EmLoc: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.071 [I] DATA.Connection.EmLoc: updateAgent: NWAgent 20105D03-DCB8-4EED-92A8-8B1424031F68 is not ready to be updated
+1.071 [I] DATA.agent.provisioning2: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.072 [I] DATA.agent.provisioning2: updateAgent: NWAgent 3883F8A7-F2B1-41AD-89D6-2F6928A33A34 is not ready to be updated
+1.072 [I] DATA.agent.carrierspace: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.072 [I] DATA.agent.carrierspace: updateAgent: NWAgent 036E974B-6CD4-42F8-96B6-2DFAC5A6B2F2 is not ready to be updated
+1.072 [I] DATA.Connection.InternetProbe: initAgent: useSavedParams=0, networkProvider=0, userActivated=0
+1.073 [I] DATA.Connection.InternetProbe: updateAgent: NWAgent 0A0B5F9A-2C59-4101-918F-A157432F7F03 is not ready to be updated
+1.074 [I] DATA.TechContext:0:: setStatus: Changing state (change states) kNEIPSecNotifyIKEStatusInvalid->kNEIPSecNotifyIKEStatusInvalid
+1.075 [I] DATA.PDP:0:: registerContext: DATA.TechContext:0: registered with us (kDataContextTech)
+1.075 [I] DATA.TechContext:1:: setStatus: Changing state (change states) kNEIPSecNotifyIKEStatusInvalid->kNEIPSecNotifyIKEStatusInvalid
+1.075 [I] DATA.PDP:1:: registerContext: DATA.TechContext:1: registered with us (kDataContextTech)
+1.076 [I] DATA.ServiceController: initStateCache_sync: fStateCache.fSuspendInternetOnBBCall = false
+1.076 [I] DATA.ServiceController: initDataServiceController: DataServiceController initialized
+1.076 [I] rm: Model Mask is 800000
+1.076 [I] rm: ----------------- created  models ----------------
+1.076 [I] trc: Module: changes state from Idle to Starting
+1.076 [I] trc: Work Start
+1.076 [I] trc: Starting
+1.076 [I] trc: Module: changes state from Starting to Idle
+1.076 [I] rm: returning 100000000000000000000000
+1.077 [I] evt: Connecting
+1.109 [I] pp: Stopping heart beat inactivity timer
+1.109 [N] misc: CommCenter Init: RadioModule created
+1.109 [I] NOBB:NoBBRadioModule_NOSUPPORT:enableFastDormancySupport: 
+1.109 [N] misc: CommCenter Init: starting services
+1.110 [N] svcmgr: Bootstrap 27 services in progress MD[[bootstrap]]
+1.110 [I] CSIAppInfo.LoginSessionObserver: handleLoginSessionStateChange_sync: handleLoginSessionStateChange_sync(): Session is logged in
+1.110 [I] evt: Firing event 'loginSessionStateChange': with params= 1
+1.110 [I] CSIAppInfo.LoginSessionObserver: LoginSessionObserver: loginSessionActive: true
+1.110 [I] svcmgr: Bootstrapping CTLogServer
+1.110 [I] svcmgr: Bootstrapping CCRestServer
+1.110 [I] svcmgr: Bootstrapping CCXpcServer
+1.110 [N] rest: Starting XPC listener
+1.110 [I] xpc: Bootstrapping
+1.110 [I] svcmgr: Bootstrapping GsmRadioPersonality
+1.110 [I] svcmgr: Bootstrapping BasebandModeManager
+1.110 [I] svcmgr: Bootstrapping SystemObserver
+1.110 [I] svcmgr: Bootstrapping CarrierSettings
+1.110 [I] cs: Bootstrapping
+1.110 [I] svcmgr: Bootstrapping EmergencyNumbersController
+1.110 [I] xpc: Setting up CT server handlers: 22 to run
+1.111 [I] svcmgr: Bootstrapping CTLocationBasedCountryDetermination
+1.111 [I] call.em.iCloud: Bootstrapping
+1.111 [I] sysobs: Bootstrapping
+1.111 [I] svcmgr: Bootstrapping WiFiManager
+1.111 [I] svcmgr: Bootstrapping VoiceMailController
+1.111 [I] svcmgr: Bootstrapping EmergencyCallManager
+1.111 [I] em.mgr: Bootstrapping
+1.111 [I] svcmgr: Bootstrapping CellBroadcastConfig
+1.111 [I] svcmgr: Bootstrapping KeychainObserver
+1.111 [I] svcmgr: Bootstrapping NoBBAudioRoutingController
+1.111 [I] svcmgr: Bootstrapping LocalizationHandler
+1.111 [I] svcmgr: Bootstrapping CarrierEntitlementsController
+1.111 [I] xpc: CT server handlers installed: 102 handlers, 152 reply handlers
+1.112 [I] xpc: Done
+1.112 [I] call.em.Controller: Bootstrapping EmergencyNumbersController
+1.112 [I] local: Bootstrapping
+1.112 [I] svcmgr: Bootstrapping CarrierEntitlementsControllerTh
+1.112 [I] svcmgr: Bootstrapping NoBBRadioModule
+1.112 [I] svcmgr: Bootstrapping SystemDeterminationManager
+1.112 [I] svcmgr: Bootstrapping CallController
+1.112 [I] svcmgr: Bootstrapping PhoneServicesManager
+1.112 [I] svcmgr: Bootstrapping DarwinPDPConfig
+1.112 [I] ps.mgr: VinylSimInfo not available
+1.112 [I] DATA.Connection.VVM: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.112 [I] DATA.Connection.Internet: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.112 [I] call: Bootstrapping
+1.112 [I] DATA.Connection.Internet: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.112 [I] vm: Bootstrapping
+1.113 [I] sysobs: On WiFi: true On Cellular: false
+1.113 [I] cbs: Bootstrapping
+1.113 [N] main: CommCenter features initialized to 0
+1.113 [I] DATA.dw-apn: DarwinPDPConfig: bootstrap 1...
+1.113 [I] enth.ctr: Initializing Carrier Entitlements Controller
+1.113 [I] svcmgr: Bootstrapping DATA.ServiceController
+1.113 [I] DATA.ServiceController: notifyServiceBootstrap: DataServiceController: bootstrap 1...
+1.113 [I] ent.ctr: Initializing Carrier Entitlements Controller
+1.114 [I] DATA.dw-apn: DarwinPDPConfig: bootstrap 2...
+1.113 [I] svcmgr: Bootstrapping PowerObserver
+1.114 [I] svcmgr: Bootstrapping StopTelephony
+1.114 [I] svcmgr: Bootstrapping CSIAppInfo
+1.114 [I] xpc.tracker: Tracker gathering stats = 0 (logged=0, queriable=0)
+1.115 [I] sysobs: WiFi Availability is changing from kUnavailable to kAvailable
+1.115 [I] sysobs: WiFi MAC address property not supported on this platform
+1.115 [I] sysobs: Internet availability is changing from kUnknown to kAvailable
+1.116 [I] em.searcher: Searcher state changed to Idle
+1.116 [I] rm: Bootstrapping
+1.118 [I] DATA.dw-apn: dnsNotificationHandler: registered successfully
+1.119 [I] DATA.wifi: registerForInterfaceEvents_block_invoke: Notify registration status: 0, token: 55, this: <0x7fd7a1d31b70>
+1.120 [I] call: IMS Feature Changed, voLTE:0x0, voWiFi:0x0 -> voice (off), sms (off) ->> fIMSEnabled = false
+1.120 [I] DATA.dw-apn: networkRunLoopThread started
+1.120 [I] DATA.dw-apn: configuring DNS overrides
+1.120 [I] DATA.dw-apn: creating PDP Managers
+1.120 [I] DATA.pkt:0:: DarwinPDPManager: bootstrap ...
+1.120 [I] call.CmdDriver.IMS: Bootstraping IMSCallCommandDriver
+1.121 [I] call.CmdDriver.IMS: IMSCallCommandDriver::fillUpDefaultCallCapabilities
+1.122 [I] DATA.pkt:0:: No MTU value set in carrier plist, using default value!
+1.122 [I] DATA.pkt:0:: MTU from Carrier Bundle is 0 exceeds min./max. limit, using default value of 1450!
+1.122 [I] DATA.pkt:0:: computed MTU: 1450
+1.122 [I] DATA.pkt:0:: No MTU value set in carrier plist, using default value!
+1.122 [I] DATA.pkt:0:: MTU from Carrier Bundle is 0 exceeds min./max. limit, using default value of 1450!
+1.122 [I] DATA.pkt:0:: computed MTU: 1450
+1.122 [I] 5wi.sd: operator(): IMSConfig.ConferenceCalling.conferenceServer = NULL
+1.122 [I] DATA.pkt:0:: computeMTU_sync: MTU = 1450
+1.122 [I] DATA.pkt:0:: Created PDP manager for unit 0
+1.122 [N] call.provider: ----> handleCallStatusChanged. Num of pending transaction are 0
+1.122 [I] DATA.pkt:1:: DarwinPDPManager: bootstrap ...
+1.122 [I] call.provider: Pending Transactions: (
+)
+1.122 [I] DATA.pkt:1:: No MTU value set in carrier plist, using default value!
+1.122 [I] DATA.pkt:1:: MTU from Carrier Bundle is 0 exceeds min./max. limit, using default value of 1450!
+1.122 [I] DATA.pkt:1:: computed MTU: 1450
+1.122 [I] DATA.pkt:1:: No MTU value set in carrier plist, using default value!
+1.122 [I] DATA.pkt:1:: MTU from Carrier Bundle is 0 exceeds min./max. limit, using default value of 1450!
+1.122 [I] DATA.pkt:1:: computed MTU: 1450
+1.122 [I] DATA.pkt:1:: computeMTU_sync: MTU = 1450
+1.122 [I] DATA.pkt:1:: Created PDP manager for unit 1
+1.122 [I] DATA.dw-apn: created 2/2 PDP Managers
+1.122 [I] DATA.dw-apn: DarwinPDPConfig: bootstrapped !
+1.123 [I] call.provider: Updating max calls capabilities: <CXProviderConfiguration 0x7fd7a1f18230 localizedName=Telephony ringtoneSoundURL=(null) iconTemplateImageData=0x0 maximumCallGroups=0 maximumCallsPerCallGroup=0 supportsAudioOnly=1 supportsVideo=0 supportsEmergency=1 supportsVoicemail=1 supportsCurrentPlatform=1 includesCallsInRecents=1 audioSessionID=0 supportedHandleTypes=2>
+1.123 [I] DATA.ServiceController: operator(): DataServiceController: bootstrap 2...
+1.123 [I] DATA.ServiceController: bootstrapDataServiceController_sync: DataServiceController bootstrapping...
+1.123 [I] em.mgr: Exited ECBM as kCTCallEmergencyCallNone
+1.123 [E] call.provider: UUID for call is nil. Not sending frequency data update.
+1.123 [I] call.provider: Thumper call handoff capability changed to false
+1.123 [I] call.provider: Thumper Account Id is not avaialbe yet. Not sending.
+1.123 [N] call.provider: ----> handleCallStatusChanged. Num of pending transaction are 0
+1.123 [I] call.provider: Pending Transactions: (
+)
+1.123 [I] call.provider: Updating max calls capabilities: <CXProviderConfiguration 0x7fd7a1f18230 localizedName=Telephony ringtoneSoundURL=(null) iconTemplateImageData=0x0 maximumCallGroups=0 maximumCallsPerCallGroup=0 supportsAudioOnly=1 supportsVideo=0 supportsEmergency=1 supportsVoicemail=1 supportsCurrentPlatform=1 includesCallsInRecents=1 audioSessionID=0 supportedHandleTypes=2>
+1.123 [I] call.CmdDriver.IMS: IMS Daemon state remains at not ready
+1.124 [I] call.CmdDriver.IMS: IMS client has not changed state from not ready
+1.124 [I] call.CmdDriver.IMS: Voice over Wifi provisioning changed, update call capabilities (via cb setup)
+1.124 [I] call.CmdDriver.IMS: handleCarrierBundleSetup_sync
+1.124 [I] call.CmdDriver.IMS: IMSCallCommandDriver::fillUpDefaultCallCapabilities
+1.124 [E] call.provider: UUID for call is nil. Not sending frequency data update.
+1.124 [I] call.provider: Thumper call handoff capability changed to false
+1.124 [I] call.provider: Updating max calls capabilities: <CXProviderConfiguration 0x7fd7a1f18230 localizedName=Telephony ringtoneSoundURL=(null) iconTemplateImageData=0x0 maximumCallGroups=0 maximumCallsPerCallGroup=0 supportsAudioOnly=1 supportsVideo=0 supportsEmergency=1 supportsVoicemail=1 supportsCurrentPlatform=1 includesCallsInRecents=1 audioSessionID=0 supportedHandleTypes=2>
+1.124 [I] 5wi.sd: operator(): IMSConfig.Voice.E911OverITechSupported = NULL
+1.124 [I] call: isEmergencyWiFiAllowed is false
+1.124 [I] call: ## notifyCallCapabilities_sync: isEmergencyWiFiAllowed=0,isEmergencyWiFiNoLimit=0
+1.124 [I] 5wi.sd: operator(): IMSConfig.Voice.E911OverITechNoLimit = NULL
+1.124 [I] call: kCTCallManagementIsSwappable = true
+1.124 [I] call: kCTCallManagementIsMergeable = false
+1.124 [I] call: kCTCallManagementIsAmbiguousMultiParty = false
+1.124 [I] call: kCTCallManagementMaxMultiPartyCallCount = 5
+1.124 [I] call: kCTCallManagementMaxSupportedCallCount = 6
+1.124 [I] call: kCTCallManagementIsHardPauseSupported = true
+1.124 [I] call: kCTCallManagementIsHoldAllowed = true
+1.124 [I] call: kCTCallManagementIsAmbiguousCallList = false
+1.125 [I] call: kCTCallManagementIsAddCallAllowed = true
+1.125 [I] call: kCTCallManagementIsEndAndAnswerAllowed = true
+1.125 [I] call: kCTCallManagementIsConferenceSideBarBlocked = true
+1.125 [I] call: kCTCallManagementIsPhoneServicesActive = false
+1.125 [I] call: kCTCallManagementPhoneServicesVoLTECallingAvailable = false
+1.125 [I] call: kCTCallManagementPhoneServicesCSCallingAvailable = false
+1.125 [I] call: kCTCallManagementExpectedCallSubType = kCTCallSubTypeTelephony
+1.125 [I] call: kCTCallManagementEmergencyWifiCallCapable = false
+1.125 [I] call: kCTCallManagementEmergencyWifiAllowed = false
+1.125 [I] call: kCTCallManagementEmergencyWifiNoLimit = false
+1.125 [I] xpc.event:   --------------> kCTEventCallManagementStateChanged(123) sent to 0 (of 0) clients.
+1.125 [I] call: Updating registration status from kUnknown to kUnknown
+1.125 [I] call.provider: Updating max calls capabilities: <CXProviderConfiguration 0x7fd7a1e44320 localizedName=Telephony ringtoneSoundURL=(null) iconTemplateImageData=0x0 maximumCallGroups=6 maximumCallsPerCallGroup=5 supportsAudioOnly=1 supportsVideo=0 supportsEmergency=1 supportsVoicemail=1 supportsCurrentPlatform=1 includesCallsInRecents=1 audioSessionID=0 supportedHandleTypes=2>
+1.125 [I] call: IMS Feature Changed, voLTE:0x0, voWiFi:0x0 -> voice (off), sms (off) ->> fIMSEnabled = false
+1.125 [I] call: Current TTY transport set to kNone, evaluating if need to send CTM
+1.125 [I] call: Set TTY as kTTYTypeNone request
+1.125 [E] call: TTY was off before and it is still off. Not submitting metric or sending QMI
+1.125 [I] call: Wi-Fi availability is changing from kUnavailable to kAvailable
+1.125 [I] call.provider: Updating max calls capabilities: <CXProviderConfiguration 0x7fd7a1f45610 localizedName=Telephony ringtoneSoundURL=(null) iconTemplateImageData=0x0 maximumCallGroups=6 maximumCallsPerCallGroup=5 supportsAudioOnly=1 supportsVideo=0 supportsEmergency=1 supportsVoicemail=1 supportsCurrentPlatform=1 includesCallsInRecents=1 audioSessionID=0 supportedHandleTypes=2>
+1.126 [E] DATA.ServiceController: getContextConfiguredByMask: !!! too early start
+1.126 [I] call: isEmergencyWiFiAllowed is false
+1.126 [I] call: ## notifyCallCapabilities_sync: isEmergencyWiFiAllowed=0,isEmergencyWiFiNoLimit=0
+1.126 [I] call: kCTCallManagementIsSwappable = true
+1.126 [I] call: kCTCallManagementIsMergeable = false
+1.126 [I] call: kCTCallManagementIsAmbiguousMultiParty = false
+1.126 [I] call: kCTCallManagementMaxMultiPartyCallCount = 5
+1.126 [I] call: kCTCallManagementMaxSupportedCallCount = 6
+1.126 [I] call: kCTCallManagementIsHardPauseSupported = true
+1.126 [I] call: kCTCallManagementIsHoldAllowed = true
+1.126 [I] call: kCTCallManagementIsAmbiguousCallList = false
+1.126 [I] call: kCTCallManagementIsAddCallAllowed = true
+1.126 [I] call: kCTCallManagementIsEndAndAnswerAllowed = true
+1.126 [I] call: kCTCallManagementIsConferenceSideBarBlocked = true
+1.126 [I] call: kCTCallManagementIsPhoneServicesActive = false
+1.126 [I] call: kCTCallManagementPhoneServicesVoLTECallingAvailable = false
+1.126 [I] call: kCTCallManagementPhoneServicesCSCallingAvailable = false
+1.126 [I] call: kCTCallManagementExpectedCallSubType = kCTCallSubTypeTelephony
+1.126 [I] call: kCTCallManagementEmergencyWifiCallCapable = false
+1.126 [I] call: kCTCallManagementEmergencyWifiAllowed = false
+1.126 [I] call: kCTCallManagementEmergencyWifiNoLimit = false
+1.126 [I] xpc.event:   --------------> kCTEventCallManagementStateChanged(123) sent to 0 (of 0) clients.
+1.137 [I] DATA.wifi: handleNetworkStateChanged_sync: nwi_state: 0x7fd7a1c4cd90
+1.137 [I] DATA.wifi: checkIPConnectivity_sync: ***** ipConnectivityAvailable: true
+1.138 [I] DATA.wifi: checkIPConnectivity_sync: ipConnectivity UP. Current primary interface: 'en0'
+1.138 [I] evt: Firing event 'dataWifiAvailable': with params= 1, {en0}
+1.138 [I] ent.ctr: Wifi availability is changing from false to true
+1.138 [I] enth.ctr: Wifi availability is changing from false to true
+1.138 [I] evt: Firing event 'dataInterfaceAvailable': with params= 1, en0, 3
+1.138 [I] DATA.TechDriver: bootstrapTechDriver: Found available WiFi interface: en0
+1.138 [I] 5wi.sd: No retrieved value for SystemDeterminationManager::ConnectivityHelperType
+1.138 [I] DATA.TechDriver: handleWifiAvailable_sync: available = true  on [en0]
+1.138 [I] evt: Firing event 'recalculateConnectionAvailability': with params= 0, Wifi Changed
+1.139 [I] ent.ctr: Checking entitlements [] with reason: CheckEntitlementsReason::kSelfInitiated
+1.139 [I] 5wi.sd: calculateVoLTESwitchState: VoLTE Switch: Using carrier default 1
+1.139 [E] ent.ctr: Invalid Driver
+1.139 [I] 5wi.sd: operator(): IMSConfig.Voice.EnableVolteByDefault = NULL
+1.139 [I] 5wi.sd: operator(): IMSConfig.Voice.BlockCallsOverCS = NULL
+1.139 [I] 5wi.sd: operator(): IMSConfig.Voice.EnableVoLTEWithVoWiFi = NULL
+1.139 [I] 5wi.sd: operator(): IMSConfig.SMS.enableInNonVoLTEMode = NULL
+1.139 [I] 5wi.sd: operator(): IMSConfig.SMS.supportInNonVoLTEModeWhenRoaming = NULL
+1.139 [I] enth.ctr: Checking entitlements [] with reason: CheckEntitlementsReason::kSelfInitiated
+1.139 [E] enth.ctr: Invalid Driver
+1.139 [I] enth.ctr: getPreferredRoamingNetworksIfNeeded_sync: not a CB settings profile - skipping
+1.139 [E] ent.ctr: no driver
+1.139 [I] DATA.TechContext:0:: handleWifiAvailable: Interface is set to en0 (1)
+1.140 [I] DATA.TechContext:1:: handleWifiAvailable: Interface is set to en0 (1)
+1.140 [I] DATA.TechDriver: bootstrapTechDriver: sessionActive: true
+1.140 [I] evt: Firing event 'recalculateConnectionAvailability': with params= 1, Login session state changed
+1.140 [I] evt: Firing event 'recalculateConnectionAvailability': with params= 1, Login session state changed
+1.140 [I] ent.ctr: Uniqueid: 
+1.140 [I] DATA.TechDriver: bootstrapTechDriver: bootstrapped
+1.140 [I] NOBB:NoBBRadioModule_NOSUPPORT:getDeviceSoftwareVersion: 
+1.141 [I] 5wi.sd: update: USIM : MDN - empty
+1.141 [I] 5wi.sd: update: USIM : MCC - 
+1.141 [I] 5wi.sd: update: USIM : MNC - 
+1.141 [I] evt: Firing event 'registrationMasksChanged': with params= 2
+1.141 [I] 5wi.sd: logCurrentMaskState: RegMasks[Allowed]: Enabled[0] Allowed[1] Telephony[0] SimFiles[0] Pref[0] Connectivity[0] TTY[0] Power[0] DataContext[0] Proxy[0] Daemon[0] MSISDNPresent[0] AlloweWhileOnCSCall[0] DCN[0] 
+1.141 [I] 5wi.sd: logCurrentMaskState: RegMasks {
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Enabled[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Allowed[1]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Telephony[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 SimFiles[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Pref[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Connectivity[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 TTY[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Power[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 DataContext[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Proxy[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Daemon[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 MSISDNPresent[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 AlloweWhileOnCSCall[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 DCN[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: }
+1.141 [I] evt: Firing event 'registrationMasksChanged': with params= 6
+1.141 [I] 5wi.sd: logCurrentMaskState: RegMasks[Telephony]: Enabled[0] Allowed[1] Telephony[1] SimFiles[0] Pref[0] Connectivity[0] TTY[0] Power[0] DataContext[0] Proxy[0] Daemon[0] MSISDNPresent[0] AlloweWhileOnCSCall[0] DCN[0] 
+1.141 [I] 5wi.sd: logCurrentMaskState: RegMasks {
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Enabled[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Allowed[1]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Telephony[1]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 SimFiles[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Pref[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Connectivity[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 TTY[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Power[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 DataContext[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Proxy[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 Daemon[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 MSISDNPresent[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 AlloweWhileOnCSCall[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: 	 DCN[0]
+1.141 [I] 5wi.sd: logCurrentMaskState: }
+1.141 [I] 5wi.sd: enableTelephony_sync: Telephony was enabled successfully
+1.141 [I] evt: Firing event 'registrationMasksChanged': with params= 134
+1.142 [I] 5wi.sd: logCurrentMaskState: RegMasks[Power]: Enabled[0] Allowed[1] Telephony[1] SimFiles[0] Pref[0] Connectivity[0] TTY[0] Power[1] DataContext[0] Proxy[0] Daemon[0] MSISDNPresent[0] AlloweWhileOnCSCall[0] DCN[0] 
+1.142 [I] 5wi.sd: logCurrentMaskState: RegMasks {
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Enabled[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Allowed[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Telephony[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 SimFiles[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Pref[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Connectivity[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 TTY[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Power[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 DataContext[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Proxy[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Daemon[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 MSISDNPresent[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 AlloweWhileOnCSCall[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 DCN[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: }
+1.142 [I] evt: Firing event 'registrationMasksChanged': with params= 4230
+1.142 [I] 5wi.sd: logCurrentMaskState: RegMasks[AlloweWhileOnCSCall]: Enabled[0] Allowed[1] Telephony[1] SimFiles[0] Pref[0] Connectivity[0] TTY[0] Power[1] DataContext[0] Proxy[0] Daemon[0] MSISDNPresent[0] AlloweWhileOnCSCall[1] DCN[0] 
+1.142 [I] 5wi.sd: logCurrentMaskState: RegMasks {
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Enabled[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Allowed[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Telephony[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 SimFiles[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Pref[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Connectivity[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 TTY[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Power[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 DataContext[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Proxy[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Daemon[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 MSISDNPresent[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 AlloweWhileOnCSCall[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 DCN[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: }
+1.142 [I] evt: Firing event 'registrationMasksChanged': with params= 12422
+1.142 [I] 5wi.sd: logCurrentMaskState: RegMasks[DCN]: Enabled[0] Allowed[1] Telephony[1] SimFiles[0] Pref[0] Connectivity[0] TTY[0] Power[1] DataContext[0] Proxy[0] Daemon[0] MSISDNPresent[0] AlloweWhileOnCSCall[1] DCN[1] 
+1.142 [I] 5wi.sd: logCurrentMaskState: RegMasks {
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Enabled[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Allowed[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Telephony[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 SimFiles[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Pref[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Connectivity[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 TTY[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Power[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 DataContext[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Proxy[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 Daemon[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 MSISDNPresent[0]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 AlloweWhileOnCSCall[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: 	 DCN[1]
+1.142 [I] 5wi.sd: logCurrentMaskState: }
+1.142 [I] 5wi.sd: We are about to create Client
+1.142 [I] 5wi.sd: operator(): IMSConfig.Voice.ttyIMSSupported = NULL
+1.143 [I] DATA.ServiceController: load_APNFallbackKernelEventMonitor: load() called
+1.143 [I] DATA.ServiceController: load_APNFallbackKernelEventMonitor: kernel event monitor started
+1.143 [I] DATA.ServiceController: bootstrapDataServiceController_sync: DataServiceController bootstrapped
+1.143 [I] DATA.ServiceController: operator(): DataServiceController: bootstrapped !
+1.143 [I] DATA.Connection.VVM: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.143 [I] DATA.Connection.PushEmail: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.WirelessModemTraffic: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.WirelessModemAuthentication: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] rm: available = true
+1.143 [I] DATA.agent.provisioning: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] rm: fNoBBWiFiOffInAirplaneMode true. fNoBBAirplaneMode false  fWiFiAvailable true
+1.143 [I] DATA.Connection.AppleWirelessDiagnostics: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.DataTest: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.OTAActivation: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.3GFaceTimeTraffic: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.3GFaceTimeAuthentication: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.OMADM: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.OTAInternet: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.ZeroRated: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.EntitlementTraffic: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.InternalDataProbe: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.Connection.iw5: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] rm: Pretending that NoBB Radio is on. fNoBBAirplaneMode false  fWiFiAvailable true
+1.143 [I] evt: Firing event 'WiFiOffInAirplaneMode': with params= 0
+1.143 [I] DATA.Connection.Em: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] DATA.agent.bootstrap: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.143 [I] evt: Firing event 'RATChanged': with params= kRatLTE
+1.144 [I] DATA.Connection.UT: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.144 [I] evt: Firing event 'dataAttached'
+1.144 [I] DATA.Connection.BootstrapRoamingInternetBypass: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.144 [I] DATA.Connection.EmLoc: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.144 [I] DATA.agent.provisioning2: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.144 [I] DATA.agent.carrierspace: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.144 [I] DATA.Connection.InternetProbe: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.144 [I] DATA.Connection.MMS: handleRegistrationStatusState: restEvent: registrationState=0 fAgentData.change
+1.144 [I] DATA.TechDriver: handleWifiAvailable_sync: available = true  on [en0]
+1.144 [I] evt: Firing event 'recalculateConnectionAvailability': with params= 0, Wifi Changed
+1.144 [I] DATA.TechContext:0:: handleWifiAvailable: Looking for en0 in updated interface list
+1.144 [I] DATA.TechContext:0:: handleWifiAvailable: Interface en0 is still present in updated interface list
+1.144 [I] DATA.TechContext:1:: handleWifiAvailable: Looking for en0 in updated interface list
+1.144 [I] DATA.TechContext:1:: handleWifiAvailable: Interface en0 is still present in updated interface list
+1.144 [I] DATA.TechDriver: handleSimsChanged_sync: empty sim info.
+1.144 [I] DATA.ServiceController: handleAirplaneModeChange_sync: airplane mode false->false
+1.144 [I] DATA.ServiceController: sendCellularDataSettingsChangeNotification_sync: Sending kCTCellularDataSettingsChangeNotification as something changed: isAllowed = true, isEnabled = true, isAirplaneMode = false
+1.144 [I] xpc.event:   --------------> kCTEventCellularDataSettingsChange(184) sent to 0 (of 0) clients.
+1.144 [I] DATA.TechDriver: airplaneModeChange: airplane mode false
+1.144 [I] evt: Firing event 'dataModeChanged': with params= kLTE, kLTE
+1.144 [I] DATA.ServiceController: setupEvents_sync: start
+1.144 [I] enth.ctr: Checking entitlements [] with reason: CheckEntitlementsReason::kSelfInitiated
+1.144 [E] enth.ctr: Invalid Driver
+1.144 [I] enth.ctr: getPreferredRoamingNetworksIfNeeded_sync: not a CB settings profile - skipping
+1.144 [I] DATA.Connection.PushEmail: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.144 [I] DATA.Connection.WirelessModemTraffic: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.WirelessModemAuthentication: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.agent.provisioning: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.AppleWirelessDiagnostics: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.DataTest: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.OTAActivation: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.3GFaceTimeTraffic: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.3GFaceTimeAuthentication: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.OMADM: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.OTAInternet: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.ZeroRated: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.EntitlementTraffic: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.InternalDataProbe: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.iw5: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.Em: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.agent.bootstrap: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.UT: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.BootstrapRoamingInternetBypass: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.EmLoc: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.agent.provisioning2: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.agent.carrierspace: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.InternetProbe: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.145 [I] DATA.Connection.MMS: handleInHomeCountryState: restEvent: inHomeCountry=0 fAgentData.change
+1.146 [I] DATA.ServiceController: handleDataModeChanged_sync: kLTE
+1.146 [I] DATA.ServiceController: activateController_sync: with (nothing)
+1.146 [I] DATA.TechDriver: refreshAllDataSettings: start
+1.146 [I] DATA: getiWLanSettingDict: no TechSettings dictionary can be found
+1.146 [I] DATA.TechDriver: refreshAllDataSettings: for 0
+1.146 [I] DATA.TechDriver: refreshAllDataSettings: APN info not present for 0
+1.146 [I] DATA.TechDriver: refreshAllDataSettings: APN info not present or does not support iWLan
+1.146 [I] DATA.TechDriver: refreshAllDataSettings: for 1
+1.146 [I] DATA.TechDriver: refreshAllDataSettings: APN info not present for 1
+1.146 [I] DATA.TechDriver: refreshAllDataSettings: APN info not present or does not support iWLan
+1.146 [I] DATA.TechDriver: updateCurrentImsPrefOnAllConnections: 3
+1.146 [I] DATA.Connection.iw5: evaluateImsPref: firing event with bb mask 0 (tech mask 0)
+1.146 [I] evt: Firing event 'updateImsPref': with params= 0
+1.147 [I] evt: Firing event 'recalculateConnectionAvailability': with params= 0, IM IMS preferences changed
+1.147 [I] DATA.TechDriver: refreshAllDataSettings: stop
+1.147 [I] DATA.iRatController: with app Types { }
+1.147 [I] DATA.iRatController: Subscribe app Types not changed
+1.147 [I] DATA.Connection.Internet: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.VVM: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.MMS: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.PushEmail: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.WirelessModemTraffic: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.WirelessModemAuthentication: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.Provisioning: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.AppleWirelessDiagnostics: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.DataTest: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.OTAActivation: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.3GFaceTimeTraffic: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.3GFaceTimeAuthentication: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.OMADM: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.OTAInternet: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.ZeroRated: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.EntitlementTraffic: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.InternalDataProbe: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.iw5: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.Em: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.Bootstrap: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.UT: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.BootstrapRoamingInternetBypass: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.EmLoc: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.Provisioning: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.CarrierSpace: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.Connection.InternetProbe: checkActivateConnection: change = false activate = false state = kDataConnectionStateIdle fIsActivatingAccrossSimSwap = 0
+1.147 [I] DATA.ServiceController: recalculateConnectionAvailabilityProcessQueue_sync: forceSend=false, level=0, size=2, reason = Tech setup reconfigured
+1.148 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.148 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionInternet: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.148 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.148 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.148 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionVVM: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.148 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.148 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.148 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionMMS: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionPushEmail: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionWirelessModemTraffic: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionWirelessModemAuthentication: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionCellularDataPlanProvisioning: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionAppleWirelessDiagnostics: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionDataTest: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionOTAActivation: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnection3GFaceTimeTraffic: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnection3GFaceTimeAuthentication: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionOMADM: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionOTAInternet: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionZeroRated: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionEntitlementTraffic: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionInternalDataProbe: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.149 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.149 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionIM: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.149 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.150 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.150 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionEm: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.150 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.150 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.150 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionBootstrap: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.150 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=ipsec0/{ipsec0}, transportType=kDataContextUnknown
+1.150 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.150 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionUT: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.150 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.150 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.150 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionBootstrapRoamingInternetBypass: idByMask=0, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.150 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=ipsec0/{ipsec0}, transportType=kDataContextUnknown
+1.150 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.150 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionEmLoc: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.150 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.150 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.150 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionCellularDataPlanProvisioning2: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.150 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.150 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.150 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionCarrierSpace: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.150 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.150 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.150 [I] DATA.ServiceController: updateStateCache_sync: kDataConnectionInternetProbe: idByMask=-2, configuredByMask[BB]=false, configuredByMask[iW]=false, activeByMask=false, networkActive=false, activeOver=kDataContextUnknown
+1.150 [I] DATA.ServiceController: updateStateCache_sync:     activeAndIdByConnection:  id=-2, active=false, currentInterface=/{}, transportType=kDataContextUnknown
+1.150 [I] DATA.ServiceController: updateStateCache_sync: pdp_id=0  pdp=0 state=0 dataAtt=1 ind=7 roam=1 mask=[](0x0) tech=7 IPf=0 override=0 p9=0 (num=10)
+1.150 [I] DATA.ServiceController: updateStateCache_sync: pdp_id=1  pdp=1 state=0 dataAtt=1 ind=7 roam=1 mask=[](0x0) tech=7 IPf=0 override=0 p9=0 (num=10)
+1.150 [I] DATA.ServiceController: recalculateConnectionAvailabilityProcessQueue_sync: Internal event start: ==>>
+1.150 [I] DATA.ServiceController:      internal event: If(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.150 [I] DATA.ServiceController:      internal event: Vf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.150 [I] DATA.ServiceController:      internal event: Mf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.150 [I] DATA.ServiceController:      internal event: Ef(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.150 [I] DATA.ServiceController:      internal event: Wf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.150 [I] DATA.ServiceController:      internal event: wf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.150 [I] DATA.ServiceController:      internal event: Pf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.150 [I] DATA.ServiceController:      internal event: Df(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: Tf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: Of(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: Ff(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: ff(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: mf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: of(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: Zf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: $f(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: if(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: Sf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: 9f(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: Bf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: Uf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: bf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: Lf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: 2f(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: Cf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController:      internal event: pf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.151 [I] DATA.ServiceController: recalculateConnectionAvailabilityProcessQueue_sync: <<== Internal event end: due to Tech setup reconfigured (forceSend true, availabilityChanged true)
+1.151 [I] evt: Firing event 'connectionAvailability': with params= 0, {f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides}),f(kDataNotSupported{Default in canActivateWithoutOverrides})}
+1.151 [I] DATA.ServiceController: recalculateConnectionAvailabilityProcessQueue_sync: sending CT event due to Tech setup reconfigured (forceSend true, errorChanged true, availabilityChanged true)
+1.151 [I] DATA.TechDriver: updateCurrentImsPrefOnAllConnections: 3
+1.151 [I] DATA.Connection.iw5: evaluateImsPref: firing event with bb mask 0 (tech mask 0)
+1.151 [I] evt: Firing event 'updateImsPref': with params= 0
+1.151 [I] evt: Firing event 'recalculateConnectionAvailability': with params= 0, IM IMS preferences changed
+1.151 [I] evt: Firing event 'recalculateConnectionAvailability': with params= 1, DataServiceController activation
+1.151 [I] xpc.event:   --------------> kCTEventDataServiceAvailability(155) sent to 0 (of 0) clients.
+1.152 [I] DATA.TechDriver: updateCurrentImsPrefOnAllConnections: 3
+1.152 [I] DATA.Connection.iw5: evaluateImsPref: firing event with bb mask 0 (tech mask 0)
+1.152 [I] evt: Firing event 'updateImsPref': with params= 0
+1.152 [I] evt: Firing event 'recalculateConnectionAvailability': with params= 0, IM IMS preferences changed
+1.152 [I] DATA.ui-apn: refresh: refresh for subscriber:'' (same)
+1.152 [I] DATA.ui-apn: apply: 0 APN(s) ==>> 
+1.153 [I] DATA.ui-apn: apply: <<== APN(s)
+1.153 [I] DATA.ui-apn: apply: AttachAPN: NULL
+1.153 [I] DATA.ServiceController: recalculateConnectionAvailabilityProcessQueue_sync: forceSend=true, level=0, size=4, reason = DataServiceController activation
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] NOBB:NoBBRadioModule_NOSUPPORT:getCellularDataIsEnabled: 
+1.154 [I] DATA.ServiceController: recalculateConnectionAvailabilityProcessQueue_sync: Internal event start: ==>>
+1.154 [I] DATA.ServiceController:      internal event: If(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.154 [I] DATA.ServiceController:      internal event: Vf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.154 [I] DATA.ServiceController:      internal event: Mf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.154 [I] DATA.ServiceController:      internal event: Ef(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.154 [I] DATA.ServiceController:      internal event: Wf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.154 [I] DATA.ServiceController:      internal event: wf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.154 [I] DATA.ServiceController:      internal event: Pf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.154 [I] DATA.ServiceController:      internal event: Df(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.154 [I] DATA.ServiceController:      internal event: Tf(kDataNotSupported{Default in canActivateWithoutOverrides })
+1.154 [I] DATA.ServiceController:      i

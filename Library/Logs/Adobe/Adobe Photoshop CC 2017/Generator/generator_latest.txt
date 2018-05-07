@@ -1,0 +1,47 @@
+Logging Generator in directory: /Users/lop/Library/Logs/Adobe/Adobe Photoshop CC 2017/Generator
+Use '-v' option to print logs to stdout
+Log file created on Sun Apr 29 2018 00:28:37 GMT-0700 (PDT)
+
+[debug:core 00:28:37.857 generator.js:103:17] Launching with config:
+{}
+[debug:core 00:28:37.858 generator.js:105:21] provided PS information:
+ version 18.1.0
+ path/Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/
+
+[info:core 00:28:37.876 generator.js:227:25] Detected Photoshop version: 18.1.0
+[1;31mNo viable plugins were found in '/Applications/Adobe Photoshop CC 2017/Plug-Ins/Generator/'
+[0m[debug:core 00:28:37.929 generator.js:1804:21] Loading plugin: generator-assets (v2.7.3) from directory: /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/Required/Plug-ins/Generator/assets.generate
+[debug:core 00:28:38.765 generator.js:1820:21] Plugin loaded: generator-assets
+[debug:core 00:28:38.882 generator.js:1804:21] Loading plugin: crema (v3.0.8) from directory: /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/Required/Plug-ins/Generator/crema.generate
+[debug:core 00:28:39.345 generator.js:1820:21] Plugin loaded: crema
+[debug:core 00:28:39.346 generator.js:1804:21] Loading plugin: generator-spaces (v0.4.3) from directory: /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/Required/Plug-ins/Generator/spaces.generate
+[debug:core 00:28:39.847 generator.js:1820:21] Plugin loaded: generator-spaces
+[debug:core 00:28:39.849 generator.js:1804:21] Loading plugin: adobe-preview-generator-plugin (v1.3.1-8ae3a69) from directory: /Library/Application Support/Adobe/Plug-Ins/CC/Generator/previewHD.generate
+[debug:core 00:28:44.101 generator.js:1820:21] Plugin loaded: adobe-preview-generator-plugin
+[info:generator-spaces 00:28:44.109 main.js:36:20] Starting websocket server...
+[1;31muser settings file could not be created
+[0m[info:generator-spaces 00:28:48.050 main.js:39:28] Started websocket server on port 59596
+[info:generator-spaces 00:28:48.637 main.js:44:28] For kicks, fetched stored port from generator:  59596
+[info:core 00:47:50.713 photoshop.js:475:26] 247ms to receive 42841.6 kB (173447.8 kB/s)
+[info:core 00:47:50.748 convert.js:229:20] Using Flite for image encoding
+[1;31muser settings file could not be created
+[0m[info:crema 00:48:01.431 main.js:505:29] Quick exported: [ '/Users/lop/Desktop/桌游LOGO2.png' ]
+[info:core 01:22:54.047 photoshop.js:475:26] 201ms to receive 49781.2 kB (247667.8 kB/s)
+[info:core 01:22:54.120 convert.js:229:20] Using Flite for image encoding
+[1;31muser settings file could not be created
+[0m[info:crema 01:22:55.939 main.js:505:29] Quick exported: [ '/Users/lop/Desktop/桌游white.png' ]
+[info:crema 01:33:53.683 main.js:343:17] Accepted websocket connection with ID 0
+[info:crema 01:33:53.696 main.js:301:17] initial message recieved
+[0mGET /handshake [32m200 [0m22.958 ms - -[0m
+[info:crema 01:33:53.753 main.js:165:21] received command: docinfo
+[info:crema 01:33:54.417 main.js:165:21] received command: generatePreview
+[info:core 01:33:55.285 photoshop.js:475:26] 390ms to receive 49781.2 kB (127644.2 kB/s)
+[info:core 01:33:55.311 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/1.png?t=1524990834412 [32m200 [0m17.397 ms - -[0m
+[info:crema 01:34:37.954 main.js:165:21] received command: exportComponents
+[info:crema 01:34:38.530 main.js:165:21] received command: setDefaultSettings
+[1;31muser settings file could not be created
+[0m[info:crema 01:34:38.692 main.js:356:21] WebSocket connection with ID 0 closed
+[info:core 01:34:58.916 generator.js:117:25] Photoshop connection closed
+[1;31mExiting with code 0: Generator close event
+[0m

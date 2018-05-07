@@ -1,0 +1,6 @@
+input = .
+inputfile = constants.txt
+output = ../src/Constants
+outputheader = Constants.h
+outputcpp = Constants.cpp
+root = ../src/

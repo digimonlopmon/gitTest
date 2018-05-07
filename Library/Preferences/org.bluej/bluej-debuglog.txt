@@ -1,0 +1,8 @@
+BlueJ run started: Tue Apr 11 15:16:19 PDT 2017
+BlueJ version 4.0.1
+Java version 1.8.0_121
+Virtual machine: Java HotSpot(TM) 64-Bit Server VM 25.121-b13 (Oracle Corporation)
+Running on: Mac OS X 10.11.6 (x86_64)
+Java Home: /Users/lop/Downloads/BlueJ 4.0.1/BlueJ.app/Contents/JDK/Home/jre
+----
+Detected language "english" based on iso639-2 code "eng"

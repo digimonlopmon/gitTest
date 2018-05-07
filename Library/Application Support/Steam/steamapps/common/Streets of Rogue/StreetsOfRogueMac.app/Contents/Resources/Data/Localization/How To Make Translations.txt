@@ -1,0 +1,24 @@
+How to create your own translations:
+
+- Open any of the files in this directory.
+- Place translated text in the 'Translation' column.
+- Any rows that are not translated will revert to English.
+- Be careful not to delete text in the 'STRING_ID' and 'English' columns, as this can break the game.
+- For certain types of characters such as Chinese, Korean and Japanese, text may appear extremely small in
+  certain spots in the game.  To fix this, go into the file "SOR Names - InterfaceNameDB.csv", find the row
+  that says 'SpecialCharacterSizeFitting' and write True under the Translation column.
+- To use a font that has Polish characters, go into the file "SOR Names - InterfaceNameDB.csv", find the row
+  that says 'PolishCharacters' and write True under the Translation column.
+- When saving the files, make sure to save the file in their original format.  Programs like Excel
+  have a tendency to automatically save in specialized formats.  If you modify the file in Notepad,
+  it should look the same as the original version.
+- To view the translations in-game, go to the Languages menu under Settings, and set 'Fan Translations' to 'On'.
+
+Please note that the there will be additions and changes to the rows with each new build of Streets
+of Rogue released.
+
+Feel free to share translations online, place them in Google Docs, and collaborate with each other.
+Google Docs' Revision History feature will make it easier to see where I've made changes to text
+between builds of the game.
+
+-Matt

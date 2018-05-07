@@ -1,0 +1,2 @@
+[2018-02-23T08:55:51Z][source/main.cpp:690][INFO]: System Survey 2.3.1.44, Data Version 3, Git Revision v2.3.0.42-21-gcbfa40d, Copyright (C) 2013 Blizzard Entertainment. All rights reserved.
+[2018-02-23T08:55:51Z][source/main.cpp:764][INFO]: Exit value: 0

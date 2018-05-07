@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<data>
+    <resolution w="1280" h="800" />
+    <fullscreen data="1" />
+    <vsync data="1" />
+    <timer toggle="0" />
+    <language lang="english" />
+    <music_vol v="10" />
+    <sfx_vol v="10" />
+    <rumble v="10" />
+    <hardmode v="0" />
+    <truthmode v="0" />
+    <rollmode v="0" />
+    <ironmode v="0" />
+</data>

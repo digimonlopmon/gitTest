@@ -1,0 +1,4 @@
+WCVE
+1
+Curly Story
+Play Cave Story as Curly Brace!

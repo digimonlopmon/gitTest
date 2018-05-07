@@ -1,0 +1,5 @@
+Shape Mode:  Classic
+Canvas Size:  48 x 48
+
+
+The tried-and-true hexagonal grid.

@@ -1,0 +1,14 @@
+﻿Native Launcher Version: 1322
+Operating System: OSX Version 10.11.6 (Build 15G1510)
+Application Hash: 6b38a87b3d1f6ec8615cff330ca062807d4b712b
+Application Data directory: /Users/lop/Library/Application Support/minecraft
+Executable Path: /Applications/Minecraft.app/Contents/MacOS/launcher
+App Directory dir: /Applications/Minecraft.app/Contents
+Start dir: /Users/lop/Library/Application Support/minecraft
+Launcher dir: /Users/lop/Library/Application Support/minecraft
+TmpDir dir: /Applications/Minecraft.app/Contents/tmp
+(Optional) Java Launcher hash: 
+Java Version: 1.8.0_74
+x64: 1
+LauncherConfiguration from: http://launchermeta.mojang.com/mc/launcher.json
+Native launcher is current

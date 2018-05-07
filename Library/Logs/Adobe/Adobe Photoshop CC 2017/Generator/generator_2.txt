@@ -1,0 +1,83 @@
+Logging Generator in directory: /Users/lop/Library/Logs/Adobe/Adobe Photoshop CC 2017/Generator
+Use '-v' option to print logs to stdout
+Log file created on Tue Apr 17 2018 17:54:42 GMT-0700 (PDT)
+
+[debug:core 17:54:42.630 generator.js:103:17] Launching with config:
+{}
+[debug:core 17:54:42.630 generator.js:105:21] provided PS information:
+ version 18.1.0
+ path/Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/
+
+[info:core 17:54:42.646 generator.js:227:25] Detected Photoshop version: 18.1.0
+[1;31mNo viable plugins were found in '/Applications/Adobe Photoshop CC 2017/Plug-ins/Generator/'
+[0m[debug:core 17:54:42.682 generator.js:1804:21] Loading plugin: generator-assets (v2.7.3) from directory: /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/Required/Plug-ins/Generator/assets.generate
+[debug:core 17:54:42.981 generator.js:1820:21] Plugin loaded: generator-assets
+[debug:core 17:54:42.982 generator.js:1804:21] Loading plugin: crema (v3.0.8) from directory: /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/Required/Plug-ins/Generator/crema.generate
+[debug:core 17:54:43.385 generator.js:1820:21] Plugin loaded: crema
+[debug:core 17:54:43.386 generator.js:1804:21] Loading plugin: generator-spaces (v0.4.3) from directory: /Applications/Adobe Photoshop CC 2017/Adobe Photoshop CC 2017.app/Contents/Required/Plug-ins/Generator/spaces.generate
+[debug:core 17:54:43.839 generator.js:1820:21] Plugin loaded: generator-spaces
+[debug:core 17:54:43.841 generator.js:1804:21] Loading plugin: adobe-preview-generator-plugin (v1.3.1-8ae3a69) from directory: /Library/Application Support/Adobe/Plug-Ins/CC/Generator/previewHD.generate
+[debug:core 17:54:44.690 generator.js:1820:21] Plugin loaded: adobe-preview-generator-plugin
+[info:generator-spaces 17:54:44.697 main.js:36:20] Starting websocket server...
+[1;31muser settings file could not be created
+[0m[info:generator-spaces 17:54:47.911 main.js:39:28] Started websocket server on port 59596
+[info:generator-spaces 17:54:48.787 main.js:44:28] For kicks, fetched stored port from generator:  59596
+[info:crema 17:55:37.901 main.js:343:17] Accepted websocket connection with ID 0
+[info:crema 17:55:37.911 main.js:301:17] initial message recieved
+[0mGET /handshake [32m200 [0m6.538 ms - -[0m
+[info:crema 17:55:37.938 main.js:165:21] received command: docinfo
+[info:crema 17:55:38.916 main.js:165:21] received command: generatePreview
+[info:core 17:55:39.235 photoshop.js:475:26] 27ms to receive 3909.3 kB (144789.4 kB/s)
+[info:core 17:55:39.374 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/1.png?t=1524012938912 [32m200 [0m6.179 ms - -[0m
+[info:crema 17:55:48.304 main.js:165:21] received command: generatePreview
+[info:core 17:55:48.819 photoshop.js:475:26] 17ms to receive 2907 kB (171002.1 kB/s)
+[info:core 17:55:48.836 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/2.png?t=1524012948302 [32m200 [0m4.110 ms - -[0m
+[info:crema 17:55:56.165 main.js:165:21] received command: generatePreview
+[info:core 17:55:56.627 photoshop.js:475:26] 18ms to receive 2238.3 kB (124350.9 kB/s)
+[info:core 17:55:56.665 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/3.png?t=1524012956162 [32m200 [0m1.948 ms - -[0m
+[info:crema 17:56:01.397 main.js:165:21] received command: generatePreview
+[info:core 17:56:02.023 photoshop.js:475:26] 17ms to receive 2907 kB (171002.1 kB/s)
+[info:core 17:56:02.061 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/4.png?t=1524012961395 [32m200 [0m10.334 ms - -[0m
+[info:crema 17:56:17.568 main.js:165:21] received command: generatePreview
+[info:core 17:56:18.008 photoshop.js:475:26] 15ms to receive 2907 kB (193802.3 kB/s)
+[info:core 17:56:18.026 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/5.png?t=1524012977565 [32m200 [0m6.821 ms - -[0m
+[info:crema 17:56:27.139 main.js:165:21] received command: generatePreview
+[info:core 17:56:27.562 photoshop.js:475:26] 11ms to receive 2238.3 kB (203483.3 kB/s)
+[info:core 17:56:27.627 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/6.png?t=1524012987134 [32m200 [0m7.887 ms - -[0m
+[info:crema 17:56:28.262 main.js:165:21] received command: generatePreview
+[info:core 17:56:28.661 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/7.png?t=1524012988260 [32m200 [0m8.537 ms - -[0m
+[info:crema 17:56:32.363 main.js:165:21] received command: generatePreview
+[info:core 17:56:32.919 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/8.png?t=1524012992360 [32m200 [0m2.460 ms - -[0m
+[info:crema 17:56:40.216 main.js:165:21] received command: generatePreview
+[info:core 17:56:40.339 photoshop.js:475:26] 17ms to receive 3909.3 kB (229959.7 kB/s)
+[info:core 17:56:40.360 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/9.png?t=1524013000212 [32m200 [0m2.625 ms - -[0m
+[info:crema 17:56:50.088 main.js:165:21] received command: generatePreview
+[info:core 17:56:50.226 photoshop.js:475:26] 30ms to receive 3909.3 kB (130310.5 kB/s)
+[info:core 17:56:50.263 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/10.png?t=1524013010085 [32m200 [0m2.165 ms - -[0m
+[info:crema 17:56:55.513 main.js:165:21] received command: generatePreview
+[info:core 17:56:55.630 photoshop.js:475:26] 11ms to receive 3909.3 kB (355388.8 kB/s)
+[info:core 17:56:55.656 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/11.png?t=1524013015510 [32m200 [0m2.135 ms - -[0m
+[info:crema 18:04:45.151 main.js:356:21] WebSocket connection with ID 0 closed
+[info:crema 18:16:12.650 main.js:343:17] Accepted websocket connection with ID 1
+[info:crema 18:16:12.656 main.js:301:17] initial message recieved
+[0mGET /handshake [32m200 [0m1.615 ms - -[0m
+[info:crema 18:16:12.675 main.js:165:21] received command: docinfo
+[info:crema 18:16:13.050 main.js:165:21] received command: generatePreview
+[info:core 18:16:13.257 photoshop.js:475:26] 41ms to receive 3909.3 kB (95349.1 kB/s)
+[info:core 18:16:13.283 convert.js:229:20] Using Flite for image encoding
+[0mGET /preview/12.png?t=1524014173048 [32m200 [0m9.622 ms - -[0m
+[info:crema 18:16:22.146 main.js:356:21] WebSocket connection with ID 1 closed
+[info:core 18:18:27.907 generator.js:117:25] Photoshop connection closed
+[1;31mExiting with code 0: Generator close event
+[0m

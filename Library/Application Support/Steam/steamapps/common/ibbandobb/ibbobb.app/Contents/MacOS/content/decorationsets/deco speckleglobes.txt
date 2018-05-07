@@ -1,0 +1,12 @@
+speckleglobe_01.pssg
+speckleglobe_02.pssg
+speckleglobe_03.pssg
+speckleglobe_04.pssg
+speckleglobe_05.pssg
+speckleglobe_06.pssg
+speckleglobe_07.pssg
+speckleglobe_08.pssg
+speckleglobe_09.pssg
+speckleglobe_10.pssg
+speckleglobe_11.pssg
+speckleglobe_12.pssg

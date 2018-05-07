@@ -1,0 +1,37 @@
+[controller]
+DPad=D-pad
+Thumbstick=Sauva
+Trigger=Liipasin
+LeftStick=Vasen sauva
+RightStick=Oikea Sauva
+DPadUp=D-pad ylös
+DPadDown=D-pad alas
+DPadLeft=D-pad vasen
+DPadRight=D-pad oikea
+Start=Start 
+Back=Back
+LeftShoulder=Vasen Bumber-Painike
+RightShoulder=Oikea Bumber-Painike
+BigButton=Iso nappi
+RightTrigger=Oikea Liipasin
+LeftTrigger=Vasen Liipasin
+RightThumbstickUp=Oikea Sauva Ylös
+RightThumbstickDown=Oikea Sauva Alas
+RightThumbstickRight=Oikea Sauva Oikea
+RightThumbstickLeft=Oikea Sauva Vasen
+LeftThumbstickLeft=Vasen Sauva Vasen
+LeftThumbstickUp=Vasen Sauva Ylös
+LeftThumbstickDown=Vasen Sauva Alas
+LeftThumbstickRight=Vasen Sauva Oikealle
+
+[keyboard]
+DirectionKeys=Nuoli näppäimet
+
+[mouse]
+Mouse=Hiiri
+MouseButton=Hiiren Nappi
+LeftMouseButton=Hiiren Vasen Nappi
+MiddleMouseButton=Hiiren Keski Nappi
+RightMouseButton=Hiiren Oikea Nappi
+MouseButtonX1=Hiiren X1 Nappi
+MouseButtonX2=Hiiren X2 Nappi

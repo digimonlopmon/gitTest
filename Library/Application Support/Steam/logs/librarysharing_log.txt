@@ -1,0 +1,48 @@
+
+
+[2016-08-03 12:35:32] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2016-08-11 14:01:26] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2016-10-20 10:15:49] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2016-11-23 15:46:26] MsgClientGetOwnAuthorizedDevices: numDevices 0, response No Connection
+
+
+[2016-12-27 13:37:23] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-01-08 17:30:20] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-02-08 18:55:55] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-03-18 17:10:43] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-04-19 13:46:06] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-04-20 17:01:31] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-04-20 17:09:34] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-04-20 17:20:09] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-04-20 17:21:28] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-04-20 17:22:25] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-07-11 10:26:46] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK
+
+
+[2017-11-21 20:28:08] MsgClientGetOwnAuthorizedDevices: numDevices 0, response OK

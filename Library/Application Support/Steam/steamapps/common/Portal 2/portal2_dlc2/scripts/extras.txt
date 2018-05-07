@@ -1,0 +1,74 @@
+"Extras"
+{
+	"Video1"	[!$GAMECONSOLE]
+	{
+		"title"		"#PORTAL2_Extras_CommunityTitle"
+		"subtitle"	"#PORTAL2_Extras_CommunitySubtitle"
+		"pic"		"vgui/extras/perpetual_testing_initiative"
+		"video"		"media/intro_movie"
+	}
+
+	"Video2"
+	{
+		"title"		"#PORTAL2_Extras_Attract01Title"
+		"subtitle"	"#PORTAL2_Extras_Attract01Subtitle"
+		"pic"		"vgui/extras/attract01"
+		"video"		"media/attract01.bik"
+	}
+
+	"Video3"
+	{
+		"title"		"#PORTAL2_Extras_Attract02Title"
+		"subtitle"	"#PORTAL2_Extras_Attract02Subtitle"
+		"pic"		"vgui/extras/attract02"
+		"video"		"media/attract02.bik"
+	}
+
+	"Video4"
+	{
+		"title"		"#PORTAL2_Extras_BotTrustTitle"
+		"subtitle"	"#PORTAL2_Extras_BotTrustSubtitle"
+		"pic"		"vgui/extras/attract_bot_trust"
+		"video"		"media/attract_bot_trust"
+	}
+
+	"Video5"
+	{
+		"title"		"#PORTAL2_Extras_PanelsTitle"
+		"subtitle"	"#PORTAL2_Extras_PanelsSubtitle"	
+		"pic"		"vgui/extras/attract_panels"
+		"video"		"media/attract_panels"
+	}
+
+	"Video6"
+	{
+		"title"		"#PORTAL2_Extras_TurretsTitle"
+		"subtitle"	"#PORTAL2_Extras_TurretsSubtitle"
+		"pic"		"vgui/extras/attract_turrets"
+		"video"		"media/attract_turrets"
+	}
+
+	"Video7"
+	{
+		"title"		"#PORTAL2_Extras_BootsTitle"
+		"subtitle"	"#PORTAL2_Extras_BootsSubtitle"
+		"pic"		"vgui/extras/attract_boots"
+		"video"		"media/attract_boots"
+	}
+
+	"comic"		[!$GAMECONSOLE]
+	{
+		"title"		"#PORTAL2_Extras_ComicTitle"
+		"subtitle"	"#PORTAL2_Extras_ComicSubtitle"
+		"pic"		"vgui/extras/comic"
+		"url"		"http://www.thinkwithportals.com/comic/"
+	}
+	
+	"e1912"		[!$GAMECONSOLE]
+	{
+		"title"		"#PORTAL2_Extras_E1912Title"
+		"subtitle"	"#PORTAL2_Extras_E1912Subtitle"
+		"pic"		"vgui/extras/e1912"
+		"map"		"e1912"
+	}
+}

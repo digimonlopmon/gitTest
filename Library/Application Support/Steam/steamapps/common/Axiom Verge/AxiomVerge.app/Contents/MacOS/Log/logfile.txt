@@ -1,0 +1,135 @@
+﻿2016-12-15 19:24:47,656 - Initializing SteamAPI.
+2016-12-15 19:24:47,738 - SteamAPI Initialized.
+2016-12-15 19:24:47,738 - Setting SDL Hint to Allow Joystick Background Events
+2016-12-15 19:24:47,901 - RunGame() Begin
+2016-12-15 19:24:48,902 - Creating Game.
+2016-12-15 19:24:49,110 - Attempting to load Settings.xml
+2016-12-15 19:24:49,114 - Load Game:  File Settings.xml doesn't exist.
+2016-12-15 19:24:49,114 - Settings object was null; initializing new object.
+2016-12-15 19:24:49,114 - Initializing settings data.
+2016-12-15 19:24:49,115 - Initializing Settings Data.
+2016-12-15 19:24:49,115 - Initializing control mappings.
+2016-12-15 19:24:49,116 - Creating Graphics object.
+2016-12-15 19:24:49,117 - Creating Graphics Device Manager.
+2016-12-15 19:24:49,185 - Requesting windowed: 960 x 540
+2016-12-15 19:24:49,208 - Device Status: Normal
+2016-12-15 19:24:49,208 - Presentation parameters: 960 x 540
+2016-12-15 19:24:49,208 - 	SurfaceFormat: Color,  DepthStencilFormat: None
+2016-12-15 19:24:49,208 - 	Presentation Interval: Default,  RenderTargetUsage: DiscardContents
+2016-12-15 19:24:49,208 - 	VSync: True
+2016-12-15 19:24:49,212 - Creating global Content Manager.
+2016-12-15 19:24:49,213 - Initializing Trophy Manager.
+2016-12-15 19:24:49,221 - Initializing Leaderboard Manager.
+2016-12-15 19:24:49,230 - Initializing Factories.
+2016-12-15 19:24:49,255 - Initializing Secret Worlds.
+2016-12-15 19:24:49,269 - Initializing language.
+2016-12-15 19:24:49,428 - Initializing Audio.
+2016-12-15 19:24:49,440 - Done creating Game.
+2016-12-15 19:24:49,442 - Loading content.
+2016-12-15 19:24:49,443 - Loading audio content.
+2016-12-15 19:24:50,165 - LoadContent: Reapplying Graphics Settings.
+2016-12-15 19:24:50,165 - Requesting windowed: 960 x 540
+2016-12-15 19:24:50,165 - Device Status: Normal
+2016-12-15 19:24:50,165 - Presentation parameters: 960 x 540
+2016-12-15 19:24:50,165 - 	SurfaceFormat: Color,  DepthStencilFormat: None
+2016-12-15 19:24:50,165 - 	Presentation Interval: Default,  RenderTargetUsage: DiscardContents
+2016-12-15 19:24:50,165 - 	VSync: True
+2016-12-15 19:24:50,166 - Creating sprite batch
+2016-12-15 19:24:50,193 - Setting static data colors.
+2016-12-15 19:24:50,193 - Done setting static data colors.
+2016-12-15 19:24:50,193 - Creating render target PostBuffer1, 480 x 270
+2016-12-15 19:24:50,194 - Creating render target PostBuffer2, 480 x 270
+2016-12-15 19:24:50,194 - Creating render target PostBuffer3, 960 x 540
+2016-12-15 19:24:50,194 - Creating render target PostBuffer4, 960 x 540
+2016-12-15 19:24:50,194 - Creating render target FinalCompositeBuffer, 960 x 540
+2016-12-15 19:24:50,194 - Creating render target UIBuffer, 480 x 270
+2016-12-15 19:24:50,194 - Creating shader Shaders/THBlurShader
+2016-12-15 19:24:50,203 - Creating shader Shaders/THColorCorrectionShader
+2016-12-15 19:24:50,212 - Creating shader Shaders/THScanlineShader
+2016-12-15 19:24:50,218 - Creating shader Shaders/THHallucinationShader
+2016-12-15 19:24:50,244 - Creating shader Shaders/THBackgroundShader
+2016-12-15 19:24:50,260 - Creating shader Shaders/THSpriteShader
+2016-12-15 19:24:50,267 - Creating shader Shaders/THUIShader
+2016-12-15 19:24:50,332 - (0): Void f()(): Initializing save data.
+2016-12-15 19:24:50,374 - Creating render target TitleState_DrawBuffer, 480 x 270
+2016-12-15 19:24:50,522 - Initializing Input.
+2016-12-15 19:24:50,535 - Finished loading content.
+2016-12-15 19:24:50,613 - [1104 - LeaderboardFindResult] - 753981 -- 1
+2016-12-15 19:24:50,615 - [1104 - LeaderboardFindResult] - 753982 -- 1
+2016-12-15 19:24:50,615 - [1104 - LeaderboardFindResult] - 753983 -- 1
+2016-12-15 19:24:50,616 - [1104 - LeaderboardFindResult] - 753984 -- 1
+2016-12-15 19:24:50,616 - [1104 - LeaderboardFindResult] - 753985 -- 1
+2016-12-15 19:24:50,616 - [1104 - LeaderboardFindResult] - 753987 -- 1
+2016-12-15 19:24:50,617 - Received stats and achievements from Steam.
+2016-12-15 19:24:50,623 - Finished updating 29 trophies.
+2016-12-15 19:24:54,604 - Creating render target OptionsState_DrawBuffer, 480 x 270
+2016-12-15 19:25:00,205 - Creating render target AudioOptionsState_DrawBuffer, 480 x 270
+2016-12-15 19:25:28,212 - Creating render target OptionsState_DrawBuffer, 480 x 270
+2016-12-15 19:25:38,333 - Creating render target TitleState_DrawBuffer, 480 x 270
+2016-12-15 19:25:38,333 - Initializing Input.
+2016-12-15 19:25:50,305 - Creating render target SelectSaveGameState_DrawBuffer, 480 x 270
+2016-12-15 19:25:50,326 - Attempting to load Save0.sav
+2016-12-15 19:25:50,326 - Load Game:  File Save0.sav doesn't exist.
+2016-12-15 19:25:50,364 - Attempting to load Save1.sav
+2016-12-15 19:25:50,364 - Load Game:  File Save1.sav doesn't exist.
+2016-12-15 19:25:50,365 - Attempting to load Save2.sav
+2016-12-15 19:25:50,365 - Load Game:  File Save2.sav doesn't exist.
+2016-12-15 19:25:51,547 - Attempting to save Save0.sav
+2016-12-15 19:25:51,561 - Generating new secret world data.
+2016-12-15 19:25:51,563 - (0): Void f()(): Initializing save data.
+2016-12-15 19:25:53,907 - Creating render target DrawBuffer, 480 x 270
+2016-12-15 19:25:53,907 - Creating render target PostBuffer1, 480 x 270
+2016-12-15 19:25:53,907 - Creating render target DistortionBuffer, 480 x 270
+2016-12-15 19:25:53,908 - Creating render target CellularAutomata1, 128 x 128
+2016-12-15 19:25:53,908 - Creating render target CellularAutomata2, 128 x 128
+2016-12-15 19:25:53,908 - Creating shader Shaders/THCellularAutomataShader
+2016-12-15 19:25:53,915 - Initializing CA data.
+2016-12-15 19:25:53,916 - Finished initializing CA data.
+2016-12-15 19:25:53,926 - Creating shader Shaders/THTraceShader
+2016-12-15 19:25:53,935 - Creating shader Shaders/THTileShader
+2016-12-15 19:25:53,940 - Creating shader Shaders/THDamageableTileShader
+2016-12-15 19:25:53,945 - Creating shader Shaders/THGlitchableTileShader
+2016-12-15 19:25:53,958 - Creating shader Shaders/THCreatureShader
+2016-12-15 19:25:53,982 - Creating shader Shaders/THRandomizedGridShader
+2016-12-15 19:25:54,002 - Creating shader Shaders/THDistortionShader
+2016-12-15 19:25:54,007 - Creating shader Shaders/THItemShader
+2016-12-15 19:25:54,012 - Creating shader Shaders/THLaserShader
+2016-12-15 19:25:54,727 - Loading area Area1
+2016-12-15 19:25:55,118 - Creating render target TileSetRenderTarget, 256 x 512
+2016-12-15 19:25:55,137 - Finished loading area Area1
+2016-12-15 19:25:55,626 - Initializing CA data.
+2016-12-15 19:25:55,627 - Finished initializing CA data.
+2016-12-15 19:35:20,544 - Initializing CA data.
+2016-12-15 19:35:20,545 - Finished initializing CA data.
+2016-12-15 19:36:51,696 - Initializing CA data.
+2016-12-15 19:36:51,696 - Finished initializing CA data.
+2016-12-15 19:37:09,628 - Initializing CA data.
+2016-12-15 19:37:09,629 - Finished initializing CA data.
+2016-12-15 19:37:48,419 - Initializing CA data.
+2016-12-15 19:37:48,420 - Finished initializing CA data.
+2016-12-15 19:38:16,865 - Initializing CA data.
+2016-12-15 19:38:16,865 - Finished initializing CA data.
+2016-12-15 19:38:30,298 - Initializing CA data.
+2016-12-15 19:38:30,298 - Finished initializing CA data.
+2016-12-15 19:38:50,582 - Initializing CA data.
+2016-12-15 19:38:50,583 - Finished initializing CA data.
+2016-12-15 19:39:05,168 - Initializing CA data.
+2016-12-15 19:39:05,169 - Finished initializing CA data.
+2016-12-15 19:39:32,234 - Initializing CA data.
+2016-12-15 19:39:32,235 - Finished initializing CA data.
+2016-12-15 19:41:08,085 - Initializing CA data.
+2016-12-15 19:41:08,085 - Finished initializing CA data.
+2016-12-15 19:41:55,449 - Initializing CA data.
+2016-12-15 19:41:55,450 - Finished initializing CA data.
+2016-12-15 19:43:11,229 - Initializing CA data.
+2016-12-15 19:43:11,230 - Finished initializing CA data.
+2016-12-15 19:43:14,417 - Initializing CA data.
+2016-12-15 19:43:14,418 - Finished initializing CA data.
+2016-12-15 19:44:08,601 - Loading area Area1
+2016-12-15 19:44:08,751 - Creating render target TileSetRenderTarget, 256 x 512
+2016-12-15 19:44:08,788 - Finished loading area Area1
+2016-12-15 19:44:08,823 - Initializing CA data.
+2016-12-15 19:44:08,823 - Finished initializing CA data.
+2016-12-15 19:44:13,330 - Attempting to save Save0.sav
+2016-12-15 19:44:41,442 - Attempting to save Save0.sav
+2016-12-15 19:44:49,722 - RunGame() End

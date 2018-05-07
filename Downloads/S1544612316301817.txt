@@ -1,0 +1,10 @@
+Elie Bouri, Peter Molnár, Georges Azzi, David Roubaud, Lars Ivar Hagfors,
+On the hedge and safe haven properties of Bitcoin: Is it really more than a diversifier?,
+Finance Research Letters,
+Volume 20,
+2017,
+Pages 192-198,
+ISSN 1544-6123,
+https://doi.org/10.1016/j.frl.2016.09.025.
+(http://www.sciencedirect.com/science/article/pii/S1544612316301817)
+Keywords: Bitcoin; Cryptocurrency; Diversifier; Hedge; Safe haven; DCC

@@ -1,0 +1,37 @@
+[controller]
+DPad=DPad
+Thumbstick=Stick
+Trigger=Trigger
+LeftStick=Left Stick
+RightStick=Right Stick
+DPadUp=DPad Up
+DPadDown=DPad Down
+DPadLeft=DPad Left
+DPadRight=DPad Right
+Start=Start
+Back=Back
+LeftShoulder=Left Shoulder
+RightShoulder=Right Shoulder
+BigButton=Big Button
+RightTrigger=Right Trigger
+LeftTrigger=Left Trigger
+RightThumbstickUp=Right Stick Up
+RightThumbstickDown=Right Stick Down
+RightThumbstickRight=Right Stick Right
+RightThumbstickLeft=Right Stick Left
+LeftThumbstickLeft=Left Stick Left
+LeftThumbstickUp=Left Stick Up
+LeftThumbstickDown=Left Stick Down
+LeftThumbstickRight=Left Stick Right
+
+[keyboard]
+DirectionKeys=Retningstaster
+
+[mouse]
+Mouse=Mus
+MouseButton=Museknapp
+LeftMouseButton=Venstre Museknapp
+MiddleMouseButton=Midterste Museknapp
+RightMouseButton=Høyre Museknapp
+MouseButtonX1=X1 Museknapp
+MouseButtonX2=X2 Museknapp

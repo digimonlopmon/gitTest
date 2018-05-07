@@ -1,0 +1,29 @@
+Mod listing -- EDIT ONLY WITH GREAT CARE OR THE GAME WILL BREAK
+
+Format:
+  [mod ID, nonnegative integer]
+  [space]
+  [optional: requirement code, followed by space]
+  [optional: ordering value, defaults to 1000, followed by space]
+  [foreslash followed by directory name with trailing slash]
+    (always use foreslashes, even on Windows)
+    NO TRAILING SPACES!  Spaces in path OK.
+  [new line; \r\n, \r or \n acceptable]
+
+Requirement codes
+  R+ = unlocked [unnecessary, but keeps lines looking neat]
+  R- = locked [only unlockable by editing this file]
+  RI## = Requires item number ##
+  RA## = Requires weapon number ##
+  RG = requires beating hell
+
+Ordering values are P with a nonnegative integer appended
+  example: "P13"
+
+=MOD LIST START=
+01 RG   P10 /TimeTrial/mod/
+02 RG   P15 /boss/mod/
+03 RI35 P05 /CurlyStory/mod/
+04 RG   P20 /Kaze/mod/
+05 RA12 P25 /Nemesis/mod/
+06 R+   P03 /EasyMod/mod/

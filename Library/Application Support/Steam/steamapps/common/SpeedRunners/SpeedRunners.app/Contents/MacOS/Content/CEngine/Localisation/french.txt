@@ -1,0 +1,37 @@
+[controller]
+DPad=Croix directionnelle
+Thumbstick=Joystick
+Trigger=Gachette
+LeftStick=Joystick gauche
+RightStick=Joystick droit
+DPadUp=Flèche Haut
+DPadDown=Flèche Bas
+DPadLeft=Flèche Gauche
+DPadRight=Flèche Droite
+Start=Start
+Back=Retour
+LeftShoulder=Gachette avant gauche
+RightShoulder=Gachette avant droit
+BigButton=Grand bouton
+RightTrigger=Gachette arrière droit
+LeftTrigger=Gachette arrière gauche
+RightThumbstickUp=Haut du joystick droit
+RightThumbstickDown=Bas du joystick droit
+RightThumbstickRight=Droite du joystick droit
+RightThumbstickLeft=Gauche du joystick droit
+LeftThumbstickLeft=Gauche du joystick gauche
+LeftThumbstickUp=Haut du joystick gauche
+LeftThumbstickDown=Bas du joystick gauche
+LeftThumbstickRight=Droite du joystick gauche
+
+[keyboard]
+DirectionKeys=Touches directionnelles
+
+[mouse]
+Mouse=Souris
+MouseButton=Bouton de la souris
+LeftMouseButton=Bouton gauche de la souris
+MiddleMouseButton=Bouton milieu de la souris
+RightMouseButton=Bouton droit de la souris
+MouseButtonX1=Bouton X1 de la souris
+MouseButtonX2=Bouton X2 de la souris

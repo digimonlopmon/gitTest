@@ -1,0 +1,37 @@
+[controller]
+DPad=DPad
+Thumbstick=Stick
+Trigger=Trigger
+LeftStick=왼쪽Stick
+RightStick=오른쪽Stick
+DPadUp=DPad Up
+DPadDown=DPad Down
+DPadLeft=DPad Left
+DPadRight=DPad Right
+Start=Start
+Back=Back
+LeftShoulder=왼쪽Shoulder
+RightShoulder=오른쪽Shoulder
+BigButton=Big Button
+RightTrigger=오른쪽Trigger
+LeftTrigger=왼쪽Trigger
+RightThumbstickUp=오른쪽Stick Up
+RightThumbstickDown=오른쪽Stick Down
+RightThumbstickRight=오른쪽Stick Right
+RightThumbstickLeft=오른쪽Stick Left
+LeftThumbstickLeft=왼쪽Stick Left
+LeftThumbstickUp=왼쪽Stick Up
+LeftThumbstickDown=왼쪽Stick Down
+LeftThumbstickRight=왼쪽Stick Right
+
+[keyboard]
+DirectionKeys=방항키
+
+[mouse]
+Mouse=마우스
+MouseButton=마우스버튼
+LeftMouseButton=마우스왼쪽버튼
+MiddleMouseButton=마우스가운데버튼
+RightMouseButton=마우스오른쪽버튼
+MouseButtonX1=X1마우스버튼
+MouseButtonX2=X2마우스버튼

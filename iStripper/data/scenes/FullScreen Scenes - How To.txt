@@ -1,0 +1,94 @@
+FullScreen Scenes are created using a proprietary langage contained in a .scn in each Scene folder. .scn files describe Scenes where background, sprites, models and special effects are displayed and can be modified by the user.
+
+There is no full official documentation for this langage, but many informations can be found on our forum here:
+https://www.istripper.com/forum/thread/27410/1
+https://www.istripper.com/forum/thread/27449/1
+
+Most of the content of this text file has been gathered on the forum, thanks WyldAnimal and EverthangForever for their contributions.
+
+User created Scenes can be found here:
+https://www.istripper.com/forum/thread/29408/1
+
+If you want to create your own Scenes, the best way is to copy one of the folders, change its name and the name of the .scn in it and then start to make modifications from there. 
+
+As soon as you save a .scn iStripper reloads i, so you just need to go back to the software to see the result of your work. Moving or adding models, changing backgrounds and lights is pretty easy even if you don’t have a programming background. 
+
+If you get a blank screen instead of what you where expecting, go back a few steps or have a look at the vghd.log file located in the data folder of iStripper (or VirtuaGirl) for warnings.
+
+
+Scenes:
+The Scene is a collection of Images and Clips. The screen is viewing of a Scene through a Camera that looks towards it. Camera must be father of all nodes to render. It can be 3D or 2D. If you choose 2D, you must specify the 'size' property,  'angle', 'pos' and 'target' are only used in 3D cameras.
+
+Here is a Sample 3D camera
+camera { 
+type: 3D
+angle: 45
+pos: 0, -520, 1090
+target: 0, -520, 0
+ambient: 0.2, 0.2, 0.2
+}
+
+Images and Sprites:
+The position of the images and sprites are controlled in 3 Dimensions. X, Y, Z. X is the Horizontal Axis or Left and Right, Y is the Vertical Axis or Up and Down, Z is the Depth Axis or In and Out.
+Load the Images into Memory, and Give each image an id Name which you use later to refer to it. 'texture' nodes are your images. The 'source' property is the image. The path must be relative to your scene file. If the path is a directory, the image is chosen randomly in the directory. You can also choose 'filter' for the quality of the scale: nearest or linear witch is default.
+
+Here is a sample Image loading
+texture {
+id: backdrop
+source: Multi-color-full-2.png
+}
+
+Here is a sample to add this image as the backdrop
+sprite {
+pos: 0, 0, -100
+hotspot: 0.5, 1.0
+source: backdrop
+blend: false
+}
+
+Clips:
+To include models, among the rest of the Scene, you have to define a Clip first (with deny and allow property to select the cliptype).
+You have to give this clip definition an id which you use later to refer to it.
+
+Here is a sample Clip definition
+clip {
+id: Dance1
+deny: table, cage, top
+}
+
+Here is how to use that Animation clip in the Scene
+clipSprite {
+pos: 0, -200, -20
+source: Dance1
+standingHeight: 700
+}
+
+Lights:
+As other objects in the Scene, lights have a Position and point into the Scene. Brightness and color is controlled by two settings (ambiance & color) the three other values are the amount of Red, Green, Blue.
+
+Here is a sample Light
+light {
+pos: 0, -700, 100
+ambient: 0.0, 0.0, 0.0
+color: 0.7, 0.7, 0.7
+}
+
+
+Shaders:
+.scn can also use shaders scripts (.fsh), directly executed by your graphic card.
+The used language is documented at http://www.opengl.org/registry/doc/GLSLangSpec.Full.1.20.8.pdf
+You can find many exemples of shaders at https://www.shadertoy.com/ with their source code, most of them are Public Domain.
+
+When adapting a GLSLangSpec script, some variables needs to be changed to fit our engine, such as iTime -> u_Elapsed, iResolution -> u_WindowSize, fragCoord -> gl_FragCoord, fragColor -> gl_FragColor
+
+Shaders are way more complicated than Scenes. Editing pre-existing scripts can be pretty easy while creating new ones requires serious programming background. 
+
+
+Have fun and share your creations with other users ;)
+
+
+
+
+
+
+

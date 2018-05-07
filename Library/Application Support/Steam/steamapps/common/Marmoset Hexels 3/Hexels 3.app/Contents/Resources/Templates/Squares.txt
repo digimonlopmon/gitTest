@@ -1,0 +1,4 @@
+Pixel Layer
+Canvas Size:  48 x 48
+
+Square pixels, the kind grandma used to school you with in Pong.

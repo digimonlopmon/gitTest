@@ -1,0 +1,217 @@
+
+
+[2017-12-17 02:37:08] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2017-12-17 02:37:08] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2017-12-17 02:37:09] Unknown shader cache type, ignoring.
+[2017-12-17 02:37:09] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2017-12-17 02:37:09] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2017-12-17 02:37:09] Unknown shader cache type, ignoring.
+[2017-12-17 02:37:10] Found 0 current buckets:
+
+
+[2017-12-22 12:54:58] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2017-12-22 12:54:58] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2017-12-22 12:54:58] Unknown shader cache type, ignoring.
+[2017-12-22 12:54:59] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2017-12-22 12:54:59] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2017-12-22 12:54:59] Unknown shader cache type, ignoring.
+[2017-12-22 12:55:00] Found 0 current buckets:
+[2017-12-22 12:55:46] AppID 570 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/570.
+[2017-12-22 12:56:29] AppID 388320 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/388320.
+[2017-12-22 12:56:56] AppID 261030 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/261030.
+[2017-12-22 12:57:01] AppID 207610 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/207610.
+
+
+[2018-01-04 11:51:56] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-04 11:51:56] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-04 11:51:56] Unknown shader cache type, ignoring.
+[2018-01-04 11:51:56] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-04 11:51:56] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-04 11:51:56] Unknown shader cache type, ignoring.
+[2018-01-04 11:51:57] Found 0 current buckets:
+
+
+[2018-01-04 20:45:39] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-04 20:45:39] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-04 20:45:39] Unknown shader cache type, ignoring.
+[2018-01-04 20:45:39] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-04 20:45:39] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-04 20:45:39] Unknown shader cache type, ignoring.
+[2018-01-04 20:45:40] Found 0 current buckets:
+
+
+[2018-01-16 12:48:12] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-16 12:48:12] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-16 12:48:13] Unknown shader cache type, ignoring.
+[2018-01-16 12:48:14] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-16 12:48:14] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-16 12:48:14] Unknown shader cache type, ignoring.
+[2018-01-16 12:48:14] Found 0 current buckets:
+
+
+[2018-01-23 12:29:50] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-23 12:29:50] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-23 12:29:50] Unknown shader cache type, ignoring.
+[2018-01-23 12:29:51] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-23 12:29:51] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-23 12:29:51] Unknown shader cache type, ignoring.
+[2018-01-23 12:29:51] Found 0 current buckets:
+
+
+[2018-01-24 21:34:33] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-24 21:34:33] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-24 21:34:33] Unknown shader cache type, ignoring.
+[2018-01-24 21:34:33] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-24 21:34:33] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-24 21:34:33] Unknown shader cache type, ignoring.
+[2018-01-24 21:34:34] Found 0 current buckets:
+
+
+[2018-01-24 21:37:16] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-24 21:37:16] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-01-24 21:37:16] Unknown shader cache type, ignoring.
+[2018-01-24 21:37:16] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-24 21:37:16] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-01-24 21:37:16] Unknown shader cache type, ignoring.
+[2018-01-24 21:37:17] Found 0 current buckets:
+
+
+[2018-02-03 18:26:40] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-03 18:26:41] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-03 18:26:41] Unknown shader cache type, ignoring.
+[2018-02-03 18:26:42] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-03 18:26:42] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-03 18:26:42] Unknown shader cache type, ignoring.
+[2018-02-03 18:26:42] Found 0 current buckets:
+
+
+[2018-02-03 20:02:12] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-03 20:02:12] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-03 20:02:12] Unknown shader cache type, ignoring.
+[2018-02-03 20:02:12] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-03 20:02:12] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-03 20:02:12] Unknown shader cache type, ignoring.
+[2018-02-03 20:02:13] Found 0 current buckets:
+
+
+[2018-02-14 10:41:39] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-14 10:41:39] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-14 10:41:40] Unknown shader cache type, ignoring.
+[2018-02-14 10:41:40] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-14 10:41:40] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-14 10:41:40] Unknown shader cache type, ignoring.
+[2018-02-14 10:41:41] Found 0 current buckets:
+
+
+[2018-02-26 17:13:12] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-26 17:13:12] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-26 17:13:13] Unknown shader cache type, ignoring.
+[2018-02-26 17:13:13] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-26 17:13:13] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-26 17:13:13] Unknown shader cache type, ignoring.
+[2018-02-26 17:13:14] Found 0 current buckets:
+
+
+[2018-02-27 12:00:23] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-27 12:00:23] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-27 12:00:24] Unknown shader cache type, ignoring.
+[2018-02-27 12:00:25] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-27 12:00:25] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-27 12:00:25] Unknown shader cache type, ignoring.
+[2018-02-27 12:00:25] Found 0 current buckets:
+
+
+[2018-02-27 20:44:50] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-27 20:44:50] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-02-27 20:44:50] Unknown shader cache type, ignoring.
+[2018-02-27 20:44:51] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-27 20:44:51] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-02-27 20:44:51] Unknown shader cache type, ignoring.
+[2018-02-27 20:44:51] Found 0 current buckets:
+
+
+[2018-03-06 10:23:54] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-03-06 10:23:54] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-03-06 10:23:55] Unknown shader cache type, ignoring.
+[2018-03-06 10:23:56] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-03-06 10:23:56] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-03-06 10:23:56] Unknown shader cache type, ignoring.
+[2018-03-06 10:23:56] Found 0 current buckets:
+
+
+[2018-03-19 11:32:13] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-03-19 11:32:14] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-03-19 11:32:14] Unknown shader cache type, ignoring.
+[2018-03-19 11:32:15] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-03-19 11:32:15] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-03-19 11:32:15] Unknown shader cache type, ignoring.
+[2018-03-19 11:32:15] Found 0 current buckets:
+
+
+[2018-04-08 13:27:15] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-08 13:27:16] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-08 13:27:16] Unknown shader cache type, ignoring.
+[2018-04-08 13:27:16] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-08 13:27:16] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-08 13:27:16] Unknown shader cache type, ignoring.
+[2018-04-08 13:27:17] Found 0 current buckets:
+
+
+[2018-04-08 17:16:41] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-08 17:16:41] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-08 17:16:41] Unknown shader cache type, ignoring.
+[2018-04-08 17:16:41] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-08 17:16:41] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-08 17:16:41] Unknown shader cache type, ignoring.
+[2018-04-08 17:16:42] Found 0 current buckets:
+
+
+[2018-04-09 00:19:42] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-09 00:19:42] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-09 00:19:42] Unknown shader cache type, ignoring.
+[2018-04-09 00:19:43] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-09 00:19:43] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-09 00:19:43] Unknown shader cache type, ignoring.
+[2018-04-09 00:19:43] Found 0 current buckets:
+
+
+[2018-04-13 01:23:49] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-13 01:23:49] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-13 01:23:50] Unknown shader cache type, ignoring.
+[2018-04-13 01:23:51] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-13 01:23:51] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-13 01:23:51] Unknown shader cache type, ignoring.
+[2018-04-13 01:23:51] Found 0 current buckets:
+
+
+[2018-04-30 00:31:30] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-30 00:31:30] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-04-30 00:31:30] Unknown shader cache type, ignoring.
+[2018-04-30 00:31:30] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-30 00:31:30] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-04-30 00:31:30] Unknown shader cache type, ignoring.
+[2018-04-30 00:31:31] Found 0 current buckets:
+[2018-04-30 00:32:19] AppID 404790 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/404790.
+[2018-04-30 00:32:33] AppID 410110 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/410110.
+[2018-04-30 00:32:38] AppID 238460 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/238460.
+[2018-04-30 00:32:51] AppID 107100 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/107100.
+[2018-04-30 00:32:59] AppID 274190 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/274190.
+[2018-04-30 00:33:16] AppID 570 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/570.
+[2018-04-30 00:33:23] AppID 227300 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/227300.
+[2018-04-30 00:33:34] AppID 330840 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/330840.
+[2018-04-30 00:34:08] AppID 8930 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/8930.
+[2018-04-30 00:34:17] AppID 289070 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/289070.
+[2018-04-30 00:34:22] AppID 208610 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/208610.
+[2018-04-30 00:34:33] AppID 252330 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/252330.
+[2018-04-30 00:34:45] AppID 286160 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/286160.
+[2018-04-30 00:35:02] AppID 250320 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/250320.
+[2018-04-30 00:35:29] AppID 20900 uninstalled, deleting shader cache library folder /Users/lop/Library/Application Support/Steam/steamapps/shadercache/20900.
+
+
+[2018-05-02 09:30:34] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-05-02 09:30:34] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_64
+[2018-05-02 09:30:34] Unknown shader cache type, ignoring.
+[2018-05-02 09:30:39] Attempting to find current bucket; temporary dir: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-05-02 09:30:39] Creating shader cache directory: /Users/lop/Library/Application Support/Steam/shader_cache_temp_dir_gl_32
+[2018-05-02 09:30:39] Unknown shader cache type, ignoring.
+[2018-05-02 09:30:40] Found 0 current buckets:

@@ -1,0 +1,10 @@
+flora_tricoli_01.pssg
+flora_tricoli_02.pssg
+flora_tricoli_03.pssg
+flora_tricoli_04.pssg
+flora_tricoli_05.pssg
+flora_tricoli_06.pssg
+flora_tricoli_07.pssg
+flora_tricoli_08.pssg
+flora_tricoli_09.pssg
+flora_tricoli_10.pssg

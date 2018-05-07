@@ -1,0 +1,1536 @@
+
+
+[2018-03-19 11:32:24] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/373307/manifest/5101750717402259010/5?token=exp=1522089144~acl=/depot/373307/*~hmac=6ca754bb44f7ba2e8246a3383065e56472b096c8 - received 200 (OK) HTTP response
+[2018-03-19 11:32:25] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/381452/manifest/6934227690033840158/5?l=14&e=1522089143&sid=139082563&h=0d43c090306fd2813068aa8bb4564c5388ab5d3a - received 200 (OK) HTTP response
+[2018-03-19 11:32:25] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/381455/manifest/3258660812187305604/5?l=14&e=1522089144&sid=139082563&h=e07002684401dfdca1d7a8dea67a61ed6de45f23 - received 200 (OK) HTTP response
+[2018-03-19 11:32:26] AppID 570 update changed : Running,
+[2018-03-19 11:32:26] AppID 570 update changed : Running,Validating,
+[2018-03-19 11:32:26] Validating files (new target,full) ...
+[2018-03-19 11:32:26] File validation finished: 40 files (104555409 bytes) total, 40 files (104555409 bytes) mismatched (60 msec).
+[2018-03-19 11:32:26] AppID 570 update changed : Running,
+[2018-03-19 11:32:26] AppID 570 update changed : Running,Preallocating,
+[2018-03-19 11:32:26] AppID 570 update changed : Running,
+[2018-03-19 11:32:26] AppID 570 update started : download 0/1772381856, store 0/0, reuse 0/2237416945, stage 0/6103703234
+[2018-03-19 11:32:26] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-03-19 11:32:26] AppID 570 update changed : Running,Downloading,
+[2018-03-19 11:32:26] AppID 570 update changed : Running,Downloading,Staging,
+[2018-03-19 11:32:26] Downloading 963 chunks from depot 373301
+[2018-03-19 11:32:26] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (373301) - Success!
+[2018-03-19 11:32:26] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-03-19 11:32:36] Increasing target number of download connections to 4 (rate was 0.000, now 50.663)
+[2018-03-19 11:32:36] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-03-19 11:32:36] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-03-19 11:32:48] Increasing target number of download connections to 5 (rate was 50.663, now 75.223)
+[2018-03-19 11:32:48] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-03-19 11:32:54] Downloading 345 chunks from depot 381451
+[2018-03-19 11:32:54] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (381451) - Success!
+[2018-03-19 11:32:54] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-03-19 11:32:54] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-03-19 11:32:54] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-03-19 11:33:13] Downloading 267 chunks from depot 381452
+[2018-03-19 11:33:13] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-03-19 11:33:13] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-03-19 11:33:13] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (381452) - Success!
+[2018-03-19 11:33:13] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (381452) - Success!
+[2018-03-19 11:33:26] Downloading 195 chunks from depot 381453
+[2018-03-19 11:33:26] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.18:80 / 23.32.46.18:80, host: steampipe.akamaized.net): AuthenticateDepotID (381453) - Success!
+[2018-03-19 11:33:26] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-03-19 11:33:26] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-03-19 11:33:26] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-03-19 11:33:37] Current download rate: 47.538 Mbps
+[2018-03-19 11:33:46] Downloading 217 chunks from depot 381454
+[2018-03-19 11:33:46] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.18:80 / 23.32.46.18:80, host: steampipe.akamaized.net): AuthenticateDepotID (381454) - Success!
+[2018-03-19 11:33:47] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-03-19 11:33:47] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-03-19 11:33:47] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-03-19 11:33:59] Downloading 1044 chunks from depot 381455
+[2018-03-19 11:33:59] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-03-19 11:33:59] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-03-19 11:33:59] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (381455) - Success!
+[2018-03-19 11:33:59] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (381455) - Success!
+[2018-03-19 11:34:38] Current download rate: 0.000 Mbps
+[2018-03-19 11:34:44] Downloading 943 chunks from depot 373304
+[2018-03-19 11:34:44] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (373304) - Success!
+[2018-03-19 11:34:44] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (373304) - Success!
+[2018-03-19 11:34:44] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (373304) - Success!
+[2018-03-19 11:34:44] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (373304) - Success!
+[2018-03-19 11:35:29] Downloading 3 chunks from depot 373307
+[2018-03-19 11:35:29] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (373307) - Success!
+[2018-03-19 11:35:29] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (373307) - Success!
+[2018-03-19 11:35:32] AppID 570 update changed : Running,
+[2018-03-19 11:35:32] AppID 570 update changed : Running,Verifying,
+[2018-03-19 11:35:38] Current download rate: 0.000 Mbps
+[2018-03-19 11:36:25] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-03-19 11:36:25] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-03-19 11:36:29] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): Closing connection
+[2018-03-19 11:36:29] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): Closing connection
+[2018-03-19 11:36:32] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-03-19 11:36:54] AppID 570 update changed : Running,
+[2018-03-19 11:36:54] AppID 570 update changed : Running,Committing,
+[2018-03-19 11:36:54] AppID 570 file commit : 316 updated, 0 moved, 3 deleted
+[2018-03-19 11:36:55] AppID 570 state changed : Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:36:55] AppID 570 finished update, mounted depots (BuildID 2612618) : 373301 (2502957761431665179),381451 (4155716915637633432),381452 (6934227690033840158),381453 (6825867292225823751),381454 (3626101345224904694),381455 (3258660812187305604),373304 (5372084756231061018),373305 (4435851250675935801),373307 (5101750717402259010),
+[2018-03-19 11:36:55] AppID 570 update changed : Running,
+[2018-03-19 11:36:55] AppID 570 update changed : None
+[2018-03-19 11:36:55] AppID 570 state changed : Fully Installed,Update Queued,
+[2018-03-19 11:36:55] AppID 570 state changed : Fully Installed,
+[2018-03-19 11:36:55] AppID 570 scheduler finished : removed from schedule
+[2018-03-19 11:36:55] AppID 246620 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:36:55] AppID 246620 update changed : Running,
+[2018-03-19 11:36:55] AppID 246620 update changed : Running,Reconfiguring,
+[2018-03-19 11:36:55] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2018-03-19 11:36:55] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2018-03-19 11:36:55] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-03-19 11:36:55] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (246622) - Success!
+[2018-03-19 11:36:55] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/246622/manifest/4226896389608667177/5?token=exp=1522089415~acl=/depot/246622/*~hmac=9912f3cd397973d7b8463d63c59fc618bc6d3269 - received 200 (OK) HTTP response
+[2018-03-19 11:36:55] AppID 246620 update changed : Running,
+[2018-03-19 11:36:55] AppID 246620 update changed : Running,Validating,
+[2018-03-19 11:36:55] Validating files (new target,full) ...
+[2018-03-19 11:36:56] File validation finished: 173 files (933175131 bytes) total, 173 files (933175131 bytes) mismatched (41 msec).
+[2018-03-19 11:36:56] AppID 246620 update changed : Running,
+[2018-03-19 11:36:56] AppID 246620 update changed : Running,Preallocating,
+[2018-03-19 11:36:56] AppID 246620 update changed : Running,
+[2018-03-19 11:36:56] AppID 246620 update started : download 0/13433424, store 0/0, reuse 0/839955150, stage 0/1075374547
+[2018-03-19 11:36:56] AppID 246620 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-03-19 11:36:56] AppID 246620 update changed : Running,Downloading,
+[2018-03-19 11:36:56] AppID 246620 update changed : Running,Downloading,Staging,
+[2018-03-19 11:36:56] Downloading 84 chunks from depot 246622
+[2018-03-19 11:36:56] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (246622) - Success!
+[2018-03-19 11:36:56] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (246622) - Success!
+[2018-03-19 11:37:07] Current download rate: 0.000 Mbps
+[2018-03-19 11:37:13] AppID 246620 update changed : Running,
+[2018-03-19 11:37:13] AppID 246620 update changed : Running,Committing,
+[2018-03-19 11:37:13] AppID 246620 file commit : 257 updated, 0 moved, 0 deleted
+[2018-03-19 11:37:13] AppID 246620 state changed : Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:37:13] AppID 246620 finished update, mounted depots (BuildID 2571564) : 246622 (4226896389608667177),
+[2018-03-19 11:37:13] AppID 246620 update changed : Running,
+[2018-03-19 11:37:13] AppID 246620 update changed : None
+[2018-03-19 11:37:13] AppID 246620 state changed : Fully Installed,Update Queued,
+[2018-03-19 11:37:13] AppID 246620 state changed : Fully Installed,
+[2018-03-19 11:37:13] AppID 246620 scheduler finished : removed from schedule
+[2018-03-19 11:37:13] AppID 286160 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:37:13] AppID 286160 update changed : Running,
+[2018-03-19 11:37:13] AppID 286160 update changed : Running,Reconfiguring,
+[2018-03-19 11:37:13] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (286162) - Success!
+[2018-03-19 11:37:14] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/286162/manifest/1813301170549783748/5?token=exp=1522089433~acl=/depot/286162/*~hmac=12028f614e6019bd9fd64633b454a6ce67c5e208 - received 200 (OK) HTTP response
+[2018-03-19 11:37:14] AppID 286160 update changed : Running,
+[2018-03-19 11:37:14] AppID 286160 update changed : Running,Validating,
+[2018-03-19 11:37:14] Validating files (new target,full) ...
+[2018-03-19 11:37:14] File validation finished: 3 files (3558759 bytes) total, 3 files (3558759 bytes) mismatched (55 msec).
+[2018-03-19 11:37:14] AppID 286160 update changed : Running,
+[2018-03-19 11:37:14] AppID 286160 update changed : Running,Preallocating,
+[2018-03-19 11:37:14] AppID 286160 update changed : Running,
+[2018-03-19 11:37:14] AppID 286160 update started : download 0/245935616, store 0/0, reuse 0/690811227, stage 0/1107691341
+[2018-03-19 11:37:14] AppID 286160 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-03-19 11:37:14] AppID 286160 update changed : Running,Downloading,
+[2018-03-19 11:37:14] AppID 286160 update changed : Running,Downloading,Staging,
+[2018-03-19 11:37:14] Downloading 441 chunks from depot 286162
+[2018-03-19 11:37:14] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (286162) - Success!
+[2018-03-19 11:37:14] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (286162) - Success!
+[2018-03-19 11:37:15] Increasing target number of download connections to 4 (rate was 0.000, now 129.119)
+[2018-03-19 11:37:15] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-03-19 11:37:15] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (286162) - Success!
+[2018-03-19 11:37:40] AppID 286160 update changed : Running,
+[2018-03-19 11:37:40] AppID 286160 update changed : Running,Committing,
+[2018-03-19 11:37:40] AppID 286160 file commit : 78 updated, 0 moved, 14 deleted
+[2018-03-19 11:37:41] AppID 286160 state changed : Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:37:41] AppID 286160 finished update, mounted depots (BuildID 2608906) : 286162 (1813301170549783748),
+[2018-03-19 11:37:41] AppID 286160 update changed : Running,
+[2018-03-19 11:37:41] AppID 286160 update changed : None
+[2018-03-19 11:37:41] AppID 286160 state changed : Fully Installed,Update Queued,
+[2018-03-19 11:37:41] AppID 286160 state changed : Fully Installed,
+[2018-03-19 11:37:41] AppID 286160 scheduler finished : removed from schedule
+[2018-03-19 11:37:41] AppID 322330 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:37:41] AppID 322330 update changed : Running,
+[2018-03-19 11:37:41] AppID 322330 update changed : Running,Reconfiguring,
+[2018-03-19 11:37:41] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (322333) - Success!
+[2018-03-19 11:37:45] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/322333/manifest/8563377642491921857/5?l=14&e=1522089461&sid=139082563&h=4b45e0121fec4ee149c22fb3d6eef1770c618ad7 - received 200 (OK) HTTP response
+[2018-03-19 11:37:45] AppID 322330 update changed : Running,
+[2018-03-19 11:37:45] AppID 322330 update changed : Running,Validating,
+[2018-03-19 11:37:45] Validating files (new target,full) ...
+[2018-03-19 11:37:45] File validation finished: 2 files (27366 bytes) total, 2 files (27366 bytes) mismatched (30 msec).
+[2018-03-19 11:37:45] AppID 322330 update changed : Running,
+[2018-03-19 11:37:45] AppID 322330 update changed : Running,Preallocating,
+[2018-03-19 11:37:45] AppID 322330 update changed : Running,
+[2018-03-19 11:37:45] AppID 322330 update started : download 0/21184400, store 0/0, reuse 0/13631488, stage 0/43484623
+[2018-03-19 11:37:45] AppID 322330 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-03-19 11:37:45] AppID 322330 update changed : Running,Downloading,
+[2018-03-19 11:37:45] AppID 322330 update changed : Running,Downloading,Staging,
+[2018-03-19 11:37:45] Downloading 37 chunks from depot 322333
+[2018-03-19 11:37:45] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (322333) - Success!
+[2018-03-19 11:37:45] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (322333) - Success!
+[2018-03-19 11:37:45] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (322333) - Success!
+[2018-03-19 11:38:02] AppID 322330 update changed : Running,
+[2018-03-19 11:38:02] AppID 322330 update changed : Running,Committing,
+[2018-03-19 11:38:02] AppID 322330 file commit : 12 updated, 0 moved, 0 deleted
+[2018-03-19 11:38:02] AppID 322330 state changed : Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:38:02] AppID 322330 finished update, mounted depots (BuildID 2610787) : 322333 (8563377642491921857),
+[2018-03-19 11:38:02] AppID 322330 update changed : Running,
+[2018-03-19 11:38:02] AppID 322330 update changed : None
+[2018-03-19 11:38:02] AppID 322330 state changed : Fully Installed,Update Queued,
+[2018-03-19 11:38:02] AppID 322330 state changed : Fully Installed,
+[2018-03-19 11:38:02] AppID 322330 scheduler finished : removed from schedule
+[2018-03-19 11:38:02] AppID 431730 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:38:02] AppID 431730 update changed : Running,
+[2018-03-19 11:38:02] AppID 431730 update changed : Running,Reconfiguring,
+[2018-03-19 11:38:02] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (431731) - Success!
+[2018-03-19 11:38:02] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (431733) - Success!
+[2018-03-19 11:38:02] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/431731/manifest/3667883540430071749/5?token=exp=1522089482~acl=/depot/431731/*~hmac=79fd3177186838437c3d49712bdde2a7599b5f50 - received 200 (OK) HTTP response
+[2018-03-19 11:38:02] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/431733/manifest/5012779926305447674/5?token=exp=1522089482~acl=/depot/431733/*~hmac=dc95050ee27fd34e8678b407bb9b0eee25bca7e8 - received 200 (OK) HTTP response
+[2018-03-19 11:38:03] AppID 431730 update changed : Running,
+[2018-03-19 11:38:03] AppID 431730 update changed : Running,Validating,
+[2018-03-19 11:38:03] Validating files (new target,full) ...
+[2018-03-19 11:38:03] File validation finished: 1 files (2030 bytes) total, 1 files (2030 bytes) mismatched (17 msec).
+[2018-03-19 11:38:03] AppID 431730 update changed : Running,
+[2018-03-19 11:38:03] AppID 431730 update changed : Running,Preallocating,
+[2018-03-19 11:38:03] AppID 431730 update changed : Running,
+[2018-03-19 11:38:03] AppID 431730 update started : download 0/5527664, store 0/0, reuse 0/0, stage 0/20917076
+[2018-03-19 11:38:03] AppID 431730 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-03-19 11:38:03] AppID 431730 update changed : Running,Downloading,
+[2018-03-19 11:38:03] AppID 431730 update changed : Running,Downloading,Staging,
+[2018-03-19 11:38:03] Downloading 13 chunks from depot 431731
+[2018-03-19 11:38:03] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (431731) - Success!
+[2018-03-19 11:38:03] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (431731) - Success!
+[2018-03-19 11:38:03] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (431731) - Success!
+[2018-03-19 11:38:03] Downloading 23 chunks from depot 431733
+[2018-03-19 11:38:03] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (431733) - Success!
+[2018-03-19 11:38:03] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (431733) - Success!
+[2018-03-19 11:38:05] AppID 431730 update changed : Running,
+[2018-03-19 11:38:05] AppID 431730 update changed : Running,Committing,
+[2018-03-19 11:38:05] AppID 431730 file commit : 16 updated, 0 moved, 1 deleted
+[2018-03-19 11:38:05] AppID 431730 state changed : Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:38:05] AppID 431730 finished update, mounted depots (BuildID 2612531) : 431731 (3667883540430071749),431733 (5012779926305447674),
+[2018-03-19 11:38:05] AppID 431730 update changed : Running,
+[2018-03-19 11:38:05] AppID 431730 update changed : None
+[2018-03-19 11:38:05] AppID 431730 state changed : Fully Installed,Update Queued,
+[2018-03-19 11:38:05] AppID 431730 state changed : Fully Installed,
+[2018-03-19 11:38:05] AppID 431730 scheduler finished : removed from schedule
+[2018-03-19 11:38:05] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:38:05] AppID 512900 update changed : Running,
+[2018-03-19 11:38:05] AppID 512900 update changed : Running,Reconfiguring,
+[2018-03-19 11:38:05] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-03-19 11:38:05] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/512902/manifest/3268496275689474198/5?l=14&e=1522089485&sid=139082563&h=1d8130035f6394578b1774bf06ed2690f0077cf5 - received 200 (OK) HTTP response
+[2018-03-19 11:38:05] AppID 512900 update changed : Running,
+[2018-03-19 11:38:05] AppID 512900 update changed : Running,Validating,
+[2018-03-19 11:38:05] Validating files (new target,full) ...
+[2018-03-19 11:38:06] File validation finished: 2 files (39819 bytes) total, 2 files (39819 bytes) mismatched (55 msec).
+[2018-03-19 11:38:06] AppID 512900 update changed : Running,
+[2018-03-19 11:38:06] AppID 512900 update changed : Running,Preallocating,
+[2018-03-19 11:38:06] AppID 512900 update changed : Running,
+[2018-03-19 11:38:06] AppID 512900 update started : download 0/3930464, store 0/0, reuse 0/35786040, stage 0/80221503
+[2018-03-19 11:38:06] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-03-19 11:38:06] AppID 512900 update changed : Running,Downloading,
+[2018-03-19 11:38:06] AppID 512900 update changed : Running,Downloading,Staging,
+[2018-03-19 11:38:06] Downloading 56 chunks from depot 512902
+[2018-03-19 11:38:06] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-03-19 11:38:06] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (512902) - Success!
+[2018-03-19 11:38:06] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): AuthenticateDepotID (512902) - Success!
+[2018-03-19 11:38:07] AppID 512900 update changed : Running,
+[2018-03-19 11:38:07] AppID 512900 update changed : Running,Committing,
+[2018-03-19 11:38:07] AppID 512900 file commit : 14 updated, 0 moved, 0 deleted
+[2018-03-19 11:38:07] AppID 512900 state changed : Fully Installed,Update Queued,Update Running,
+[2018-03-19 11:38:07] AppID 512900 finished update, mounted depots (BuildID 2597826) : 512902 (3268496275689474198),
+[2018-03-19 11:38:07] AppID 512900 update changed : Running,
+[2018-03-19 11:38:07] AppID 512900 update changed : None
+[2018-03-19 11:38:07] AppID 512900 state changed : Fully Installed,Update Queued,
+[2018-03-19 11:38:07] AppID 512900 state changed : Fully Installed,
+[2018-03-19 11:38:07] AppID 512900 scheduler finished : removed from schedule
+[2018-03-19 11:38:08] Current download rate: 7.966 Mbps
+[2018-03-19 11:39:07] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-03-19 11:39:07] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-03-19 11:39:07] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): Closing connection
+[2018-03-19 11:39:07] HTTP (CDN,11) - steampipe.akamaized.net (23.32.46.9:80 / 23.32.46.9:80, host: steampipe.akamaized.net): Closing connection
+
+
+[2018-04-08 13:27:15] Loaded 89 apps from install folder "/Users/lop/Library/Application Support/Steam/steamapps\appmanifest_*.acf".
+[2018-04-08 13:27:16] Dependency added: parent 220, child 340, depot 221
+[2018-04-08 13:27:16] Dependency added: parent 220, child 340, depot 223
+[2018-04-08 13:27:20] Got 100 content servers from directory
+[2018-04-08 13:27:20] AppID 570 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:20] Incomplete user license data for DLC AppID 208816
+[2018-04-08 13:27:20] Incomplete user license data for DLC AppID 219750
+[2018-04-08 13:27:20] Incomplete user license data for DLC AppID 227310
+[2018-04-08 13:27:20] Incomplete user license data for DLC AppID 315960
+[2018-04-08 13:27:20] Incomplete user license data for DLC AppID 314680
+[2018-04-08 13:27:20] Incomplete user license data for DLC AppID 322660
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 512031
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 770780
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 405920
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 550210
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 323180
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 409210
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 316560
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 408720
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 354350
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 219750
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 619690
+[2018-04-08 13:27:21] Incomplete user license data for DLC AppID 328230
+[2018-04-08 13:27:22] Incomplete user license data for DLC AppID 411110
+[2018-04-08 13:27:22] Incomplete user license data for DLC AppID 440820
+[2018-04-08 13:27:22] Incomplete user license data for DLC AppID 548700
+[2018-04-08 13:27:22] Incomplete user license data for DLC AppID 610220
+[2018-04-08 13:27:22] Incomplete user license data for DLC AppID 594700
+[2018-04-08 13:27:22] Incomplete user license data for DLC AppID 520480
+[2018-04-08 13:27:22] Incomplete user license data for DLC AppID 512031
+[2018-04-08 13:27:22] Incomplete user license data for DLC AppID 726050
+[2018-04-08 13:27:22] Incomplete user license data for DLC AppID 717250
+[2018-04-08 13:27:23] AppID 227300 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:23] AppID 282070 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:23] AppID 289070 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:23] AppID 337340 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:23] AppID 345370 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:23] AppID 365670 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:23] AppID 428340 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:23] AppID 431730 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:23] AppID 512900 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:23] AppID 584980 state changed : Update Required,Fully Installed,
+[2018-04-08 13:27:26] AppID 570 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=9181859, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 570 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 227300 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=46966935, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 227300 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 282070 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=22442863, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 282070 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 289070 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=6889029, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 289070 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 337340 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=4886395, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 337340 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 345370 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11482140, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 345370 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 365670 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=10763374, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 365670 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 428340 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11483502, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 428340 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 431730 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=2851106, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 431730 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 512900 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=9928772, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 584980 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11921683, appDisableSecondsRemaining=0
+[2018-04-08 13:27:26] AppID 584980 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:27:26] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:27:26] AppID 570 update changed : Running,
+[2018-04-08 13:27:26] AppID 570 update changed : Running,Reconfiguring,
+[2018-04-08 13:27:26] Got 20 download sources via "/serverlist/46/20/" from 203.80.149.65:80
+[2018-04-08 13:27:26] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 13:27:26] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 13:27:26] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-08 13:27:26] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-04-08 13:27:26] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-08 13:27:26] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-08 13:27:27] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-08 13:27:27] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-04-08 13:27:27] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:27:27] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/381451/manifest/4467944734904713076/5?l=14&e=1523824046&sid=139082563&h=bbd3a55b0bf24424bb7a87c2ca8127978afe43fb - received 200 (OK) HTTP response
+[2018-04-08 13:27:27] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/381454/manifest/1058655158230116544/5?l=14&e=1523824046&sid=139082563&h=29a70dba5a09a0d4a1e985ecb30f3993eb3bbabd - received 200 (OK) HTTP response
+[2018-04-08 13:27:27] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/381453/manifest/8172032391331532816/5?l=14&e=1523824046&sid=139082563&h=c36f12dbf7e535f6044deed70ea019675bfa90e6 - received 200 (OK) HTTP response
+[2018-04-08 13:27:28] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/381452/manifest/4703153249931576100/5?l=14&e=1523824046&sid=139082563&h=e1009caa955ab0e5e88b544ac66bc06e6b5320ac - received 200 (OK) HTTP response
+[2018-04-08 13:27:28] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (373304) - Success!
+[2018-04-08 13:27:28] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/381455/manifest/5838883622116459193/5?l=14&e=1523824046&sid=139082563&h=43cd1e98d0f5db0cc6fd6d1b6a76676d2c0b9f68 - received 200 (OK) HTTP response
+[2018-04-08 13:27:28] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/373304/manifest/193809244056413162/5?l=14&e=1523824048&sid=139082563&h=86d95f56ec420eaa63b38a51ea268f04e56a9975 - received 200 (OK) HTTP response
+[2018-04-08 13:27:39] Increasing target number of download connections to 4 (rate was 0.000, now 2.076)
+[2018-04-08 13:27:39] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-08 13:27:39] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/373301/manifest/2072863366938932648/5?l=14&e=1523824046&sid=139082563&h=b40a5146ee30d2c1384bc51b61b32b1bd31f2280 - received 200 (OK) HTTP response
+[2018-04-08 13:27:40] AppID 570 update changed : Running,
+[2018-04-08 13:27:40] AppID 570 update changed : Running,Validating,
+[2018-04-08 13:27:40] Validating files (new target,full) ...
+[2018-04-08 13:27:40] File validation finished: 39 files (34287536 bytes) total, 39 files (34287536 bytes) mismatched (61 msec).
+[2018-04-08 13:27:40] AppID 570 update changed : Running,
+[2018-04-08 13:27:40] AppID 570 update changed : Running,Preallocating,
+[2018-04-08 13:27:40] AppID 570 update changed : Running,
+[2018-04-08 13:27:40] AppID 570 update started : download 0/1172043920, store 0/0, reuse 0/2507628815, stage 0/5228517358
+[2018-04-08 13:27:40] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:27:40] AppID 570 update changed : Running,Downloading,
+[2018-04-08 13:27:40] AppID 570 update changed : Running,Downloading,Staging,
+[2018-04-08 13:27:40] Downloading 544 chunks from depot 373301
+[2018-04-08 13:27:41] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-04-08 13:27:41] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-04-08 13:27:41] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-04-08 13:27:51] Increasing target number of download connections to 5 (rate was 2.076, now 28.974)
+[2018-04-08 13:27:51] Created download interface of type 'CS' (1) to host valve1903.steampipe.steamcontent.com (valve1903.steamcontent.com)
+[2018-04-08 13:27:51] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-04-08 13:28:02] Downloading 378 chunks from depot 381451
+[2018-04-08 13:28:02] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-08 13:28:02] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-08 13:28:02] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-08 13:28:02] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-08 13:28:03] Increasing target number of download connections to 6 (rate was 28.974, now 40.576)
+[2018-04-08 13:28:03] Created download interface of type 'CS' (1) to host valve1903.steampipe.steamcontent.com (valve1903.steamcontent.com)
+[2018-04-08 13:28:03] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-08 13:28:28] Increasing target number of download connections to 7 (rate was 40.576, now 51.496)
+[2018-04-08 13:28:28] Created download interface of type 'CS' (1) to host valve1902.steampipe.steamcontent.com (valve1902.steamcontent.com)
+[2018-04-08 13:28:28] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1902.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-08 13:28:39] Downloading 272 chunks from depot 381452
+[2018-04-08 13:28:39] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-08 13:28:39] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-08 13:28:39] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-08 13:28:39] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-08 13:28:39] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-08 13:28:39] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-08 13:28:40] Current download rate: 61.659 Mbps
+[2018-04-08 13:29:10] Downloading 226 chunks from depot 381453
+[2018-04-08 13:29:10] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-08 13:29:10] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-08 13:29:10] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-08 13:29:10] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-08 13:29:10] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-08 13:29:10] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-08 13:29:40] Downloading 35 chunks from depot 381454
+[2018-04-08 13:29:40] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-04-08 13:29:40] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-04-08 13:29:40] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-04-08 13:29:40] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-04-08 13:29:40] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-04-08 13:29:40] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-04-08 13:29:41] Current download rate: 40.441 Mbps
+[2018-04-08 13:30:01] Downloading 1200 chunks from depot 381455
+[2018-04-08 13:30:01] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:30:01] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:30:01] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:30:01] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:30:01] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:30:01] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:30:21] Increasing target number of download connections to 8 (rate was 51.496, now 66.617)
+[2018-04-08 13:30:21] Created download interface of type 'CS' (1) to host valve1902.steampipe.steamcontent.com (valve1902.steamcontent.com)
+[2018-04-08 13:30:21] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1902.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:30:34] Increasing target number of download connections to 9 (rate was 66.617, now 109.437)
+[2018-04-08 13:30:34] Created download interface of type 'CS' (1) to host valve1011.steampipe.steamcontent.com (valve1011.steamcontent.com)
+[2018-04-08 13:30:35] HTTP (CS,1011) - valve1011.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1011.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:30:46] Current download rate: 82.962 Mbps
+[2018-04-08 13:31:04] App 391540 updates disabled for 0 seconds (until Sun Apr  8 13:31:04 2018)
+[2018-04-08 13:31:04] AppID 391540 state changed : Fully Installed,App Running,
+[2018-04-08 13:31:04] AppID 570 update canceled : App started (Suspended)
+[2018-04-08 13:31:04] AppID 570 update changed : Running,Downloading,Staging,Stopping,
+[2018-04-08 13:31:09] AppID 570 state changed : Update Required,Fully Installed,Update Running,Update Started,
+[2018-04-08 13:31:09] AppID 227300 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 282070 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 289070 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 337340 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 345370 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 365670 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 428340 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 431730 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 512900 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 584980 state changed : Update Required,Fully Installed,
+[2018-04-08 13:31:09] AppID 570 update changed : Running,Stopping,
+[2018-04-08 13:31:09] AppID 570 update changed : None
+[2018-04-08 13:31:09] AppID 570 state changed : Update Required,Fully Installed,Update Started, (Suspended)
+[2018-04-08 13:31:46] Current download rate: 0.000 Mbps
+[2018-04-08 13:31:54] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 13:31:57] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): Closing connection
+[2018-04-08 13:31:58] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-08 13:31:58] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): Closing connection
+[2018-04-08 13:31:58] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): Closing connection
+[2018-04-08 13:32:00] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-08 13:32:00] HTTP (CS,1011) - valve1011.steampipe.steamcontent.com (103.10.124.21:80 / 103.10.124.21:80, host: valve1011.steamcontent.com): Closing connection
+[2018-04-08 13:32:01] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): Closing connection
+[2018-04-08 13:32:01] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 13:39:13] AppID 391540 state changed : Fully Installed,
+[2018-04-08 13:39:17] AppID 570 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=9182570, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Started,
+[2018-04-08 13:39:17] AppID 227300 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=46967646, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 227300 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 282070 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=22443574, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 282070 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 289070 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=6889740, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 289070 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 337340 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=4887106, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 337340 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 345370 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11482851, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 345370 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 365670 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=10764085, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 365670 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 428340 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11484213, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 428340 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 431730 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=2851817, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 431730 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 512900 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=9929483, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 584980 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11922394, appDisableSecondsRemaining=0
+[2018-04-08 13:39:17] AppID 584980 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 13:39:17] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:39:17] AppID 570 update changed : Running,
+[2018-04-08 13:39:17] AppID 570 update changed : Running,Reconfiguring,
+[2018-04-08 13:39:18] AppID 570 update changed : Running,
+[2018-04-08 13:39:18] AppID 570 update started : download 1101235648/1172043920, store 0/0, reuse 2507628815/2507628815, stage 4997725084/5228517358
+[2018-04-08 13:39:18] AppID 570 update changed : Running,Downloading,
+[2018-04-08 13:39:18] AppID 570 update changed : Running,Downloading,Staging,
+[2018-04-08 13:39:18] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 13:39:18] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 13:39:18] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-08 13:39:18] Downloading 123 chunks from depot 381455
+[2018-04-08 13:39:18] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:39:18] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:39:18] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-08 13:39:29] Downloading 111 chunks from depot 373304
+[2018-04-08 13:39:29] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (373304) - Success!
+[2018-04-08 13:39:29] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (373304) - Success!
+[2018-04-08 13:39:29] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (373304) - Success!
+[2018-04-08 13:39:31] Increasing target number of download connections to 4 (rate was 0.000, now 26.348)
+[2018-04-08 13:39:31] Current download rate: 26.348 Mbps
+[2018-04-08 13:39:31] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-08 13:39:31] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (373304) - Success!
+[2018-04-08 13:39:41] AppID 570 update changed : Running,
+[2018-04-08 13:39:41] AppID 570 update changed : Running,Verifying,
+[2018-04-08 13:42:42] AppID 570 update changed : Running,
+[2018-04-08 13:42:42] AppID 570 update changed : Running,Committing,
+[2018-04-08 13:42:42] AppID 570 file commit : 230 updated, 0 moved, 0 deleted
+[2018-04-08 13:42:43] AppID 570 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:42:43] AppID 570 finished update, mounted depots (BuildID 2667855) : 373301 (2072863366938932648),381451 (4467944734904713076),381452 (4703153249931576100),381453 (8172032391331532816),381454 (1058655158230116544),381455 (5838883622116459193),373304 (193809244056413162),373305 (4435851250675935801),373307 (5101750717402259010),
+[2018-04-08 13:42:43] AppID 570 update changed : Running,
+[2018-04-08 13:42:43] AppID 570 update changed : None
+[2018-04-08 13:42:43] AppID 570 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:42:43] AppID 570 state changed : Fully Installed,
+[2018-04-08 13:42:43] AppID 570 scheduler finished : removed from schedule
+[2018-04-08 13:42:43] AppID 227300 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:42:43] AppID 227300 update changed : Running,
+[2018-04-08 13:42:43] AppID 227300 update changed : Running,Reconfiguring,
+[2018-04-08 13:43:03] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (292320) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (266930) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (227304) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1903.steampipe.steamcontent.com (valve1903.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1307.steampipe.steamcontent.com (valve1307.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1903.steampipe.steamcontent.com (valve1903.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1300.steampipe.steamcontent.com (valve1300.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1307) - valve1307.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1307.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1300) - valve1300.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1300.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1306.steampipe.steamcontent.com (valve1306.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1300) - valve1300.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1300.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1302.steampipe.steamcontent.com (valve1302.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1307) - valve1307.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1307.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1302.steampipe.steamcontent.com (valve1302.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1002.steampipe.steamcontent.com (valve1002.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] HTTP (CS,1306) - valve1306.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1306.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1302) - valve1302.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1302.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1302) - valve1302.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1302.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1002) - valve1002.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1002.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1303.steampipe.steamcontent.com (valve1303.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1002) - valve1002.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1002.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1902.steampipe.steamcontent.com (valve1902.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1302) - valve1302.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1302.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1009.steampipe.steamcontent.com (valve1009.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1302) - valve1302.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1302.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1004.steampipe.steamcontent.com (valve1004.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1306) - valve1306.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1306.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] HTTP (CS,1303) - valve1303.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1303.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1902.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1009) - valve1009.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1009.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1004) - valve1004.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1004.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1010.steampipe.steamcontent.com (valve1010.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1004) - valve1004.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1004.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1003.steampipe.steamcontent.com (valve1003.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1902.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1006.steampipe.steamcontent.com (valve1006.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1009) - valve1009.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1009.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1001.steampipe.steamcontent.com (valve1001.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1303) - valve1303.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1303.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] HTTP (CS,1010) - valve1010.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1010.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1003) - valve1003.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1003.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1006) - valve1006.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1006.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1001) - valve1001.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1001.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1005.steampipe.steamcontent.com (valve1005.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1001) - valve1001.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1001.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1008.steampipe.steamcontent.com (valve1008.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1003) - valve1003.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1003.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1007.steampipe.steamcontent.com (valve1007.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1006) - valve1006.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1006.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] Created download interface of type 'CS' (1) to host valve1011.steampipe.steamcontent.com (valve1011.steamcontent.com)
+[2018-04-08 13:43:03] HTTP (CS,1010) - valve1010.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1010.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] HTTP (CS,1005) - valve1005.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1005.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1008) - valve1008.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1008.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1007) - valve1007.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1007.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1011) - valve1011.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1011.steamcontent.com): AuthenticateDepotID (227301) - ERROR: Failed to get CDN auth token from Steam
+[2018-04-08 13:43:03] HTTP (CS,1011) - valve1011.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1011.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] HTTP (CS,1008) - valve1008.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1008.steamcontent.com): Closing connection
+[2018-04-08 13:43:03] HTTP (CS,1007) - valve1007.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1007.steamcontent.com): Closing connection
+[2018-04-08 13:43:04] Got 20 download sources via "/serverlist/46/20/" from 203.80.149.65:80
+[2018-04-08 13:43:04] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-08 13:43:04] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-08 13:43:04] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 13:43:04] HTTP (CS,1005) - valve1005.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1005.steamcontent.com): Closing connection
+[2018-04-08 13:43:04] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (227301) - Success!
+[2018-04-08 13:43:04] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (227304) - Success!
+[2018-04-08 13:43:04] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (266930) - Success!
+[2018-04-08 13:43:05] Got 100 content servers from directory
+[2018-04-08 13:43:05] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (292320) - Success!
+[2018-04-08 13:43:05] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (304210) - Success!
+[2018-04-08 13:43:05] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (304214) - Success!
+[2018-04-08 13:43:33] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/266930/manifest/4596945375886091153/5?l=14&e=1523824984&sid=139082563&h=29b81207e30768cbb3967a0df5c6cb1bbc390248 - received 200 (OK) HTTP response
+[2018-04-08 13:43:33] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (304212) - Success!
+[2018-04-08 13:43:34] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/304214/manifest/2121949840119152772/5?l=14&e=1523824984&sid=139082563&h=f118f67b5625c1257b614e7a32399de8bc07fd12 - received 200 (OK) HTTP response
+[2018-04-08 13:43:34] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/227304/manifest/4999172258082360491/5?l=14&e=1523824984&sid=139082563&h=58061b82680c78d599d01062b26ee0d1f28757c2 - received 0 (Invalid) HTTP response
+[2018-04-08 13:43:34] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): Received 0 (Invalid) HTTP response for depot 227304
+[2018-04-08 13:43:34] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 13:43:34] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): Closing connection
+[2018-04-08 13:43:34] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (227304) - Success!
+[2018-04-08 13:43:34] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (304210) - Success!
+[2018-04-08 13:43:34] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (347210) - Success!
+[2018-04-08 13:43:35] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/304212/manifest/5484251903210735821/5?l=14&e=1523825013&sid=139082563&h=1814a39d737198d8ffff7b2b9aca0df83e44d482 - received 200 (OK) HTTP response
+[2018-04-08 13:43:35] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/227304/manifest/4999172258082360491/5?l=14&e=1523824984&sid=139082563&h=58061b82680c78d599d01062b26ee0d1f28757c2 - received 200 (OK) HTTP response
+[2018-04-08 13:43:36] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (347190) - Success!
+[2018-04-08 13:43:36] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/304210/manifest/501578049858104172/5?l=14&e=1523824984&sid=139082563&h=1aa87cf968ca8072caae8b342163f7854cbe86d9 - received 200 (OK) HTTP response
+[2018-04-08 13:43:36] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (347211) - Success!
+[2018-04-08 13:43:36] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/227301/manifest/5967817958308815296/5?l=14&e=1523824984&sid=139082563&h=670316f5b4c5e4dd75f7b9f13b36aa9524d2f10a - received 200 (OK) HTTP response
+[2018-04-08 13:43:36] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (347212) - Success!
+[2018-04-08 13:43:36] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/347190/manifest/728873707499278466/5?l=14&e=1523825015&sid=139082563&h=e692e3023af26bfe6f3221c45db3af00ffa20080 - received 200 (OK) HTTP response
+[2018-04-08 13:43:36] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/292320/manifest/8414889218438283065/5?l=14&e=1523824984&sid=139082563&h=ee5f3bda0cb11fc11532ddbae35e08cdca5b829b - received 200 (OK) HTTP response
+[2018-04-08 13:43:37] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/347210/manifest/1997987944806302237/5?l=14&e=1523825014&sid=139082563&h=144b7ca369ffd925380fcab6b792909e4a0bdb57 - received 200 (OK) HTTP response
+[2018-04-08 13:43:37] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/347211/manifest/6910704112225254611/5?l=14&e=1523825016&sid=139082563&h=db04dafac6c29e734d523c354eccf94dff3ce25d - received 200 (OK) HTTP response
+[2018-04-08 13:43:37] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (388475) - Success!
+[2018-04-08 13:43:37] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/347212/manifest/7022016776523131871/5?l=14&e=1523825016&sid=139082563&h=09e44dbce16a843f2dd9d6cba9039e18848fe684 - received 200 (OK) HTTP response
+[2018-04-08 13:43:37] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (388478) - Success!
+[2018-04-08 13:43:37] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/388475/manifest/4929560644198074084/5?l=14&e=1523825016&sid=139082563&h=9a4ecac0042a2d1bc436fead1363b2e4f7794f70 - received 200 (OK) HTTP response
+[2018-04-08 13:43:37] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/388478/manifest/6232710650584301830/5?l=14&e=1523825017&sid=139082563&h=171f18040a4bb5a57103dafd546debd6fbbd1ddd - received 200 (OK) HTTP response
+[2018-04-08 13:43:37] AppID 227300 update changed : Running,
+[2018-04-08 13:43:37] AppID 227300 update changed : Running,Validating,
+[2018-04-08 13:43:37] Validating files (new target,full) ...
+[2018-04-08 13:43:37] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (26 msec).
+[2018-04-08 13:43:37] AppID 227300 update changed : Running,
+[2018-04-08 13:43:37] AppID 227300 update changed : Running,Preallocating,
+[2018-04-08 13:43:37] AppID 227300 update changed : Running,
+[2018-04-08 13:43:37] AppID 227300 update started : download 0/60888240, store 0/0, reuse 0/2829451393, stage 0/2936154062
+[2018-04-08 13:43:37] AppID 227300 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:43:37] AppID 227300 update changed : Running,Downloading,
+[2018-04-08 13:43:37] AppID 227300 update changed : Running,Downloading,Staging,
+[2018-04-08 13:43:37] Downloading 53 chunks from depot 227301
+[2018-04-08 13:43:37] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (227301) - Success!
+[2018-04-08 13:43:37] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (227301) - Success!
+[2018-04-08 13:43:45] Increasing target number of download connections to 4 (rate was 0.000, now 9.958)
+[2018-04-08 13:43:45] Current download rate: 9.958 Mbps
+[2018-04-08 13:43:45] Created download interface of type 'CS' (1) to host valve1902.steampipe.steamcontent.com (valve1902.steamcontent.com)
+[2018-04-08 13:43:45] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1902.steamcontent.com): AuthenticateDepotID (227301) - Success!
+[2018-04-08 13:43:57] Increasing target number of download connections to 5 (rate was 9.958, now 15.246)
+[2018-04-08 13:43:57] Created download interface of type 'CS' (1) to host valve1902.steampipe.steamcontent.com (valve1902.steamcontent.com)
+[2018-04-08 13:44:00] Downloading 19 chunks from depot 227304
+[2018-04-08 13:44:00] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (227304) - Success!
+[2018-04-08 13:44:00] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (227304) - Success!
+[2018-04-08 13:44:00] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (227304) - Success!
+[2018-04-08 13:44:00] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1902.steamcontent.com): AuthenticateDepotID (227304) - Success!
+[2018-04-08 13:44:14] Downloading 1 chunks from depot 266930
+[2018-04-08 13:44:14] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (266930) - Success!
+[2018-04-08 13:44:16] Downloading 2 chunks from depot 292320
+[2018-04-08 13:44:16] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (292320) - Success!
+[2018-04-08 13:44:21] Downloading 1 chunks from depot 304210
+[2018-04-08 13:44:21] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (304210) - Success!
+[2018-04-08 13:44:25] Downloading 1 chunks from depot 304214
+[2018-04-08 13:44:30] Downloading 1 chunks from depot 304212
+[2018-04-08 13:44:30] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (304212) - Success!
+[2018-04-08 13:44:34] Downloading 1 chunks from depot 347210
+[2018-04-08 13:44:34] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (347210) - Success!
+[2018-04-08 13:44:38] Downloading 1 chunks from depot 347190
+[2018-04-08 13:44:38] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (347190) - Success!
+[2018-04-08 13:44:43] Downloading 1 chunks from depot 347211
+[2018-04-08 13:44:43] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (347211) - Success!
+[2018-04-08 13:44:46] Current download rate: 1.682 Mbps
+[2018-04-08 13:44:47] Downloading 1 chunks from depot 347212
+[2018-04-08 13:44:47] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (347212) - Success!
+[2018-04-08 13:44:53] Downloading 1 chunks from depot 388475
+[2018-04-08 13:44:53] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (388475) - Success!
+[2018-04-08 13:44:57] Downloading 1 chunks from depot 388478
+[2018-04-08 13:44:57] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (388478) - Success!
+[2018-04-08 13:44:59] AppID 227300 update changed : Running,
+[2018-04-08 13:44:59] AppID 227300 update changed : Running,Committing,
+[2018-04-08 13:44:59] AppID 227300 file commit : 18 updated, 0 moved, 0 deleted
+[2018-04-08 13:44:59] AppID 227300 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:44:59] AppID 227300 finished update, mounted depots (BuildID 2622097) : 227301 (5967817958308815296),227304 (4999172258082360491),266930 (4596945375886091153),292320 (8414889218438283065),304210 (501578049858104172),304214 (2121949840119152772),304212 (5484251903210735821),347210 (1997987944806302237),347190 (728873707499278466),347211 (6910704112225254611),347212 (7022016776523131871),388475 (4929560644198074084),388478 (6232710650584301830),
+[2018-04-08 13:44:59] AppID 227300 update changed : Running,
+[2018-04-08 13:44:59] AppID 227300 update changed : None
+[2018-04-08 13:44:59] AppID 227300 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:44:59] AppID 227300 state changed : Fully Installed,
+[2018-04-08 13:44:59] AppID 227300 scheduler finished : removed from schedule
+[2018-04-08 13:44:59] AppID 282070 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:44:59] AppID 282070 update changed : Running,
+[2018-04-08 13:44:59] AppID 282070 update changed : Running,Reconfiguring,
+[2018-04-08 13:45:00] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (282072) - Success!
+[2018-04-08 13:45:00] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (282074) - Success!
+[2018-04-08 13:45:00] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): valve1902.steampipe.steamcontent.com/depot/282074/manifest/6250802197077002884/5?l=14&e=1523825100&sid=139082563&h=e06cceb0a90666800f4dc146eedfccbe5c4cbbf1 - received 200 (OK) HTTP response
+[2018-04-08 13:45:00] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/282072/manifest/9121930079702804255/5?l=14&e=1523825100&sid=139082563&h=9122702181ac7a89bc14f27bd44918170f5302c3 - received 200 (OK) HTTP response
+[2018-04-08 13:45:00] AppID 282070 update changed : Running,
+[2018-04-08 13:45:00] AppID 282070 update changed : Running,Validating,
+[2018-04-08 13:45:00] Validating files (new target,full) ...
+[2018-04-08 13:45:00] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (1 msec).
+[2018-04-08 13:45:00] AppID 282070 update changed : Running,
+[2018-04-08 13:45:00] AppID 282070 update changed : Running,Preallocating,
+[2018-04-08 13:45:00] AppID 282070 update changed : Running,
+[2018-04-08 13:45:00] AppID 282070 update started : download 0/465670640, store 0/0, reuse 0/843105688, stage 0/1366510782
+[2018-04-08 13:45:00] AppID 282070 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:45:00] AppID 282070 update changed : Running,Downloading,
+[2018-04-08 13:45:00] AppID 282070 update changed : Running,Downloading,Staging,
+[2018-04-08 13:45:00] Downloading 15 chunks from depot 282072
+[2018-04-08 13:45:00] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (282072) - Success!
+[2018-04-08 13:45:00] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (282072) - Success!
+[2018-04-08 13:45:00] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (282072) - Success!
+[2018-04-08 13:45:00] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (282072) - Success!
+[2018-04-08 13:45:02] Downloading 532 chunks from depot 282074
+[2018-04-08 13:45:03] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (282074) - Success!
+[2018-04-08 13:45:03] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (282074) - Success!
+[2018-04-08 13:45:03] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (282074) - Success!
+[2018-04-08 13:45:03] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (282074) - Success!
+[2018-04-08 13:45:17] Increasing target number of download connections to 6 (rate was 15.246, now 19.676)
+[2018-04-08 13:45:17] Created download interface of type 'CS' (1) to host valve1903.steampipe.steamcontent.com (valve1903.steamcontent.com)
+[2018-04-08 13:45:17] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): AuthenticateDepotID (282074) - Success!
+[2018-04-08 13:45:29] Increasing target number of download connections to 7 (rate was 19.676, now 23.776)
+[2018-04-08 13:45:29] Created download interface of type 'CS' (1) to host valve1903.steampipe.steamcontent.com (valve1903.steamcontent.com)
+[2018-04-08 13:45:29] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): AuthenticateDepotID (282074) - Success!
+[2018-04-08 13:45:47] Current download rate: 25.841 Mbps
+[2018-04-08 13:46:48] Current download rate: 26.396 Mbps
+[2018-04-08 13:47:28] AppID 282070 update changed : Running,
+[2018-04-08 13:47:28] AppID 282070 update changed : Running,Committing,
+[2018-04-08 13:47:28] AppID 282070 file commit : 27 updated, 0 moved, 0 deleted
+[2018-04-08 13:47:28] AppID 282070 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:47:28] AppID 282070 finished update, mounted depots (BuildID 2666400) : 282072 (9121930079702804255),282074 (6250802197077002884),354350 (5498795190585132274),
+[2018-04-08 13:47:28] AppID 282070 update changed : Running,
+[2018-04-08 13:47:28] AppID 282070 update changed : None
+[2018-04-08 13:47:28] AppID 282070 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:47:28] AppID 282070 state changed : Fully Installed,
+[2018-04-08 13:47:28] AppID 282070 scheduler finished : removed from schedule
+[2018-04-08 13:47:28] AppID 289070 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:47:28] AppID 289070 update changed : Running,
+[2018-04-08 13:47:28] AppID 289070 update changed : Running,Reconfiguring,
+[2018-04-08 13:47:28] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (533500) - Success!
+[2018-04-08 13:47:28] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (533501) - Success!
+[2018-04-08 13:47:28] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (533513) - Success!
+[2018-04-08 13:47:28] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/533513/manifest/7073049669620246380/5?l=14&e=1523825248&sid=139082563&h=e5fc7e03f2e2b1341b35a991e5a8915d16b7273f - received 200 (OK) HTTP response
+[2018-04-08 13:47:28] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): valve1903.steampipe.steamcontent.com/depot/533500/manifest/8820218216150592504/5?l=14&e=1523825248&sid=139082563&h=e13dda819aa09ca92cfaea1173c27c53965378c5 - received 200 (OK) HTTP response
+[2018-04-08 13:47:36] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): valve1902.steampipe.steamcontent.com/depot/533501/manifest/6692617528531635106/5?l=14&e=1523825248&sid=139082563&h=76b47848bb57cd3ec035f7e31c813cdeceb91468 - received 200 (OK) HTTP response
+[2018-04-08 13:47:39] AppID 289070 update changed : Running,
+[2018-04-08 13:47:39] AppID 289070 update changed : Running,Validating,
+[2018-04-08 13:47:39] Validating files (new target,full) ...
+[2018-04-08 13:47:39] File validation finished: 64 files (26959998 bytes) total, 64 files (26959998 bytes) mismatched (167 msec).
+[2018-04-08 13:47:39] AppID 289070 update changed : Running,
+[2018-04-08 13:47:39] AppID 289070 update changed : Running,Preallocating,
+[2018-04-08 13:47:40] AppID 289070 update changed : Running,
+[2018-04-08 13:47:40] AppID 289070 update started : download 0/1161465232, store 0/0, reuse 0/3386935817, stage 0/5699080603
+[2018-04-08 13:47:40] AppID 289070 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:47:40] AppID 289070 update changed : Running,Downloading,
+[2018-04-08 13:47:40] AppID 289070 update changed : Running,Downloading,Staging,
+[2018-04-08 13:47:40] Downloading 105 chunks from depot 533500
+[2018-04-08 13:47:40] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (533500) - Success!
+[2018-04-08 13:47:40] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (533500) - Success!
+[2018-04-08 13:47:40] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (533500) - Success!
+[2018-04-08 13:47:40] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (533500) - Success!
+[2018-04-08 13:47:40] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (533500) - Success!
+[2018-04-08 13:47:40] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (533500) - Success!
+[2018-04-08 13:47:48] Downloading 3089 chunks from depot 533501
+[2018-04-08 13:47:48] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (533501) - Success!
+[2018-04-08 13:47:48] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (533501) - Success!
+[2018-04-08 13:47:48] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (533501) - Success!
+[2018-04-08 13:47:48] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (533501) - Success!
+[2018-04-08 13:47:48] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (533501) - Success!
+[2018-04-08 13:47:48] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (533501) - Success!
+[2018-04-08 13:47:49] Current download rate: 14.030 Mbps
+[2018-04-08 13:48:50] Current download rate: 25.952 Mbps
+[2018-04-08 13:49:51] Current download rate: 25.973 Mbps
+[2018-04-08 13:50:52] Current download rate: 25.018 Mbps
+[2018-04-08 13:51:53] Current download rate: 25.471 Mbps
+[2018-04-08 13:52:54] Current download rate: 24.241 Mbps
+[2018-04-08 13:53:55] Current download rate: 24.841 Mbps
+[2018-04-08 13:54:01] Downloading 4 chunks from depot 533513
+[2018-04-08 13:54:01] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (533513) - Success!
+[2018-04-08 13:54:01] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (533513) - Success!
+[2018-04-08 13:54:01] AppID 289070 update changed : Running,
+[2018-04-08 13:54:01] AppID 289070 update changed : Running,Committing,
+[2018-04-08 13:54:01] AppID 289070 file commit : 1856 updated, 0 moved, 3 deleted
+[2018-04-08 13:54:08] AppID 289070 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:54:08] AppID 289070 finished update, mounted depots (BuildID 2623065) : 533500 (8820218216150592504),533501 (6692617528531635106),533513 (7073049669620246380),
+[2018-04-08 13:54:08] AppID 289070 update changed : Running,
+[2018-04-08 13:54:08] AppID 289070 update changed : None
+[2018-04-08 13:54:08] AppID 289070 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:54:08] AppID 289070 state changed : Fully Installed,
+[2018-04-08 13:54:08] AppID 289070 scheduler finished : removed from schedule
+[2018-04-08 13:54:08] AppID 337340 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:54:08] AppID 337340 update changed : Running,
+[2018-04-08 13:54:08] AppID 337340 update changed : Running,Reconfiguring,
+[2018-04-08 13:54:09] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (337342) - Success!
+[2018-04-08 13:54:09] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (770781) - Success!
+[2018-04-08 13:54:09] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): valve1903.steampipe.steamcontent.com/depot/337342/manifest/2280113521289394814/5?l=14&e=1523825648&sid=139082563&h=88e39da21c315585d44eb1f19b89d9fc2666a4a6 - received 200 (OK) HTTP response
+[2018-04-08 13:54:09] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/770781/manifest/980692794549478052/5?l=14&e=1523825648&sid=139082563&h=7e4a2e655ee1d2dc25f0ac6e75fb5662c206e115 - received 200 (OK) HTTP response
+[2018-04-08 13:54:09] AppID 337340 update changed : Running,
+[2018-04-08 13:54:09] AppID 337340 update changed : Running,Validating,
+[2018-04-08 13:54:09] Validating files (new target,full) ...
+[2018-04-08 13:54:09] File validation finished: 120 files (834828431 bytes) total, 120 files (834828431 bytes) mismatched (39 msec).
+[2018-04-08 13:54:09] AppID 337340 update changed : Running,
+[2018-04-08 13:54:09] AppID 337340 update changed : Running,Preallocating,
+[2018-04-08 13:54:09] AppID 337340 update changed : Running,
+[2018-04-08 13:54:09] AppID 337340 update started : download 0/585026672, store 0/0, reuse 0/161482017, stage 0/740634207
+[2018-04-08 13:54:09] AppID 337340 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:54:09] AppID 337340 update changed : Running,Downloading,
+[2018-04-08 13:54:09] AppID 337340 update changed : Running,Downloading,Staging,
+[2018-04-08 13:54:09] Downloading 3 chunks from depot 337342
+[2018-04-08 13:54:09] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (337342) - Success!
+[2018-04-08 13:54:09] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (337342) - Success!
+[2018-04-08 13:54:09] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (337342) - Success!
+[2018-04-08 13:54:14] Downloading 578 chunks from depot 770781
+[2018-04-08 13:54:14] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (770781) - Success!
+[2018-04-08 13:54:14] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (770781) - Success!
+[2018-04-08 13:54:14] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (770781) - Success!
+[2018-04-08 13:54:14] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (770781) - Success!
+[2018-04-08 13:54:14] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (770781) - Success!
+[2018-04-08 13:54:14] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (770781) - Success!
+[2018-04-08 13:54:56] Current download rate: 24.374 Mbps
+[2018-04-08 13:55:56] Current download rate: 25.724 Mbps
+[2018-04-08 13:56:57] Current download rate: 25.450 Mbps
+[2018-04-08 13:57:27] AppID 337340 update changed : Running,
+[2018-04-08 13:57:27] AppID 337340 update changed : Running,Committing,
+[2018-04-08 13:57:27] AppID 337340 file commit : 63 updated, 62 moved, 2 deleted
+[2018-04-08 13:57:27] AppID 337340 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:57:27] AppID 337340 finished update, mounted depots (BuildID 2663974) : 337342 (2280113521289394814),770781 (980692794549478052),
+[2018-04-08 13:57:27] AppID 337340 update changed : Running,
+[2018-04-08 13:57:27] AppID 337340 update changed : None
+[2018-04-08 13:57:27] AppID 337340 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:57:27] AppID 337340 state changed : Fully Installed,
+[2018-04-08 13:57:27] AppID 337340 scheduler finished : removed from schedule
+[2018-04-08 13:57:28] AppID 345370 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:57:28] AppID 345370 update changed : Running,
+[2018-04-08 13:57:28] AppID 345370 update changed : Running,Reconfiguring,
+[2018-04-08 13:57:28] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (345372) - Success!
+[2018-04-08 13:57:28] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): valve1902.steampipe.steamcontent.com/depot/345372/manifest/3445418571778212463/5?l=14&e=1523825848&sid=139082563&h=38ef1a1648d72efa0f0740a74e8e731bf1010288 - received 200 (OK) HTTP response
+[2018-04-08 13:57:28] AppID 345370 update changed : Running,
+[2018-04-08 13:57:28] AppID 345370 update changed : Running,Validating,
+[2018-04-08 13:57:28] Validating files (new target,full) ...
+[2018-04-08 13:57:29] File validation finished: 3 files (54922 bytes) total, 3 files (54922 bytes) mismatched (32 msec).
+[2018-04-08 13:57:29] AppID 345370 update changed : Running,
+[2018-04-08 13:57:29] AppID 345370 update changed : Running,Preallocating,
+[2018-04-08 13:57:29] AppID 345370 update changed : Running,
+[2018-04-08 13:57:29] AppID 345370 update started : download 0/36155312, store 0/0, reuse 0/3145728, stage 0/42768935
+[2018-04-08 13:57:29] AppID 345370 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:57:29] AppID 345370 update changed : Running,Downloading,
+[2018-04-08 13:57:29] AppID 345370 update changed : Running,Downloading,Staging,
+[2018-04-08 13:57:29] Downloading 42 chunks from depot 345372
+[2018-04-08 13:57:29] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (345372) - Success!
+[2018-04-08 13:57:29] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (345372) - Success!
+[2018-04-08 13:57:29] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (345372) - Success!
+[2018-04-08 13:57:29] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (345372) - Success!
+[2018-04-08 13:57:29] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (345372) - Success!
+[2018-04-08 13:57:29] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (345372) - Success!
+[2018-04-08 13:57:48] AppID 345370 update changed : Running,
+[2018-04-08 13:57:48] AppID 345370 update changed : Running,Committing,
+[2018-04-08 13:57:48] AppID 345370 file commit : 10 updated, 0 moved, 0 deleted
+[2018-04-08 13:57:48] AppID 345370 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:57:48] AppID 345370 finished update, mounted depots (BuildID 2648227) : 345372 (3445418571778212463),
+[2018-04-08 13:57:48] AppID 345370 update changed : Running,
+[2018-04-08 13:57:48] AppID 345370 update changed : None
+[2018-04-08 13:57:48] AppID 345370 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:57:48] AppID 345370 state changed : Fully Installed,
+[2018-04-08 13:57:48] AppID 345370 scheduler finished : removed from schedule
+[2018-04-08 13:57:48] AppID 365670 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:57:48] AppID 365670 update changed : Running,
+[2018-04-08 13:57:48] AppID 365670 update changed : Running,Reconfiguring,
+[2018-04-08 13:57:49] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (365674) - Success!
+[2018-04-08 13:57:55] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): valve1902.steampipe.steamcontent.com/depot/365674/manifest/267991738402385154/5?l=14&e=1523825869&sid=139082563&h=a1d7037d4ebe557691d4d377bda623678949e535 - received 200 (OK) HTTP response
+[2018-04-08 13:57:55] AppID 365670 update changed : Running,
+[2018-04-08 13:57:55] AppID 365670 update changed : Running,Validating,
+[2018-04-08 13:57:55] Validating files (new target,full) ...
+[2018-04-08 13:57:55] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (2 msec).
+[2018-04-08 13:57:55] AppID 365670 update changed : Running,
+[2018-04-08 13:57:55] AppID 365670 update changed : Running,Preallocating,
+[2018-04-08 13:57:55] AppID 365670 update changed : Running,
+[2018-04-08 13:57:55] AppID 365670 update started : download 0/52297040, store 0/0, reuse 0/76450292, stage 0/271835276
+[2018-04-08 13:57:55] AppID 365670 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:57:55] AppID 365670 update changed : Running,Downloading,
+[2018-04-08 13:57:55] AppID 365670 update changed : Running,Downloading,Staging,
+[2018-04-08 13:57:55] Downloading 200 chunks from depot 365674
+[2018-04-08 13:57:55] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (365674) - Success!
+[2018-04-08 13:57:55] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (365674) - Success!
+[2018-04-08 13:57:55] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (365674) - Success!
+[2018-04-08 13:57:55] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (365674) - Success!
+[2018-04-08 13:57:55] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (365674) - Success!
+[2018-04-08 13:57:55] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (365674) - Success!
+[2018-04-08 13:57:58] Current download rate: 8.618 Mbps
+[2018-04-08 13:58:18] AppID 365670 update changed : Running,
+[2018-04-08 13:58:18] AppID 365670 update changed : Running,Committing,
+[2018-04-08 13:58:18] AppID 365670 file commit : 20 updated, 0 moved, 5 deleted
+[2018-04-08 13:58:18] AppID 365670 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:58:18] AppID 365670 finished update, mounted depots (BuildID 2633890) : 365674 (267991738402385154),
+[2018-04-08 13:58:18] AppID 365670 update changed : Running,
+[2018-04-08 13:58:18] AppID 365670 update changed : None
+[2018-04-08 13:58:18] AppID 365670 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:58:18] AppID 365670 state changed : Fully Installed,
+[2018-04-08 13:58:18] AppID 365670 scheduler finished : removed from schedule
+[2018-04-08 13:58:18] AppID 428340 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:58:18] AppID 428340 update changed : Running,
+[2018-04-08 13:58:18] AppID 428340 update changed : Running,Reconfiguring,
+[2018-04-08 13:58:18] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-08 13:58:19] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): valve1903.steampipe.steamcontent.com/depot/428342/manifest/3918910958100900433/5?l=14&e=1523825898&sid=139082563&h=eeb13156b3c225f2200b29d88fd9fcf68ab8c589 - received 200 (OK) HTTP response
+[2018-04-08 13:58:19] AppID 428340 update changed : Running,
+[2018-04-08 13:58:19] AppID 428340 update changed : Running,Validating,
+[2018-04-08 13:58:19] Validating files (new target,full) ...
+[2018-04-08 13:58:19] File validation finished: 262 files (2197854 bytes) total, 262 files (2197854 bytes) mismatched (11 msec).
+[2018-04-08 13:58:19] AppID 428340 update changed : Running,
+[2018-04-08 13:58:19] AppID 428340 update changed : Running,Preallocating,
+[2018-04-08 13:58:19] AppID 428340 update changed : Running,
+[2018-04-08 13:58:19] AppID 428340 update started : download 0/7211216, store 0/0, reuse 0/2121477, stage 0/31285260
+[2018-04-08 13:58:19] AppID 428340 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:58:19] AppID 428340 update changed : Running,Downloading,
+[2018-04-08 13:58:19] AppID 428340 update changed : Running,Downloading,Staging,
+[2018-04-08 13:58:19] Downloading 314 chunks from depot 428342
+[2018-04-08 13:58:19] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-08 13:58:19] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-08 13:58:19] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-08 13:58:19] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-08 13:58:19] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-08 13:58:19] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-08 13:58:33] AppID 428340 update changed : Running,
+[2018-04-08 13:58:33] AppID 428340 update changed : Running,Committing,
+[2018-04-08 13:58:33] AppID 428340 file commit : 312 updated, 20 moved, 6 deleted
+[2018-04-08 13:58:33] AppID 428340 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:58:33] AppID 428340 finished update, mounted depots (BuildID 2653592) : 428342 (3918910958100900433),
+[2018-04-08 13:58:33] AppID 428340 update changed : Running,
+[2018-04-08 13:58:33] AppID 428340 update changed : None
+[2018-04-08 13:58:33] AppID 428340 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:58:33] AppID 428340 state changed : Fully Installed,
+[2018-04-08 13:58:33] AppID 428340 scheduler finished : removed from schedule
+[2018-04-08 13:58:33] AppID 431730 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:58:33] AppID 431730 update changed : Running,
+[2018-04-08 13:58:33] AppID 431730 update changed : Running,Reconfiguring,
+[2018-04-08 13:58:34] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (431731) - Success!
+[2018-04-08 13:58:34] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (431733) - Success!
+[2018-04-08 13:58:34] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/431731/manifest/1239473980481681353/5?l=14&e=1523825914&sid=139082563&h=745f96a93bb4a6a36b149cd2256cac45c4c77a4d - received 200 (OK) HTTP response
+[2018-04-08 13:58:34] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): valve1902.steampipe.steamcontent.com/depot/431733/manifest/3825817888887956948/5?l=14&e=1523825914&sid=139082563&h=8196b9e3d4ff1eee7927631f26ba879b22f3346a - received 200 (OK) HTTP response
+[2018-04-08 13:58:34] AppID 431730 update changed : Running,
+[2018-04-08 13:58:34] AppID 431730 update changed : Running,Validating,
+[2018-04-08 13:58:34] Validating files (new target,full) ...
+[2018-04-08 13:58:34] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (27 msec).
+[2018-04-08 13:58:34] AppID 431730 update changed : Running,
+[2018-04-08 13:58:34] AppID 431730 update changed : Running,Preallocating,
+[2018-04-08 13:58:34] AppID 431730 update changed : Running,
+[2018-04-08 13:58:34] AppID 431730 update started : download 0/5559344, store 0/0, reuse 0/0, stage 0/21127018
+[2018-04-08 13:58:34] AppID 431730 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:58:34] AppID 431730 update changed : Running,Downloading,
+[2018-04-08 13:58:34] AppID 431730 update changed : Running,Downloading,Staging,
+[2018-04-08 13:58:34] Downloading 7 chunks from depot 431731
+[2018-04-08 13:58:34] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (431731) - Success!
+[2018-04-08 13:58:34] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (431731) - Success!
+[2018-04-08 13:58:35] Downloading 22 chunks from depot 431733
+[2018-04-08 13:58:35] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (431733) - Success!
+[2018-04-08 13:58:35] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (431733) - Success!
+[2018-04-08 13:58:35] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (431733) - Success!
+[2018-04-08 13:58:35] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (431733) - Success!
+[2018-04-08 13:58:35] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (431733) - Success!
+[2018-04-08 13:58:44] AppID 431730 update changed : Running,
+[2018-04-08 13:58:44] AppID 431730 update changed : Running,Committing,
+[2018-04-08 13:58:44] AppID 431730 file commit : 10 updated, 0 moved, 0 deleted
+[2018-04-08 13:58:44] AppID 431730 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:58:44] AppID 431730 finished update, mounted depots (BuildID 2657248) : 431731 (1239473980481681353),431733 (3825817888887956948),
+[2018-04-08 13:58:44] AppID 431730 update changed : Running,
+[2018-04-08 13:58:44] AppID 431730 update changed : None
+[2018-04-08 13:58:44] AppID 431730 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:58:44] AppID 431730 state changed : Fully Installed,
+[2018-04-08 13:58:44] AppID 431730 scheduler finished : removed from schedule
+[2018-04-08 13:58:44] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:58:44] AppID 512900 update changed : Running,
+[2018-04-08 13:58:44] AppID 512900 update changed : Running,Reconfiguring,
+[2018-04-08 13:58:44] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 13:58:44] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/512902/manifest/7009043172625324778/5?l=14&e=1523825924&sid=139082563&h=e3812ce95c8a7fe33bd25bc2963c0a570e22c8dc - received 200 (OK) HTTP response
+[2018-04-08 13:58:44] AppID 512900 update changed : Running,
+[2018-04-08 13:58:44] AppID 512900 update changed : Running,Validating,
+[2018-04-08 13:58:44] Validating files (new target,full) ...
+[2018-04-08 13:58:45] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (43 msec).
+[2018-04-08 13:58:45] AppID 512900 update changed : Running,
+[2018-04-08 13:58:45] AppID 512900 update changed : Running,Preallocating,
+[2018-04-08 13:58:45] AppID 512900 update changed : Running,
+[2018-04-08 13:58:45] AppID 512900 update started : download 0/5820224, store 0/0, reuse 0/57496996, stage 0/196818008
+[2018-04-08 13:58:45] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:58:45] AppID 512900 update changed : Running,Downloading,
+[2018-04-08 13:58:45] AppID 512900 update changed : Running,Downloading,Staging,
+[2018-04-08 13:58:45] Downloading 128 chunks from depot 512902
+[2018-04-08 13:58:45] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 13:58:45] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 13:58:45] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 13:58:45] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 13:58:45] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 13:58:45] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 13:58:50] AppID 512900 update changed : Running,
+[2018-04-08 13:58:50] AppID 512900 update changed : Running,Committing,
+[2018-04-08 13:58:50] AppID 512900 file commit : 21 updated, 0 moved, 0 deleted
+[2018-04-08 13:58:50] AppID 512900 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:58:50] AppID 512900 finished update, mounted depots (BuildID 2667145) : 512902 (7009043172625324778),
+[2018-04-08 13:58:50] AppID 512900 update changed : Running,
+[2018-04-08 13:58:50] AppID 512900 update changed : None
+[2018-04-08 13:58:50] AppID 512900 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:58:50] AppID 512900 state changed : Fully Installed,
+[2018-04-08 13:58:50] AppID 512900 scheduler finished : removed from schedule
+[2018-04-08 13:58:50] AppID 584980 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:58:50] AppID 584980 update changed : Running,
+[2018-04-08 13:58:50] AppID 584980 update changed : Running,Reconfiguring,
+[2018-04-08 13:58:50] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (584981) - Success!
+[2018-04-08 13:58:50] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (584984) - Success!
+[2018-04-08 13:58:51] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/584984/manifest/4427281247102024240/5?l=14&e=1523825930&sid=139082563&h=844382a6cf18411288174259c5e5ac9d6ac12627 - received 200 (OK) HTTP response
+[2018-04-08 13:58:57] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): valve1902.steampipe.steamcontent.com/depot/584981/manifest/1190616417845851251/5?l=14&e=1523825930&sid=139082563&h=0d96235fcc6fe517f732aa8b5f2a28f2d43414ce - received 200 (OK) HTTP response
+[2018-04-08 13:58:58] AppID 584980 update changed : Running,
+[2018-04-08 13:58:58] AppID 584980 update changed : Running,Validating,
+[2018-04-08 13:58:58] Validating files (new target,full) ...
+[2018-04-08 13:58:58] File validation finished: 444 files (225122 bytes) total, 444 files (225122 bytes) mismatched (15 msec).
+[2018-04-08 13:58:58] AppID 584980 update changed : Running,
+[2018-04-08 13:58:58] AppID 584980 update changed : Running,Preallocating,
+[2018-04-08 13:58:58] AppID 584980 update changed : Running,
+[2018-04-08 13:58:58] AppID 584980 update started : download 0/825104, store 0/0, reuse 0/13884168, stage 0/17189476
+[2018-04-08 13:58:58] AppID 584980 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 13:58:58] AppID 584980 update changed : Running,Downloading,
+[2018-04-08 13:58:58] AppID 584980 update changed : Running,Downloading,Staging,
+[2018-04-08 13:58:58] Downloading 462 chunks from depot 584981
+[2018-04-08 13:58:58] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (584981) - Success!
+[2018-04-08 13:58:58] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (584981) - Success!
+[2018-04-08 13:58:58] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (584981) - Success!
+[2018-04-08 13:58:58] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (584981) - Success!
+[2018-04-08 13:58:58] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (584981) - Success!
+[2018-04-08 13:58:58] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (584981) - Success!
+[2018-04-08 13:58:59] Current download rate: 3.009 Mbps
+[2018-04-08 13:59:02] Downloading 9 chunks from depot 584984
+[2018-04-08 13:59:02] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (584984) - Success!
+[2018-04-08 13:59:02] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): AuthenticateDepotID (584984) - Success!
+[2018-04-08 13:59:06] AppID 584980 update changed : Running,
+[2018-04-08 13:59:06] AppID 584980 update changed : Running,Committing,
+[2018-04-08 13:59:06] AppID 584980 file commit : 471 updated, 0 moved, 0 deleted
+[2018-04-08 13:59:06] AppID 584980 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 13:59:06] AppID 584980 finished update, mounted depots (BuildID 2610240) : 584981 (1190616417845851251),584984 (4427281247102024240),
+[2018-04-08 13:59:06] AppID 584980 update changed : Running,
+[2018-04-08 13:59:06] AppID 584980 update changed : None
+[2018-04-08 13:59:06] AppID 584980 state changed : Fully Installed,Update Queued,
+[2018-04-08 13:59:06] AppID 584980 state changed : Fully Installed,
+[2018-04-08 13:59:06] AppID 584980 scheduler finished : removed from schedule
+[2018-04-08 14:00:00] Current download rate: 0.000 Mbps
+[2018-04-08 14:00:01] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): Closing connection
+[2018-04-08 14:00:01] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 14:00:01] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-08 14:00:02] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): Closing connection
+[2018-04-08 14:00:02] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): Closing connection
+[2018-04-08 14:00:02] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 14:00:06] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): Closing connection
+[2018-04-08 15:58:05] AppID 512900 state changed : Update Required,Fully Installed, (Update delayed for 65616 secs)
+
+
+[2018-04-08 17:16:41] Loaded 89 apps from install folder "/Users/lop/Library/Application Support/Steam/steamapps\appmanifest_*.acf".
+[2018-04-08 17:16:41] Dependency added: parent 220, child 340, depot 221
+[2018-04-08 17:16:41] Dependency added: parent 220, child 340, depot 223
+[2018-04-08 17:16:46] AppID 512900 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=9942532, appDisableSecondsRemaining=0
+[2018-04-08 17:16:46] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-08 17:16:46] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-08 17:16:46] AppID 512900 update changed : Running,
+[2018-04-08 17:16:46] AppID 512900 update changed : Running,Reconfiguring,
+[2018-04-08 17:16:46] Got 20 download sources via "/serverlist/46/20/" from 180.101.192.198:80
+[2018-04-08 17:16:46] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 17:16:46] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 17:16:46] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-08 17:16:46] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 17:16:47] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/512902/manifest/8523748683910223928/5?l=14&e=1523825924&sid=139082563&h=e3812ce95c8a7fe33bd25bc2963c0a570e22c8dc - received 200 (OK) HTTP response
+[2018-04-08 17:16:47] AppID 512900 update changed : Running,
+[2018-04-08 17:16:47] AppID 512900 update changed : Running,Validating,
+[2018-04-08 17:16:47] Validating files (new target,full) ...
+[2018-04-08 17:16:47] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (24 msec).
+[2018-04-08 17:16:47] AppID 512900 update changed : Running,
+[2018-04-08 17:16:47] AppID 512900 update changed : Running,Preallocating,
+[2018-04-08 17:16:48] AppID 512900 update changed : Running,
+[2018-04-08 17:16:48] AppID 512900 update started : download 0/4118368, store 0/0, reuse 0/117323240, stage 0/193892628
+[2018-04-08 17:16:48] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 17:16:48] AppID 512900 update changed : Running,Downloading,
+[2018-04-08 17:16:48] AppID 512900 update changed : Running,Downloading,Staging,
+[2018-04-08 17:16:48] Downloading 54 chunks from depot 512902
+[2018-04-08 17:16:48] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 17:16:48] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 17:17:05] Increasing target number of download connections to 4 (rate was 0.000, now 1.975)
+[2018-04-08 17:17:05] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-08 17:17:05] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 17:17:08] AppID 391540 state changed : Fully Installed,App Running,
+[2018-04-08 17:17:08] AppID 512900 update canceled : App started (Suspended)
+[2018-04-08 17:17:08] AppID 512900 update changed : Running,Downloading,Staging,Stopping,
+[2018-04-08 17:17:08] AppID 512900 update changed : Running,Stopping,
+[2018-04-08 17:17:08] AppID 512900 update changed : None
+[2018-04-08 17:17:08] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Started, (Suspended)
+[2018-04-08 17:17:08] AppID 512900 state changed : Update Required,Fully Installed,Update Started,
+[2018-04-08 17:17:08] AppID 512900 scheduler finished : removed from schedule
+[2018-04-08 17:18:00] Current download rate: 0.000 Mbps
+[2018-04-08 17:18:06] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 17:18:06] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 17:18:06] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-08 17:18:08] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-08 17:29:56] AppID 391540 state changed : Fully Installed,
+[2018-04-08 17:29:59] AppID 512900 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=9943325, appDisableSecondsRemaining=0
+[2018-04-08 17:29:59] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Started,
+[2018-04-08 17:29:59] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-08 17:29:59] AppID 512900 update changed : Running,
+[2018-04-08 17:29:59] AppID 512900 update changed : Running,Reconfiguring,
+[2018-04-08 17:29:59] AppID 512900 update changed : Running,
+[2018-04-08 17:29:59] AppID 512900 update started : download 3766576/4118368, store 0/0, reuse 117323240/117323240, stage 191861524/193892628
+[2018-04-08 17:29:59] AppID 512900 update changed : Running,Downloading,
+[2018-04-08 17:29:59] AppID 512900 update changed : Running,Downloading,Staging,
+[2018-04-08 17:29:59] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 17:29:59] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-08 17:29:59] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-08 17:29:59] Downloading 2 chunks from depot 512902
+[2018-04-08 17:30:00] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 17:30:00] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-08 17:30:02] AppID 512900 update changed : Running,
+[2018-04-08 17:30:02] AppID 512900 update changed : Running,Committing,
+[2018-04-08 17:30:02] AppID 512900 file commit : 10 updated, 0 moved, 0 deleted
+[2018-04-08 17:30:02] AppID 512900 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-08 17:30:02] AppID 512900 finished update, mounted depots (BuildID 2670548) : 512902 (8523748683910223928),
+[2018-04-08 17:30:02] AppID 512900 update changed : Running,
+[2018-04-08 17:30:02] AppID 512900 update changed : None
+[2018-04-08 17:30:02] AppID 512900 state changed : Fully Installed,Update Queued,
+[2018-04-08 17:30:02] AppID 512900 state changed : Fully Installed,
+[2018-04-08 17:30:02] AppID 512900 scheduler finished : removed from schedule
+[2018-04-08 17:30:12] Current download rate: 0.000 Mbps
+[2018-04-08 17:31:00] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): Closing connection
+[2018-04-08 17:31:01] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 17:31:01] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-08 23:54:08] AppID 512900 state changed : Update Required,Fully Installed, (Update delayed for 68482 secs)
+
+
+[2018-04-09 00:19:42] Loaded 89 apps from install folder "/Users/lop/Library/Application Support/Steam/steamapps\appmanifest_*.acf".
+[2018-04-09 00:19:43] Dependency added: parent 220, child 340, depot 221
+[2018-04-09 00:19:43] Dependency added: parent 220, child 340, depot 223
+[2018-04-09 00:19:47] AppID 512900 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=9967913, appDisableSecondsRemaining=0
+[2018-04-09 00:19:47] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-09 00:19:47] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-09 00:19:47] AppID 512900 update changed : Running,
+[2018-04-09 00:19:47] AppID 512900 update changed : Running,Reconfiguring,
+[2018-04-09 00:19:48] Got 20 download sources via "/serverlist/46/20/" from 180.101.192.198:80
+[2018-04-09 00:19:48] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-09 00:19:48] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-04-09 00:19:48] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-09 00:19:48] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-09 00:19:48] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): valve1905.steampipe.steamcontent.com/depot/512902/manifest/2402629889564799379/5?l=14&e=1523825924&sid=139082563&h=e3812ce95c8a7fe33bd25bc2963c0a570e22c8dc - received 200 (OK) HTTP response
+[2018-04-09 00:19:49] AppID 512900 update changed : Running,
+[2018-04-09 00:19:49] AppID 512900 update changed : Running,Validating,
+[2018-04-09 00:19:49] Validating files (new target,full) ...
+[2018-04-09 00:19:49] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (21 msec).
+[2018-04-09 00:19:49] AppID 512900 update changed : Running,
+[2018-04-09 00:19:49] AppID 512900 update changed : Running,Preallocating,
+[2018-04-09 00:19:49] AppID 512900 update changed : Running,
+[2018-04-09 00:19:49] AppID 512900 update started : download 0/2327024, store 0/0, reuse 0/35753720, stage 0/54009924
+[2018-04-09 00:19:49] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-09 00:19:49] AppID 512900 update changed : Running,Downloading,
+[2018-04-09 00:19:49] AppID 512900 update changed : Running,Downloading,Staging,
+[2018-04-09 00:19:49] Downloading 22 chunks from depot 512902
+[2018-04-09 00:19:49] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-09 00:19:49] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-09 00:19:53] AppID 512900 update changed : Running,
+[2018-04-09 00:19:53] AppID 512900 update changed : Running,Committing,
+[2018-04-09 00:19:53] AppID 512900 file commit : 6 updated, 0 moved, 0 deleted
+[2018-04-09 00:19:53] AppID 512900 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-09 00:19:53] AppID 512900 finished update, mounted depots (BuildID 2671025) : 512902 (2402629889564799379),
+[2018-04-09 00:19:53] AppID 512900 update changed : Running,
+[2018-04-09 00:19:53] AppID 512900 update changed : None
+[2018-04-09 00:19:53] AppID 512900 state changed : Fully Installed,Update Queued,
+[2018-04-09 00:19:53] AppID 512900 state changed : Fully Installed,
+[2018-04-09 00:19:53] AppID 512900 scheduler finished : removed from schedule
+[2018-04-09 00:20:52] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+[2018-04-09 00:20:52] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-09 00:20:52] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (153.254.86.195:80 / 153.254.86.195:80, host: valve1905.steamcontent.com): Closing connection
+
+
+[2018-04-13 01:23:49] Loaded 89 apps from install folder "/Users/lop/Library/Application Support/Steam/steamapps\appmanifest_*.acf".
+[2018-04-13 01:23:50] Dependency added: parent 220, child 340, depot 221
+[2018-04-13 01:23:50] Dependency added: parent 220, child 340, depot 223
+[2018-04-13 01:23:56] AppID 570 state changed : Update Required,Fully Installed,
+[2018-04-13 01:24:01] AppID 570 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=9570454, appDisableSecondsRemaining=0
+[2018-04-13 01:24:01] AppID 570 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-13 01:24:01] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-13 01:24:01] AppID 570 update changed : Running,
+[2018-04-13 01:24:01] AppID 570 update changed : Running,Reconfiguring,
+[2018-04-13 01:24:02] Got 1 download sources via "/serverlist/46/20/" from 180.101.192.198:80
+[2018-04-13 01:24:02] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2018-04-13 01:24:02] Created download interface of type 'CDN' (2) to host steampipe.akamaized.net (steampipe.akamaized.net)
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (373301) - Success!
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (0.0.0.0:0 / 0.0.0.0:0, host: steampipe.akamaized.net): AuthenticateDepotID (381451) - Success!
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/381451/manifest/2435733133116414753/5?token=exp=1524212642~acl=/depot/381451/*~hmac=bcdf477d17ec6a73152166949dbb4b43cbfe1c91 - received 200 (OK) HTTP response
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): AuthenticateDepotID (381453) - Success!
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): AuthenticateDepotID (381455) - Success!
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/381453/manifest/1755190654361966518/5?token=exp=1524212642~acl=/depot/381453/*~hmac=698aa1d8912301c15a765d35257c42fe86d3c298 - received 200 (OK) HTTP response
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/373301/manifest/3227352238869204477/5?token=exp=1524212642~acl=/depot/373301/*~hmac=b0b3b09e61459601deb76843fb20f0df9fefd076 - received 200 (OK) HTTP response
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/381455/manifest/3290364426016335744/5?token=exp=1524212642~acl=/depot/381455/*~hmac=014eb230ab6736ee022557c16e467cc8c14ba855 - received 200 (OK) HTTP response
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): AuthenticateDepotID (373304) - Success!
+[2018-04-13 01:24:02] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): steampipe.akamaized.net/depot/373304/manifest/1543675541852838594/5?token=exp=1524212642~acl=/depot/373304/*~hmac=94aba2fe7003316bbee4bddf254c0783f51a8524 - received 200 (OK) HTTP response
+[2018-04-13 01:24:04] AppID 570 update changed : Running,
+[2018-04-13 01:24:04] AppID 570 update changed : Running,Validating,
+[2018-04-13 01:24:04] Validating files (new target,full) ...
+[2018-04-13 01:24:04] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (67 msec).
+[2018-04-13 01:24:04] AppID 570 update changed : Running,
+[2018-04-13 01:24:04] AppID 570 update changed : Running,Preallocating,
+[2018-04-13 01:24:04] AppID 570 update changed : Running,
+[2018-04-13 01:24:04] AppID 570 update started : download 0/224129184, store 0/0, reuse 0/234321558, stage 0/799732644
+[2018-04-13 01:24:04] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-13 01:24:04] AppID 570 update changed : Running,Downloading,
+[2018-04-13 01:24:04] AppID 570 update changed : Running,Downloading,Staging,
+[2018-04-13 01:24:04] Downloading 102 chunks from depot 373301
+[2018-04-13 01:24:04] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): AuthenticateDepotID (373301) - Success!
+[2018-04-13 01:24:17] Downloading 78 chunks from depot 381451
+[2018-04-13 01:24:17] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): AuthenticateDepotID (381451) - Success!
+[2018-04-13 01:24:22] Downloading 65 chunks from depot 381453
+[2018-04-13 01:24:22] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): AuthenticateDepotID (381453) - Success!
+[2018-04-13 01:24:25] Downloading 211 chunks from depot 381455
+[2018-04-13 01:24:26] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): AuthenticateDepotID (381455) - Success!
+[2018-04-13 01:24:37] Downloading 103 chunks from depot 373304
+[2018-04-13 01:24:37] HTTP (CDN,11) - steampipe.akamaized.net (23.6.199.113:80 / 23.6.199.113:80, host: steampipe.akamaized.net): AuthenticateDepotID (373304) - Success!
+[2018-04-13 01:24:41] AppID 570 update changed : Running,
+[2018-04-13 01:24:41] AppID 570 update changed : Running,Verifying,
+[2018-04-13 01:24:46] AppID 570 update changed : Running,
+[2018-04-13 01:24:46] AppID 570 update changed : Running,Committing,
+[2018-04-13 01:24:46] AppID 570 file commit : 19 updated, 0 moved, 1 deleted
+[2018-04-13 01:24:46] AppID 570 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-13 01:24:46] AppID 570 finished update, mounted depots (BuildID 2684824) : 373301 (3227352238869204477),381451 (2435733133116414753),381452 (4703153249931576100),381453 (1755190654361966518),381454 (1058655158230116544),381455 (3290364426016335744),373304 (1543675541852838594),373305 (4435851250675935801),373307 (5101750717402259010),
+[2018-04-13 01:24:46] AppID 570 update changed : Running,
+[2018-04-13 01:24:46] AppID 570 update changed : None
+[2018-04-13 01:24:46] AppID 570 state changed : Fully Installed,Update Queued,
+[2018-04-13 01:24:46] AppID 570 state changed : Fully Installed,
+[2018-04-13 01:24:46] AppID 570 scheduler finished : removed from schedule
+[2018-04-13 01:25:15] Current download rate: 0.000 Mbps
+[2018-04-13 01:25:41] HTTP (CDN,11) - steampipe.akamaized.net (23.204.103.88:80 / 23.204.103.88:80, host: steampipe.akamaized.net): Closing connection
+[2018-04-13 01:25:41] HTTP (CDN,11) - steampipe.akamaized.net (23.204.103.88:80 / 23.204.103.88:80, host: steampipe.akamaized.net): Closing connection
+
+
+[2018-04-30 00:31:30] Loaded 89 apps from install folder "/Users/lop/Library/Application Support/Steam/steamapps\appmanifest_*.acf".
+[2018-04-30 00:31:30] Dependency added: parent 220, child 340, depot 221
+[2018-04-30 00:31:30] Dependency added: parent 220, child 340, depot 223
+[2018-04-30 00:31:35] AppID 570 state changed : Update Required,Fully Installed,
+[2018-04-30 00:31:35] AppID 428340 state changed : Update Required,Fully Installed,
+[2018-04-30 00:31:35] AppID 433950 state changed : Update Required,Fully Installed,
+[2018-04-30 00:31:35] AppID 512900 state changed : Update Required,Fully Installed,
+[2018-04-30 00:31:35] AppID 698780 state changed : Update Required,Fully Installed,
+[2018-04-30 00:31:40] AppID 570 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11036113, appDisableSecondsRemaining=0
+[2018-04-30 00:31:40] AppID 570 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-30 00:31:40] AppID 428340 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=13337756, appDisableSecondsRemaining=0
+[2018-04-30 00:31:40] AppID 428340 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-30 00:31:40] AppID 433950 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=42144758, appDisableSecondsRemaining=0
+[2018-04-30 00:31:40] AppID 433950 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-30 00:31:40] AppID 512900 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11783026, appDisableSecondsRemaining=0
+[2018-04-30 00:31:40] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-30 00:31:40] AppID 698780 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=13775329, appDisableSecondsRemaining=0
+[2018-04-30 00:31:40] AppID 698780 state changed : Update Required,Fully Installed,Update Queued,
+[2018-04-30 00:31:40] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-30 00:31:40] AppID 570 update changed : Running,
+[2018-04-30 00:31:40] AppID 570 update changed : Running,Reconfiguring,
+[2018-04-30 00:31:41] Got 20 download sources via "/serverlist/46/20/" from 180.101.192.198:80
+[2018-04-30 00:31:41] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-30 00:31:41] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-04-30 00:31:41] Created download interface of type 'CS' (1) to host valve1903.steampipe.steamcontent.com (valve1903.steamcontent.com)
+[2018-04-30 00:31:41] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-04-30 00:31:41] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-30 00:31:41] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-30 00:31:41] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-30 00:31:41] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (381454) - Success!
+[2018-04-30 00:31:41] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): AuthenticateDepotID (381455) - Success!
+[2018-04-30 00:31:42] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/381451/manifest/6335929331817741114/5?l=14&e=1525678301&sid=139082563&h=0d3bd1e8d9a365d3f0725d1c6b362f66650bcae5 - received 200 (OK) HTTP response
+[2018-04-30 00:31:42] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): valve1903.steampipe.steamcontent.com/depot/381452/manifest/2392937646722996211/5?l=14&e=1525678301&sid=139082563&h=acd1c5f7b28a631bd6ee9542e2a2da2b73d9134d - received 200 (OK) HTTP response
+[2018-04-30 00:31:42] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (373304) - Success!
+[2018-04-30 00:31:42] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/381453/manifest/1168056362183106140/5?l=14&e=1525678301&sid=139082563&h=4ddbc31146b486f731c1008f0a2d87dfff8b23de - received 200 (OK) HTTP response
+[2018-04-30 00:31:42] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/381454/manifest/59801435983699627/5?l=14&e=1525678301&sid=139082563&h=5aa5ed7d630121fdc02ae93d030e87903b8169ea - received 200 (OK) HTTP response
+[2018-04-30 00:31:42] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/373304/manifest/3254687152050375886/5?l=14&e=1525678302&sid=139082563&h=18517d14cf643f166805ad5617d0165c7429c7ff - received 200 (OK) HTTP response
+[2018-04-30 00:31:42] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): valve1903.steampipe.steamcontent.com/depot/381455/manifest/1115486725303545855/5?l=14&e=1525678301&sid=139082563&h=bc212527f2364eb30bcfedba693e833e344d912b - received 200 (OK) HTTP response
+[2018-04-30 00:31:44] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/373301/manifest/2461615543508122801/5?l=14&e=1525678301&sid=139082563&h=b93926bcce0adac8badb596d01f440dfc39cbf39 - received 200 (OK) HTTP response
+[2018-04-30 00:31:45] AppID 570 update changed : Running,
+[2018-04-30 00:31:45] AppID 570 update changed : Running,Validating,
+[2018-04-30 00:31:45] Validating files (new target,full) ...
+[2018-04-30 00:31:45] File validation finished: 6 files (227451 bytes) total, 6 files (227451 bytes) mismatched (58 msec).
+[2018-04-30 00:31:45] AppID 570 update changed : Running,
+[2018-04-30 00:31:45] AppID 570 update changed : Running,Preallocating,
+[2018-04-30 00:31:45] AppID 570 update changed : Running,
+[2018-04-30 00:31:45] AppID 570 update started : download 0/627171984, store 0/0, reuse 0/1278709500, stage 0/2924530592
+[2018-04-30 00:31:45] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-30 00:31:45] AppID 570 update changed : Running,Downloading,
+[2018-04-30 00:31:45] AppID 570 update changed : Running,Downloading,Staging,
+[2018-04-30 00:31:45] Downloading 366 chunks from depot 373301
+[2018-04-30 00:31:45] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-04-30 00:31:45] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (373301) - Success!
+[2018-04-30 00:31:53] Increasing target number of download connections to 4 (rate was 0.000, now 33.780)
+[2018-04-30 00:31:53] Created download interface of type 'CS' (1) to host valve1903.steampipe.steamcontent.com (valve1903.steamcontent.com)
+[2018-04-30 00:31:54] Downloading 235 chunks from depot 381451
+[2018-04-30 00:31:54] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-30 00:31:54] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-30 00:31:54] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381451) - Success!
+[2018-04-30 00:32:04] Downloading 104 chunks from depot 381452
+[2018-04-30 00:32:04] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-30 00:32:04] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-30 00:32:04] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-30 00:32:06] Increasing target number of download connections to 5 (rate was 33.780, now 65.873)
+[2018-04-30 00:32:06] Created download interface of type 'CS' (1) to host valve1902.steampipe.steamcontent.com (valve1902.steamcontent.com)
+[2018-04-30 00:32:06] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1902.steamcontent.com): AuthenticateDepotID (381452) - Success!
+[2018-04-30 00:32:18] AppID 404790 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=42760387, appDisableSecondsRemaining=0
+[2018-04-30 00:32:18] AppID 404790 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:32:18] AppID 404790 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=42760387, appDisableSecondsRemaining=0
+[2018-04-30 00:32:18] AppID 404790 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:32:19] AppID 404790 state changed : Uninstalled,
+[2018-04-30 00:32:19] AppID 404790 finished uninstall (No Error)
+[2018-04-30 00:32:33] AppID 410110 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=42144986, appDisableSecondsRemaining=0
+[2018-04-30 00:32:33] AppID 410110 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:32:33] AppID 410110 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=42144986, appDisableSecondsRemaining=0
+[2018-04-30 00:32:33] AppID 410110 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:32:33] AppID 410110 state changed : Uninstalled,
+[2018-04-30 00:32:33] AppID 410110 finished uninstall (No Error)
+[2018-04-30 00:32:37] Downloading 105 chunks from depot 381453
+[2018-04-30 00:32:37] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-30 00:32:37] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-30 00:32:37] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-30 00:32:37] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (381453) - Success!
+[2018-04-30 00:32:38] AppID 238460 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=15734863, appDisableSecondsRemaining=0
+[2018-04-30 00:32:38] AppID 238460 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:32:38] AppID 238460 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=15734863, appDisableSecondsRemaining=0
+[2018-04-30 00:32:38] AppID 238460 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:32:38] AppID 238460 state changed : Uninstalled,
+[2018-04-30 00:32:38] AppID 238460 finished uninstall (No Error)
+[2018-04-30 00:32:51] AppID 107100 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=44691952, appDisableSecondsRemaining=0
+[2018-04-30 00:32:51] AppID 107100 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:32:51] AppID 107100 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=44691952, appDisableSecondsRemaining=0
+[2018-04-30 00:32:51] AppID 107100 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:32:51] AppID 107100 state changed : Uninstalled,
+[2018-04-30 00:32:51] AppID 107100 finished uninstall (No Error)
+[2018-04-30 00:32:54] Current download rate: 15.038 Mbps
+[2018-04-30 00:32:59] AppID 274190 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=11832610, appDisableSecondsRemaining=0
+[2018-04-30 00:32:59] AppID 274190 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:32:59] AppID 274190 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=11832610, appDisableSecondsRemaining=0
+[2018-04-30 00:32:59] AppID 274190 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:32:59] AppID 274190 state changed : Uninstalled,
+[2018-04-30 00:32:59] AppID 274190 finished uninstall (No Error)
+[2018-04-30 00:33:11] AppID 570 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=11036204, appDisableSecondsRemaining=0
+[2018-04-30 00:33:11] AppID 570 update canceled : No details (Paused)
+[2018-04-30 00:33:11] AppID 570 update changed : Running,Downloading,Staging,Stopping,
+[2018-04-30 00:33:11] AppID 570 update changed : Running,Stopping,
+[2018-04-30 00:33:11] AppID 570 update changed : None
+[2018-04-30 00:33:11] AppID 570 state changed : Update Required,Fully Installed,Update Queued,Update Started, (Paused)
+[2018-04-30 00:33:11] AppID 570 state changed : Update Required,Fully Installed,Update Paused,Update Started,
+[2018-04-30 00:33:11] AppID 570 scheduler finished : removed from schedule
+[2018-04-30 00:33:11] AppID 428340 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-30 00:33:11] AppID 428340 update changed : Running,
+[2018-04-30 00:33:11] AppID 428340 update changed : Running,Reconfiguring,
+[2018-04-30 00:33:11] AppID 570 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=11036204, appDisableSecondsRemaining=0
+[2018-04-30 00:33:11] AppID 570 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:33:12] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-30 00:33:13] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): valve1903.steampipe.steamcontent.com/depot/428342/manifest/6890973651810373737/5?l=14&e=1525678391&sid=139082563&h=c4bee2c8aa4c6bea9c3431aa800320016c2a5583 - received 200 (OK) HTTP response
+[2018-04-30 00:33:14] AppID 428340 update changed : Running,
+[2018-04-30 00:33:14] AppID 428340 update changed : Running,Validating,
+[2018-04-30 00:33:14] Validating files (new target,full) ...
+[2018-04-30 00:33:14] File validation finished: 1 files (282040 bytes) total, 1 files (282040 bytes) mismatched (51 msec).
+[2018-04-30 00:33:14] AppID 428340 update changed : Running,
+[2018-04-30 00:33:14] AppID 428340 update changed : Running,Preallocating,
+[2018-04-30 00:33:14] AppID 428340 update changed : Running,
+[2018-04-30 00:33:14] AppID 428340 update started : download 0/5228496, store 0/0, reuse 0/2097152, stage 0/28356230
+[2018-04-30 00:33:14] AppID 428340 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-30 00:33:14] AppID 428340 update changed : Running,Downloading,
+[2018-04-30 00:33:14] AppID 428340 update changed : Running,Downloading,Staging,
+[2018-04-30 00:33:14] Downloading 22 chunks from depot 428342
+[2018-04-30 00:33:14] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-30 00:33:14] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-30 00:33:14] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-30 00:33:14] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (428342) - Success!
+[2018-04-30 00:33:16] AppID 570 state changed : Uninstalled,
+[2018-04-30 00:33:16] AppID 570 finished uninstall (No Error)
+[2018-04-30 00:33:18] AppID 428340 update changed : Running,
+[2018-04-30 00:33:18] AppID 428340 update changed : Running,Committing,
+[2018-04-30 00:33:18] AppID 428340 file commit : 4 updated, 0 moved, 7 deleted
+[2018-04-30 00:33:18] AppID 428340 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-30 00:33:18] AppID 428340 finished update, mounted depots (BuildID 2718153) : 428342 (6890973651810373737),
+[2018-04-30 00:33:18] AppID 428340 update changed : Running,
+[2018-04-30 00:33:18] AppID 428340 update changed : None
+[2018-04-30 00:33:18] AppID 428340 state changed : Fully Installed,Update Queued,
+[2018-04-30 00:33:18] AppID 428340 state changed : Fully Installed,
+[2018-04-30 00:33:18] AppID 428340 scheduler finished : removed from schedule
+[2018-04-30 00:33:18] AppID 433950 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-30 00:33:18] AppID 433950 update changed : Running,
+[2018-04-30 00:33:18] AppID 433950 update changed : Running,Reconfiguring,
+[2018-04-30 00:33:19] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (433952) - Success!
+[2018-04-30 00:33:19] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): valve1904.steampipe.steamcontent.com/depot/433952/manifest/7203329075463123528/5?l=14&e=1525678399&sid=139082563&h=ecf1dde4319c173bea7a8d5e3d0be255c1fff0f3 - received 200 (OK) HTTP response
+[2018-04-30 00:33:19] AppID 433950 update changed : Running,
+[2018-04-30 00:33:19] AppID 433950 update changed : Running,Validating,
+[2018-04-30 00:33:19] Validating files (new target,full) ...
+[2018-04-30 00:33:19] File validation finished: 39 files (1357618 bytes) total, 39 files (1357618 bytes) mismatched (48 msec).
+[2018-04-30 00:33:19] AppID 433950 update changed : Running,
+[2018-04-30 00:33:19] AppID 433950 update changed : Running,Preallocating,
+[2018-04-30 00:33:19] AppID 433950 update changed : Running,
+[2018-04-30 00:33:19] AppID 433950 update started : download 0/36276800, store 0/0, reuse 0/48753061, stage 0/139184843
+[2018-04-30 00:33:19] AppID 433950 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-30 00:33:19] AppID 433950 update changed : Running,Downloading,
+[2018-04-30 00:33:19] AppID 433950 update changed : Running,Downloading,Staging,
+[2018-04-30 00:33:19] Downloading 161 chunks from depot 433952
+[2018-04-30 00:33:19] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (433952) - Success!
+[2018-04-30 00:33:19] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (433952) - Success!
+[2018-04-30 00:33:19] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (433952) - Success!
+[2018-04-30 00:33:19] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (433952) - Success!
+[2018-04-30 00:33:22] AppID 227300 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=48821291, appDisableSecondsRemaining=0
+[2018-04-30 00:33:22] AppID 227300 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:33:22] AppID 227300 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=48821291, appDisableSecondsRemaining=0
+[2018-04-30 00:33:22] AppID 227300 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:33:23] AppID 227300 state changed : Uninstalled,
+[2018-04-30 00:33:23] AppID 227300 finished uninstall (No Error)
+[2018-04-30 00:33:33] AppID 330840 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=1525073613, appDisableSecondsRemaining=0
+[2018-04-30 00:33:33] AppID 330840 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:33:33] AppID 330840 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=1525073613, appDisableSecondsRemaining=0
+[2018-04-30 00:33:33] AppID 330840 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:33:34] AppID 330840 state changed : Uninstalled,
+[2018-04-30 00:33:34] AppID 330840 finished uninstall (No Error)
+[2018-04-30 00:33:36] AppID 433950 update changed : Running,
+[2018-04-30 00:33:36] AppID 433950 update changed : Running,Committing,
+[2018-04-30 00:33:36] AppID 433950 file commit : 105 updated, 14 moved, 55 deleted
+[2018-04-30 00:33:36] AppID 433950 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-30 00:33:36] AppID 433950 finished update, mounted depots (BuildID 2722492) : 433952 (7203329075463123528),
+[2018-04-30 00:33:36] AppID 433950 update changed : Running,
+[2018-04-30 00:33:36] AppID 433950 update changed : None
+[2018-04-30 00:33:36] AppID 433950 state changed : Fully Installed,Update Queued,
+[2018-04-30 00:33:36] AppID 433950 state changed : Fully Installed,
+[2018-04-30 00:33:36] AppID 433950 scheduler finished : removed from schedule
+[2018-04-30 00:33:36] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-30 00:33:36] AppID 512900 update changed : Running,
+[2018-04-30 00:33:36] AppID 512900 update changed : Running,Reconfiguring,
+[2018-04-30 00:33:36] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-30 00:33:36] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): valve1902.steampipe.steamcontent.com/depot/512902/manifest/6180227817481921709/5?l=14&e=1525678416&sid=139082563&h=3d5c95e428a79faf2f666f062b0edc5fd1af26ee - received 200 (OK) HTTP response
+[2018-04-30 00:33:37] AppID 512900 update changed : Running,
+[2018-04-30 00:33:37] AppID 512900 update changed : Running,Validating,
+[2018-04-30 00:33:37] Validating files (new target,full) ...
+[2018-04-30 00:33:37] File validation finished: 2 files (10580 bytes) total, 2 files (10580 bytes) mismatched (27 msec).
+[2018-04-30 00:33:37] AppID 512900 update changed : Running,
+[2018-04-30 00:33:37] AppID 512900 update changed : Running,Preallocating,
+[2018-04-30 00:33:37] AppID 512900 update changed : Running,
+[2018-04-30 00:33:37] AppID 512900 update started : download 0/16871408, store 0/0, reuse 0/40665960, stage 0/129053638
+[2018-04-30 00:33:37] AppID 512900 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-30 00:33:37] AppID 512900 update changed : Running,Downloading,
+[2018-04-30 00:33:37] AppID 512900 update changed : Running,Downloading,Staging,
+[2018-04-30 00:33:37] Downloading 199 chunks from depot 512902
+[2018-04-30 00:33:37] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-30 00:33:37] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-30 00:33:37] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-30 00:33:37] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (512902) - Success!
+[2018-04-30 00:33:50] AppID 512900 update changed : Running,
+[2018-04-30 00:33:50] AppID 512900 update changed : Running,Committing,
+[2018-04-30 00:33:50] AppID 512900 file commit : 124 updated, 0 moved, 0 deleted
+[2018-04-30 00:33:50] AppID 512900 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-30 00:33:50] AppID 512900 finished update, mounted depots (BuildID 2711773) : 512902 (6180227817481921709),
+[2018-04-30 00:33:50] AppID 512900 update changed : Running,
+[2018-04-30 00:33:50] AppID 512900 update changed : None
+[2018-04-30 00:33:50] AppID 512900 state changed : Fully Installed,Update Queued,
+[2018-04-30 00:33:50] AppID 512900 state changed : Fully Installed,
+[2018-04-30 00:33:50] AppID 512900 scheduler finished : removed from schedule
+[2018-04-30 00:33:50] AppID 698780 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-04-30 00:33:50] AppID 698780 update changed : Running,
+[2018-04-30 00:33:50] AppID 698780 update changed : Running,Reconfiguring,
+[2018-04-30 00:33:50] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (698781) - Success!
+[2018-04-30 00:33:51] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): valve1903.steampipe.steamcontent.com/depot/698781/manifest/2098382718495907104/5?l=14&e=1525678430&sid=139082563&h=8723adf43130444f9813b6b29fe6717b6b7bcf53 - received 200 (OK) HTTP response
+[2018-04-30 00:33:51] AppID 698780 update changed : Running,
+[2018-04-30 00:33:51] AppID 698780 update changed : Running,Validating,
+[2018-04-30 00:33:51] Validating files (new target,full) ...
+[2018-04-30 00:33:51] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (21 msec).
+[2018-04-30 00:33:51] AppID 698780 update changed : Running,
+[2018-04-30 00:33:51] AppID 698780 update changed : Running,Preallocating,
+[2018-04-30 00:33:51] AppID 698780 update changed : Running,
+[2018-04-30 00:33:51] AppID 698780 update started : download 0/125375856, store 0/0, reuse 0/72351744, stage 0/208331974
+[2018-04-30 00:33:51] AppID 698780 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2018-04-30 00:33:51] AppID 698780 update changed : Running,Downloading,
+[2018-04-30 00:33:51] AppID 698780 update changed : Running,Downloading,Staging,
+[2018-04-30 00:33:51] Downloading 188 chunks from depot 698781
+[2018-04-30 00:33:51] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): AuthenticateDepotID (698781) - Success!
+[2018-04-30 00:33:51] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): AuthenticateDepotID (698781) - Success!
+[2018-04-30 00:33:51] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (698781) - Success!
+[2018-04-30 00:33:51] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): AuthenticateDepotID (698781) - Success!
+[2018-04-30 00:33:55] Current download rate: 13.141 Mbps
+[2018-04-30 00:34:06] AppID 8930 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=48089322, appDisableSecondsRemaining=0
+[2018-04-30 00:34:06] AppID 8930 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:34:06] AppID 8930 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=48089322, appDisableSecondsRemaining=0
+[2018-04-30 00:34:06] AppID 8930 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:34:08] AppID 8930 state changed : Uninstalled,
+[2018-04-30 00:34:08] AppID 8930 finished uninstall (No Error)
+[2018-04-30 00:34:11] AppID 289070 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=8743434, appDisableSecondsRemaining=0
+[2018-04-30 00:34:11] AppID 289070 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:34:11] AppID 289070 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=8743434, appDisableSecondsRemaining=0
+[2018-04-30 00:34:11] AppID 289070 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:34:17] AppID 289070 state changed : Uninstalled,
+[2018-04-30 00:34:17] AppID 289070 finished uninstall (No Error)
+[2018-04-30 00:34:22] AppID 208610 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=1525073662, appDisableSecondsRemaining=0
+[2018-04-30 00:34:22] AppID 208610 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:34:22] AppID 208610 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=1525073662, appDisableSecondsRemaining=0
+[2018-04-30 00:34:22] AppID 208610 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:34:22] AppID 208610 state changed : Uninstalled,
+[2018-04-30 00:34:22] AppID 208610 finished uninstall (No Error)
+[2018-04-30 00:34:32] AppID 252330 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=24116671, appDisableSecondsRemaining=0
+[2018-04-30 00:34:32] AppID 252330 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:34:32] AppID 252330 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=24116671, appDisableSecondsRemaining=0
+[2018-04-30 00:34:32] AppID 252330 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:34:33] AppID 252330 state changed : Uninstalled,
+[2018-04-30 00:34:33] AppID 252330 finished uninstall (No Error)
+[2018-04-30 00:34:35] AppID 698780 update changed : Running,
+[2018-04-30 00:34:35] AppID 698780 update changed : Running,Committing,
+[2018-04-30 00:34:35] AppID 698780 file commit : 58 updated, 0 moved, 0 deleted
+[2018-04-30 00:34:35] AppID 698780 state changed : Fully Installed,Update Queued,Update Running,
+[2018-04-30 00:34:35] AppID 698780 finished update, mounted depots (BuildID 2691100) : 698781 (2098382718495907104),
+[2018-04-30 00:34:35] AppID 698780 update changed : Running,
+[2018-04-30 00:34:35] AppID 698780 update changed : None
+[2018-04-30 00:34:35] AppID 698780 state changed : Fully Installed,Update Queued,
+[2018-04-30 00:34:35] AppID 698780 state changed : Fully Installed,
+[2018-04-30 00:34:35] AppID 698780 scheduler finished : removed from schedule
+[2018-04-30 00:34:45] AppID 286160 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=24037456, appDisableSecondsRemaining=0
+[2018-04-30 00:34:45] AppID 286160 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:34:45] AppID 286160 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=24037456, appDisableSecondsRemaining=0
+[2018-04-30 00:34:45] AppID 286160 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:34:45] AppID 286160 state changed : Uninstalled,
+[2018-04-30 00:34:45] AppID 286160 finished uninstall (No Error)
+[2018-04-30 00:34:56] Current download rate: 0.000 Mbps
+[2018-04-30 00:35:01] AppID 250320 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=1525073701, appDisableSecondsRemaining=0
+[2018-04-30 00:35:01] AppID 250320 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:35:01] AppID 250320 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=1525073701, appDisableSecondsRemaining=0
+[2018-04-30 00:35:01] AppID 250320 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:35:02] AppID 250320 state changed : Uninstalled,
+[2018-04-30 00:35:02] AppID 250320 finished uninstall (No Error)
+[2018-04-30 00:35:18] AppID 20900 state changed : Fully Installed,App Running,
+[2018-04-30 00:35:25] AppID 20900 state changed : Fully Installed,
+[2018-04-30 00:35:29] AppID 20900 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=4, appDisableSecondsRemaining=0
+[2018-04-30 00:35:29] AppID 20900 state changed : Fully Installed,Update Paused,
+[2018-04-30 00:35:29] AppID 20900 scheduler update : Priority Paused, legacy=no, restore="", timeSinceLastPlayed=4, appDisableSecondsRemaining=0
+[2018-04-30 00:35:29] AppID 20900 state changed : Update Required,Fully Installed,Files Missing,Uninstalling,
+[2018-04-30 00:35:29] AppID 20900 state changed : Uninstalled,
+[2018-04-30 00:35:29] AppID 20900 finished uninstall (No Error)
+[2018-04-30 00:35:33] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-30 00:35:33] HTTP (CS,1902) - valve1902.steampipe.steamcontent.com (153.254.86.144:80 / 153.254.86.144:80, host: valve1902.steamcontent.com): Closing connection
+[2018-04-30 00:35:34] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-04-30 00:35:34] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): Closing connection
+[2018-04-30 00:35:35] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (153.254.86.145:80 / 153.254.86.145:80, host: valve1903.steamcontent.com): Closing connection
+
+
+[2018-05-02 09:30:34] Loaded 74 apps from install folder "/Users/lop/Library/Application Support/Steam/steamapps\appmanifest_*.acf".
+[2018-05-02 09:30:35] Dependency added: parent 220, child 340, depot 221
+[2018-05-02 09:30:35] Dependency added: parent 220, child 340, depot 223
+[2018-05-02 09:30:43] AppID 207140 state changed : Update Required,Fully Installed,
+[2018-05-02 09:30:48] AppID 207140 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11599643, appDisableSecondsRemaining=0
+[2018-05-02 09:30:48] AppID 207140 state changed : Update Required,Fully Installed,Update Queued,
+[2018-05-02 09:30:48] AppID 207140 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-05-02 09:30:48] AppID 207140 update changed : Running,
+[2018-05-02 09:30:48] AppID 207140 update changed : Running,Reconfiguring,
+[2018-05-02 09:30:49] Got 20 download sources via "/serverlist/46/20/" from 180.101.192.198:80
+[2018-05-02 09:30:49] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-05-02 09:30:49] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-05-02 09:30:49] Created download interface of type 'CS' (1) to host valve1903.steampipe.steamcontent.com (valve1903.steamcontent.com)
+[2018-05-02 09:30:49] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): AuthenticateDepotID (207143) - Success!
+[2018-05-02 09:30:54] AppID 431730 state changed : Fully Installed,App Running,
+[2018-05-02 09:30:54] AppID 207140 update canceled : App started (Suspended)
+[2018-05-02 09:30:54] AppID 207140 update changed : Running,Reconfiguring,Stopping,
+[2018-05-02 09:30:54] AppID 207140 update changed : Running,Stopping,
+[2018-05-02 09:30:54] AppID 207140 update changed : None
+[2018-05-02 09:30:54] AppID 207140 state changed : Update Required,Fully Installed,Update Queued, (Suspended)
+[2018-05-02 09:30:54] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (153.254.86.194:80 / 153.254.86.194:80, host: valve1904.steamcontent.com): Closing connection
+[2018-05-02 09:30:54] AppID 207140 state changed : Update Required,Fully Installed,
+[2018-05-02 09:30:54] AppID 207140 scheduler finished : removed from schedule
+[2018-05-02 09:31:49] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): Closing connection
+[2018-05-02 09:31:49] HTTP (CS,1903) - valve1903.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1903.steamcontent.com): Closing connection
+[2018-05-02 11:45:15] AppID 431730 state changed : Fully Installed,
+[2018-05-02 11:45:19] AppID 207140 scheduler update : Priority Last, legacy=no, restore="", timeSinceLastPlayed=11607714, appDisableSecondsRemaining=0
+[2018-05-02 11:45:19] AppID 207140 state changed : Update Required,Fully Installed,Update Queued,
+[2018-05-02 11:45:19] AppID 207140 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2018-05-02 11:45:19] AppID 207140 update changed : Running,
+[2018-05-02 11:45:19] AppID 207140 update changed : Running,Reconfiguring,
+[2018-05-02 11:45:19] AppID 207140 update canceled : Disabled (Suspended)
+[2018-05-02 11:45:19] AppID 207140 update changed : Running,Reconfiguring,Stopping,
+[2018-05-02 11:45:23] Got 20 download sources via "/serverlist/46/20/" from 180.101.192.198:80
+[2018-05-02 11:45:23] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-05-02 11:45:23] Created download interface of type 'CS' (1) to host valve1905.steampipe.steamcontent.com (valve1905.steamcontent.com)
+[2018-05-02 11:45:23] Created download interface of type 'CS' (1) to host valve1904.steampipe.steamcontent.com (valve1904.steamcontent.com)
+[2018-05-02 11:45:23] AppID 207140 update changed : Running,Stopping,
+[2018-05-02 11:45:23] AppID 207140 update changed : None
+[2018-05-02 11:45:23] AppID 207140 state changed : Update Required,Fully Installed,Update Queued, (Suspended)
+[2018-05-02 11:45:23] AppID 207140 scheduler finished : staying in schedule
+[2018-05-02 11:45:25] HTTP (CS,1904) - valve1904.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1904.steamcontent.com): Closing connection
+[2018-05-02 11:45:25] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): Closing connection
+[2018-05-02 11:45:25] HTTP (CS,1905) - valve1905.steampipe.steamcontent.com (0.0.0.0:0 / 0.0.0.0:0, host: valve1905.steamcontent.com): Closing connection

@@ -1,0 +1,37 @@
+[controller]
+DPad=DPad
+Thumbstick=Joystick
+Trigger=Gatillo
+LeftStick=Stick izq.
+RightStick=Stick dch.
+DPadUp=DPad arriba
+DPadDown=DPad abajo
+DPadLeft=DPad izq.
+DPadRight=DPad dch.
+Start=Start
+Back=Atrás
+LeftShoulder=Botón superior izq.
+RightShoulder=Botón superior dch.
+BigButton=Botón central
+RightTrigger=Gatillo dch.
+LeftTrigger=Gatillo izq.
+RightThumbstickUp=Arriba stick dch.
+RightThumbstickDown=Abajo stick dch.
+RightThumbstickRight=Derecha stick dch.
+RightThumbstickLeft=Derecha stick izq.
+LeftThumbstickLeft=Izquierda stick izq.
+LeftThumbstickUp=Arriba stick izq.
+LeftThumbstickDown=Abajo stick dch.
+LeftThumbstickRight=Derecha stick dch.
+
+[keyboard]
+DirectionKeys=Teclas de dirección
+
+[mouse]
+Mouse=Ratón
+MouseButton=Clic del ratón
+LeftMouseButton=Clic izquierdo
+MiddleMouseButton=Clic central
+RightMouseButton=Clic derecho
+MouseButtonX1=Clic X1
+MouseButtonX2=Clic X2

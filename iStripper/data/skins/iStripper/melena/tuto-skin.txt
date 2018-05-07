@@ -1,0 +1,63 @@
+*************************************************
+***                                           *** 
+***   HOW TO MAKE YOUR OWN SKIN ON ISTRIPPER  ***
+***                                           ***
+*************************************************
+
+
+First, you MUST have the Istripper/Basic folder. DO NOT Change that One.
+
+Go to USER/AppData/Local/VGHD/DATA/Skins/iStripper/
+
+The Melena Folder is Ideal to Use to Experiment with. Make a Copy and Rename it.
+
+Make a Copy of It, and Keep it as a backup.
+
+In this example, new folder has been named "Tutorial"
+
+So you have a new folder 
+VGHD/DATA/Skins/iStripper/Tutorial
+Which is a copy of the Melena Folder
+
+There are Only 4 Files in that Folder : 
+
+	1- description.txt
+	2- img_left.jpg
+	3- skinThumbnail.png
+	4- palette.txt
+
+
+1- In description.txt you can setup the maximum length of the left border of the GUI. By default it's 270 pixels.
+
+2- img_left.jpg is the SKIN. It's the big image that you see on the Left side of the GUI.
+
+3- skinThumbnail is the small preview (70 x 128) of your skin visible in iStripper setting.
+
+4- Palette.txt is a simple text file with named variables followed by the RGB hex Color Codes.
+
+Palette.txt allows you to change practically all colors used in GUI. 
+In palette.txt, each line is annotated with the description of the corresponding color in the GUI.
+
+
+
+The Palette.txt file has a color variable in it named dark. This color controls the Color around the Outer Edges of the GUI.
+It is Applied as a gradient, over top of the img_left.jpg
+The Gradient runs from 100% Transparent to 100% Opacity and the size of the gradient is controlled by the size of the img_left.jpg.
+
+Along the top of the GUI, a menu bar of 62 Pixels tall is where the Dark color is most noticable.
+
+The Gradient ALWAYS starts 270 pixels from the left side of the GUI, and runs to the RIGHT edge of the img_left.jpg.
+By changing the width of this image, you can control how much gradient your skin will have in the top menu bar.
+
+Also, the same gradient is applied to the bottom 130 Pixels of the img_left.jpg
+So by Changing the height of this image, you can control where the bottom gradient starts.
+
+Don't change the name of the variables. Only change the color codes.
+Make Sure they are a 6 digit HEX value. and start with a Hash Tag
+#RRGGBB where RR is the Value of RED, GG is the Value of GREEN and BB is the Value o BLUE
+
+More info here: http://www.color-hex.com/ and http://www.w3schools.com/colors/colors_picker.asp
+
+---------------------------
+
+If you need more information please visit our forum thrad about this at https://www.istripper.com/forum#/forum/thread/33488/1 

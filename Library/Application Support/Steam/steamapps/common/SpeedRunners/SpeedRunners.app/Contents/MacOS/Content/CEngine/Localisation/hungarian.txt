@@ -1,0 +1,37 @@
+[controller]
+DPad=Iránygombok
+Thumbstick=Analóg Kar
+Trigger=Ravasz
+LeftStick=Bal Analóg Kar
+RightStick=Jobb Analóg Kar
+DPadUp=Felfele Nyíl
+DPadDown=Lefele Nyíl
+DPadLeft=Balra Nyíl
+DPadRight=Jobbra Nyíl
+Start=Start
+Back=Vissza
+LeftShoulder=Bal Hátsó Gomb
+RightShoulder=Jobb Hátsó Gomb
+BigButton=Nagy Gomb
+RightTrigger=Jobb Ravasz
+LeftTrigger=Bal Ravasz
+RightThumbstickUp=Jobb Analóg Kar Fel
+RightThumbstickDown=Jobb Analóg Kar Le
+RightThumbstickRight=Jobb Analóg Kar Jobbra
+RightThumbstickLeft=Jobb Analóg Kar Balra
+LeftThumbstickLeft=Bal Analóg Kar Balra
+LeftThumbstickUp=Bal Analóg Kar Fel
+LeftThumbstickDown=Bal Analóg Kar Le
+LeftThumbstickRight=Bal Analóg Kar Jobbra
+
+[keyboard]
+DirectionKeys=Iránygombok
+
+[mouse]
+Mouse
+MouseButton=Egér
+LeftMouseButton=Jobb Egérgomb
+MiddleMouseButton=Bal Egérgomb
+RightMouseButton=Középső Egérgomb
+MouseButtonX1=X1 Egérgomb
+MouseButtonX2=X2 Egérgomb

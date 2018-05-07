@@ -1,0 +1,4 @@
+Shape Mode:  Voronoi
+Canvas Size:  48 x 48
+
+A randomly generated, cellular grid that also tiles at the borders.

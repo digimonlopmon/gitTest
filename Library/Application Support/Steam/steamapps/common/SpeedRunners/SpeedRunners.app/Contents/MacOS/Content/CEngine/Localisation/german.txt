@@ -1,0 +1,37 @@
+[controller]
+DPad=Steuerkreuz
+Thumbstick=Stick
+Trigger=Trigger
+LeftStick=Linker Stick
+RightStick=Rechter Stick
+DPadUp=Steuerkreuz Rauf
+DPadDown=Steuerkreuz Runter
+DPadLeft=Steuerkreuz Links
+DPadRight=Steuerkreuz Rechts
+Start=Start
+Back=Zurück
+LeftShoulder=Linke Schultertaste
+RightShoulder=Rechte Schultertaste
+BigButton=Große Taste
+RightTrigger=Rechter Trigger
+LeftTrigger=Linker Trigger
+RightThumbstickUp=Rechter Stick Rauf
+RightThumbstickDown=Rechter Stick Runter
+RightThumbstickRight=Rechter Stuck Right
+RightThumbstickLeft=Rechter Stick Links
+LeftThumbstickLeft=Linker Stick links
+LeftThumbstickUp=Linker Stick Rauf
+LeftThumbstickDown=Linker Stick Runter
+LeftThumbstickRight=Linker Stick Rechts
+
+[keyboard]
+DirectionKeys=Richtungstasten
+
+[mouse]
+Mouse=Maus
+MouseButton=Maustaste
+LeftMouseButton=Linke Maustaste
+MiddleMouseButton=Mittlere Maustaste
+RightMouseButton=Rechte Maustaste
+MouseButtonX1=Maustaste X1
+MouseButtonX2=Maustaste X2

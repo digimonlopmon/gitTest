@@ -1,0 +1,2 @@
+Intel(R) HD Graphics 3000, 8086, 0116, 20140320
+Intel(R) HD Graphics 4000, 8086, 0162, 20140521

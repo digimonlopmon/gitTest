@@ -1,0 +1,3 @@
+[00:02:21]: [Join Announcement] shadow
+[00:05:06]: [Death Announcement] shadow was killed by Tentacle. She became a spooky ghost!
+[00:05:23]: [Leave Announcement] shadow

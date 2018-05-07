@@ -1,0 +1,36 @@
+Base = #f8f8f8 ; Background for all windows. Should be the same as Window.
+AlternateBase = #e8e8e8 ; Alternate background.
+Text = #656565 ; Foreground for all windows. Should be the same as WindowText.
+
+Window = #f8f8f8 ; Should be the same as Base.
+WindowText = #656565 ; Should be the same as Text.
+
+Button = #f37e15 ; Background of regular buttons.
+ButtonText = #ffffff ; Foreground of regular buttons.
+
+Shadow = #000000 ; Shadows under windows.
+Dark = #373737 ; Background of title bar in windows.
+
+Mid = #a8a8a8 ; These 3 colors can be used for gradients, separators... Should be from darkest to lightest.
+Midlight = #b6b6b6
+Light = #d9d9d9
+
+Highlight = #f37e15 ; This color is used when mouse is over a window.
+HighlightedText = #ffffff ; Reserved for future use.
+
+Link = #0000ff ; Reserved for future use.
+LinkVisited = #ff00ff ; Reserved for future use.
+
+ToolTipBase = #ffffff ; Tooltips.
+ToolTipText = #000000
+
+NowPlaying = #269d61 ; Special colors for card's states.
+Preview = #625d59
+FullShow = #000000
+New = #ff4e00
+NewRelease = #ff4e00
+Update = #ff4e00
+Deleted = #373737
+Aborted = #e72e4a
+StickerText = #ffffff
+BrightText= #f37e15
